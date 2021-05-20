@@ -22,6 +22,7 @@ Within each of these files, there's a heirachical tree of keys, with any "String
  - Fork the repository
  - Duplicate an existing folder, `en-GB` would be the best suggestion
  - Name your new language folder the two letter country language code from ISO-3166-2 
+ - Edit the simple metadata in your language's specific index.js file.
  - Translate
  - ???
  - Profit
