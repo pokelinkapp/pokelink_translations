@@ -21,7 +21,7 @@ export default {
     },
     'RevealEggs': {
       'Title': 'Reveal Eggs',
-      'Description': 'Should an eggs contents be revealed in the party screen'
+      'Description': 'Should an egg\'s contents be revealed in the party screen'
     },
     'SendToTray': {
       'Title': 'Send to system tray instead of closing the app',

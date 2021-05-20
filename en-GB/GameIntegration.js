@@ -12,7 +12,7 @@ export default {
       [features.AUTO_PARTY_TRACKING_FIELD_ABILITY]: 'Automatic party tracking - Pokémon ability',
       [features.AUTO_PARTY_TRACKING_FIELD_NATURE]: 'Automatic party tracking - Pokémon nature',
       [features.AUTO_PARTY_TRACKING_FIELD_HIDDEN_POWER]: 'Automatic party tracking - Pokémon hidden power',
-      [features.AUTO_PARTY_TRACKING_FIELD_POKERUS]: 'Automatic party tracking - If a Poémon has Pokérus - the Pokémon virus',
+      [features.AUTO_PARTY_TRACKING_FIELD_POKERUS]: 'Automatic party tracking - If a Pokémon has Pokérus - the Pokémon virus',
       [features.AUTO_PARTY_TRACKING_FIELD_NICKNAME_SPECIAL_CHARS]: 'Automatic party tracking - Non-standard (non-alphanumeric) characters in a Pokémon nickname',
       [features.AUTO_PARTY_TRACKING_FIELD_MET_AS_EGG]: 'Automatic party tracking - Detecting what location a Pokémon was met, when hatched from an egg',
       [features.AUTO_PARTY_TRACKING_FIELD_POKEBALL]: 'Automatic party tracking - The Pokéball used to catch a Pokémon',
