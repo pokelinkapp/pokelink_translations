@@ -6,7 +6,7 @@ import {messages} from './langs'
 Vue.use(VueI18n)
 
 const i18nInstance = new VueI18n({
-  locale: Store.getters.activeLocale,
+  locale: Store.getetrs.activeLocale,
   fallbackLocale: 'en-GB', // set locale
   messages // set locale messages
 })

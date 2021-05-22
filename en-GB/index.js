@@ -8,7 +8,7 @@ files.keys().forEach(key => {
 
 export default {
   label: 'English (UK)',
-  code: 'en',
+  code: 'en-GB',
   flag: 'GB',
   translations: {
     ...modules
