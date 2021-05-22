@@ -1,7 +1,7 @@
 export default {
   'step': 'Step {step}',
   'Steps': {
-    'SessionName': 'Session Name',
+    'SessionName': 'Session-Name',
     'GameSelection': 'Spielauswahl',
     'SetupEmulator': 'Emulator Konfiguration',
     'ConnectionDetails': 'Verbindungsdetails'
@@ -30,7 +30,7 @@ export default {
     }
   },
   'SessionDetails': {
-    'SessionName': 'Session Name',
+    'SessionName': 'Session-Name',
     'Save': 'Die Konfiguration der Session fortsetzen',
     'Validation': {
       'SessionNameAndGameOptions': 'Du musst einen Session-Namen eingeben um fortzufahren'
