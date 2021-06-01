@@ -21,7 +21,8 @@ export default {
       'Location Met': 'Location Met',
       'EVs': 'EVs',
       'IVs': 'IVs',
-      'DVs': 'DVs'
+      'DVs': 'DVs',
+      'Calculated Stats': 'Calculated Stats'
     }
   }
 }
