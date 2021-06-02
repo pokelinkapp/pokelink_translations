@@ -14,7 +14,7 @@ export default {
     },
     'RouteTracking': {
       'Title': 'Route Tracker',
-      'SupportInfo': 'Routes now track automatically in Gens 1,3,4,5,6 &amp; 7 and also on manual sessions using the "Location Met" field.',
+      'SupportInfo': 'Routes now track automatically in Gens 3,4,5,6 &amp; 7 and also on manual sessions using the "Location Met" field.',
       'OnlyPokemonInYourPartyAreTracked': 'Note: The pokemon must be in your party for it to automatically register.',
       'YouCanManuallyTrackThemToo': 'You can also manually track the routes by clicking a button below the route name.',
       'States': {
