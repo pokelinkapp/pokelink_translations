@@ -8,7 +8,7 @@ export default {
     'Web': 'Web Sources',
     'Nuzlocke': 'Nuzlocke Tools',
     'Settings': 'Einstellungen',
-    'About': 'About'
+    'About': 'Über'
   },
   'Notification': {
     'Actions': {
