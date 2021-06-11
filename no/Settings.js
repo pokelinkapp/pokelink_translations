@@ -3,6 +3,8 @@ export default {
     'Session': 'Spill Instillinger',
     'System': 'System Instillinger',
     'Window': 'Vindu Instillinger',
+    'ViewLogs': 'View Logs',
+    'Connections': 'Connections',
     'Accessibility': 'Tilgjengelighets Instillinger',
     'GameAndEmulator': 'Spill og Emulator Instillinger'
   },
@@ -42,6 +44,50 @@ export default {
     'EnableDarkMode': {
       'Title': 'Aktiver Mørk Modus',
       'Description': 'Tilfredsstill øynene med et mørkere fargevalg'
+    },
+    'TwitchBot': {
+      'Title': 'Twitch Bot'
+    },
+    'TwitchBotLogin': {
+      'Title': 'Twitch Bot Login',
+      'Description': 'Connect your Twitch account to enable Twitch-integrated features'
+    },
+    'TwitchBotStatus': {
+      'Title': 'Twitch Bot Status',
+      'Description': 'Stop & Start the bot'
+    },
+    'TwitchBotCommands': {
+      'Title': 'Customise the Bot Command names',
+      'Description': 'Change the commands that the this Twitch Bot will respond to'
+    }
+  },
+  'Actions': {
+    'Connections': {
+      'TwitchAccount': {
+        'Login': 'Login With your twitch account',
+        'Logout': 'Disconnect your twitch account',
+        'LoggedInAs': 'Logged in as {twitchName}'
+      },
+      'TwitchBotStatus': {
+        'Start': 'Start Bot',
+        'Stop': 'Stop Bot'
+      }
+    }
+  },
+  'Connections': {
+    'TwitchBot': {
+      'Commands': {
+        'listCommands': 'The command used to list available commands',
+        'team': 'The command that will list your team',
+        'stats': 'The command that will show the stats of a specific pokemon in your party',
+        'evs': 'The command that will show the evs of a specific pokemon in your party',
+        'ivs': 'The command that will show the ivs of a specific pokemon in your party',
+        'ability': 'The command that will show the ability of a specific pokemon in your party',
+        'nature': 'The command that will show the nature of a specific pokemon in your party',
+        'faster': 'The command that will show which pokemon is faster between your pokemon and a specified Pokemon species',
+        'moves': 'The command that will show the current moves of a specific pokemon in your party',
+        'deaths': 'The command that will show the deaths that pokelink has tracked for this session'
+      }
     }
   }
 }
