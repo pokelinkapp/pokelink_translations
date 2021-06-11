@@ -1,31 +1,31 @@
 export default {
   'Sections': {
     'DeathTracking': {
-      'Title': 'Death Tracker',
-      'DeathExplanation': 'If a Pokémon is revived and hits 0 HP again, it will be tracked as 2 deaths. Clicking the cross will "forget" the death forever.',
-      'NoResults': 'No deaths match your search criteria',
-      'NoDeaths': 'You\'ve not had any deaths in this session',
-      'TimeOfDeath': 'Time of death'
+      'Title': 'Tode Tracker',
+      'DeathExplanation': 'Falls ein Pokémon wiederbelebt wird und erneute auf 0 KP fällt, wird dies als zwei Tode getrackt. Durch das Anklicken des Kreuzes, wird der Tod für immer "vergessen".',
+      'NoResults': 'Es konnten keine Tode bezüglich deiner Suchkriterien gefunden werden',
+      'NoDeaths': 'Du hattest bisher noch keine Tode in dieser Session',
+      'TimeOfDeath': 'Zeit des Todes'
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',
-      'ContentTitle': 'Export your team to showdown',
-      'ProcessDescription': 'This can be used to import your team into showdown and even various online damage calculators.'
+      'ContentTitle': 'Exportiere dein Team nach Showdown',
+      'ProcessDescription': 'Diese Funktion kann genutzt werden, um dein Team in Showdown oder andere Online Schadensrechner zu importieren.'
     },
     'RouteTracking': {
-      'Title': 'Route Tracker',
-      'SupportInfo': 'Routes now track automatically in Gens 3,4,5,6 &amp; 7 and also on manual sessions using the "Location Met" field.',
-      'OnlyPokemonInYourPartyAreTracked': 'Note: The pokemon must be in your party for it to automatically register.',
-      'YouCanManuallyTrackThemToo': 'You can also manually track the routes by clicking a button below the route name.',
+      'Title': 'Routen Tracker',
+      'SupportInfo': 'Routen werden nun automatisch in den Generationen 3,4,5,6 & 7 und ebenfalls in manuellen Sessions durch Nutzen des "Getroffen" Feldes.',
+      'OnlyPokemonInYourPartyAreTracked': 'Achtung: Die Pokémon müssen sich in deinem Team befinden, um automatisch registriert zu werden.',
+      'YouCanManuallyTrackThemToo': 'Du kannst die Route auch manuell tracken, indem du einen Button unter dem Routennamen anklickst.',
       'States': {
-        'Caught': 'Caught',
-        'Gifted': 'Gifted',
-        'Traded': 'Traded',
-        'Escaped': 'Escaped',
-        'Killed': 'Killed'
+        'Caught': 'Gefangen',
+        'Gifted': 'Geschenkt',
+        'Traded': 'Getauscht',
+        'Escaped': 'Geflohen',
+        'Killed': 'Getötet'
       },
-      'SearchForARoute': 'Search for a route',
-      'ResetAllRoutes': 'Reset status of all routes'
+      'SearchForARoute': 'Surche nach einer Route',
+      'ResetAllRoutes': 'Den Status für alle Routen zurücksetzen'
     }
   }
 }
