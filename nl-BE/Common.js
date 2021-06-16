@@ -9,5 +9,10 @@ export default {
     'Nuzlocke': 'Nuzlocke gereedschap',
     'Settings': 'Instelling',
     'About': 'Over'
+  },
+  'Notification': {
+    'Actions': {
+      'Close': 'Sluiten'
+    }
   }
 }

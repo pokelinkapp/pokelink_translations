@@ -21,7 +21,7 @@ export default {
       [features.AUTO_PARTY_TRACKING_FIELD_IVS]: 'Automatic party tracking - Pokémon Individual Values',
       [features.AUTO_PARTY_TRACKING_FIELD_EGG_CYCLES]: 'Automatic party tracking - Pokémon remaining egg cycles',
       [features.AUTO_PARTY_ROUTE_TRACKING]: 'Automatic party tracking - Automatic Route tracking for Pokémon in the party',
-      [features.AUTO_BOX_ROUTE_TRACKING]: 'Automatic party tracking - Pokémon ',
+      [features.AUTO_BOX_ROUTE_TRACKING]: 'Automatic Route tracking - Pokemon sent directly to your box will have their routes tracked',
       [features.AUTO_PARTY_IN_BATTLE_UPDATES]: 'Automatic updates during battle',
       [features.AUTO_BATTLE_TRACKING_FIELD_ACTIVE_IN_BATTLE]: 'Automatic updates during battle - Detecting what pokémon is currently in battle',
       [features.AUTO_BATTLE_TRACKING_FIELD_STATUS_EFFECT]: 'Automatic updates during battle - Pokémon status effect',

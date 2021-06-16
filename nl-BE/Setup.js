@@ -1,7 +1,7 @@
 export default {
   'step': 'Stap {stap}',
   'Steps': {
-    'SessionName': 'Sessie Naam',
+    'SessionName': 'Sessienaam',
     'GameSelection': 'Spel selectie',
     'SetupEmulator': 'Emulator instellen',
     'ConnectionDetails': 'Verbindingsdetails'
@@ -30,7 +30,7 @@ export default {
     }
   },
   'SessionDetails': {
-    'SessionName': 'Sessie naam',
+    'SessionName': 'Sessienaam',
     'Save': 'Doorgaan met het instellen van de sessie',
     'Validation': {
       'SessionNameAndGameOptions': 'U moet een sessienaam ingeven voordat u kan doorgaan'
@@ -41,11 +41,11 @@ export default {
     'DetectionTypes': {
       'automatic': {
         'description': 'Als het spel ondersteund wordt, gaat Pokélink de informatie live van uw emulator lezen',
-        'title': 'Automatische Teammanagement'
+        'title': 'Automatisch teammanagement'
       },
       'manual': {
         'description': 'U kunt manueel uw team aanpassen door het gebruik van een simpele interface in de app',
-        'title': 'Manuele Teammanagement'
+        'title': 'Manueel teammanagement'
       }
     }
   },

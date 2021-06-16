@@ -1,14 +1,14 @@
 export default {
   'Navigation': {
     'Sessions': 'Sessions',
-    'Server': 'Server Settings',
-    'Players': 'Players + Party\'s',
-    'Badges': 'Badges',
+    'Server': 'Server Einstellungen',
+    'Players': 'Spieler + Team',
+    'Badges': 'Orden',
     'Pokédex': 'Pokédex',
     'Web': 'Web Sources',
     'Nuzlocke': 'Nuzlocke Tools',
-    'Settings': 'Settings',
-    'About': 'About'
+    'Settings': 'Einstellungen',
+    'About': 'Über'
   },
   'Notification': {
     'Actions': {

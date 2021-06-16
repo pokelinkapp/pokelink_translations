@@ -9,5 +9,10 @@ export default {
     'Nuzlocke': 'Nuzlocke Tools',
     'Settings': 'Settings',
     'About': 'About'
+  },
+  'Notification': {
+    'Actions': {
+      'Close': 'Close'
+    }
   }
 }

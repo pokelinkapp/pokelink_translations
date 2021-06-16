@@ -1,5 +1,5 @@
 export default {
   badgesTitle: 'Badges',
-  badgesAreNotAutomaticInfo: 'Badges worden niet automatisch getraceert en zelfs als u er een klikt, om het in de webbron te \'activeren\', zijn er geen badges beschikbaar voor dit spel.',
+  badgesAreNotAutomaticInfo: 'Badges worden niet automatisch getraceert alhoewel, erop klikken, het \'activeerd\' in de webbron',
   noBadgesAvilable: 'Er zijn geen badges beschikbaar voor dit spel.'
 }

@@ -1,49 +1,49 @@
 export default {
   'Titles': {
-    'Session': 'Session Settings',
-    'System': 'System Settings',
-    'Window': 'Window Settings',
+    'Session': 'Session-Einstellungen',
+    'System': 'System-Einstellungen',
+    'Window': 'Fenstereinstellungen',
+    'Accessibility': 'Einstellungen zur Barrierefreiheit',
+    'GameAndEmulator': 'Spiel- & Emulator-Einstellungen',
     'ViewLogs': 'View Logs',
-    'Connections': 'Connections',
-    'Accessibility': 'Accessibility Settings',
-    'GameAndEmulator': 'Game & Emulator Settings'
+    'Connections': 'Connections'
   },
   'Fields': {
     'SessionName': {
-      'Title': 'Session Name',
-      'Description': 'Change the name of this session'
+      'Title': 'Session-Name',
+      'Description': 'Bearbeite den Namen dieser Session'
     },
     'EmulatorLocation': {
-      'Title': 'Emulator Location',
-      'Description': 'Change the path of your emulator'
+      'Title': 'Ort des Emulators',
+      'Description': 'Passe den Dateipfad deines Emulators an'
     },
     'RomLocation': {
-      'Title': 'Rom Location',
-      'Description': 'Change the path of this file'
+      'Title': 'Ort der Rom',
+      'Description': 'Passe den Dateipfad deiner Rom an'
     },
     'RevealEggs': {
-      'Title': 'Reveal Eggs',
-      'Description': 'Should an eggs contents be revealed in the party screen'
+      'Title': 'Eier enthüllen',
+      'Description': 'Ob der Inhalt eines Eis im Teambildschirm angezeigt werden soll'
     },
     'SendToTray': {
-      'Title': 'Send to system tray instead of closing the app',
-      'Description': 'Instead of closing the app when the X button is clicked, send it to the system tray'
+      'Title': 'Minimieren anstatt zu schließen',
+      'Description': 'Anstatt das Programm zu schließen, wenn das X angeklickt wird, wird es minimiert'
     },
     'AllowErrorReporting': {
-      'Title': 'Allow Pokélink to automatically submit error reports',
-      'Description': 'Turning this off stops the app sending anonymous data when bugs happen in the app'
+      'Title': 'Pokélink erlauben automatisch Fehlermeldungen zu senden',
+      'Description': 'Das Deaktivieren dieser Option verhindert es, dass die Apps anonymisierte Daten an die Entwickler schickt, wenn Bugs auftreten'
     },
     'AutomaticallyBootEmulator': {
-      'Title': 'Automatically launch emulator when resuming a session',
-      'Description': 'Disable this if you\'d rather launch the emulator yourself'
+      'Title': 'Automatisch den Emulator starten, wenn eine Session wieder aufgenommen wird',
+      'Description': 'Deaktiviere diese Option, falls du den Emulator lieber selber starten willst'
     },
     'EnableDyslexiaFont': {
-      'Title': 'Enable Dyslexia Font',
-      'Description': 'Enable font (on the app only) that improves readability for people with dyslexia'
+      'Title': 'Schriftart für Legastheniker aktivieren',
+      'Description': 'Schriftart aktivieren (nur in der App), die Legasthenikern das Lesen erleichtert'
     },
     'EnableDarkMode': {
-      'Title': 'Enable Dark Mode',
-      'Description': 'Please the eyes with a darker color scheme'
+      'Title': 'Aktivierung dunkler Modus',
+      'Description': 'Tu deinen Augen einen Gefallen mit dem Aktivieren des dunklen Themes'
     },
     'TwitchBot': {
       'Title': 'Twitch Bot'
