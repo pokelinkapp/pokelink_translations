@@ -1,28 +1,28 @@
 export default {
   'Slot': {
-    'Edit': 'Edit This Slot',
-    'isEmpty': 'Empty Slot',
-    'ViewInPokedex': 'View in Pokédex'
+    'Edit': 'Diesen Slot bearbeiten',
+    'isEmpty': 'Leerer Slot',
+    'ViewInPokedex': 'Im Pokédex anzeigen'
   },
   'Pokemon': {
     'Attribute': {
       'Sprite': 'Sprite',
-      'HP Bar': 'HP Bar',
-      'Experience Bar': 'Experience Bar',
+      'HP Bar': 'KP-Leiste',
+      'Experience Bar': 'Erfahrungsleiste',
       'Form': 'Form',
-      'Held Item': 'Held Item',
+      'Held Item': 'Trägt Item',
       'Level': 'Level',
-      'Gender': 'Gender',
-      'Ability': 'Ability',
-      'Nature': 'Nature',
-      'Hidden Power': 'Hidden Power',
-      'Friendship': 'Friendship',
-      'Pokerus': 'Pokerus',
-      'Location Met': 'Location Met',
+      'Gender': 'Geschlecht',
+      'Ability': 'Fähigkeit',
+      'Nature': 'Wesen',
+      'Hidden Power': 'Kraftreserve',
+      'Friendship': 'Freundschaft',
+      'Pokerus': 'Pokérus',
+      'Location Met': 'Getroffen',
       'EVs': 'EVs',
       'IVs': 'IVs',
       'DVs': 'DVs',
-      'Calculated Stats': 'Calculated Stats'
+      'Calculated Stats': 'Errechnete Werte'
     }
   }
 }

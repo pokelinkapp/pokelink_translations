@@ -12,7 +12,7 @@ export default {
   },
   'Notification': {
     'Actions': {
-      'Close': 'Close'
+      'Close': 'Schließen'
     }
   }
 }
