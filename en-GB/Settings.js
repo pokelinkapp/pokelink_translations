@@ -23,7 +23,7 @@ export default {
     },
     'RevealEggs': {
       'Title': 'Reveal Eggs',
-      'Description': 'Should an eggs contents be revealed in the party screen'
+      'Description': 'Should an egg\'s contents be revealed in the party screen'
     },
     'SendToTray': {
       'Title': 'Send to system tray instead of closing the app',
@@ -58,14 +58,14 @@ export default {
     },
     'TwitchBotCommands': {
       'Title': 'Customise the Bot Command names',
-      'Description': 'Change the commands that the this Twitch Bot will respond to'
+      'Description': 'Change the commands that the Twitch Bot will respond to'
     }
   },
   'Actions': {
     'Connections': {
       'TwitchAccount': {
-        'Login': 'Login With your twitch account',
-        'Logout': 'Disconnect your twitch account',
+        'Login': 'Login with your Twitch account',
+        'Logout': 'Disconnect your Twitch account',
         'LoggedInAs': 'Logged in as {twitchName}'
       },
       'TwitchBotStatus': {
@@ -79,14 +79,14 @@ export default {
       'Commands': {
         'listCommands': 'The command used to list available commands',
         'team': 'The command that will list your team',
-        'stats': 'The command that will show the stats of a specific pokemon in your party',
-        'evs': 'The command that will show the evs of a specific pokemon in your party',
-        'ivs': 'The command that will show the ivs of a specific pokemon in your party',
-        'ability': 'The command that will show the ability of a specific pokemon in your party',
-        'nature': 'The command that will show the nature of a specific pokemon in your party',
-        'faster': 'The command that will show which pokemon is faster between your pokemon and a specified Pokemon species',
-        'moves': 'The command that will show the current moves of a specific pokemon in your party',
-        'deaths': 'The command that will show the deaths that pokelink has tracked for this session'
+        'stats': 'The command that will show the stats of a specific Pokémon in your party',
+        'evs': 'The command that will show the evs of a specific Pokémon in your party',
+        'ivs': 'The command that will show the ivs of a specific Pokémon in your party',
+        'ability': 'The command that will show the ability of a specific Pokémon in your party',
+        'nature': 'The command that will show the nature of a specific Pokémon in your party',
+        'faster': 'The command that will show which Pokémon is faster between your Pokémon and a specified Pokémon species',
+        'moves': 'The command that will show the current moves of a specific Pokémon in your party',
+        'deaths': 'The command that will show the deaths that Pokélink has tracked for this session'
       }
     }
   }
