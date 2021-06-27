@@ -79,7 +79,7 @@ export default {
         'title': 'Host a server'
       },
       'client': {
-        'description': 'Somebody else has configured thier network, and I will connect to their Pokélink app.',
+        'description': 'Somebody else has configured their network, and I will connect to their Pokélink app.',
         'title': 'Connect to another person'
       }
     }
