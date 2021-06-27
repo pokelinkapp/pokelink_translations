@@ -1,28 +1,28 @@
 export default {
   'Slot': {
-    'Edit': 'Edit This Slot',
-    'isEmpty': 'Empty Slot',
-    'ViewInPokedex': 'View in Pokédex'
+    'Edit': 'Endre dette feltet',
+    'isEmpty': 'Tøm feltet',
+    'ViewInPokedex': 'Åpne i Pokédex'
   },
   'Pokemon': {
     'Attribute': {
       'Sprite': 'Sprite',
-      'HP Bar': 'HP Bar',
-      'Experience Bar': 'Experience Bar',
-      'Form': 'Form',
-      'Held Item': 'Held Item',
+      'HP Bar': 'HP Linje',
+      'Experience Bar': 'Experience Linje',
+      'Form': 'Versjon',
+      'Held Item': 'Holder',
       'Level': 'Level',
-      'Gender': 'Gender',
+      'Gender': 'Kjønn',
       'Ability': 'Ability',
-      'Nature': 'Nature',
+      'Nature': 'Personlighet',
       'Hidden Power': 'Hidden Power',
-      'Friendship': 'Friendship',
+      'Friendship': 'Vennskap',
       'Pokerus': 'Pokerus',
-      'Location Met': 'Location Met',
+      'Location Met': 'Møtt her',
       'EVs': 'EVs',
       'IVs': 'IVs',
       'DVs': 'DVs',
-      'Calculated Stats': 'Calculated Stats'
+      'Calculated Stats': 'Kalkulerte Stats'
     }
   }
 }
