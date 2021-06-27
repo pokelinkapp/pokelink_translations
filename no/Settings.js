@@ -46,47 +46,47 @@ export default {
       'Description': 'Tilfredsstill øynene med et mørkere fargevalg'
     },
     'TwitchBot': {
-      'Title': 'Twitch Bot'
+      'Title': 'Twitch Bott'
     },
     'TwitchBotLogin': {
-      'Title': 'Twitch Bot Login',
-      'Description': 'Connect your Twitch account to enable Twitch-integrated features'
+      'Title': 'Logg Inn Twitch Bott',
+      'Description': 'Koble til din Twitch bruker for å aktivere Twitch-integrerte funksjoner'
     },
     'TwitchBotStatus': {
-      'Title': 'Twitch Bot Status',
-      'Description': 'Stop & Start the bot'
+      'Title': 'Twitch Bott Status',
+      'Description': 'Stopp & Start Botten'
     },
     'TwitchBotCommands': {
-      'Title': 'Customise the Bot Command names',
-      'Description': 'Change the commands that the this Twitch Bot will respond to'
+      'Title': 'Tilpass Bott Kommando Navn',
+      'Description': 'Endre kommandoer som denne Twitch Botten vil respondere til'
     }
   },
   'Actions': {
     'Connections': {
       'TwitchAccount': {
-        'Login': 'Login With your twitch account',
-        'Logout': 'Disconnect your twitch account',
-        'LoggedInAs': 'Logged in as {twitchName}'
+        'Login': 'Logg inn med din twitch bruker',
+        'Logout': 'Koble av din Twitch bruker',
+        'LoggedInAs': 'Logget inn som {twitchName}'
       },
       'TwitchBotStatus': {
-        'Start': 'Start Bot',
-        'Stop': 'Stop Bot'
+        'Start': 'Start Bott',
+        'Stop': 'Stopp Bott'
       }
     }
   },
   'Connections': {
     'TwitchBot': {
       'Commands': {
-        'listCommands': 'The command used to list available commands',
-        'team': 'The command that will list your team',
-        'stats': 'The command that will show the stats of a specific pokemon in your party',
-        'evs': 'The command that will show the evs of a specific pokemon in your party',
-        'ivs': 'The command that will show the ivs of a specific pokemon in your party',
-        'ability': 'The command that will show the ability of a specific pokemon in your party',
-        'nature': 'The command that will show the nature of a specific pokemon in your party',
-        'faster': 'The command that will show which pokemon is faster between your pokemon and a specified Pokemon species',
-        'moves': 'The command that will show the current moves of a specific pokemon in your party',
-        'deaths': 'The command that will show the deaths that pokelink has tracked for this session'
+        'listCommands': 'Denne kommandoen viser en liste over alle tilgjengelige kommandoer',
+        'team': 'Denne kommandoen viser en liste over laget ditt',
+        'stats': 'Denne kommandoen viser en liste over hvilke stats en spesifikk Pokémon på laget ditt har (mellom 1-6)',
+        'evs': 'Denne kommandoen viser en liste over EV stats en spesifikk Pokémon på laget ditt har (mellom 1-6)',
+        'ivs': 'Denne kommandoen viser en liste over IV stats på en spesifikk Pokémon på laget ditt (mellom 1-6)',
+        'ability': 'Denne kommandoen viser hvilken Egenskap en spesifikk Pokémon på laget ditt (mellom 1-6)',
+        'nature': 'Denne kommandoen viser Personligheten til en spesifikk Pokémon på laget ditt (mellom 1-6)',
+        'faster': 'Denne kommandoen viser hvilken Pokémon som er raskere mellom din og en annen spesifisert Pokémon',
+        'moves': 'Denne kommandoen viser en liste over Angrep en spesifikk Pokémon på laget ditt har (mellom 1-6)',
+        'deaths': 'Denne kommandoen viser en liste over alle døde Pokémon some PokéLink har oversikt over i dette spillet'
       }
     }
   }
