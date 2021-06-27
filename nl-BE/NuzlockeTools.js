@@ -6,7 +6,7 @@ export default {
       'NoResults': 'Geen doden voldoen aan de zoekopties',
       'NoDeaths': 'U heeft geen doden gehad tijdens deze sessie',
       'TimeOfDeath': 'Overlijdingstijd',
-      'ResetAllDeaths': 'Reset all deaths'
+      'ResetAllDeaths': ' Reset alle doden'
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',
