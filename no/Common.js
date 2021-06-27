@@ -1,18 +1,18 @@
 export default {
   'Navigation': {
-    'Sessions': 'Sessions',
-    'Server': 'Server Settings',
-    'Players': 'Players + Party\'s',
-    'Badges': 'Badges',
+    'Sessions': 'Spill',
+    'Server': 'Server Instillinger',
+    'Players': 'Spillere + Lag',
+    'Badges': 'Knappenåler',
     'Pokédex': 'Pokédex',
     'Web': 'Web Sources',
-    'Nuzlocke': 'Nuzlocke Tools',
-    'Settings': 'Settings',
-    'About': 'About'
+    'Nuzlocke': 'Nuzlocke Verktøy',
+    'Settings': 'Instillinger',
+    'About': 'Om oss'
   },
   'Notification': {
     'Actions': {
-      'Close': 'Close'
+      'Close': 'Lukk'
     }
   }
 }
