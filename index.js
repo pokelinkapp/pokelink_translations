@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueI18n from 'vue-i18n'
-import Store from '../renderer/store'
+import Store from '@/store'
 import {messages} from './langs'
 
 Vue.use(VueI18n)

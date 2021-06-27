@@ -5,7 +5,8 @@ export default {
       'DeathExplanation': 'Als een pokémon opnieuw tot leven is geroepen en weer 0HP haalt, gaat het als 2 verschillende doden geteld worden. Op het kruisje klikken gaat de dode voor altijd "vergeten".',
       'NoResults': 'Geen doden voldoen aan de zoekopties',
       'NoDeaths': 'U heeft geen doden gehad tijdens deze sessie',
-      'TimeOfDeath': 'Overlijdingstijd'
+      'TimeOfDeath': 'Overlijdingstijd',
+      'ResetAllDeaths': 'Reset all deaths'
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',

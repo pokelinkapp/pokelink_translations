@@ -5,7 +5,8 @@ export default {
       'DeathExplanation': 'Falls ein Pokémon wiederbelebt wird und erneute auf 0 KP fällt, wird dies als zwei Tode getrackt. Durch das Anklicken des Kreuzes, wird der Tod für immer "vergessen".',
       'NoResults': 'Es konnten keine Tode bezüglich deiner Suchkriterien gefunden werden',
       'NoDeaths': 'Du hattest bisher noch keine Tode in dieser Session',
-      'TimeOfDeath': 'Zeit des Todes'
+      'TimeOfDeath': 'Zeit des Todes',
+      'ResetAllDeaths': 'Reset all deaths'
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',

@@ -5,7 +5,8 @@ export default {
       'DeathExplanation': 'Si un Pokémon est réanimé et atteint à nouveau 0 HP, il sera compté comme 2 morts. Cliquer sur la croix « oubliera » la mort pour toujours.',
       'NoResults': 'Aucun morts ne correspond à vos critères de recherche',
       'NoDeaths': 'Vous n\'avez eu aucun morts dans cette session',
-      'TimeOfDeath': 'Moment du décès'
+      'TimeOfDeath': 'Moment du décès',
+      'ResetAllDeaths': 'Reset all deaths'
     },
     'ShowdownExport': {
       'Title': 'Exportation de Showdown',
