@@ -3,8 +3,8 @@ export default {
     'Session': 'Spill Instillinger',
     'System': 'System Instillinger',
     'Window': 'Vindu Instillinger',
-    'ViewLogs': 'View Logs',
-    'Connections': 'Connections',
+    'ViewLogs': 'Se Loggen',
+    'Connections': 'Tilkoblinger',
     'Accessibility': 'Tilgjengelighets Instillinger',
     'GameAndEmulator': 'Spill og Emulator Instillinger'
   },
@@ -19,7 +19,7 @@ export default {
     },
     'RomLocation': {
       'Title': 'ROM Lokasjon',
-      'Description': 'Endre ruten til denne filen'
+      'Description': 'Endre ruten til spill filen'
     },
     'RevealEggs': {
       'Title': 'Avslør Egg',
@@ -27,7 +27,7 @@ export default {
     },
     'SendToTray': {
       'Title': 'Send til oppgavelinje istedenfor å lukke appen',
-      'Description': 'Istedenfor å lukke appen når du trykker på X, send vinduet til Oppgavelinjen'
+      'Description': 'Istedenfor å lukke appen når du trykker på X så sendes vinduet til Oppgavelinjen'
     },
     'AllowErrorReporting': {
       'Title': 'Tillat Pokélink å automatisk sende feilmeldinger',
