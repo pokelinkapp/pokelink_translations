@@ -2,11 +2,11 @@ export default {
   'Sections': {
     'DeathTracking': {
       'Title': 'Tode Tracker',
-      'DeathExplanation': 'Falls ein Pokémon wiederbelebt wird und erneute auf 0 KP fällt, wird dies als zwei Tode getrackt. Durch das Anklicken des Kreuzes, wird der Tod für immer "vergessen".',
+      'DeathExplanation': 'Falls ein Pokémon wiederbelebt wird und erneut auf 0 KP fällt, wird dies als zwei Tode getrackt. Durch das Anklicken des Kreuzes, wird der Tod für immer "vergessen".',
       'NoResults': 'Es konnten keine Tode bezüglich deiner Suchkriterien gefunden werden',
       'NoDeaths': 'Du hattest bisher noch keine Tode in dieser Session',
       'TimeOfDeath': 'Zeit des Todes',
-      'ResetAllDeaths': 'Reset all deaths'
+      'ResetAllDeaths': 'Zurücksetzen aller Tode'
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',
@@ -25,7 +25,7 @@ export default {
         'Escaped': 'Geflohen',
         'Killed': 'Getötet'
       },
-      'SearchForARoute': 'Surche nach einer Route',
+      'SearchForARoute': 'Suche nach einer Route',
       'ResetAllRoutes': 'Den Status für alle Routen zurücksetzen'
     }
   }
