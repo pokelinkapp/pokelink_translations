@@ -77,16 +77,16 @@ export default {
   'Connections': {
     'TwitchBot': {
       'Commands': {
-        'listCommands': 'Dieser Command listet alle verfügbaren Commands auf',
-        'team': 'Dieser Command listet dein Team auf',
-        'stats': 'Dieser Command gibt die Werte eines bestimmten Pokémon in deinem Team zurück',
-        'evs': 'Dieser Command gibt die EV-Werte eines bestimmten Pokémon in deinem Team zurück',
-        'ivs': 'Dieser Command gibt die IV-Werte eines bestimmten Pokémon in deinem Team zurück',
-        'ability': 'Dieser Command gibt die Fähigkeit eines bestimmten Pokémon in deinem Team zurück',
-        'nature': 'Dieser Command gibt das Wesen eines bestimmten Pokémon in deinem Team zurück',
-        'faster': 'Dieser Command zeigt an wer den Geschwindigkeitsvergleiches eines deiner Pokémon mit einer bestimmten Pokémonspezies gewinnt',
-        'moves': 'Dieser Command gibt die Attacken eines bestimmten Pokémon in deinem Team zurück',
-        'deaths': 'Dieser Command zeigt an wie viele Tode Pokélink für diese Session erfasst hat'
+        'listCommands': 'Dieser Befehl listet alle verfügbaren Befehle auf',
+        'team': 'Dieser Befehl listet dein Team auf',
+        'stats': 'Dieser Befehl gibt die Werte eines bestimmten Pokémon in deinem Team zurück',
+        'evs': 'Dieser Befehl gibt die EV-Werte eines bestimmten Pokémon in deinem Team zurück',
+        'ivs': 'Dieser Befehl gibt die IV-Werte eines bestimmten Pokémon in deinem Team zurück',
+        'ability': 'Dieser Befehl gibt die Fähigkeit eines bestimmten Pokémon in deinem Team zurück',
+        'nature': 'Dieser Befehl gibt das Wesen eines bestimmten Pokémon in deinem Team zurück',
+        'faster': 'Dieser Befehl zeigt an wer den Geschwindigkeitsvergleiches eines deiner Pokémon mit einer bestimmten Pokémonspezies gewinnt',
+        'moves': 'Dieser Befehl gibt die Attacken eines bestimmten Pokémon in deinem Team zurück',
+        'deaths': 'Dieser Befehl zeigt an wie viele Tode Pokélink für diese Session erfasst hat'
       }
     }
   }

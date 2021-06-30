@@ -51,24 +51,24 @@ export default {
   },
 
   'Emulator': {
-    'Subtitle': 'Now let\'s check the process is complete',
-    'AttemptingToConnect': 'Attempting to detect emulator... ',
-    'RunEmulatorAndOpenGame': 'Please run your emulator & Open the game',
-    'CurrentlySupportedEmulators': '(Only DeSmuME, VBA & Citra supported currently)',
-    'CheckForX64': 'Check your emulator is "x64" and not "x86" or ask in discord',
-    'MultipleEmulatorsDetected': 'Multiple emulators detected',
-    'NoEmulatorsFound': 'No emulators found, click to try again?',
-    'EmulatorFound': 'Emulator Detected! (using {emulator})',
-    'SelectADetectedEmulatorLong': 'Please select one of the emulators we found running:',
-    'SelectADetectedEmulatorShort': 'Select an Emulator',
-    'DoesNotSupportGeneration': '{emulator} (Doesn\'t support gen {generation})',
-    'DetectionIsPaused': 'Emulator detection paused',
-    'WaitingForGameData': 'Waiting for Game data...',
-    'ConnectingToEmulator': 'Attempting to automatically connect to {emulator}',
-    'LoadLuaScriptIntoEmulator': 'Load the Lua Script into your emulator',
+    'Subtitle': 'Prüfen ob der Vorgang abgeschlossen ist',
+    'AttemptingToConnect': 'Versuch, den Emulator zu erkennen... ',
+    'RunEmulatorAndOpenGame': 'Bitte starten Sie Ihren Emulator und öffnen Sie das Spiel',
+    'CurrentlySupportedEmulators': '(Derzeit werden nur DeSmuME, VBA & Citra unterstützt)',
+    'CheckForX64': 'Prüfen Sie, ob Ihr Emulator "x64" und nicht "x86" ist, oder fragen Sie in Discord',
+    'MultipleEmulatorsDetected': 'Mehrere Emulatoren erkannt',
+    'NoEmulatorsFound': 'Keine Emulatoren gefunden, klicken Sie, um es erneut zu versuchen',
+    'EmulatorFound': 'Emulator erkannt! (Verwendet wird {emulator})',
+    'SelectADetectedEmulatorLong': 'Bitte wählen Sie einen der Emulatoren aus, die grade laufen:',
+    'SelectADetectedEmulatorShort': 'Wählen Sie einen Emulator aus',
+    'DoesNotSupportGeneration': '{emulator} (Unterstützt nicht die Generation {generation})',
+    'DetectionIsPaused': 'Emulator-Erkennung pausiert',
+    'WaitingForGameData': 'Warten auf Spieldaten...',
+    'ConnectingToEmulator': 'Versucht, automatisch eine Verbindung mit {emulator} herzustellen',
+    'LoadLuaScriptIntoEmulator': 'Laden Sie das Lua-Skript in Ihren Emulator',
     'Instructions': {
-      'VBA-RR': 'This can be done by going to <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> inside VBA-ReRecording <em>(Be sure not to close the script window, you can minimize it though)</em',
-      'DeSmuME': 'This can be done by going to <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</strong> <em>(Be sure not to close the script window, you can minimize it though)</em>'
+      'VBA-RR': 'Dazu gehen Sie auf <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> innerhalb von VBA-ReRecording <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>',
+      'DeSmuME': 'Dies kann über <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> innerhalb von <em>DeSmuME</strong> <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>'
     }
   },
 
