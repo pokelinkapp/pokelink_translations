@@ -51,7 +51,7 @@ export default {
   },
 
   'Emulator': {
-    'Subtitle': 'Prüfen wir ob der Vorgang abgeschlossen ist',
+    'Subtitle': 'Prüfen ob der Vorgang abgeschlossen ist',
     'AttemptingToConnect': 'Versuch, den Emulator zu erkennen... ',
     'RunEmulatorAndOpenGame': 'Bitte starten Sie Ihren Emulator und öffnen Sie das Spiel',
     'CurrentlySupportedEmulators': '(Derzeit werden nur DeSmuME, VBA & Citra unterstützt)',
