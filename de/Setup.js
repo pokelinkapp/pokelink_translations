@@ -58,7 +58,7 @@ export default {
     'CheckForX64': 'Prüfen Sie, ob Ihr Emulator "x64" und nicht "x86" ist, oder fragen Sie in Discord',
     'MultipleEmulatorsDetected': 'Mehrere Emulatoren erkannt',
     'NoEmulatorsFound': 'Keine Emulatoren gefunden, klicken Sie, um es erneut zu versuchen',
-    'EmulatorFound': 'Emulator erkannt! (Verwendet wird {Emulator})',
+    'EmulatorFound': 'Emulator erkannt! (Verwendet wird {emulator})',
     'SelectADetectedEmulatorLong': 'Bitte wählen Sie einen der Emulatoren aus, die grade laufen:',
     'SelectADetectedEmulatorShort': 'Wählen Sie einen Emulator aus',
     'DoesNotSupportGeneration': '{emulator} (Unterstützt nicht die Generation {generation})',
@@ -67,8 +67,8 @@ export default {
     'ConnectingToEmulator': 'Versucht, automatisch eine Verbindung mit {emulator} herzustellen',
     'LoadLuaScriptIntoEmulator': 'Laden Sie das Lua-Skript in Ihren Emulator',
     'Instructions': {
-      'VBA-RR': 'Dazu gehen Sie auf <em>Tools</em> -> <em>Lua-Skript-Fenster</em> -> <em>Neues Lua-Skript-Fenster</em> innerhalb von VBA-ReRecording <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>',
-      'DeSmuME': 'Dies kann über <em>Tools</em> -> <em>Lua Scripting</em> -> <em>Neues Lua-Skript-Fenster</em> innerhalb von <em>DeSmuME</strong> <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>'
+      'VBA-RR': 'Dazu gehen Sie auf <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> innerhalb von VBA-ReRecording <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>',
+      'DeSmuME': 'Dies kann über <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> innerhalb von <em>DeSmuME</strong> <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>'
     }
   },
 
