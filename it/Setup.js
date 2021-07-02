@@ -1,86 +1,96 @@
 export default {
-  'step': 'Step {step}',
+  'step': 'Passo {step}',
   'Steps': {
-    'SessionName': 'Session Name',
-    'GameSelection': 'Game Selection',
-    'SetupEmulator': 'Setup Emulator',
-    'ConnectionDetails': 'Connection Details'
+    'SessionName': 'Nome Sessione',
+    'GameSelection': 'Selezione Gioco',
+    'SetupEmulator': 'Configurazione Emulatore',
+    'ConnectionDetails': 'Dettagli Connessione'
   },
   'Welcome': {
-    'username': 'Username'
+    'username': 'Nome utente'
   },
   'Details': {
     'GameTypes': {
       'solo': {
-        'description': 'You are playing on your own with no need to connect to others',
-        'title': 'Individual Run'
+        'description': 'Giocherai da solo senza alcun bisogno di connetterti ad altri giocatori',
+        'title': 'Sessione Individuale'
       },
       'multi': {
-        'description': 'You are playing a run with 1 or more other people',
-        'title': 'Multiplayer'
+        'description': 'Giocherai assieme a 1 o più giocatori',
+        'title': 'Multigiocatore'
       },
       'multi_soullink': {
-        'description': 'You are playing a soul link run with 1 or more other people',
-        'title': 'Soul Link Multiplayer'
+        'description': 'Giocherai in modalità Soul Link assieme a 1 o più giocatori',
+        'title': 'Multigiocatore Soul Link'
       },
       'multi_vs': {
-        'description': 'You are playing a VS run with 1 or more other people',
-        'title': 'VS Multiplayer'
+        'description': 'Giocherai in modalità VS assieme a 1 o più giocatori',
+        'title': 'Multigiocatore VS'
       }
     }
   },
   'SessionDetails': {
-    'SessionName': 'Session Name',
-    'Save': 'Continue with session setup',
+    'SessionName': 'Nome Sessione',
+    'Save': 'Continua con la configurazione della sessione',
     'Validation': {
-      'SessionNameAndGameOptions': 'You must enter a session name before you can continue'
+      'SessionNameAndGameOptions': 'Devi inserire un nome sessione per poter continuare'
     }
   },
 
   'GameSelection': {
     'DetectionTypes': {
       'automatic': {
-        'description': 'If your game is supported, Pokélink will read the data live from your emulator',
-        'title': 'Automatic Party Management'
+        'description': 'Se il tuo gioco è supportato, Pokélink leggerà i dati in tempo reale direttamente dall\'emulatore',
+        'title': 'Gestione Squadra Automatica'
       },
       'manual': {
-        'description': 'You can manually edit your team using a simple interface within the app',
-        'title': 'Manual Party Management'
+        'description': 'Puoi modificare la tua squadra usando una semplice interfaccia nell\'applicazione',
+        'title': 'Gestione Squadra Manuale'
       }
     }
   },
 
   'Emulator': {
-    'Subtitle': 'Now let\'s check the process is complete',
-    'AttemptingToConnect': 'Attempting to detect emulator... ',
-    'RunEmulatorAndOpenGame': 'Please run your emulator & Open the game',
-    'CurrentlySupportedEmulators': '(Only DeSmuME, VBA & Citra supported currently)',
-    'CheckForX64': 'Check your emulator is "x64" and not "x86" or ask in discord',
-    'MultipleEmulatorsDetected': 'Multiple emulators detected',
-    'NoEmulatorsFound': 'No emulators found, click to try again?',
-    'EmulatorFound': 'Emulator Detected! (using {emulator})',
-    'SelectADetectedEmulatorLong': 'Please select one of the emulators we found running:',
-    'SelectADetectedEmulatorShort': 'Select an Emulator',
-    'DoesNotSupportGeneration': '{emulator} (Doesn\'t support gen {generation})',
-    'DetectionIsPaused': 'Emulator detection paused',
-    'WaitingForGameData': 'Waiting for Game data...',
-    'ConnectingToEmulator': 'Attempting to automatically connect to {emulator}',
-    'LoadLuaScriptIntoEmulator': 'Load the Lua Script into your emulator',
+    'Subtitle': 'Verifica compleramento del processo',
+    /* TODO:
+       en: Verify if 'Tentativo di' should be kept. It it actually quite verbose and sligthly in informal Italian
+       it: Verificare se mantenere 'Tentativo di'. È ripetitivo e non suona bene in italiano informale
+    */
+    'AttemptingToConnect': 'Tentativo di rilevamento dell\'emulatore... ',
+    'RunEmulatorAndOpenGame': 'Apri l\'emulatore ed avvia il gioco',
+    'CurrentlySupportedEmulators': '(Solo DeSmuME, VBA & Citra sono attualmente supportati)',
+    'CheckForX64': 'Verifica che il tuo emulatore sia "x64" e non "x86" altrimenti chiedi in Discord',
+    'MultipleEmulatorsDetected': 'Rilevati multipli emulatori',
+    'NoEmulatorsFound': 'Nessun emulatore rilevato, clicca per tentare di nuovo',
+    'EmulatorFound': 'Rilevato Emulatore! ({emulator} è attivo)',
+    'SelectADetectedEmulatorLong': 'Seleziona uno degli emulatori rilevati:',
+    'SelectADetectedEmulatorShort': 'Seleziona un Emulatore',
+    'DoesNotSupportGeneration': '{emulator} (Gen {generation} non supportata)',
+    'DetectionIsPaused': 'Rilevamento Emulatore in pausa',
+    'WaitingForGameData': 'In attesa di dati di Gioco...',
+    'ConnectingToEmulator': 'Tentativo di connessione automatica a {emulator}',
+    'LoadLuaScriptIntoEmulator': 'Carica lo Script Lua nel tuo emulatore',
     'Instructions': {
-      'VBA-RR': 'This can be done by going to <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> inside VBA-ReRecording <em>(Be sure not to close the script window, you can minimize it though)</em',
-      'DeSmuME': 'This can be done by going to <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</strong> <em>(Be sure not to close the script window, you can minimize it though)</em>'
+      /*
+      TODO (techy):
+      - Remove the styling ASAP (keeping it until en-GB removes it, which means that it is safe to do so here)
+      - Verify that the text does not break other UI elements
+      - Verify that the text "works" AKA clear and not too verbose
+      */
+      'VBA-RR': 'Apri la finestra Lua via: <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> in <em>VBA-ReRecording</em>, copia il percorso nel campo di testo e premi <em>Run</em> <em>(La finestra deve rimanere aperta! Può essere minimizzata ma non chiusa)</em',
+      'DeSmuME': 'Apri la finestra Lua via: <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> in <em>DeSmuME</em>, copia il percorso nel campo di testo e premi <em>Run</em> <em>(La finestra deve rimanere aperta! Può essere minimizzata ma non chiusa)</em>'
     }
   },
 
   'ConnectionDetails': {
     'ConnectionTypes': {
       'host': {
-        'description': 'You\'ve opened up a port on your router/modem or have another way for them to connect.',
-        'title': 'Host a server'
+        'description': 'Hai configurato il tuo router/modem o hai altri mezzi per permettere altri di connettersi.',
+        'title': 'Ospita la sessione'
       },
       'client': {
-        'description': 'Somebody else has configured their network, and I will connect to their Pokélink app.',
-        'title': 'Connect to another person'
+        'description': 'Qualcun altro ha configurato la propria rete e mi connetterò al loro Pokélink.',
+        'title': 'Connettiti ad un altro giocatore'
       }
     }
   }

@@ -43,51 +43,50 @@ export default {
     },
     'EnableDarkMode': {
       'Title': 'Abilita Dark Mode',
-      // TODO: Continue from here
-      'Description': 'Appaga i tuoi '
+      'Description': 'Appaga i tuoi occhi con uno schema colori scuro'
     },
     'TwitchBot': {
-      'Title': 'Twitch Bot'
+      'Title': 'Bot Twitch'
     },
     'TwitchBotLogin': {
-      'Title': 'Twitch Bot Login',
-      'Description': 'Connect your Twitch account to enable Twitch-integrated features'
+      'Title': 'Login Bot Twitch',
+      'Description': 'Connettiti col tuo account Twitch per abilitare le funzionalità relate a Twitch'
     },
     'TwitchBotStatus': {
-      'Title': 'Twitch Bot Status',
-      'Description': 'Stop & Start the bot'
+      'Title': 'Status Bot Twitch',
+      'Description': 'Avvia & Ferma il bot'
     },
     'TwitchBotCommands': {
-      'Title': 'Customise the Bot Command names',
-      'Description': 'Change the commands that the Twitch Bot will respond to'
+      'Title': 'Modifica Comandi Bot',
+      'Description': 'Modifica i comandi compresi dal Bot Twitch'
     }
   },
   'Actions': {
     'Connections': {
       'TwitchAccount': {
-        'Login': 'Login with your Twitch account',
-        'Logout': 'Disconnect your Twitch account',
-        'LoggedInAs': 'Logged in as {twitchName}'
+        'Login': 'Accedi col tuo account Twitch',
+        'Logout': 'Disconnettiti dal tuo account Twitch',
+        'LoggedInAs': 'Connesso con l\'utente: {twitchName}'
       },
       'TwitchBotStatus': {
-        'Start': 'Start Bot',
-        'Stop': 'Stop Bot'
+        'Start': 'Avvia Bot',
+        'Stop': 'Ferma Bot'
       }
     }
   },
   'Connections': {
     'TwitchBot': {
       'Commands': {
-        'listCommands': 'The command used to list available commands',
-        'team': 'The command that will list your team',
-        'stats': 'The command that will show the stats of a specific Pokémon in your party',
-        'evs': 'The command that will show the evs of a specific Pokémon in your party',
-        'ivs': 'The command that will show the ivs of a specific Pokémon in your party',
-        'ability': 'The command that will show the ability of a specific Pokémon in your party',
-        'nature': 'The command that will show the nature of a specific Pokémon in your party',
-        'faster': 'The command that will show which Pokémon is faster between your Pokémon and a specified Pokémon species',
-        'moves': 'The command that will show the current moves of a specific Pokémon in your party',
-        'deaths': 'The command that will show the deaths that Pokélink has tracked for this session'
+        'listCommands': 'Comando per elencare tutti i comandi disponibili',
+        'team': 'Comando per mostrare la tua squadra',
+        'stats': 'Comando per mostrare le statistiche di un Pokémon nella tua squadra',
+        'evs': 'Commando per mostrare gli EVs di un Pokémon nella tua squadra',
+        'ivs': 'Commando per mostrare gli IVs di un Pokémon nella tua squadra',
+        'ability': 'Commando per mostrare l\'abilità di un Pokémon nella tua squadra',
+        'nature': 'Commando per mostrare la natura di un Pokémon nella tua squadra',
+        'faster': 'Commando per mostrare quale Pokémon è più veloce tra il tuo Pokémon ed una specifica specie Pokémon',
+        'moves': 'Commando per mostrare le mosse attuali di un Pokémon nella tua squadra',
+        'deaths': 'Commando per mostrare le morti tracciate da Pokélink has tracked durante questa sessione'
       }
     }
   }
