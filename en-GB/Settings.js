@@ -57,7 +57,7 @@ export default {
       'Description': 'Stop & Start the bot'
     },
     'TwitchBotCommands': {
-      'Title': 'Customise the Bot Command names',
+      'Title': 'Customise Bot Command',
       'Description': 'Change the commands that the Twitch Bot will respond to'
     }
   },
@@ -80,8 +80,8 @@ export default {
         'listCommands': 'The command used to list available commands',
         'team': 'The command that will list your team',
         'stats': 'The command that will show the stats of a specific Pokémon in your party',
-        'evs': 'The command that will show the evs of a specific Pokémon in your party',
-        'ivs': 'The command that will show the ivs of a specific Pokémon in your party',
+        'evs': 'The command that will show the EVs of a specific Pokémon in your party',
+        'ivs': 'The command that will show the IVs of a specific Pokémon in your party',
         'ability': 'The command that will show the ability of a specific Pokémon in your party',
         'nature': 'The command that will show the nature of a specific Pokémon in your party',
         'faster': 'The command that will show which Pokémon is faster between your Pokémon and a specified Pokémon species',

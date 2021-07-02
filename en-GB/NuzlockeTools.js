@@ -2,7 +2,7 @@ export default {
   'Sections': {
     'DeathTracking': {
       'Title': 'Death Tracker',
-      'DeathExplanation': 'If a Pokémon is revived and hits 0 HP again, it will be tracked as 2 deaths. Clicking the cross will "forget" the death forever.',
+      'DeathExplanation': 'If a Pokémon is revived and hits 0 HP again, it will be tracked as 2 deaths. Clicking the cross will reset the death forever.',
       'NoResults': 'No deaths match your search criteria',
       'NoDeaths': 'You\'ve not had any deaths in this session',
       'TimeOfDeath': 'Time of death',
@@ -10,8 +10,8 @@ export default {
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',
-      'ContentTitle': 'Export your team to showdown',
-      'ProcessDescription': 'This can be used to import your team into showdown and even various online damage calculators.'
+      'ContentTitle': 'Export your team in Pokémon Showdown format',
+      'ProcessDescription': 'This can be used to import your team into Pokémon Showdown and even various online damage calculators.'
     },
     'RouteTracking': {
       'Title': 'Route Tracker',
