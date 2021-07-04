@@ -1,7 +1,7 @@
 export default {
   'Title': {
     'info': 'Informatie',
-    'success': 'Gelukt!',
+    'success': 'Geslaagd!',
     'warning': 'Waarschuwing',
     'danger': 'Foutmelding'
   }
