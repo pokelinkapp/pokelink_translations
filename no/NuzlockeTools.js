@@ -6,7 +6,16 @@ export default {
       'NoResults': 'Det er null resultater i dødsregisteret for ditt søk.',
       'NoDeaths': 'Du har ikke ingen dødstilfeller i dette spillet... så langt.',
       'TimeOfDeath': 'Registrert klokkeslett for døden.',
-      'ResetAllDeaths': 'Resett alle døde'
+      'ResetAllDeaths': 'Resett alle døde',
+      'ResetConfirmation': {
+        'Title': 'Are you sure?',
+        'Body': 'Removing all your deaths is irreversable, are you sure you wish to reset all currently tracked deaths?',
+        'Confirm': 'Yes, Reset my deaths!'
+      },
+      'ResetSuccess': {
+        'Title': 'Reset successful',
+        'Body': 'Your deaths have been deleted'
+      }
     },
     'ShowdownExport': {
       'Title': 'Showdown Eksport',

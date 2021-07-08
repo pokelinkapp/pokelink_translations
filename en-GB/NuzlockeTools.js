@@ -6,7 +6,16 @@ export default {
       'NoResults': 'No deaths match your search criteria',
       'NoDeaths': 'You\'ve not had any deaths in this session',
       'TimeOfDeath': 'Time of death',
-      'ResetAllDeaths': 'Reset all deaths'
+      'ResetAllDeaths': 'Reset all deaths',
+      'ResetConfirmation': {
+        'Title': 'Are you sure?',
+        'Body': 'Removing all your deaths is irreversable, are you sure you wish to reset all currently tracked deaths?',
+        'Confirm': 'Yes, Reset my deaths!'
+      },
+      'ResetSuccess': {
+        'Title': 'Reset successful',
+        'Body': 'Your deaths have been deleted'
+      }
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',

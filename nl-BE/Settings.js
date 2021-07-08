@@ -45,6 +45,10 @@ export default {
       'Title': 'Zet donkere modus aan',
       'Description': 'Verwen uw ogen met een donkerder kleurenschema'
     },
+    'Language': {
+      'Title': 'Language',
+      'Description': 'Change the language used within the Pokélink app'
+    },
     'TwitchBot': {
       'Title': 'Twitchbot'
     },

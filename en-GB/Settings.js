@@ -45,6 +45,10 @@ export default {
       'Title': 'Enable Dark Mode',
       'Description': 'Please the eyes with a darker color scheme'
     },
+    'Language': {
+      'Title': 'Language',
+      'Description': 'Change the language used within the Pokélink app'
+    },
     'TwitchBot': {
       'Title': 'Twitch Bot'
     },

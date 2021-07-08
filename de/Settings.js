@@ -45,6 +45,10 @@ export default {
       'Title': 'Aktivierung dunkler Modus',
       'Description': 'Tu deinen Augen einen Gefallen mit dem Aktivieren des dunklen Themes'
     },
+    'Language': {
+      'Title': 'Language',
+      'Description': 'Change the language used within the Pokélink app'
+    },
     'TwitchBot': {
       'Title': 'Twitch Bot'
     },

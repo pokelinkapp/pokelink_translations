@@ -45,6 +45,10 @@ export default {
       'Title': 'Aktiver Mørk Modus',
       'Description': 'Tilfredsstill øynene med et mørkere fargevalg'
     },
+    'Language': {
+      'Title': 'Language',
+      'Description': 'Change the language used within the Pokélink app'
+    },
     'TwitchBot': {
       'Title': 'Twitch Bott'
     },

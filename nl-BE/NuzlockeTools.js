@@ -6,7 +6,16 @@ export default {
       'NoResults': 'Geen doden voldoen aan de zoekopties',
       'NoDeaths': 'U heeft geen doden gehad tijdens deze sessie',
       'TimeOfDeath': 'Overlijdingstijd',
-      'ResetAllDeaths': ' Reset alle doden'
+      'ResetAllDeaths': ' Reset alle doden',
+      'ResetConfirmation': {
+        'Title': 'Are you sure?',
+        'Body': 'Removing all your deaths is irreversable, are you sure you wish to reset all currently tracked deaths?',
+        'Confirm': 'Yes, Reset my deaths!'
+      },
+      'ResetSuccess': {
+        'Title': 'Reset successful',
+        'Body': 'Your deaths have been deleted'
+      }
     },
     'ShowdownExport': {
       'Title': 'Showdown Export',

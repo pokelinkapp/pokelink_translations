@@ -42,6 +42,54 @@ export default {
     'EnableDarkMode': {
       'Title': 'Activer le mode foncé',
       'Description': 'Faites plaisir aux yeux avec une palette de couleurs plus foncées'
+    },
+    'Language': {
+      'Title': 'Language',
+      'Description': 'Change the language used within the Pokélink app'
+    },
+    'TwitchBot': {
+      'Title': 'Twitch Bot'
+    },
+    'TwitchBotLogin': {
+      'Title': 'Twitch Bot Login',
+      'Description': 'Connect your Twitch account to enable Twitch-integrated features'
+    },
+    'TwitchBotStatus': {
+      'Title': 'Twitch Bot Status',
+      'Description': 'Stop & Start the bot'
+    },
+    'TwitchBotCommands': {
+      'Title': 'Customise the Bot Command names',
+      'Description': 'Change the commands that the Twitch Bot will respond to'
+    }
+  },
+  'Actions': {
+    'Connections': {
+      'TwitchAccount': {
+        'Login': 'Login with your Twitch account',
+        'Logout': 'Disconnect your Twitch account',
+        'LoggedInAs': 'Logged in as {twitchName}'
+      },
+      'TwitchBotStatus': {
+        'Start': 'Start Bot',
+        'Stop': 'Stop Bot'
+      }
+    }
+  },
+  'Connections': {
+    'TwitchBot': {
+      'Commands': {
+        'listCommands': 'The command used to list available commands',
+        'team': 'The command that will list your team',
+        'stats': 'The command that will show the stats of a specific Pokémon in your party',
+        'evs': 'The command that will show the evs of a specific Pokémon in your party',
+        'ivs': 'The command that will show the ivs of a specific Pokémon in your party',
+        'ability': 'The command that will show the ability of a specific Pokémon in your party',
+        'nature': 'The command that will show the nature of a specific Pokémon in your party',
+        'faster': 'The command that will show which Pokémon is faster between your Pokémon and a specified Pokémon species',
+        'moves': 'The command that will show the current moves of a specific Pokémon in your party',
+        'deaths': 'The command that will show the deaths that Pokélink has tracked for this session'
+      }
     }
   }
 }
