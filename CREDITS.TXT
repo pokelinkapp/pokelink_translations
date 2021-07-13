@@ -11,3 +11,6 @@ French:
 
 Dutch:
  - MrUks - Official member of the Alpha Testing squad Q1 2021
+
+Italian:
+ - ItachiSan - Pokélink user

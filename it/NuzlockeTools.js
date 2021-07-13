@@ -6,7 +6,16 @@ export default {
       'NoResults': 'Nessuna morte corrisponde ai tuoi criteri di ricerca',
       'NoDeaths': 'Non hai avuto nessuna morte in questa sessione',
       'TimeOfDeath': 'Momento della morte',
-      'ResetAllDeaths': 'Annulla tutte le morti'
+      'ResetAllDeaths': 'Annulla tutte le morti',
+      'ResetConfirmation': {
+        'Title': 'Sei sicuro?',
+        'Body': 'Annullare le morti della squadra è irreversibile, sei sicuro di voler resettare i contatori?',
+        'Confirm': 'Sì, Resetta le morti!'
+      },
+      'ResetSuccess': {
+        'Title': 'Reset eseguito con successo',
+        'Body': 'Tutte le morti sono state cancellate'
+      }
     },
     'ShowdownExport': {
       'Title': 'Esporta a Showdown',
@@ -16,7 +25,7 @@ export default {
     'RouteTracking': {
       'Title': 'Tracciamento Percorsi',
       'SupportInfo': 'I percorsi sono automaticamente tracciati in Gens 3, 4, 5, 6 &amp; 7 ed anche nelle session manuali usando il campo "Luogo d\'incontro".',
-      'OnlyPokemonInYourPartyAreTracked': 'Note: The Pokémon must be in your party for it to automatically register.',
+      'OnlyPokemonInYourPartyAreTracked': 'Nota bene: I Pokémon devono essere nela tua squadra per essere registrati automaticamente.',
       'YouCanManuallyTrackThemToo': 'I percorsi possono essere aggiornati manualmente cliccando una delle opzioni sotto il nome del percorso.',
       'States': {
         'Caught': 'Catturato',
