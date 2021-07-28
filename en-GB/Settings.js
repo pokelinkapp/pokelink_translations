@@ -57,7 +57,7 @@ export default {
       'Description': 'Stop & Start the bot'
     },
     'TwitchBotCommands': {
-      'Title': 'Customise Bot Command',
+      'Title': 'Customise Bot Commands',
       'Description': 'Change the commands that the Twitch Bot will respond to'
     }
   },
