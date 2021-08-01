@@ -1,5 +1,5 @@
 export default {
-  'step': 'Stap {stap}',
+  'step': 'Stap {step}',
   'Steps': {
     'SessionName': 'Sessienaam',
     'GameSelection': 'Spel selectie',

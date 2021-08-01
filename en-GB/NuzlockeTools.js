@@ -20,7 +20,8 @@ export default {
     'ShowdownExport': {
       'Title': 'Showdown Export',
       'ContentTitle': 'Export your team to showdown',
-      'ProcessDescription': 'This can be used to import your team into showdown and even various online damage calculators.'
+      'ProcessDescription': 'This can be used to import your team into showdown and even various online damage calculators.',
+      'NoShowdownData': 'There was an error with exporting your team. If report this in the Pokélink discord.'
     },
     'RouteTracking': {
       'Title': 'Route Tracker',
