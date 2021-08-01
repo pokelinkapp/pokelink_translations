@@ -2,7 +2,7 @@ export default {
   'Sections': {
     'DeathTracking': {
       'Title': 'Death Tracker',
-      'DeathExplanation': 'If a Pokémon is revived and hits 0 HP again, it will be tracked as 2 deaths. Clicking the cross will "forget" the death forever.',
+      'DeathExplanation': 'If a Pokémon is revived and hits 0 HP again, it will be tracked as 2 deaths. Clicking the cross will reset the death forever.',
       'NoResults': 'No deaths match your search criteria',
       'NoDeaths': 'You\'ve not had any deaths in this session',
       'TimeOfDeath': 'Time of death',
