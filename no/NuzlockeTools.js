@@ -8,13 +8,13 @@ export default {
       'TimeOfDeath': 'Registrert klokkeslett for døden.',
       'ResetAllDeaths': 'Resett alle døde',
       'ResetConfirmation': {
-        'Title': 'Are you sure?',
-        'Body': 'Removing all your deaths is irreversable, are you sure you wish to reset all currently tracked deaths?',
-        'Confirm': 'Yes, Reset my deaths!'
+        'Title': 'Er du sikker?',
+        'Body': 'Å fjerne alle døde kan ikke ble angret etterpå. Er du helt sikker på at du vil fjerne alle som er registrert døde på nåværende tidspunkt?',
+        'Confirm': 'Ja, fjern alle mine døde Pokémon fra listen!'
       },
       'ResetSuccess': {
-        'Title': 'Reset successful',
-        'Body': 'Your deaths have been deleted'
+        'Title': 'Fjerning er vellykket.',
+        'Body': 'All bevis for dine døde Pokémon er fjernet.'
       }
     },
     'ShowdownExport': {
