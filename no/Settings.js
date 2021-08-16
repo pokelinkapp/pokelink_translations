@@ -46,14 +46,14 @@ export default {
       'Description': 'Tilfredsstill øynene med et mørkere fargevalg'
     },
     'Language': {
-      'Title': 'Language',
-      'Description': 'Change the language used within the Pokélink app'
+      'Title': 'Språk',
+      'Description': 'Endre språket inni Pokélink appen'
     },
     'TwitchBot': {
       'Title': 'Twitch Bott'
     },
     'TwitchBotLogin': {
-      'Title': 'Logg Inn Twitch Bott',
+      'Title': 'Logg Inn Twitch Botten',
       'Description': 'Koble til din Twitch bruker for å aktivere Twitch-integrerte funksjoner'
     },
     'TwitchBotStatus': {
