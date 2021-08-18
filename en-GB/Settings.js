@@ -6,6 +6,7 @@ export default {
     'ViewLogs': 'View Logs',
     'Connections': 'Connections',
     'Accessibility': 'Accessibility Settings',
+    'Shortcuts': 'Global Shortcuts',
     'GameAndEmulator': 'Game & Emulator Settings'
   },
   'Fields': {
@@ -63,6 +64,14 @@ export default {
     'TwitchBotCommands': {
       'Title': 'Customise Bot Commands',
       'Description': 'Change the commands that the Twitch Bot will respond to'
+    },
+    'Shortcuts': {
+      'Global': {
+        'Badges': {
+          'Title': 'Global shortcut for Badge {badge}',
+          'Description': 'Shortcut to toggle badge {badge} on/off.'
+        }
+      }
     }
   },
   'Actions': {
