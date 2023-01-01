@@ -51,34 +51,34 @@ export default {
   },
 
   'Emulator': {
-    'Subtitle': 'Now let\'s check the process is complete',
-    'AttemptingToConnect': 'Attempting to detect emulator... ',
-    'RunEmulatorAndOpenGame': 'Please run your emulator & Open the game',
-    'CurrentlySupportedEmulators': '(Only DeSmuME, VBA, Bizhawk & Citra supported currently)',
-    'CheckForX64': 'Check your emulator is "x64" and not "x86" or ask in discord',
-    'MultipleEmulatorsDetected': 'Multiple emulators detected',
-    'NoEmulatorsFound': 'No emulators found, click to try again?',
-    'EmulatorFound': 'Emulator Detected! (using {emulator})',
-    'SelectADetectedEmulatorLong': 'Please select one of the emulators we found running:',
-    'SelectADetectedEmulatorShort': 'Select an Emulator',
-    'DoesNotSupportGeneration': '{emulator} (Doesn\'t support gen {generation})',
-    'DetectionIsPaused': 'Emulator detection paused',
-    'WaitingForGameData': 'Waiting for Game data...',
-    'ConnectingToEmulator': 'Attempting to automatically connect to {emulator}',
-    'LoadLuaScriptIntoEmulator': 'Load the Lua Script into your emulator',
+    'Subtitle': 'Vérifions maintenant que le processus est terminé',
+    'AttemptingToConnect': 'Tentative de détection de l\'émulateur... ',
+    'RunEmulatorAndOpenGame': 'Veuillez demarrer l\'émulateur et ouvrir le jeu',
+    'CurrentlySupportedEmulators': '(Seulement DeSmuME, VBA, Bizhawk & Citra sont actuellement supportés)',
+    'CheckForX64': 'Vérifiez si l\'émulateur est "x64" en place de "x86" ou demandez dans discord',
+    'MultipleEmulatorsDetected': 'Plusieurs émulateurs détectés',
+    'NoEmulatorsFound': 'Aucun émulateur trouvé, pourriez-vous cliquer pour réessayer?',
+    'EmulatorFound': 'Émulateur détecté! (en utilisant {emulator})',
+    'SelectADetectedEmulatorLong': 'Veuillez sélectionner l\'un des émulateurs que nous avons trouvés en cours d\'exécution :',
+    'SelectADetectedEmulatorShort': 'Sélectionnez un émulateur',
+    'DoesNotSupportGeneration': '{emulator} (Ne supporte pas gen {generation})',
+    'DetectionIsPaused': 'Détection de l\'émulateur est pausé',
+    'WaitingForGameData': 'En attente des données du jeu...',
+    'ConnectingToEmulator': 'Tentative de connexion automatique à {emulator}',
+    'LoadLuaScriptIntoEmulator': 'Chargez le script Lua dans votre émulateur',
     'Instructions': {
-      'VBA-RR': 'This can be done by going to <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> inside VBA-ReRecording <em>(Be sure not to close the script window, you can minimize it though)</em',
-      'DeSmuME': 'This can be done by going to <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</strong> <em>(Be sure not to close the script window, you can minimize it though)</em>',
-      'Bizhawk': 'Pokélink automatically generated a lua script for your session. We closed Bizhawk, and launched it again with the lua script injected for you!'
+      'VBA-RR': 'Cela peut être fait par sélectionner <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> dedans VBA-ReRecording <em>(Assurez-vous de ne pas fermer la fenêtre de script cependant, vous pouvez le minimiser)</em',
+      'DeSmuME': 'Cela peut être fait par sélectionner <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> dans <em>DeSmuME</strong> <em>(Assurez-vous de ne pas fermer la fenêtre de script cependant, vous pouvez le minimiser)</em>',
+      'Bizhawk': 'Pokélink a automatiquement généré un script lua pour votre session. Nous avons fermé Bizhawk et l\'avons relancé avec le script lua injecté pour vous!'
     },
     'Errors': {
       'Bizhawk': {
         'EmulatorClosedUnexpectedly': {
-          'Title': 'Bizhawk Close Detected',
-          'Message': 'Pokelink detected that Bizhawk was unexpectedly closed. If you did not intend to close Bizhawk, please end this session, close Pokélink, re-open Pokélink and resume this session to continue.'
+          'Title': 'Bizhawk fermée détectée',
+          'Message': 'PPokelink a détecté que Bizhawk a été fermé de façon inattendue. Si vous n\'avez pas eu l\'intention de fermer Bizhawk, veuillez terminer cette session svp, fermez Pokélink, rouvrez Pokélink et reprenez la session pour continuer.'
         },
         'RomRequired': {
-          'Message': 'ROM needs to be dropped in the previous step to use Bizhwk'
+          'Message': 'Le ROM doit être déposée à l\'étape précédente pour utiliser Bizhawk'
         }
       }
     }
