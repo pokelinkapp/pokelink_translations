@@ -79,6 +79,9 @@ export default {
         },
         'RomRequired': {
           'Message': 'ROM moet gesleept worden tijdens de vorige stap om Bizhawk te gebruiken'
+        },
+        'BadBizhawkVersion': {
+          'Message': 'Bizhawk version must be {version}'
         }
       }
     }

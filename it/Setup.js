@@ -88,7 +88,10 @@ export default {
           'Message': 'Pokelink detected that Bizhawk was unexpectedly closed. If you did not intend to close Bizhawk, please end this session, close Pokélink, re-open Pokélink and resume this session to continue.'
         },
         'RomRequired': {
-          'Message': 'ROM needs to be dropped in the previous step to use Bizhwk'
+          'Message': 'ROM needs to be dropped in the previous step to use Bizhawk'
+        },
+        'BadBizhawkVersion': {
+          'Message': 'Bizhawk version must be {version}'
         }
       }
     }

@@ -79,6 +79,9 @@ export default {
         },
         'RomRequired': {
           'Message': 'Le ROM doit être déposée à l\'étape précédente pour utiliser Bizhawk'
+        },
+        'BadBizhawkVersion': {
+          'Message': 'Bizhawk version must be {version}'
         }
       }
     }
