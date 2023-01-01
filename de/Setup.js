@@ -54,7 +54,7 @@ export default {
     'Subtitle': 'Prüfen ob der Vorgang abgeschlossen ist',
     'AttemptingToConnect': 'Versuch, den Emulator zu erkennen... ',
     'RunEmulatorAndOpenGame': 'Bitte starten Sie Ihren Emulator und öffnen Sie das Spiel',
-    'CurrentlySupportedEmulators': '(Derzeit werden nur DeSmuME, VBA & Citra unterstützt)',
+    'CurrentlySupportedEmulators': '(Derzeit werden nur DeSmuME, VBA, Bizhawk & Citra unterstützt)',
     'CheckForX64': 'Prüfen Sie, ob Ihr Emulator "x64" und nicht "x86" ist, oder fragen Sie in Discord',
     'MultipleEmulatorsDetected': 'Mehrere Emulatoren erkannt',
     'NoEmulatorsFound': 'Keine Emulatoren gefunden, klicken Sie, um es erneut zu versuchen',
@@ -69,6 +69,17 @@ export default {
     'Instructions': {
       'VBA-RR': 'Dazu gehen Sie auf <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> innerhalb von VBA-ReRecording <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>',
       'DeSmuME': 'Dies kann über <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> innerhalb von <em>DeSmuME</strong> <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>'
+    },
+    'Errors': {
+      'Bizhawk': {
+        'EmulatorClosedUnexpectedly': {
+          'Title': 'Bizhawk Close Detected',
+          'Message': 'Pokelink detected that Bizhawk was unexpectedly closed. If you did not intend to close Bizhawk, please end this session, close Pokélink, re-open Pokélink and resume this session to continue.'
+        },
+        'RomRequired': {
+          'Message': 'ROM needs to be dropped in the previous step to use Bizhwk'
+        }
+      }
     }
   },
 

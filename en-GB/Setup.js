@@ -54,7 +54,7 @@ export default {
     'Subtitle': 'Now let\'s check the process is complete',
     'AttemptingToConnect': 'Attempting to detect emulator... ',
     'RunEmulatorAndOpenGame': 'Please run your emulator & Open the game',
-    'CurrentlySupportedEmulators': '(Only DeSmuME, VBA & Citra supported currently)',
+    'CurrentlySupportedEmulators': '(Only DeSmuME, VBA, Bizhawk & Citra supported currently)',
     'CheckForX64': 'Check your emulator is "x64" and not "x86" or ask in Discord',
     'MultipleEmulatorsDetected': 'Multiple emulators detected',
     'NoEmulatorsFound': 'No emulators found, click to try again?',
@@ -68,7 +68,19 @@ export default {
     'LoadLuaScriptIntoEmulator': 'Load the Lua Script into your emulator',
     'Instructions': {
       'VBA-RR': 'This can be done by going to <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> inside <em>VBA-ReRecording</em> <em>(Be sure not to close the script window, you can minimize it though)</em',
-      'DeSmuME': 'This can be done by going to <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</em> <em>(Be sure not to close the script window, you can minimize it though)</em>'
+      'DeSmuME': 'This can be done by going to <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</em> <em>(Be sure not to close the script window, you can minimize it though)</em>',
+      'Bizhawk': 'Pokélink automatically generated a lua script for your session. We closed Bizhawk, and launched it again with the lua script injected for you!'
+    },
+    'Errors': {
+      'Bizhawk': {
+        'EmulatorClosedUnexpectedly': {
+          'Title': 'Bizhawk Close Detected',
+          'Message': 'Pokelink detected that Bizhawk was unexpectedly closed. If you did not intend to close Bizhawk, please end this session, close Pokélink, re-open Pokélink and resume this session to continue.'
+        },
+        'RomRequired': {
+          'Message': 'ROM needs to be dropped in the previous step to use Bizhwk'
+        }
+      }
     }
   },
 

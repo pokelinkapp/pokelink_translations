@@ -58,7 +58,7 @@ export default {
     */
     'AttemptingToConnect': 'Tentativo di rilevamento dell\'emulatore... ',
     'RunEmulatorAndOpenGame': 'Apri l\'emulatore ed avvia il gioco',
-    'CurrentlySupportedEmulators': '(Solo DeSmuME, VBA & Citra sono attualmente supportati)',
+    'CurrentlySupportedEmulators': '(Solo DeSmuME, VBA, Bizhawk & Citra sono attualmente supportati)',
     'CheckForX64': 'Verifica che il tuo emulatore sia "x64" e non "x86" altrimenti chiedi in Discord',
     'MultipleEmulatorsDetected': 'Rilevati multipli emulatori',
     'NoEmulatorsFound': 'Nessun emulatore rilevato, clicca per tentare di nuovo',
@@ -78,7 +78,19 @@ export default {
       - Verify that the text "works" AKA clear and not too verbose
       */
       'VBA-RR': 'Apri la finestra Lua via: <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> in <em>VBA-ReRecording</em>, copia il percorso nel campo di testo e premi <em>Run</em> <em>(La finestra deve rimanere aperta! Può essere minimizzata ma non chiusa)</em',
-      'DeSmuME': 'Apri la finestra Lua via: <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> in <em>DeSmuME</em>, copia il percorso nel campo di testo e premi <em>Run</em> <em>(La finestra deve rimanere aperta! Può essere minimizzata ma non chiusa)</em>'
+      'DeSmuME': 'Apri la finestra Lua via: <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> in <em>DeSmuME</em>, copia il percorso nel campo di testo e premi <em>Run</em> <em>(La finestra deve rimanere aperta! Può essere minimizzata ma non chiusa)</em>',
+      'Bizhawk': 'Pokélink automatically generated a lua script for your session. We closed Bizhawk, and launched it again with the lua script injected for you!'
+    },
+    'Errors': {
+      'Bizhawk': {
+        'EmulatorClosedUnexpectedly': {
+          'Title': 'Bizhawk Close Detected',
+          'Message': 'Pokelink detected that Bizhawk was unexpectedly closed. If you did not intend to close Bizhawk, please end this session, close Pokélink, re-open Pokélink and resume this session to continue.'
+        },
+        'RomRequired': {
+          'Message': 'ROM needs to be dropped in the previous step to use Bizhwk'
+        }
+      }
     }
   },
 
