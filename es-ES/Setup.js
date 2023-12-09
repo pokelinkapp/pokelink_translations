@@ -1,0 +1,102 @@
+export default {
+  'step': 'Step {step}',
+  'Steps': {
+    'SessionName': 'Nombre de sesión',
+    'GameSelection': 'Selección de Juego',
+    'SetupEmulator': 'Configurar emulador',
+    'ConnectionDetails': 'Detalles de conexión'
+  },
+  'Welcome': {
+    'username': 'Nombre de usuario'
+  },
+  'Details': {
+    'GameTypes': {
+      'solo': {
+        'description': 'Estás jugando por tu cuenta, no necesitas conectarte con los demás',
+        'title': 'Run Individual'
+      },
+      'multi': {
+        'description': 'Vas a jugar una run con 1 o más personas',
+        'title': 'Multijugador'
+      },
+      'multi_soullink': {
+        'description': 'Vas a jugar una run soul-link con 1 o más personas',
+        'title': 'Multijugador Soul Link'
+      },
+      'multi_vs': {
+        'description': 'Jugarás una run VS con uno o más jugadores',
+        'title': 'Multijugador VS'
+      }
+    }
+  },
+  'SessionDetails': {
+    'SessionName': 'Nombre de sesión',
+    'Save': 'Continuar con configuración de sesión',
+    'Validation': {
+      'SessionNameAndGameOptions': '¡Debes colocar un nombre de sesión antes de poder continuar!'
+    }
+  },
+
+  'GameSelection': {
+    'DetectionTypes': {
+      'automatic': {
+        'description': 'Si tu juego está soportado, Pokélink leerá la información directamente de tu emulador',
+        'title': 'Administración Automática de Equipo'
+      },
+      'manual': {
+        'description': 'Puedes editar manualmente tu equipo utilizando una interfaz simple dentro de la aplicación',
+        'title': 'Administración Manual de Equipo'
+      }
+    }
+  },
+
+  'Emulator': {
+    'Subtitle': 'Ahora verifiquemos que el proceso esté completo',
+    'AttemptingToConnect': 'Intentando detectar un emulador... ',
+    'RunEmulatorAndOpenGame': 'Por favor inicia tu emulador & abre tu juego',
+    'CurrentlySupportedEmulators': '(Solo DeSmuME, VBA, Bizhawk & Citra son soportados)',
+    'CheckForX64': 'Verifica que tu emulador sea "x64" y no "x86" o pregunta en Discord',
+    'MultipleEmulatorsDetected': 'Múltiples emuladores detectados',
+    'NoEmulatorsFound': 'ningún emulador detectado, haz click para intentar de nuevo',
+    'EmulatorFound': 'Emulador Detectado! (usando {emulator})',
+    'SelectADetectedEmulatorLong': 'Por favor selecciona uno de los emuladores encontrados:',
+    'SelectADetectedEmulatorShort': 'Selecciona un Emulador',
+    'DoesNotSupportGeneration': '{emulator} (No soporta la generación {generation})',
+    'DetectionIsPaused': 'Detección de emulador pausada',
+    'WaitingForGameData': 'Esperando por información del juego...',
+    'ConnectingToEmulator': 'Intentando conectarse automáticamente a {emulator}',
+    'LoadLuaScriptIntoEmulator': 'Cargar el Lua Script dentro de tu emulador',
+    'Instructions': {
+      'VBA-RR': 'Esto puede ser hecho mediante <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> dentro <em>VBA-ReRecording</em> <em>(Asegúrate de no cerrar esta ventana, la puedes minimizar)</em',
+      'DeSmuME': 'Esto puede ser hecho mediante <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</em> <em>(Asegúrate de no cerrar esta ventana, la puedes minimizar)</em>',
+      'Bizhawk': 'Pokélink generó automáticamente un Lua Script para tu sesión. Cerramos Bizhawk, y lo iniciamos nuevamente con el Lua Script inyectado'
+    },
+    'Errors': {
+      'Bizhawk': {
+        'EmulatorClosedUnexpectedly': {
+          'Title': 'Detección de cierre de Bizhawk',
+          'Message': 'Pokélink detectó que Bizhawk se cerró inesperadamente. Si no pretendías cerrar Bizhawk, por favor finaliza esta sesión, cierra Pokélink, ábrelo nuevamente y retoma esta sesión para continuar'
+        },
+        'RomRequired': {
+          'Message': 'La ROM necesita ser arrastrada en el paso anterior para utilizar Bizhawk'
+        },
+        'BadBizhawkVersion': {
+          'Message': 'La versión de Bizhawk debe ser: {version}'
+        }
+      }
+    }
+  },
+
+  'ConnectionDetails': {
+    'ConnectionTypes': {
+      'host': {
+        'description': 'Abriste un puerto en tu router/modem o tienes otra forma de permitir otras conexiones.',
+        'title': 'Crear un servidor'
+      },
+      'client': {
+        'description': 'Alguien más configuró su red y yo me conectaré a su aplicación de Pokélink',
+        'title': 'Conectarse a otra persona'
+      }
+    }
+  }
+}
