@@ -3,8 +3,6 @@
 
 ## Structure
 
-**Important note:** Ignore the `index.js` and `langs.js` files in the root of this repo.
-
 Each language is represented by the two character [ISO-3166-2 country code](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/iso-3166-2) (with an optional 2 character subdivision code appended, separated by a hyphen/dash  `-`
 
 Within each folder, ignoring the `index.js` file - there's a file for each category / context.
@@ -13,7 +11,7 @@ Within each of these files, there's a heirachical tree of keys, with any "String
 
 ```
 ./en-GB/
-   ./Section.js
+   ./Section.json
    
 ```
 

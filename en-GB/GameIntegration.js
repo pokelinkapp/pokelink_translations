@@ -1,4 +1,4 @@
-import * as features from '@data/games/featureList'
+import * as features from '../data/games/featureList.js'
 
 export default {
   'Features': {
