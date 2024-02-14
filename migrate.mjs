@@ -7,22 +7,8 @@ const getDirectories = source =>
 
 const dirs = getDirectories('./')
 
-const files = [
-    'Alert',
-    'Badges',
-    'Common',
-    'GameIntegration',
-    'NuzlockeTools',
-    'Party',
-    'SessionList',
-    'Settings',
-    'Setup'
-]
-
 for (const dir of dirs) {
-    for (const section of files) {
-        const data = (await import(`./${dir}/${section}.js`)).default
+        const data = (await import(`./${dir}/index.js`)).default
         
-        writeFileSync(`./${dir}/${section}.json`, JSON.stringify({...data, ...{code: dir}}, null, 4))
-    }
+        writeFileSync(`./${dir}/${dir}.json`, JSON.stringify(data, null, 4))
 }

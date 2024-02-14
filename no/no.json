@@ -1,0 +1,340 @@
+{
+    "label": "Norsk (NO)",
+    "code": "no",
+    "flag": "NO",
+    "translations": {
+        "Alert": {
+            "Title": {
+                "info": "Informasjon",
+                "success": "Suksess!",
+                "warning": "Advarsel",
+                "danger": "Feil Funnet"
+            }
+        },
+        "Badges": {
+            "badgesTitle": "Knappenåler",
+            "badgesAreNotAutomaticInfo": "Knappenåler blir ikke avlest automatisk, men å klikke en vil 'aktivere' den i Knappenål Nett Kilden!",
+            "noBadgesAvilable": "Det er ingen knappenåler tilgjengelige for dette spillet."
+        },
+        "Common": {
+            "Navigation": {
+                "Sessions": "Spill",
+                "Server": "Server Instillinger",
+                "Players": "Spillere + Lag",
+                "Badges": "Knappenåler",
+                "Pokédex": "Pokédex",
+                "Web": "Web Sources",
+                "Nuzlocke": "Nuzlocke Verktøy",
+                "Settings": "Instillinger",
+                "About": "Om oss"
+            },
+            "Notification": {
+                "Actions": {
+                    "Close": "Lukk"
+                }
+            }
+        },
+        "GameIntegration": {
+            "Features": {
+                "Description": {
+                    "AUTO_BADGE_TRACKING": "Automatisk knappenål lesing",
+                    "AUTO_PARTY_TRACKING": "Automatisk lesing av Pokémon på laget ditt",
+                    "AUTO_PARTY_TRACKING_FIELD_SHINY": "Automatisk lag lesing - Shiny sjekker",
+                    "AUTO_PARTY_TRACKING_FIELD_LEVEL_MET": "Automatisk lag lesing - Hvilket level Pokémon ble fanget i",
+                    "AUTO_PARTY_TRACKING_FIELD_TYPES": "Automatisk lag lesing - Sjekker Pokémon type fra ROM filen istedenfor fra Pokédexen",
+                    "AUTO_PARTY_TRACKING_FIELD_FRIENDSHIP": "Automatisk lag lesing - Pokémon vennskap",
+                    "AUTO_PARTY_TRACKING_FIELD_ABILITY": "Automatisk lag lesing - Pokémon egenskap",
+                    "AUTO_PARTY_TRACKING_FIELD_NATURE": "Automatisk lag lesing - Pokémon personlighet",
+                    "AUTO_PARTY_TRACKING_FIELD_HIDDEN_POWER": "Automatisk lag lesing - Pokémon Hidden Power type",
+                    "AUTO_PARTY_TRACKING_FIELD_POKERUS": "Automatisk lag lesing - Om en Pokémon har Pokérus - Pokémon viruset",
+                    "AUTO_PARTY_TRACKING_FIELD_NICKNAME_SPECIAL_CHARS": "Automatisk lag lesing - Ikke-standardiserte (ikke-alfanumeriske) tegn i et Pokémon kallenavn",
+                    "AUTO_PARTY_TRACKING_FIELD_MET_AS_EGG": "Automatisk lag lesing - Leser hvilket sted en Pokémon ble møtt eller hvor et egg ble klekket",
+                    "AUTO_PARTY_TRACKING_FIELD_POKEBALL": "Automatisk lag lesing - Hvilken Pokéball som Pokémon ble fanget i",
+                    "AUTO_PARTY_TRACKING_FIELD_IS_GIFT": "Automatisk lag lesing - Leser om Pokémonen ble fått som gave",
+                    "AUTO_PARTY_TRACKING_FIELD_EVS": "Automatisk lag lesing - Pokémon Effort Values",
+                    "AUTO_PARTY_TRACKING_FIELD_IVS": "Automatisk lag lesing - Pokémon Individual Values",
+                    "AUTO_PARTY_TRACKING_FIELD_EGG_CYCLES": "Automatisk lag lesing - Pokémon gjenstående egg syklus",
+                    "AUTO_PARTY_ROUTE_TRACKING": "Automatisk lag lesing - Automatisk område leser for Pokémon på laget",
+                    "AUTO_BOX_ROUTE_TRACKING": "Automatisk lag lesing - Automatisk område leser for Pokémon i dataen",
+                    "AUTO_PARTY_IN_BATTLE_UPDATES": "Automatisk oppdatering av laget i kamp",
+                    "AUTO_BATTLE_TRACKING_FIELD_ACTIVE_IN_BATTLE": "Automatisk oppdatering i kamp - Leser av hvilke Pokémon som er i kamp nå",
+                    "AUTO_BATTLE_TRACKING_FIELD_STATUS_EFFECT": "Automatisk oppdatering i kamp - Pokémon status effekt",
+                    "AUTO_BATTLE_TRACKING_FIELD_HP": "Automatisk oppdatering i kamp - Pokémon HP",
+                    "MANUAL_BADGE_TRACKING": "Manuel styring av knappenåler gjennom knappenål skjermen i PokéLink",
+                    "MANUAL_PARTY_TRACKING": "Manuel styring av laget ditt gjennom Pokémon lag skjermen i PokéLink"
+                }
+            }
+        },
+        "NuzlockeTools": {
+            "Sections": {
+                "DeathTracking": {
+                    "Title": "Dødsregister",
+                    "DeathExplanation": "Hvis en Pokémon blir gjenopplivet og går ned til 0 HP igjen, så vil det bli registrert som 2 individuelle døds tidspunkt. Å trykke på + tegnet vil fjerne registeret for alltid.",
+                    "NoResults": "Det er null resultater i dødsregisteret for ditt søk.",
+                    "NoDeaths": "Du har ikke ingen dødstilfeller i dette spillet... så langt.",
+                    "TimeOfDeath": "Registrert klokkeslett for døden.",
+                    "ResetAllDeaths": "Resett alle døde",
+                    "ResetConfirmation": {
+                        "Title": "Er du sikker?",
+                        "Body": "Å fjerne alle døde kan ikke ble angret etterpå. Er du helt sikker på at du vil fjerne alle som er registrert døde på nåværende tidspunkt?",
+                        "Confirm": "Ja, fjern alle mine døde Pokémon fra listen!"
+                    },
+                    "ResetSuccess": {
+                        "Title": "Fjerning er vellykket.",
+                        "Body": "All bevis for dine døde Pokémon er fjernet."
+                    }
+                },
+                "ShowdownExport": {
+                    "Title": "Showdown Eksport",
+                    "ContentTitle": "Eksporter ditt lag til Pokémon Showdown.",
+                    "ProcessDescription": "Dette kan bli brukt for å importere laget ditt til Pokémon Showdown samt andre skade kalkulatorer som tillater det."
+                },
+                "RouteTracking": {
+                    "Title": "Route Loggføring",
+                    "SupportInfo": "Pokemon fanget på unike Route i spill fra Generasjon 3,4,5,6 & 7 blir nå automatisk loggført, også i Manuell Spill under \"Møtt Hvor\" feltet.",
+                    "OnlyPokemonInYourPartyAreTracked": "PS: Pokémonen må være på laget ditt for å bli automatisk loggført.",
+                    "YouCanManuallyTrackThemToo": "Du kan også manuelt loggføre unike Route ved å klikke på knappen under Route navnet.",
+                    "States": {
+                        "Caught": "Fanget",
+                        "Gifted": "Gave",
+                        "Traded": "Byttet",
+                        "Escaped": "Rømte",
+                        "Killed": "Drept"
+                    },
+                    "SearchForARoute": "Søk etter unik Route",
+                    "ResetAllRoutes": "Resett alle Routes"
+                }
+            }
+        },
+        "Party": {
+            "Slot": {
+                "Edit": "Endre dette feltet",
+                "isEmpty": "Tøm feltet",
+                "ViewInPokedex": "Åpne i Pokédex"
+            },
+            "Pokemon": {
+                "Attribute": {
+                    "Sprite": "Sprite",
+                    "HP Bar": "HP Linje",
+                    "Experience Bar": "Experience Linje",
+                    "Form": "Versjon",
+                    "Held Item": "Holder",
+                    "Level": "Level",
+                    "Gender": "Kjønn",
+                    "Ability": "Ability",
+                    "Nature": "Personlighet",
+                    "Hidden Power": "Hidden Power",
+                    "Friendship": "Vennskap",
+                    "Pokerus": "Pokerus",
+                    "Location Met": "Møtt her",
+                    "EVs": "EVs",
+                    "IVs": "IVs",
+                    "DVs": "DVs",
+                    "Calculated Stats": "Kalkulerte Stats"
+                }
+            }
+        },
+        "SessionList": {
+            "sessions": "Spill",
+            "addNewSession": "Legg Til Nytt Spill",
+            "noActiveSessions": "Ingen Spill Funnet. Vil du lage en?",
+            "noArchivedSessions": "Du kan arkivere spill for gjenopptak senere!"
+        },
+        "Settings": {
+            "Titles": {
+                "Session": "Spill Instillinger",
+                "System": "System Instillinger",
+                "Window": "Vindu Instillinger",
+                "ViewLogs": "Se Loggen",
+                "Connections": "Tilkoblinger",
+                "Accessibility": "Tilgjengelighets Instillinger",
+                "GameAndEmulator": "Spill og Emulator Instillinger"
+            },
+            "Fields": {
+                "SessionName": {
+                    "Title": "Spill Navn",
+                    "Description": "Endre navnet på dette spillet"
+                },
+                "EmulatorLocation": {
+                    "Title": "Emulator Lokasjon",
+                    "Description": "Endre ruten for emulatoren din"
+                },
+                "RomLocation": {
+                    "Title": "ROM Lokasjon",
+                    "Description": "Endre ruten til spill filen"
+                },
+                "RevealEggs": {
+                    "Title": "Avslør Egg",
+                    "Description": "Skal et eggs innhold bli avslørt i lag skjermen"
+                },
+                "SendToTray": {
+                    "Title": "Send til oppgavelinje istedenfor å lukke appen",
+                    "Description": "Istedenfor å lukke appen når du trykker på X så sendes vinduet til Oppgavelinjen"
+                },
+                "AllowErrorReporting": {
+                    "Title": "Tillat Pokélink å automatisk sende feilmeldinger",
+                    "Description": "Å slå av denne hindrer appen å sende anonym data når en feil oppstår"
+                },
+                "AutomaticallyBootEmulator": {
+                    "Title": "Starter automatisk opp emulator når du gjenopptar et spill",
+                    "Description": "Slå av denne om du heller vil starte emulatoren manuelt"
+                },
+                "EnableDyslexiaFont": {
+                    "Title": "Aktiver Dysleksi Skrift",
+                    "Description": "Aktiver skrift (bare i appen) som gjør det lettere å lese med dysleksi"
+                },
+                "EnableDarkMode": {
+                    "Title": "Aktiver Mørk Modus",
+                    "Description": "Tilfredsstill øynene med et mørkere fargevalg"
+                },
+                "Language": {
+                    "Title": "Språk",
+                    "Description": "Endre språket inni Pokélink appen"
+                },
+                "TwitchBot": {
+                    "Title": "Twitch Bott"
+                },
+                "TwitchBotLogin": {
+                    "Title": "Logg Inn Twitch Botten",
+                    "Description": "Koble til din Twitch bruker for å aktivere Twitch-integrerte funksjoner"
+                },
+                "TwitchBotStatus": {
+                    "Title": "Twitch Bott Status",
+                    "Description": "Stopp & Start Botten"
+                },
+                "TwitchBotCommands": {
+                    "Title": "Tilpass Bott Kommando Navn",
+                    "Description": "Endre kommandoer som denne Twitch Botten vil respondere til"
+                }
+            },
+            "Actions": {
+                "Connections": {
+                    "TwitchAccount": {
+                        "Login": "Logg inn med din twitch bruker",
+                        "Logout": "Koble av din Twitch bruker",
+                        "LoggedInAs": "Logget inn som {twitchName}"
+                    },
+                    "TwitchBotStatus": {
+                        "Start": "Start Bott",
+                        "Stop": "Stopp Bott"
+                    }
+                }
+            },
+            "Connections": {
+                "TwitchBot": {
+                    "Commands": {
+                        "listCommands": "Denne kommandoen viser en liste over alle tilgjengelige kommandoer",
+                        "team": "Denne kommandoen viser en liste over laget ditt",
+                        "stats": "Denne kommandoen viser en liste over hvilke stats en spesifikk Pokémon på laget ditt har (mellom 1-6)",
+                        "evs": "Denne kommandoen viser en liste over EV stats en spesifikk Pokémon på laget ditt har (mellom 1-6)",
+                        "ivs": "Denne kommandoen viser en liste over IV stats på en spesifikk Pokémon på laget ditt (mellom 1-6)",
+                        "ability": "Denne kommandoen viser hvilken Egenskap en spesifikk Pokémon på laget ditt (mellom 1-6)",
+                        "nature": "Denne kommandoen viser Personligheten til en spesifikk Pokémon på laget ditt (mellom 1-6)",
+                        "faster": "Denne kommandoen viser hvilken Pokémon som er raskere mellom din og en annen spesifisert Pokémon",
+                        "moves": "Denne kommandoen viser en liste over Angrep en spesifikk Pokémon på laget ditt har (mellom 1-6)",
+                        "deaths": "Denne kommandoen viser en liste over alle døde Pokémon some PokéLink har oversikt over i dette spillet"
+                    }
+                }
+            }
+        },
+        "Setup": {
+            "step": "Step {step}",
+            "Steps": {
+                "SessionName": "Spill Navn",
+                "GameSelection": "Spill Velger",
+                "SetupEmulator": "Sett Opp Emulator",
+                "ConnectionDetails": "Tilkoblings Detaljer"
+            },
+            "Welcome": {
+                "username": "Brukernavn"
+            },
+            "Details": {
+                "GameTypes": {
+                    "solo": {
+                        "description": "Du spiller alene og trenger ikke å koble til andre",
+                        "title": "Individuell Spilling"
+                    },
+                    "multi": {
+                        "description": "Du spiller med 1 eller flere andre spillere",
+                        "title": "Flerspillere"
+                    },
+                    "multi_soullink": {
+                        "description": "Du spiller en Soul Link med 1 eller flere spillere",
+                        "title": "Soul Link Flerspillere"
+                    },
+                    "multi_vs": {
+                        "description": "Du spiller et VS spill med 1 eller flere spillere",
+                        "title": "VS Flerspillere"
+                    }
+                }
+            },
+            "SessionDetails": {
+                "SessionName": "Spill Navn",
+                "Save": "Fortsett med samme spill oppsett",
+                "Validation": {
+                    "SessionNameAndGameOptions": "Du må sette opp et spill navn før du kan fortsette"
+                }
+            },
+            "GameSelection": {
+                "DetectionTypes": {
+                    "automatic": {
+                        "description": "Dersom PokéLink støtter valgt spill så blir dataen lest direkte fra emulatoren din",
+                        "title": "Automatisk Lag Kontroll"
+                    },
+                    "manual": {
+                        "description": "Du kan manuelt endre laget ditt ved hjelp av applikasjonens enkle interaktive system",
+                        "title": "Manuel Lag Kontroll"
+                    }
+                }
+            },
+            "Emulator": {
+                "Subtitle": "La oss se om prosessen er fullført",
+                "AttemptingToConnect": "Forsøker å koble til Emulator... ",
+                "RunEmulatorAndOpenGame": "Vennligst start Emulatoren din og åpne spillet i den",
+                "CurrentlySupportedEmulators": "(Bare DeSmuME, VBA, Bizhawk & Citra er støttet per nå)",
+                "CheckForX64": "Sjekk at Emulatoren din er \"x64\" og ikke \"x86\" eller spør på Discord",
+                "MultipleEmulatorsDetected": "Flere Emulatorer er funnet åpne",
+                "NoEmulatorsFound": "Ingen Emulatorer er funnet, trykk her for å prøve igjen?",
+                "EmulatorFound": "Emulator Funnet! (bruker {emulator})",
+                "SelectADetectedEmulatorLong": "Vennligst velg én av Emulatorene som vi fant gående:",
+                "SelectADetectedEmulatorShort": "Velg en Emulator",
+                "DoesNotSupportGeneration": "{emulator} (støtter ikke Gen {generation})",
+                "DetectionIsPaused": "Emulator tilkobling pauset",
+                "WaitingForGameData": "Avventer Spill data...",
+                "ConnectingToEmulator": "Forsøker å koble automatisk til {emulator}",
+                "LoadLuaScriptIntoEmulator": "Last opp \"Lua Script\" i din Emulator",
+                "Instructions": {
+                    "VBA-RR": "Dette kan bli gjort ved å åpne <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> inni VBA-ReRecording <em>(Sørg for å ikke lukke det nye Script vinduet, men du kan minimere den)</em",
+                    "DeSmuME": "Dette kan bli gjort ved å åpne <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inni <em>DeSmuME</strong> <em>(Sørg for å ikke lukke det nye Script vinduet, men du kan minimere den)</em>",
+                    "Bizhawk": "Pokélink automatically generated a lua script for your session. We closed Bizhawk, and launched it again with the lua script injected for you!"
+                },
+                "Errors": {
+                    "Bizhawk": {
+                        "EmulatorClosedUnexpectedly": {
+                            "Title": "Bizhawk Close Detected",
+                            "Message": "Pokelink detected that Bizhawk was unexpectedly closed. If you did not intend to close Bizhawk, please end this session, close Pokélink, re-open Pokélink and resume this session to continue."
+                        },
+                        "RomRequired": {
+                            "Message": "ROM needs to be dropped in the previous step to use Bizhawk"
+                        },
+                        "BadBizhawkVersion": {
+                            "Message": "Bizhawk version must be {version}"
+                        }
+                    }
+                }
+            },
+            "ConnectionDetails": {
+                "ConnectionTypes": {
+                    "host": {
+                        "description": "Du har åpnet en kanal på din ruter/modem eller koblet til dem på en annen måte.",
+                        "title": "Start en server"
+                    },
+                    "client": {
+                        "description": "Noen andre har konfigurert nettverket sitt, og jeg kobler meg til deres Pokélink app.",
+                        "title": "Koble til en annen spiller"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "label": "Français (BE)",
+    "code": "fr-BE",
+    "flag": "BE",
+    "translations": {
+        "Alert": {
+            "Title": {
+                "info": "Information",
+                "success": "Succès!",
+                "warning": "Attention",
+                "danger": "Erreur"
+            }
+        },
+        "Badges": {
+            "badgesTitle": "Badges",
+            "badgesAreNotAutomaticInfo": "Les badges ne sont pas suivis automatiquement, même si vous clickez un pour 'activater' dans la source web de badges.",
+            "noBadgesAvilable": "Il n'y a pas des badges disponible pour cette jeu."
+        },
+        "Common": {
+            "Navigation": {
+                "Sessions": "Sessions",
+                "Server": "Parametrages du serveur",
+                "Players": "Joueurs + Partis",
+                "Badges": "Badges",
+                "Pokédex": "Pokédex",
+                "Web": "Sources web",
+                "Nuzlocke": "Outils de Nuzlocke",
+                "Settings": "Parametrages",
+                "About": "À propos..."
+            }
+        },
+        "GameIntegration": {
+            "Features": {
+                "Description": {
+                    "AUTO_BADGE_TRACKING": "Suivi automatique des badges",
+                    "AUTO_PARTY_TRACKING": "Suivi automatique des badges du Pokémon dans votre parti",
+                    "AUTO_PARTY_TRACKING_FIELD_SHINY": "Suivi automatique du parti - Detection de Shiny",
+                    "AUTO_PARTY_TRACKING_FIELD_LEVEL_MET": "Suivi automatique du parti - Niveau auquel le Pokémon a été capturé",
+                    "AUTO_PARTY_TRACKING_FIELD_TYPES": "Suivi automatique du parti - Détecter les types du pokémon depuis la ROM au lieu d'un Pokédex générique",
+                    "AUTO_PARTY_TRACKING_FIELD_FRIENDSHIP": "Suivi automatique du parti - Amitié du pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_ABILITY": "Suivi automatique du parti - Capacité du pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_NATURE": "Suivi automatique du parti - Nature du pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_HIDDEN_POWER": "Suivi automatique du parti - Pouvoir caché du pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_POKERUS": "Suivi automatique du parti - Si un Pokémon a le Pokérus - Le virus du pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_NICKNAME_SPECIAL_CHARS": "Suivi automatique du parti - Caractères non standard (non alphanumériques) dans un surnom du pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_MET_AS_EGG": "Suivi automatique du parti - Détecter à quel endroit un Pokémon a été rencontré, lorsqu'il est éclos d'un œuf",
+                    "AUTO_PARTY_TRACKING_FIELD_POKEBALL": "Suivi automatique du parti - La Pokéball utilisée pour attraper un Pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_IS_GIFT": "Suivi automatique du parti - Si le Pokémon a été reçu en cadeau",
+                    "AUTO_PARTY_TRACKING_FIELD_EVS": "Suivi automatique du parti - Valeurs d'effort du Pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_IVS": "Suivi automatique du parti - Valeurs individuelles des Pokémon",
+                    "AUTO_PARTY_TRACKING_FIELD_EGG_CYCLES": "Suivi automatique du parti - Cycles d'œufs restants du Pokémon",
+                    "AUTO_PARTY_ROUTE_TRACKING": "Suivi automatique du parti - Suivi automatique de route pour les Pokémon du parti",
+                    "AUTO_BOX_ROUTE_TRACKING": "Suivi automatique du parti - Les Pokémon envoyés directement dans votre boîte auront leurs routes suivis",
+                    "AUTO_PARTY_IN_BATTLE_UPDATES": "Mises à jour automatiques pendant des batailles",
+                    "AUTO_BATTLE_TRACKING_FIELD_ACTIVE_IN_BATTLE": "Mises à jour automatiques pendant des batailles - Détecter quel pokémon est actuellement en bataille",
+                    "AUTO_BATTLE_TRACKING_FIELD_STATUS_EFFECT": "Mises à jour automatiques pendant des batailles - Effet de statut du Pokémon",
+                    "AUTO_BATTLE_TRACKING_FIELD_HP": "Mises à jour automatiques pendant des batailles - HP du pokémon",
+                    "MANUAL_BADGE_TRACKING": "Suivi manuel des badges à utilisant l'écran des badges dans Pokélink",
+                    "MANUAL_PARTY_TRACKING": "Mise à jour manuelle de votre parti utilisant l'écran parti du pokémon dans Pokélink"
+                }
+            }
+        },
+        "NuzlockeTools": {
+            "Sections": {
+                "DeathTracking": {
+                    "Title": "Traquer de mort",
+                    "DeathExplanation": "Si un Pokémon est réanimé et atteint à nouveau 0 HP, il sera compté comme 2 morts. Cliquer sur la croix « oubliera » la mort pour toujours.",
+                    "NoResults": "Aucun morts ne correspond à vos critères de recherche",
+                    "NoDeaths": "Vous n'avez eu aucun morts dans cette session",
+                    "TimeOfDeath": "Moment du décès",
+                    "ResetAllDeaths": "Reset all deaths",
+                    "ResetConfirmation": {
+                        "Title": "Are you sure?",
+                        "Body": "Removing all your deaths is irreversable, are you sure you wish to reset all currently tracked deaths?",
+                        "Confirm": "Yes, Reset my deaths!"
+                    },
+                    "ResetSuccess": {
+                        "Title": "Reset successful",
+                        "Body": "Your deaths have been deleted"
+                    }
+                },
+                "ShowdownExport": {
+                    "Title": "Exportation de Showdown",
+                    "ContentTitle": "Exportez votre équipe vers showdown",
+                    "ProcessDescription": "Cela peut être utilisé pour importer votre équipe dans Showdown et même dans des divers calculateurs de dommages."
+                },
+                "RouteTracking": {
+                    "Title": "Traquer de route",
+                    "SupportInfo": "Les routes traquent automatiquement maintenant dans les generations 3, 4, 5, 6 &amp; 7 et également sur les sessions manuelles en utilisant le \"lieu de rencontre\" champ.",
+                    "OnlyPokemonInYourPartyAreTracked": "Note: Le pokémon doit être dans votre parti pour qu'il s'enregistre automatiquement.",
+                    "YouCanManuallyTrackThemToo": "Vous pouvez également suivre manuellement les routes en cliquant sur un bouton sous le nom de route.",
+                    "States": {
+                        "Caught": "Attrapé",
+                        "Gifted": "Ofré",
+                        "Traded": "Échangé",
+                        "Escaped": "Échappé",
+                        "Killed": "Tué"
+                    },
+                    "SearchForARoute": "Rechercher une route",
+                    "ResetAllRoutes": "Réinitialiser le statut de tous les routes"
+                }
+            }
+        },
+        "Party": {
+            "Slot": {
+                "Edit": "Edit This Slot",
+                "isEmpty": "Empty Slot",
+                "ViewInPokedex": "View in Pokédex"
+            },
+            "Pokemon": {
+                "Attribute": {
+                    "Sprite": "Sprite",
+                    "HP Bar": "Bar de HP",
+                    "Experience Bar": "Bar d'éxperience",
+                    "Form": "Forme",
+                    "Held Item": "Objet retenu",
+                    "Level": "Niveau",
+                    "Gender": "Sexe",
+                    "Ability": "Capacité",
+                    "Nature": "Nature",
+                    "Hidden Power": "Pouvoir caché",
+                    "Friendship": "Amitié",
+                    "Pokerus": "Pokerus",
+                    "Location Met": "Lieu de rencontre",
+                    "EVs": "EV",
+                    "IVs": "IV",
+                    "DVs": "DV",
+                    "Calculated Stats": "Statistiques calculées"
+                }
+            }
+        },
+        "SessionList": {
+            "sessions": "Sessions",
+            "addNewSession": "Ajouter une nouvelle session",
+            "noActiveSessions": "Pas de sessions trouvées. Voulez-vous en créer une?",
+            "noArchivedSessions": "Vous pouvez archiver les sessions pour une récupération ultérieure!"
+        },
+        "Settings": {
+            "Titles": {
+                "Session": "Paramètres de session",
+                "System": "Paramètres du système",
+                "Window": "Paramètres de fenêtre",
+                "Accessibility": "Paramètres d'accessibilité",
+                "GameAndEmulator": "Paramètres du jeu et de l'émulateur"
+            },
+            "Fields": {
+                "SessionName": {
+                    "Title": "Nom de session",
+                    "Description": "Changer le nom de cette session"
+                },
+                "EmulatorLocation": {
+                    "Title": "Location d'emulator",
+                    "Description": "Changer la location de votre émulateur"
+                },
+                "RomLocation": {
+                    "Title": "Location du ROM",
+                    "Description": "Changer la location de ce fishier"
+                },
+                "RevealEggs": {
+                    "Title": "Révéler les œufs",
+                    "Description": "Est-ce que le contenu d'un œuf sur l'écran de parti doive être révélé"
+                },
+                "SendToTray": {
+                    "Title": "Envoyer à la barre des tâches au lieu de fermer l'application",
+                    "Description": "Au lieu de fermer l'application lorsque vous cliquez sur le bouton X, envoyez-la dans la barre des tâches"
+                },
+                "AllowErrorReporting": {
+                    "Title": "Autoriser Pokélink à soumettre automatiquement des rapports d'erreur",
+                    "Description": "La désactiver empêche l'application d'envoyer des données anonymes quand des bugs se produisent dans l'application"
+                },
+                "AutomaticallyBootEmulator": {
+                    "Title": "Lancer automatiquement l'émulateur lors de la reprise d'une session",
+                    "Description": "Désactivez ceci si vous préférez de lancer l'émulateur vous-même"
+                },
+                "EnableDyslexiaFont": {
+                    "Title": "Activer la fonte Dyslexie",
+                    "Description": "Activer la fonte (sur l'application uniquement) qui améliore la lisibilité pour les personnes dyslexiques"
+                },
+                "EnableDarkMode": {
+                    "Title": "Activer le mode foncé",
+                    "Description": "Faites plaisir aux yeux avec une palette de couleurs plus foncées"
+                },
+                "Language": {
+                    "Title": "Language",
+                    "Description": "Change the language used within the Pokélink app"
+                },
+                "TwitchBot": {
+                    "Title": "Twitch Bot"
+                },
+                "TwitchBotLogin": {
+                    "Title": "Twitch Bot Login",
+                    "Description": "Connect your Twitch account to enable Twitch-integrated features"
+                },
+                "TwitchBotStatus": {
+                    "Title": "Twitch Bot Status",
+                    "Description": "Stop & Start the bot"
+                },
+                "TwitchBotCommands": {
+                    "Title": "Customise the Bot Command names",
+                    "Description": "Change the commands that the Twitch Bot will respond to"
+                }
+            },
+            "Actions": {
+                "Connections": {
+                    "TwitchAccount": {
+                        "Login": "Login with your Twitch account",
+                        "Logout": "Disconnect your Twitch account",
+                        "LoggedInAs": "Logged in as {twitchName}"
+                    },
+                    "TwitchBotStatus": {
+                        "Start": "Start Bot",
+                        "Stop": "Stop Bot"
+                    }
+                }
+            },
+            "Connections": {
+                "TwitchBot": {
+                    "Commands": {
+                        "listCommands": "The command used to list available commands",
+                        "team": "The command that will list your team",
+                        "stats": "The command that will show the stats of a specific Pokémon in your party",
+                        "evs": "The command that will show the evs of a specific Pokémon in your party",
+                        "ivs": "The command that will show the ivs of a specific Pokémon in your party",
+                        "ability": "The command that will show the ability of a specific Pokémon in your party",
+                        "nature": "The command that will show the nature of a specific Pokémon in your party",
+                        "faster": "The command that will show which Pokémon is faster between your Pokémon and a specified Pokémon species",
+                        "moves": "The command that will show the current moves of a specific Pokémon in your party",
+                        "deaths": "The command that will show the deaths that Pokélink has tracked for this session"
+                    }
+                }
+            }
+        },
+        "Setup": {
+            "step": "Step {step}",
+            "Steps": {
+                "SessionName": "Nom de session",
+                "GameSelection": "Selection du jeu",
+                "SetupEmulator": "Configuration du émulator",
+                "ConnectionDetails": "Détails de connexion"
+            },
+            "Welcome": {
+                "username": "Nom d'utilisateur"
+            },
+            "Details": {
+                "GameTypes": {
+                    "solo": {
+                        "description": "Vous jouez seul sans avoir besoin de vous connecter aux autres",
+                        "title": "Jeu individuel"
+                    },
+                    "multi": {
+                        "description": "Vous jouez un jeu avec 1 ou plusieurs des autres joueurs",
+                        "title": "Multiplayer"
+                    },
+                    "multi_soullink": {
+                        "description": "Vous jouez à un lien d'âme avec 1 ou plusieurs des autres joueurs",
+                        "title": "Lien d'âme Multiplayer"
+                    },
+                    "multi_vs": {
+                        "description": "Vous jouez un versus avec 1 ou plusieurs des autres joueurs",
+                        "title": "Multiplayer versus"
+                    }
+                }
+            },
+            "SessionDetails": {
+                "SessionName": "Nom de session",
+                "Save": "Continuer avec la configuration de la session",
+                "Validation": {
+                    "SessionNameAndGameOptions": "Vous devez entrer un nom de session avant de pouvoir continuer"
+                }
+            },
+            "GameSelection": {
+                "DetectionTypes": {
+                    "automatic": {
+                        "description": "Si votre jeu est supporté, Pokélink lira les données en direct depuis votre émulateur",
+                        "title": "Gestion automatique du parti"
+                    },
+                    "manual": {
+                        "description": "Vous pouvez modifier manuellement votre équipe à l'aide d'une interface simple dans l'application",
+                        "title": "Gestion manuelle du parti"
+                    }
+                }
+            },
+            "Emulator": {
+                "Subtitle": "Vérifions maintenant que le processus est terminé",
+                "AttemptingToConnect": "Tentative de détection de l'émulateur... ",
+                "RunEmulatorAndOpenGame": "Veuillez demarrer l'émulateur et ouvrir le jeu",
+                "CurrentlySupportedEmulators": "(Seulement DeSmuME, VBA, Bizhawk & Citra sont actuellement supportés)",
+                "CheckForX64": "Vérifiez si l'émulateur est \"x64\" en place de \"x86\" ou demandez dans discord",
+                "MultipleEmulatorsDetected": "Plusieurs émulateurs détectés",
+                "NoEmulatorsFound": "Aucun émulateur trouvé, pourriez-vous cliquer pour réessayer?",
+                "EmulatorFound": "Émulateur détecté! (en utilisant {emulator})",
+                "SelectADetectedEmulatorLong": "Veuillez sélectionner l'un des émulateurs que nous avons trouvés en cours d'exécution :",
+                "SelectADetectedEmulatorShort": "Sélectionnez un émulateur",
+                "DoesNotSupportGeneration": "{emulator} (Ne supporte pas gen {generation})",
+                "DetectionIsPaused": "Détection de l'émulateur est pausé",
+                "WaitingForGameData": "En attente des données du jeu...",
+                "ConnectingToEmulator": "Tentative de connexion automatique à {emulator}",
+                "LoadLuaScriptIntoEmulator": "Chargez le script Lua dans votre émulateur",
+                "Instructions": {
+                    "VBA-RR": "Cela peut être fait par sélectionner <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> dedans VBA-ReRecording <em>(Assurez-vous de ne pas fermer la fenêtre de script cependant, vous pouvez le minimiser)</em",
+                    "DeSmuME": "Cela peut être fait par sélectionner <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> dans <em>DeSmuME</strong> <em>(Assurez-vous de ne pas fermer la fenêtre de script cependant, vous pouvez le minimiser)</em>",
+                    "Bizhawk": "Pokélink a automatiquement généré un script lua pour votre session. Nous avons fermé Bizhawk et l'avons relancé avec le script lua injecté pour vous!"
+                },
+                "Errors": {
+                    "Bizhawk": {
+                        "EmulatorClosedUnexpectedly": {
+                            "Title": "Bizhawk fermée détectée",
+                            "Message": "PPokelink a détecté que Bizhawk a été fermé de façon inattendue. Si vous n'avez pas eu l'intention de fermer Bizhawk, veuillez terminer cette session svp, fermez Pokélink, rouvrez Pokélink et reprenez la session pour continuer."
+                        },
+                        "RomRequired": {
+                            "Message": "Le ROM doit être déposée à l'étape précédente pour utiliser Bizhawk"
+                        },
+                        "BadBizhawkVersion": {
+                            "Message": "Bizhawk version must be {version}"
+                        }
+                    }
+                }
+            },
+            "ConnectionDetails": {
+                "ConnectionTypes": {
+                    "host": {
+                        "description": "Vous avez ouvert un port sur votre routeur/modem ou vous disposez d'un autre moyen de se connecter.",
+                        "title": "Héberger un serveur"
+                    },
+                    "client": {
+                        "description": "Quelqu'un d'autre a configuré son réseau et je vais me connecter à son application Pokélink.",
+                        "title": "Se connecter à une autre personne"
+                    }
+                }
+            }
+        }
+    }
+}
