@@ -91,5 +91,6 @@
                 "deaths": "The command that will show the deaths that Pokélink has tracked for this session"
             }
         }
-    }
+    },
+    "code": "fr-BE"
 }

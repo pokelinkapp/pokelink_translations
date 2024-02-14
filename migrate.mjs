@@ -23,6 +23,6 @@ for (const dir of dirs) {
     for (const section of files) {
         const data = (await import(`./${dir}/${section}.js`)).default
         
-        writeFileSync(`./${dir}/${section}.json`, JSON.stringify(data, null, 4))
+        writeFileSync(`./${dir}/${section}.json`, JSON.stringify({...data, ...{code: dir}}, null, 4))
     }
 }

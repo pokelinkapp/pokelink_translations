@@ -27,5 +27,6 @@
             "MANUAL_BADGE_TRACKING": "Manuelles Tracken von Orden durch Nutzung des Orden Moduls in Pokélink",
             "MANUAL_PARTY_TRACKING": "Manuelles Updaten deines Teams durch Nutzung des Pokémon Team Moduls in Pokélink"
         }
-    }
+    },
+    "code": "de"
 }

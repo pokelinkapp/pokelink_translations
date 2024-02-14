@@ -37,5 +37,6 @@
             "SearchForARoute": "Rechercher une route",
             "ResetAllRoutes": "Réinitialiser le statut de tous les routes"
         }
-    }
+    },
+    "code": "fr-BE"
 }

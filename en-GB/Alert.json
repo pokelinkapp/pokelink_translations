@@ -4,5 +4,6 @@
         "success": "Success!",
         "warning": "Warning",
         "danger": "Error"
-    }
+    },
+    "code": "en-GB"
 }

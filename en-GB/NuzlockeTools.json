@@ -38,5 +38,6 @@
             "SearchForARoute": "Search for a route",
             "ResetAllRoutes": "Reset status of all routes"
         }
-    }
+    },
+    "code": "en-GB"
 }

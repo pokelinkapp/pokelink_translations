@@ -37,5 +37,6 @@
             "SearchForARoute": "Cerca un percorso",
             "ResetAllRoutes": "Ripristina gli stati di tutti i percorsi"
         }
-    }
+    },
+    "code": "it"
 }

@@ -37,5 +37,6 @@
             "SearchForARoute": "Zoek voor een route",
             "ResetAllRoutes": "Reset de status van alle routes"
         }
-    }
+    },
+    "code": "nl-BE"
 }

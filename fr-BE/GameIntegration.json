@@ -27,5 +27,6 @@
             "MANUAL_BADGE_TRACKING": "Suivi manuel des badges à utilisant l'écran des badges dans Pokélink",
             "MANUAL_PARTY_TRACKING": "Mise à jour manuelle de votre parti utilisant l'écran parti du pokémon dans Pokélink"
         }
-    }
+    },
+    "code": "fr-BE"
 }

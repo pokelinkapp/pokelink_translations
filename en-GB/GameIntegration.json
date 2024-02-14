@@ -27,5 +27,6 @@
             "MANUAL_BADGE_TRACKING": "Manual tracking of badges using the badges screen within Pokélink",
             "MANUAL_PARTY_TRACKING": "Manual updating of your party using the Party Pokémon screen within Pokélink"
         }
-    }
+    },
+    "code": "en-GB"
 }

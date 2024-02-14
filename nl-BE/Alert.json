@@ -4,5 +4,6 @@
         "success": "Geslaagd!",
         "warning": "Waarschuwing",
         "danger": "Foutmelding"
-    }
+    },
+    "code": "nl-BE"
 }

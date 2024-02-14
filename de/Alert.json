@@ -4,5 +4,6 @@
         "success": "Erfolg!",
         "warning": "Achtung",
         "danger": "Fehler"
-    }
+    },
+    "code": "de"
 }
