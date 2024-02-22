@@ -1,0 +1,13 @@
+{
+    "code": "no",
+    "translations": {
+        "Alert": {
+            "Title": {
+                "info": "Informasjon",
+                "success": "Suksess!",
+                "warning": "Advarsel",
+                "danger": "Feil Funnet"
+            }
+        }
+    }
+}

@@ -32,7 +32,8 @@
                 "Actions": {
                     "Close": "Close"
                 }
-            }
+            },
+            "NoItems": "No items matched your criteria"
         },
         "GameIntegration": {
             "Features": {

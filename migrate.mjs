@@ -8,7 +8,31 @@ const getDirectories = source =>
 const dirs = getDirectories('./')
 
 for (const dir of dirs) {
-        const data = (await import(`./${dir}/index.js`)).default
-        
-        writeFileSync(`./${dir}/${dir}.json`, JSON.stringify(data, null, 4))
+    if (dir === 'neo') {
+        continue
+    }
+    const data = (await import(`./${dir}/index.js`)).default
+
+    var metaData = {
+        code: data.code,
+        flag: data.flag,
+        label: data.label
+    }
+
+    writeFileSync(`./neo/${dir}/meta.lang`, JSON.stringify(metaData, null, 4))
+
+    for (let module in data.translations) {
+        let moduleData = {
+            code: data.code,
+            translations: {
+            }
+        }
+
+        moduleData.translations[`${module}`] = data.translations[module]
+        let fileName = module;
+
+        fileName = fileName.substring(0, 1).toLowerCase() + fileName.substring(1)
+
+        writeFileSync(`./neo/${dir}/${fileName}.lang`, JSON.stringify(moduleData, null, 4))
+    }
 }
