@@ -2,7 +2,7 @@
     "code": "en-GB",
     "translations": {
         "Window": {
-            "title": "Pokélink - Pokémon streaming utility",
+            "title": "Pokélink - Pokémon streaming utility ${version} ${variables}",
             "FTS": {
                 "ticker": [
                     "Pokélink will never store any of your personal information outside of your own computer",
