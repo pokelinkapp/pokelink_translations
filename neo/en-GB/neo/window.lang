@@ -16,6 +16,29 @@
                 "defaultPort": "Default Port",
                 "defaultPortHint": "Don't change this field unless you know what you're doing. Must be between 1024 and 65535",
                 "usernameHint": "A username used to uniquely access your web sources"
+            },
+            "Sessions": {
+                "import": "Import",
+                "SessionCard": {
+                    "auto": "Auto",
+                    "manual": "Manual",
+                    "multi": "Multi",
+                    "solo": "Solo",
+                    "emptyPokeball": "Empty ${pkhex.ball.4}",
+                    "ident": "Playing ${sessionType} as ${username}",
+                    "lastPlayed": "on ${date} at ${time}",
+                    "archiveSession": "Archive Session",
+                    "deleteSession": "Delete Session",
+                    "activateSession": "Activate Session"
+                },
+                "Prompts": {
+                    "DeleteSession" :{
+                        "title": "Are you sure?",
+                        "text": "Deleting a session is not reversible. Are you sure you want to delete ${sessionName}?",
+                        "cancel": "Cancel",
+                        "confirm": "Yes, delete it!"
+                    }
+                }
             }
         }
     }
