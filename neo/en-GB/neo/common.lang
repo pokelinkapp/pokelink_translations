@@ -2,7 +2,8 @@
     "code": "en-GB",
     "translations": {
         "Common": {
-            "noItems": "No items matched your criteria"
+            "noItems": "No items matched your criteria",
+            "endSession": "End Session"
         }
     }
 }
