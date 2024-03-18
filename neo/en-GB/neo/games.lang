@@ -3,6 +3,7 @@
     "translations": {
         "Game": {
             "Name": {
+                "UNKNOWN": "Unknown version",
                 "RED": "Pokémon Red",
                 "BLUE": "Pokémon Blue",
                 "GREEN": "Pokémon Green",
@@ -36,7 +37,7 @@
                 "LETS_GO_PIKACHU": "Pokémon Let's Go Pikachu",
                 "SWORD": "Pokémon Sword",
                 "SHIELD": "Pokémon Shield",
-                "ARCEUS": "Pokémon Legends: Arceus",
+                "LEGENDS_ARCEUS": "Pokémon Legends: Arceus",
                 "BRILLIANT_DIAMOND": "Pokémon Brilliant Diamond",
                 "SHINING_PEARL": "Pokémon Shining Pearl",
                 "SCARLET": "Pokémon Scarlet",

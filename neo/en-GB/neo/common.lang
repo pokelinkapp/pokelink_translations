@@ -3,7 +3,18 @@
     "translations": {
         "Common": {
             "noItems": "No items matched your criteria",
-            "endSession": "End Session"
+            "endSession": "End Session",
+            "none": "None",
+            "unknown": "Unknown"
+        },
+        "Gender": {
+            "male": "Male",
+            "female": "Female",
+            "Genderless": "Genderless"
+        },
+        "Pokerus": {
+            "infected": "Infected with Pokerus",
+            "no": "No"
         }
     }
 }
