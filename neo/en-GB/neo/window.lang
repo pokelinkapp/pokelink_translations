@@ -32,12 +32,35 @@
                     "activateSession": "Activate Session"
                 },
                 "Prompts": {
-                    "DeleteSession" :{
+                    "DeleteSession": {
                         "title": "Are you sure?",
                         "text": "Deleting a session is not reversible. Are you sure you want to delete ${sessionName}?",
                         "cancel": "Cancel",
                         "confirm": "Yes, delete it!"
                     }
+                }
+            },
+            "Party": {
+                "edit": "Edit Pokémon",
+                "moveLeft": "Move Pokémon Left",
+                "moveRight": "Move Pokémon Right",
+                "ViewSettings": {
+                    "SPRITE": "Sprite",
+                    "HP_BAR": "HP Bar",
+                    "EXP_BAR": "Experience Bar",
+                    "FORM": "Form",
+                    "HELD_ITEM": "Held Item",
+                    "LEVEL": "Level",
+                    "ABILITY": "Ability",
+                    "NATURE": "Nature",
+                    "HIDDEN_POWER": "Hidden Power",
+                    "CALCULATED_STATS": "Calculated Stats",
+                    "GENDER": "Gender",
+                    "FRIENDSHIP": "Friendship",
+                    "POKERUS": "Pokerus",
+                    "LOCATION_MET": "Location Met",
+                    "EVS": "EVs",
+                    "IVS": "IVs"
                 }
             }
         }
