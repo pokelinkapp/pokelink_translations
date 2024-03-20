@@ -62,6 +62,16 @@
                     "EVS": "EVs",
                     "IVS": "IVs"
                 }
+            },
+            "PokemonEditor": {
+                "title": "Pokémon Editor - Slot ${slotId}",
+                "save": "Save",
+                "cancel": "Cancel",
+                "remove": "Reset Party Slot to Empty",
+                "dead": "Mark Pokémon as dead",
+                "Tabs": {
+                    "general": "General"
+                }
             }
         }
     }

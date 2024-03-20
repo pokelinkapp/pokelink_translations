@@ -10,7 +10,7 @@
         "Gender": {
             "male": "Male",
             "female": "Female",
-            "Genderless": "Genderless"
+            "genderless": "Genderless"
         },
         "Pokerus": {
             "infected": "Infected with Pokerus",
