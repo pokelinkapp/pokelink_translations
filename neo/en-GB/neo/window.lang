@@ -71,7 +71,8 @@
                 "dead": "Mark Pokémon as dead",
                 "Tabs": {
                     "general": "General"
-                }
+                },
+                "isEgg": "Is Egg?"
             }
         }
     }
