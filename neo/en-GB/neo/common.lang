@@ -15,6 +15,13 @@
         "Pokerus": {
             "infected": "Infected with Pokerus",
             "no": "No"
+        },
+        "Effectiveness": {
+            "prefix": "${type} → ${against} =",
+            "no": "${Effectiveness.prefix} No effect",
+            "notVery": "${Effectiveness.prefix} Not very effective",
+            "normal": "${Effectiveness.prefix} Normal effectiveness",
+            "super": "${Effectiveness.prefix} Super effective"
         }
     }
 }
