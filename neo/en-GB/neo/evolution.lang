@@ -64,7 +64,7 @@
             "randomPersonality": "Random chance based on personality value"
         },
         "moveStyle": {
-            "strong": "Strong style",
+            "strong": "Strong Style",
             "agile": "Agile Style"
         },
         "stat": {
