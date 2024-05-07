@@ -42,6 +42,17 @@
                 "SHINING_PEARL": "Pokémon Shining Pearl",
                 "SCARLET": "Pokémon Scarlet",
                 "VIOLET": "Pokémon Violet"
+            },
+            "BadgeTitles": {
+                "LA": {
+                    "plates": "Arceus Plates",
+                    "star": "Rank Star"
+                },
+                "SV": {
+                    "gyms": "Gym Badges",
+                    "stars": "Operation Starfall",
+                    "titans": "Path of Legends (Titans)"
+                }
             }
         }
     }

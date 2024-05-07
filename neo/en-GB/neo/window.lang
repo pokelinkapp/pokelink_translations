@@ -37,6 +37,10 @@
                         "text": "Deleting a session is not reversible. Are you sure you want to delete ${sessionName}?",
                         "cancel": "Cancel",
                         "confirm": "Yes, delete it!"
+                    },
+                    "ImportSessions": {
+                        "title": "Importing Sessions",
+                        "text": "Please select the vuex.json file from your old pokelink instance with the file selection window"
                     }
                 }
             },
