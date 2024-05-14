@@ -23,7 +23,7 @@
             "normal": "${Effectiveness.prefix} Normal effectiveness",
             "super": "${Effectiveness.prefix} Super effective"
         },
-        "extraData": {
+        "ExtraData": {
             "catchRate": "Catch Rate",
             "levelRate": "Exp Growth",
             "baseFriendship": "Base Friendship",
@@ -43,7 +43,7 @@
             "white": "White",
             "pink": "Pink"
         },
-        "expGrowth": [
+        "ExpGrowth": [
             "Medium Fast",
             "Erratic",
             "Fluctuating",
