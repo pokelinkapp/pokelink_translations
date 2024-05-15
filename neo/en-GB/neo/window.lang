@@ -78,6 +78,15 @@
                 },
                 "isEgg": "Is Egg?"
             }
+        },
+        "Network": {
+            "Error": {
+                "ERROR_PORT_NOT_AVAILABLE": "Another program is using the port ${port}",
+                "ERROR_SESSION_NOT_LOADED": "No session is currently loaded",
+                "ERROR_UNABLE_TO_CONNECT": "Unable to connect to ${host}:${port}",
+                "ERROR_HANDSHAKE_FAILED": "Failed to connect to the server correctly. Please check the logs",
+                "ERROR_UNEXPECTED_DISCONNECTION": "Client was disconnected from the server unexpectedly"
+            }
         }
     }
 }
