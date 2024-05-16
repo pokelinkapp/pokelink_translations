@@ -73,7 +73,7 @@
                     "TwitchAccount": {
                         "Login": "Logge dich mit deinem Twitch-Konto ein",
                         "Logout": "Trenne dein Twitch-Konto",
-                        "LoggedInAs": "Eingeloggt als {twitchName}"
+                        "LoggedInAs": "Eingeloggt als ${twitchName}"
                     },
                     "TwitchBotStatus": {
                         "Start": "Bot starten",

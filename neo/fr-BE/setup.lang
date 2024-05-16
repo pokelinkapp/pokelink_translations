@@ -2,7 +2,7 @@
     "code": "fr-BE",
     "translations": {
         "Setup": {
-            "step": "Step {step}",
+            "step": "Step ${step}",
             "Steps": {
                 "SessionName": "Nom de session",
                 "GameSelection": "Selection du jeu",
@@ -59,13 +59,13 @@
                 "CheckForX64": "Vérifiez si l'émulateur est \"x64\" en place de \"x86\" ou demandez dans discord",
                 "MultipleEmulatorsDetected": "Plusieurs émulateurs détectés",
                 "NoEmulatorsFound": "Aucun émulateur trouvé, pourriez-vous cliquer pour réessayer?",
-                "EmulatorFound": "Émulateur détecté! (en utilisant {emulator})",
+                "EmulatorFound": "Émulateur détecté! (en utilisant ${emulator})",
                 "SelectADetectedEmulatorLong": "Veuillez sélectionner l'un des émulateurs que nous avons trouvés en cours d'exécution :",
                 "SelectADetectedEmulatorShort": "Sélectionnez un émulateur",
-                "DoesNotSupportGeneration": "{emulator} (Ne supporte pas gen {generation})",
+                "DoesNotSupportGeneration": "${emulator} (Ne supporte pas gen {generation})",
                 "DetectionIsPaused": "Détection de l'émulateur est pausé",
                 "WaitingForGameData": "En attente des données du jeu...",
-                "ConnectingToEmulator": "Tentative de connexion automatique à {emulator}",
+                "ConnectingToEmulator": "Tentative de connexion automatique à ${emulator}",
                 "LoadLuaScriptIntoEmulator": "Chargez le script Lua dans votre émulateur",
                 "Instructions": {
                     "VBA-RR": "Cela peut être fait par sélectionner <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> dedans VBA-ReRecording <em>(Assurez-vous de ne pas fermer la fenêtre de script cependant, vous pouvez le minimiser)</em",
@@ -82,7 +82,7 @@
                             "Message": "Le ROM doit être déposée à l'étape précédente pour utiliser Bizhawk"
                         },
                         "BadBizhawkVersion": {
-                            "Message": "Bizhawk version must be {version}"
+                            "Message": "Bizhawk version must be ${version}"
                         }
                     }
                 }

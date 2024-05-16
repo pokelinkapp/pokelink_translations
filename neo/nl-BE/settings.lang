@@ -73,7 +73,7 @@
                     "TwitchAccount": {
                         "Login": "Login met uw twitchaccount",
                         "Logout": "Log uw Twitchaccount uit",
-                        "LoggedInAs": "Ingelogd als {twitchName}"
+                        "LoggedInAs": "Ingelogd als ${twitchName}"
                     },
                     "TwitchBotStatus": {
                         "Start": "Start Bot",

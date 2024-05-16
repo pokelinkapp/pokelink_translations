@@ -2,7 +2,7 @@
     "code": "no",
     "translations": {
         "Setup": {
-            "step": "Step {step}",
+            "step": "Step ${step}",
             "Steps": {
                 "SessionName": "Spill Navn",
                 "GameSelection": "Spill Velger",
@@ -59,13 +59,13 @@
                 "CheckForX64": "Sjekk at Emulatoren din er \"x64\" og ikke \"x86\" eller spør på Discord",
                 "MultipleEmulatorsDetected": "Flere Emulatorer er funnet åpne",
                 "NoEmulatorsFound": "Ingen Emulatorer er funnet, trykk her for å prøve igjen?",
-                "EmulatorFound": "Emulator Funnet! (bruker {emulator})",
+                "EmulatorFound": "Emulator Funnet! (bruker ${emulator})",
                 "SelectADetectedEmulatorLong": "Vennligst velg én av Emulatorene som vi fant gående:",
                 "SelectADetectedEmulatorShort": "Velg en Emulator",
-                "DoesNotSupportGeneration": "{emulator} (støtter ikke Gen {generation})",
+                "DoesNotSupportGeneration": "${emulator} (støtter ikke Gen {generation})",
                 "DetectionIsPaused": "Emulator tilkobling pauset",
                 "WaitingForGameData": "Avventer Spill data...",
-                "ConnectingToEmulator": "Forsøker å koble automatisk til {emulator}",
+                "ConnectingToEmulator": "Forsøker å koble automatisk til ${emulator}",
                 "LoadLuaScriptIntoEmulator": "Last opp \"Lua Script\" i din Emulator",
                 "Instructions": {
                     "VBA-RR": "Dette kan bli gjort ved å åpne <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> inni VBA-ReRecording <em>(Sørg for å ikke lukke det nye Script vinduet, men du kan minimere den)</em",
@@ -82,7 +82,7 @@
                             "Message": "ROM needs to be dropped in the previous step to use Bizhawk"
                         },
                         "BadBizhawkVersion": {
-                            "Message": "Bizhawk version must be {version}"
+                            "Message": "Bizhawk version must be ${version}"
                         }
                     }
                 }

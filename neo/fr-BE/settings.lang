@@ -71,7 +71,7 @@
                     "TwitchAccount": {
                         "Login": "Login with your Twitch account",
                         "Logout": "Disconnect your Twitch account",
-                        "LoggedInAs": "Logged in as {twitchName}"
+                        "LoggedInAs": "Logged in as ${twitchName}"
                     },
                     "TwitchBotStatus": {
                         "Start": "Start Bot",

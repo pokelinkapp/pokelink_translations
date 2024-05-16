@@ -7,11 +7,27 @@ const getDirectories = source =>
 
 const dirs = getDirectories('./')
 
+function loop(json) {
+    for (let item in json) {
+        if (typeof json[item] === 'object') {
+            loop(json[item])
+        } else if (typeof json[item] === 'string') {
+            let val = json[item]
+            
+            if (val.indexOf('{') > -1) {
+                json[item] = val.replace('{', '${')
+            }
+        }
+    }
+}
+
 for (const dir of dirs) {
     if (dir === 'neo') {
         continue
     }
     const data = (await import(`./${dir}/index.js`)).default
+    
+    loop(data)
 
     var metaData = {
         code: data.code,

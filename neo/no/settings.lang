@@ -73,7 +73,7 @@
                     "TwitchAccount": {
                         "Login": "Logg inn med din twitch bruker",
                         "Logout": "Koble av din Twitch bruker",
-                        "LoggedInAs": "Logget inn som {twitchName}"
+                        "LoggedInAs": "Logget inn som ${twitchName}"
                     },
                     "TwitchBotStatus": {
                         "Start": "Start Bott",

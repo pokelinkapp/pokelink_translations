@@ -71,8 +71,8 @@
                 "Shortcuts": {
                     "Global": {
                         "Badges": {
-                            "Title": "Global shortcut for Badge {badge}",
-                            "Description": "Shortcut to toggle badge {badge} on/off."
+                            "Title": "Global shortcut for Badge ${badge}",
+                            "Description": "Shortcut to toggle badge ${badge} on/off."
                         }
                     }
                 }
@@ -82,7 +82,7 @@
                     "TwitchAccount": {
                         "Login": "Login with your Twitch account",
                         "Logout": "Disconnect your Twitch account",
-                        "LoggedInAs": "Logged in as {twitchName}"
+                        "LoggedInAs": "Logged in as ${twitchName}"
                     },
                     "TwitchBotStatus": {
                         "Start": "Start Bot",
