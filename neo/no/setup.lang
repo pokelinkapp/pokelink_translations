@@ -62,7 +62,7 @@
                 "EmulatorFound": "Emulator Funnet! (bruker ${emulator})",
                 "SelectADetectedEmulatorLong": "Vennligst velg én av Emulatorene som vi fant gående:",
                 "SelectADetectedEmulatorShort": "Velg en Emulator",
-                "DoesNotSupportGeneration": "${emulator} (støtter ikke Gen {generation})",
+                "DoesNotSupportGeneration": "${emulator} (støtter ikke Gen ${generation})",
                 "DetectionIsPaused": "Emulator tilkobling pauset",
                 "WaitingForGameData": "Avventer Spill data...",
                 "ConnectingToEmulator": "Forsøker å koble automatisk til ${emulator}",

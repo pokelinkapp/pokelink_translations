@@ -15,7 +15,7 @@ function loop(json) {
             let val = json[item]
             
             if (val.indexOf('{') > -1) {
-                json[item] = val.replace('{', '${')
+                json[item] = val.replace(/{/g, '${')
             }
         }
     }

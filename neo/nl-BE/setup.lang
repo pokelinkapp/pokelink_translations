@@ -62,7 +62,7 @@
                 "EmulatorFound": "Emulator gedetecteerd! (${emulator} in gebruik)",
                 "SelectADetectedEmulatorLong": "Gelieve een van de emulators te selecteren die op het moment draaien:",
                 "SelectADetectedEmulatorShort": "Selecteer een Emulator",
-                "DoesNotSupportGeneration": "${emulator} (Ondersteunt gen {generation} niet)",
+                "DoesNotSupportGeneration": "${emulator} (Ondersteunt gen ${generation} niet)",
                 "DetectionIsPaused": "Emulator detectie gepauseerd",
                 "WaitingForGameData": "Aan het wachten op speelinformatie...",
                 "ConnectingToEmulator": "Poging tot automatische verbinding met ${emulator}",

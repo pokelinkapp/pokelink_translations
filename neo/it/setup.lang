@@ -62,7 +62,7 @@
                 "EmulatorFound": "Rilevato Emulatore! (${emulator} è attivo)",
                 "SelectADetectedEmulatorLong": "Seleziona uno degli emulatori rilevati:",
                 "SelectADetectedEmulatorShort": "Seleziona un Emulatore",
-                "DoesNotSupportGeneration": "${emulator} (Gen {generation} non supportata)",
+                "DoesNotSupportGeneration": "${emulator} (Gen ${generation} non supportata)",
                 "DetectionIsPaused": "Rilevamento Emulatore in pausa",
                 "WaitingForGameData": "In attesa di dati di Gioco...",
                 "ConnectingToEmulator": "Tentativo di connessione automatica a ${emulator}",

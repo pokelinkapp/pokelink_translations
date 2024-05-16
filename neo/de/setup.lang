@@ -62,7 +62,7 @@
                 "EmulatorFound": "Emulator erkannt! (Verwendet wird ${emulator})",
                 "SelectADetectedEmulatorLong": "Bitte wählen Sie einen der Emulatoren aus, die grade laufen:",
                 "SelectADetectedEmulatorShort": "Wählen Sie einen Emulator aus",
-                "DoesNotSupportGeneration": "${emulator} (Unterstützt nicht die Generation {generation})",
+                "DoesNotSupportGeneration": "${emulator} (Unterstützt nicht die Generation ${generation})",
                 "DetectionIsPaused": "Emulator-Erkennung pausiert",
                 "WaitingForGameData": "Warten auf Spieldaten...",
                 "ConnectingToEmulator": "Versucht, automatisch eine Verbindung mit ${emulator} herzustellen",
