@@ -1,0 +1,10 @@
+﻿{    "code": "en-GB",
+    "translations": {
+        "Setup": {
+            "Initial": {
+                "typeOfRun": "Type of Run",
+                "connectionSetup": "Connection Setup"
+            }
+        }
+    }
+}
