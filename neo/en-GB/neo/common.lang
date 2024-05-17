@@ -5,7 +5,9 @@
             "noItems": "No items matched your criteria",
             "endSession": "End Session",
             "none": "None",
-            "unknown": "Unknown"
+            "unknown": "Unknown",
+            "continue": "Continue",
+            "reset": "Reset"
         },
         "Gender": {
             "male": "Male",
