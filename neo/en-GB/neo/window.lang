@@ -87,6 +87,11 @@
                 "ERROR_HANDSHAKE_FAILED": "Failed to connect to the server correctly. Please check the logs",
                 "ERROR_UNEXPECTED_DISCONNECTION": "Client was disconnected from the server unexpectedly"
             }
+        },
+        "WebSources": {
+            "partySources": "Party Sources",
+            "badgeSources": "Badge Sources",
+            "deathSources": "Death Sources"
         }
     }
 }

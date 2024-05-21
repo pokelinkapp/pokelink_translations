@@ -7,7 +7,8 @@
             "none": "None",
             "unknown": "Unknown",
             "continue": "Continue",
-            "reset": "Reset"
+            "reset": "Reset",
+            "openInBrowser": "Open in browser"
         },
         "Gender": {
             "male": "Male",
