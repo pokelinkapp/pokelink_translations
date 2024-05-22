@@ -8,7 +8,9 @@
             "unknown": "Unknown",
             "continue": "Continue",
             "reset": "Reset",
-            "openInBrowser": "Open in browser"
+            "openInBrowser": "Open in browser",
+            "yes": "Yes",
+            "no": "No"
         },
         "Gender": {
             "male": "Male",

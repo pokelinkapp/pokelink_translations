@@ -77,6 +77,17 @@
                     "general": "General"
                 },
                 "isEgg": "Is Egg?"
+            },
+            "Notification": {
+                "playerJoined": "${player} has connected",
+                "playerLeft": "${player} has disconnected",
+                "serverStarted": "Server started on port ${port}",
+                "serverStopped": "Server stopped",
+                "connected": "Connected to ${host}:${port}",
+                "WebSource": {
+                    "team": "Team browser source copied to clipboard",
+                    "badges": "Badges browser source copied to clipboard"
+                }
             }
         },
         "Network": {
