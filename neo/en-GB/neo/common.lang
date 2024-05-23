@@ -10,7 +10,8 @@
             "reset": "Reset",
             "openInBrowser": "Open in browser",
             "yes": "Yes",
-            "no": "No"
+            "no": "No",
+            "errorOccured": "An error occured",
         },
         "Gender": {
             "male": "Male",

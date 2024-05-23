@@ -97,7 +97,8 @@
                 "ERROR_UNABLE_TO_CONNECT": "Unable to connect to ${host}:${port}",
                 "ERROR_HANDSHAKE_FAILED": "Failed to connect to the server correctly. Please check the logs",
                 "ERROR_UNEXPECTED_DISCONNECTION": "Client was disconnected from the server unexpectedly"
-            }
+            },
+            "connectingToServer": "Connecting to ${host}:${port}"
         }
     }
 }
