@@ -1,0 +1,9 @@
+﻿{
+    "code": "en-GB",
+    "translations": {
+        "NuzlockeTools": {
+            "showdownCopied": "Showdown data copied to your clipboard",
+            "showOnlyMissing": "Show only missing encounters"
+        }
+    }
+}
