@@ -35,7 +35,7 @@ for (const dir of dirs) {
         label: data.label
     }
 
-    writeFileSync(`./neo/${dir}/meta.lang`, JSON.stringify(metaData, null, 4))
+    writeFileSync(`../${dir}/meta.lang`, JSON.stringify(metaData, null, 4))
 
     for (let module in data.translations) {
         let moduleData = {
@@ -49,6 +49,6 @@ for (const dir of dirs) {
 
         fileName = fileName.substring(0, 1).toLowerCase() + fileName.substring(1)
 
-        writeFileSync(`./neo/${dir}/${fileName}.lang`, JSON.stringify(moduleData, null, 4))
+        writeFileSync(`../${dir}/${fileName}.lang`, JSON.stringify(moduleData, null, 4))
     }
 }
