@@ -3,7 +3,12 @@
     "translations": {
         "NuzlockeTools": {
             "showdownCopied": "Showdown data copied to your clipboard",
-            "showOnlyMissing": "Show only missing encounters"
+            "showOnlyMissing": "Show only missing encounters",
+            "RouteTracking": {
+                "caught": "Caught",
+                "ranAway": "It ran away",
+                "killed": "I killed it"
+            }
         }
     }
 }
