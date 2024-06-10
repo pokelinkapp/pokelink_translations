@@ -1,0 +1,10 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Launcher": {
+            "title": "Pokélink Updater",
+            "checkingForUpdates": "Checking for updates...",
+            "launching": "Launching Pokélink..."
+        }
+    }
+}
