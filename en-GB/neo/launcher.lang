@@ -4,7 +4,15 @@
         "Launcher": {
             "title": "Pokélink Updater",
             "checkingForUpdates": "Checking for updates...",
-            "launching": "Launching Pokélink..."
+            "launching": "Launching Pokélink...",
+            "downloadingUpdate": "Downloading Update ${downloaded}/${size} ${percent}%",
+            "validatingUpdate": "Validating Update...",
+            "extractingUpdate": "Extracting Update ${version}",
+            "downloadingRuntime": "Downloading Runtime ${downloaded}/${size} ${percent}%",
+            "validatingRuntime": "Validating Runtime...",
+            "extractingRuntime": "Extracting Runtime ${version}",
+            "validatingApp": "Validating App...",
+            "validatingAppVersion": "Validating App ${version}..."
         }
     }
 }
