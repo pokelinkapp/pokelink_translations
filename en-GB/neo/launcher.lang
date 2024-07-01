@@ -4,6 +4,7 @@
         "Launcher": {
             "title": "Pokélink Updater",
             "checkingForUpdates": "Checking for updates...",
+            "downloadingLauncher": "Downloading new Updater",
             "launching": "Launching Pokélink...",
             "downloadingUpdate": "Downloading Update",
             "validatingUpdate": "Validating Update...",
