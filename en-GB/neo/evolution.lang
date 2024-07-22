@@ -38,7 +38,8 @@
                 "walkXStepsInLetsGoMode": "Walk ${value} steps whilst in Let's go mode",
                 "multiplayer": "Evolves during multiplayer session",
                 "gimmighoulCoins": "Whilst carrying ${value} Gimmighoul Coins"
-            }
+            },
+            "go": "Pokemon Go"
         },
         "timeOfDay": {
             "night": "Night time",
