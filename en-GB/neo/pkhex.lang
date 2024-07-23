@@ -2,7 +2,8 @@
     "code": "en-GB",
     "pkhex": {
         "nature": {
-            "25": "N/A"
+            "25": "N/A",
+            "none": "${pkhex.nature.25}"
         }
     }
 }
