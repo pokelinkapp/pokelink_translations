@@ -1,0 +1,14 @@
+{
+    "code": "fr-BE",
+    "translations": {
+        "Translation": {
+            "Error": {
+                "invalidId": "id must be between 0 and 65535",
+                "missingGameStrings": "Game strings are missing. Please report to Pokélink devs",
+                "maxLoop": "Too many loops in translation string",
+                "noValidLocationSet": "${game} does not have a valid location set",
+                "noSession": "A session is not currently loaded"
+            }
+        }
+    }
+}

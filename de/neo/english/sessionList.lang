@@ -1,0 +1,11 @@
+﻿{
+    "code": "de",
+    "translations": {
+        "SessionError": {
+            "title": "An error occured loading your session",
+            "SESSION_DOESNT_EXIST": "The session with the id: ${guid} was not found",
+            "FILE_DOESNT_EXIST": "Could not find the file for the session ${sessionName}",
+            "INVALID_SESSION_FILE": "The session file for ${sessionName} may be corrupt or damaged. It is recommended to delete this session"
+        }
+    }
+}

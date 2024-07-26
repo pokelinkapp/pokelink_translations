@@ -1,5 +1,5 @@
 {
-    "code": "en-GB",
+    "code": "no",
     "translations": {
         "Game": {
             "Category": {
@@ -30,8 +30,8 @@
                 "DIAMOND": "Pokémon Diamond",
                 "PEARL": "Pokémon Pearl",
                 "PLATINUM": "Pokémon Platinum",
-                "HEART_GOLD": "Pokémon HeartGold",
-                "SOUL_SILVER": "Pokémon SoulSilver",
+                "HEART_GOLD": "Pokémon Heart Gold",
+                "SOUL_SILVER": "Pokémon Soul Silver",
                 "BLACK": "Pokémon Black",
                 "WHITE": "Pokémon White",
                 "BLACK_2": "Pokémon Black 2",
@@ -44,8 +44,8 @@
                 "MOON": "Pokémon Moon",
                 "ULTRA_SUN": "Pokémon Ultra Sun",
                 "ULTRA_MOON": "Pokémon Ultra Moon",
-                "LETS_GO_EEVEE": "Pokémon Let's Go, Eevee",
-                "LETS_GO_PIKACHU": "Pokémon Let's Go, Pikachu",
+                "LETS_GO_EEVEE": "Pokémon Let's Go Eevee",
+                "LETS_GO_PIKACHU": "Pokémon Let's Go Pikachu",
                 "SWORD": "Pokémon Sword",
                 "SHIELD": "Pokémon Shield",
                 "LEGENDS_ARCEUS": "Pokémon Legends: Arceus",

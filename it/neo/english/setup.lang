@@ -1,0 +1,43 @@
+﻿{
+    "code": "it",
+    "translations": {
+        "Setup": {
+            "Initial": {
+                "typeOfRun": "Type of Run",
+                "connectionSetup": "Connection Setup"
+            },
+            "ServerConfig": {
+                "startServerUPNP": [
+                    "You need to start the server! If you are going to connect to another",
+                    "Pokélink instance for multiplayer purposes, make sure you have the port",
+                    "open!"
+                ],
+                "startServer": [
+                    "You need to start the server! If you are going to connect to another",
+                    "Pokélink instance for multiplayer purposes"
+                ],
+                "currentlyConnectedTo": "You're currently connected to",
+                "Username": {
+                    "hint": "A username you'll use for your web sources",
+                    "disabledText": "You can't change username while you're connected"
+                },
+                "ServerIP": {
+                    "disabledText": "You can't change server address while you're connected"
+                },
+                "ServerPort": {
+                    "disabledText": "You can't change port while you're connected",
+                    "disabledTextServer": "You can't change port while server is running",
+                    "hint": "Don't change this field unless you know what you're doing"
+                },
+                "CreateSession": {
+                    "startServer": "Create session and start server",
+                    "connect": "Create session and connect"
+                },
+                "startServer": "Start Local Server",
+                "stopServer": "Stop Server",
+                "connect": "Connect",
+                "disconnect": "Disconnect"
+            }
+        }
+    }
+}

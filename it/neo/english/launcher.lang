@@ -1,0 +1,34 @@
+{
+    "code": "it",
+    "translations": {
+        "Launcher": {
+            "title": "Pokélink Updater",
+            "checkingForUpdates": "Checking for updates...",
+            "downloadingLauncher": "Downloading new Updater",
+            "launching": "Launching Pokélink...",
+            "downloadingUpdate": "Downloading Update",
+            "validatingUpdate": "Validating Update...",
+            "extractingUpdate": "Extracting Update ${version}",
+            "downloadingRuntime": "Downloading Runtime",
+            "validatingRuntime": "Validating Runtime...",
+            "extractingRuntime": "Extracting Runtime",
+            "validatingApp": "Validating App...",
+            "validatingAppVersion": "Validating App ${version}...",
+            "Error": {
+                "UNABLE_TO_CONNECT": {
+                    "text": "Unable to fetch update information",
+                    "btn1Text": "Retry"
+                },
+                "UNABLE_TO_VALIDATE": {
+                    "text": "Unable to validate app with server",
+                    "btn1Text": "Retry"
+                },
+                "UNABLE_TO_CONNECT_HAS_LOCAL": {
+                    "text": "Unable to fetch update information.\nWould you like to launch the local app version?",
+                    "btn1Text": "Retry",
+                    "btn2Text": "Launch"
+                }
+            }
+        }
+    }
+}

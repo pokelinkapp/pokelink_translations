@@ -1,0 +1,9 @@
+﻿{
+    "code": "de",
+    "translations": {
+        "RomDetector": {
+            "gameDetected": "Game detected as ${gameName} (Gen ${gen})",
+            "filepath": "Filepath: ${path}"
+        }
+    }
+}

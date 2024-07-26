@@ -1,0 +1,70 @@
+{
+    "code": "fr-BE",
+    "translations": {
+        "Game": {
+            "Category": {
+                "gen1": "Gen 1",
+                "gen2": "Gen 2",
+                "gen3": "Gen 3",
+                "gen4": "Gen 4",
+                "gen5": "Gen 5",
+                "gen6": "Gen 6",
+                "gen7": "Gen 7",
+                "gen8": "Gen 8",
+                "gen9": "Gen 9"
+            },
+            "Name": {
+                "UNKNOWN": "Unknown version",
+                "RED": "Pokémon Rouge",
+                "BLUE": "Pokémon Bleue",
+                "GREEN": "Pokémon Vert",
+                "YELLOW": "Pokémon Jaune",
+                "GOLD": "Pokémon Or",
+                "SILVER": "Pokémon Argent",
+                "CRYSTAL": "Pokémon Cristal",
+                "RUBY": "Pokémon Rubis",
+                "SAPPHIRE": "Pokémon Saphir",
+                "EMERALD": "Pokémon Émeraude",
+                "FIRE_RED": "Pokémon Rouge Feu",
+                "LEAF_GREEN": "Pokémon Vert Feuille",
+                "DIAMOND": "Pokémon Diamant",
+                "PEARL": "Pokémon Perle",
+                "PLATINUM": "Pokémon Platine",
+                "HEART_GOLD": "Pokémon Or HeartGold",
+                "SOUL_SILVER": "Pokémon Argent SoulSilver",
+                "BLACK": "Pokémon Noire",
+                "WHITE": "Pokémon Blanche",
+                "BLACK_2": "Pokémon Noire 2",
+                "WHITE_2": "Pokémon Blanche 2",
+                "X": "Pokémon X",
+                "Y": "Pokémon Y",
+                "OMEGA_RUBY": "Pokémon Rubis Oméga",
+                "ALPHA_SAPPHIRE": "Pokémon Saphir Alpha",
+                "SUN": "Pokémon Soleil",
+                "MOON": "Pokémon Lune",
+                "ULTRA_SUN": "Pokémon Ultra-Soleil",
+                "ULTRA_MOON": "Pokémon Ultra-Lune",
+                "LETS_GO_EEVEE": "Pokémon Let's Go, Évoli",
+                "LETS_GO_PIKACHU": "Pokémon Let's Go, Pikachu",
+                "SWORD": "Pokémon Épée",
+                "SHIELD": "Pokémon Bouclier",
+                "LEGENDS_ARCEUS": "Pokémon Légendes: Arceus",
+                "BRILLIANT_DIAMOND": "Pokémon Diamant Étincelant",
+                "SHINING_PEARL": "Pokémon Perle Scintillante",
+                "SCARLET": "Pokémon Écarlate",
+                "VIOLET": "Pokémon Violet"
+            },
+            "BadgeTitles": {
+                "LA": {
+                    "plates": "Arceus Plates",
+                    "star": "Rank Star"
+                },
+                "SV": {
+                    "gyms": "Gym Badges",
+                    "stars": "Operation Starfall",
+                    "titans": "Path of Legends (Titans)"
+                }
+            }
+        }
+    }
+}

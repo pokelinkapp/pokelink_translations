@@ -1,0 +1,9 @@
+﻿{
+    "code": "fr-BE",
+    "translations": {
+        "Settings": {
+            "logsCopied": "Log data copied to your clipboard",
+            "appLanguage": "App Language"
+        }
+    }
+}

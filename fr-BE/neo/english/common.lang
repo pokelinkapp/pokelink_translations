@@ -1,0 +1,65 @@
+{
+    "code": "fr-BE",
+    "translations": {
+        "Common": {
+            "noItems": "No items matched your criteria",
+            "endSession": "End Session",
+            "none": "None",
+            "unknown": "Unknown",
+            "continue": "Continue",
+            "reset": "Reset",
+            "openInBrowser": "Open in browser",
+            "yes": "Yes",
+            "no": "No",
+            "errorOccured": "An error occured",
+        },
+        "Gender": {
+            "male": "Male",
+            "female": "Female",
+            "genderless": "Genderless"
+        },
+        "Pokerus": {
+            "infected": "Infected with Pokerus",
+            "no": "No"
+        },
+        "Effectiveness": {
+            "prefix": "${type} → ${against} =",
+            "no": "${Effectiveness.prefix} No effect",
+            "notVery": "${Effectiveness.prefix} Not very effective",
+            "normal": "${Effectiveness.prefix} Normal effectiveness",
+            "super": "${Effectiveness.prefix} Super effective"
+        },
+        "ExtraData": {
+            "catchRate": "Catch Rate",
+            "levelRate": "Exp Growth",
+            "baseFriendship": "Base Friendship",
+            "color": "Color",
+            "hatchTime": "Hatch Time",
+            "steps": "steps"
+        },
+        "color": {
+            "red": "Red",
+            "blue": "Blue",
+            "yellow": "Yellow",
+            "green": "Green",
+            "black": "Black",
+            "brown": "Brown",
+            "purple": "Purple",
+            "gray": "Gray",
+            "white": "White",
+            "pink": "Pink"
+        },
+        "ExpGrowth": [
+            "Medium Fast",
+            "Erratic",
+            "Fluctuating",
+            "Medium Slow",
+            "Fast",
+            "Slow"
+        ],
+        "BaseStatsTable": {
+            "name": "Name",
+            "value": "Value"
+        }
+    }
+}
