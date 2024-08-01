@@ -70,9 +70,9 @@
             "agile": "Agile Style"
         },
         "stat": {
-            "stat.attack>defense": "Attack > Defense",
-            "stat.attack<defense": "Attack < Defense",
-            "stat.attack=defense": "Attack = Defense"
+            "attack>defense": "Attack > Defense",
+            "attack<defense": "Attack < Defense",
+            "attack=defense": "Attack = Defense"
         },
         "trait": {
             "beauty": "Beauty"
