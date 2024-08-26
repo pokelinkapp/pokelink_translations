@@ -1,8 +1,10 @@
 ﻿{
     "code": "no",
     "pkhex": {
+        "language": "en",
         "nature": {
-            "25": "N/A"
+            "25": "N/A",
+            "none": "${pkhex.nature.25}"
         }
     }
 }

@@ -33,10 +33,17 @@
                     "startServer": "Create session and start server",
                     "connect": "Create session and connect"
                 },
-                "startServer": "Start Local Server",
-                "stopServer": "Stop Server",
-                "connect": "Connect",
-                "disconnect": "Disconnect"
+                "Button": {
+                    "startServer": "Start Local Server",
+                    "stopServer": "Stop Server",
+                    "connect": "Connect",
+                    "disconnect": "Disconnect"
+                }
+            },
+            "Emulator": {
+                "Instructions": {
+                    "Bizhawk": "Pokélink automatically generated a lua script for your session. We closed Bizhawk, and launched it again with the lua script injected for you!"
+                }
             }
         }
     }

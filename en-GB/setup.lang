@@ -69,8 +69,7 @@
                 "LoadLuaScriptIntoEmulator": "Load the Lua Script into your emulator",
                 "Instructions": {
                     "VBA-RR": "This can be done by going to <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> inside <em>VBA-ReRecording</em> <em>(Be sure not to close the script window, you can minimize it though)</em",
-                    "DeSmuME": "This can be done by going to <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</em> <em>(Be sure not to close the script window, you can minimize it though)</em>",
-                    "Bizhawk": "Pokélink automatically generated a lua script for your session. We closed Bizhawk, and launched it again with the lua script injected for you!"
+                    "DeSmuME": "This can be done by going to <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> inside of <em>DeSmuME</em> <em>(Be sure not to close the script window, you can minimize it though)</em>"
                 },
                 "Errors": {
                     "Bizhawk": {
