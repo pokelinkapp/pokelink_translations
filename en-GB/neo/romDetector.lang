@@ -2,8 +2,9 @@
     "code": "en-GB",
     "translations": {
         "RomDetector": {
-            "gameDetected": "Game detected as ${gameName} (Gen ${gen})",
-            "filepath": "Filepath: ${path}"
+            "gameDetected": "Game detected as ${gameName}${subtitle} (Gen ${gen})",
+            "filepath": "Filepath: ${path}",
+            "dragRom": "Drag the rom you want to play onto this window"
         }
     }
 }

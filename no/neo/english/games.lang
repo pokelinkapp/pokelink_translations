@@ -2,6 +2,10 @@
     "code": "no",
     "translations": {
         "Game": {
+            "Subtitle": {
+                "english": "English",
+                "europe": "Europe"
+            },
             "Category": {
                 "gen1": "Gen 1",
                 "gen2": "Gen 2",

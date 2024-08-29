@@ -3,7 +3,8 @@
     "translations": {
         "RomDetector": {
             "gameDetected": "Game detected as ${gameName} (Gen ${gen})",
-            "filepath": "Filepath: ${path}"
+            "filepath": "Filepath: ${path}",
+            "dragRom": "Drag the rom you want to play onto this window"
         }
     }
 }
