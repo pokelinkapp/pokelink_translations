@@ -2,6 +2,9 @@
     "code": "fr-BE",
     "translations": {
         "Setup": {
+            "Steps": {
+                "romSupport": "Rom Support"
+            },
             "Initial": {
                 "typeOfRun": "Type of Run",
                 "connectionSetup": "Connection Setup"

@@ -1,0 +1,15 @@
+{
+    "code": "nl-BE",
+    "translations": {
+        "Features": {
+            "Pokelink": {
+                "KnownIssues": {
+                    
+                },
+                "badgeTracking": "Automatic badge tracking",
+                "partyTracking": "Automatic tracking of Pokémon in your party",
+                "battleUpdates": "Automatic updates during battle"
+            }
+        }
+    }
+}

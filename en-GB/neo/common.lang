@@ -12,6 +12,7 @@
             "yes": "Yes",
             "no": "No",
             "errorOccured": "An error occured",
+            "back": "Back"
         },
         "Gender": {
             "male": "Male",
