@@ -1,0 +1,15 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Emulator": {
+            "Error": {
+                "Bizhawk": {
+                    "missingMono": "Please install the mono package for your distro",
+                    "missingDotFx": "Please install dotnet v4.8 or run Bizhawk's prerequisite installer",
+                    "unsupportedOS": "Bizhawk does not run on this OS"
+                },
+                "invalidEmulator": "The selected emulator exe is not valid"
+            }
+        }
+    }
+}
