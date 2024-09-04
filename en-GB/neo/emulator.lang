@@ -2,13 +2,17 @@
     "code": "en-GB",
     "translations": {
         "Emulator": {
+            "bizhawk": "Bizhawk",
+            "emulator": "Emulator: ${emulator}",
             "Error": {
                 "Bizhawk": {
                     "missingMono": "Please install the mono package for your distro",
                     "missingDotFx": "Please install dotnet v4.8 or run Bizhawk's prerequisite installer",
-                    "unsupportedOS": "Bizhawk does not run on this OS"
+                    "unsupportedOS": "Bizhawk does not run on this OS",
+                    "missingLaunchScript": "Emulator is missing it's launch script EmuHawkMono.sh"
                 },
-                "invalidEmulator": "The selected emulator exe is not valid"
+                "invalidEmulator": "The selected emulator exe is not valid",
+                "invalidEmulatorTitle": "Invalid Emulator"
             }
         }
     }

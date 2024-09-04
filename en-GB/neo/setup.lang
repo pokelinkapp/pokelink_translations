@@ -43,9 +43,16 @@
                     "disconnect": "Disconnect"
                 }
             },
+            "RomType": {
+                "Selection": {
+                    "title": "Select a rom",
+                    "text": "Use the file dialog to pick your rom"
+                }
+            },
             "Emulator": {
-                "Instructions": {
-                    "Bizhawk": "Pokélink automatically generated a lua script for your session. We closed Bizhawk, and launched it again with the lua script injected for you!"
+                "Selection": {
+                    "title": "Select your emulator",
+                    "text": "Use the file dialog to pick your emulator"
                 }
             }
         }
