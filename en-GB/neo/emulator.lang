@@ -13,6 +13,21 @@
                 },
                 "invalidEmulator": "The selected emulator exe is not valid",
                 "invalidEmulatorTitle": "Invalid Emulator"
+            },
+            "Starting": {
+                "title": "Starting emulator",
+                "description": "Please wait whilst we launch and connect to the emulator"
+            },
+            "Setup": {
+                "existing": "Use existing emulator",
+                "setupNew": "Select different emulator",
+                "installDependencies": "(You will need to install dependencies)",
+                "downloadAndInstall": "Allow Pokélink to download and install ${emulator}",
+                "downloadAndInstallDependencies": "Allow Pokélink to download and install ${emulator}'s dependencies",
+                "supplyZip": "Supply zip",
+                "useZip": "Drag and drop ${emulator}'s zip into this window and Pokélink will set it up for you ${Emulator.Setup.installDependencies}",
+                "manuallySelect": "Manually select",
+                "useExe": "Drag and drop ${emulator}'s exe into this window and Pokélink will set it up for you ${Emulator.Setup.installDependencies}"
             }
         }
     }
