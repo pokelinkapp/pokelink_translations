@@ -34,6 +34,11 @@
                     "text": "Unable to fetch update information.\nWould you like to launch the local app version?",
                     "btn1Text": "Retry",
                     "btn2Text": "Launch"
+                },
+                "UPDATE_CONSENT": {
+                    "text": "Update ${update} is now available\nWould you like to update?",
+                    "btn1Text": "Yes",
+                    "btn2Text": "No"
                 }
             }
         }
