@@ -87,7 +87,9 @@
                 "WebSource": {
                     "team": "Team browser source copied to clipboard",
                     "badges": "Badges browser source copied to clipboard"
-                }
+                },
+                "emulatorReconnected": "Communication with the emulator has been restored",
+                "emulatorDisconnected": "Communication with the emulator was interrupted. You may need to save your game, close the emulator and restart the session"
             }
         },
         "Network": {
