@@ -3,6 +3,28 @@
     "translations": {
         "Pokelink": {
             "KeyBind": {
+                "changeShortcut": "Change shortcut",
+                "RebindShortcut": {
+                    "title": "Rebinding shortcut",
+                    "description": "${event}: ${keys}",
+                    "setKeyBind": "Set shortcut",
+                    "noKeyBindSet": "No shortcut set",
+                    "resetKeyBind": "Reset"
+                },
+                "RebindError": {
+                    "invalidKeyBind": {
+                        "title": "Invalid Shortcut",
+                        "description": "Please try another key combination"
+                    },
+                    "keyBindExists": {
+                        "title": "Another event is using this shortcut",
+                        "description": "Unable to set shortcut for ${event}. Shortcut is in use by ${existingEvent}"
+                    },
+                    "invalidEvent": {
+                        "title": "Invalid Event",
+                        "description": "${event} is not a valid event"
+                    }
+                },
                 "Plate": {
                     "category": "Arceus Plates"
                 },

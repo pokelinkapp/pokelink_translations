@@ -15,7 +15,8 @@
             "back": "Back",
             "next": "Next",
             "previous": "Previous",
-            "agree": "Agree"
+            "agree": "Agree",
+            "cancel": "Cancel"
         },
         "Gender": {
             "male": "Male",
