@@ -1,0 +1,25 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Import": {
+            "Vuex": {
+                "Steps": {
+                    "selectFile": "Select vuex file",
+                    "selectSessions": "Select sessions"
+                },
+                "VuexSelection": {
+                    "title": "Select a file",
+                    "text": "Use the file dialog to pick your old vuex file"
+                },
+                "Error": {
+                    "invalidFile": "The file provided is not a valid vuex json file",
+                    "noSessions": "The file provided did not have any sessions to import",
+                    "NO_AUTO": "Auto support for this game is not available",
+                    "GAME_NOT_RECOGNISED": "Game is not recognised"
+                },
+                "cancel": "Cancel import",
+                "dragFile": "Drag your old vuex.json file onto this window"
+            }
+        }
+    }
+}
