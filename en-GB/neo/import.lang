@@ -5,17 +5,29 @@
             "Vuex": {
                 "Steps": {
                     "selectFile": "Select vuex file",
-                    "selectSessions": "Select sessions"
+                    "selectSessions": "Select sessions",
+                    "processSessionsWithCount": "${Import.Vuex.Steps.processSessions} (${current}/${max})",
+                    "processSessions": "Import sessions"
                 },
                 "VuexSelection": {
                     "title": "Select a file",
                     "text": "Use the file dialog to pick your old vuex file"
                 },
+                "Process": {
+                    "processingWithCount": "${Import.Vuex.Process.processing} (${current}/${max})",
+                    "processing": "Processing ${sessionName}"
+                },
                 "Error": {
                     "invalidFile": "The file provided is not a valid vuex json file",
                     "noSessions": "The file provided did not have any sessions to import",
-                    "NO_AUTO": "Auto support for this game is not available",
-                    "GAME_NOT_RECOGNISED": "Game is not recognised"
+                    "ImportError": {
+                        "NO_AUTO": "Auto support for this game is not available",
+                        "GAME_NOT_RECOGNISED": "Game is not recognised"
+                    },
+                    "SessionParseError": {
+                        "UNKNOWN_ERROR": "Unable to parse session \"${sessionName}\"(${sessionId}) please read the logs for more information",
+                        "ROM_LOCATION_NOT_FOUND": ""
+                    }
                 },
                 "cancel": "Cancel import",
                 "dragFile": "Drag your old vuex.json file onto this window"
