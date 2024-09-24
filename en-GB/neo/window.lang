@@ -42,7 +42,13 @@
                         "title": "Importing Sessions",
                         "text": "Please select the vuex.json file from your old pokelink instance with the file selection window"
                     }
-                }
+                },
+                "active": "Active",
+                "archived": "Archived",
+                "badges": "Badges",
+                "managed": "Managed",
+                "identity": "Ident",
+                "lastPlayed": "Last Played"
             },
             "Party": {
                 "edit": "Edit Pokémon",
@@ -65,7 +71,8 @@
                     "LOCATION_MET": "Location Met",
                     "EVS": "EVs",
                     "IVS": "IVs"
-                }
+                },
+                "you": "you"
             },
             "PokemonEditor": {
                 "title": "Pokémon Editor - Slot ${slotId}",
