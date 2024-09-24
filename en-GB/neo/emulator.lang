@@ -12,7 +12,9 @@
                     "missingLaunchScript": "Emulator is missing it's launch script EmuHawkMono.sh"
                 },
                 "invalidEmulator": "The selected emulator exe is not valid",
-                "invalidEmulatorTitle": "Invalid Emulator"
+                "invalidEmulatorTitle": "Invalid Emulator",
+                "unsupportedEmulatorVersion": "Unsupported version of ${emulator}. Pokélink supports: ${supportedVersions}",
+                "unknownEmulatorVersion": "Unknown version of ${emulator}"
             },
             "Starting": {
                 "title": "Starting emulator",
@@ -21,13 +23,9 @@
             "Setup": {
                 "existing": "Use existing emulator",
                 "setupNew": "Select different emulator",
-                "installDependencies": "(You will need to install dependencies)",
-                "downloadAndInstall": "Allow Pokélink to download and install ${emulator}",
-                "downloadAndInstallDependencies": "Allow Pokélink to download and install ${emulator}'s dependencies",
-                "supplyZip": "Supply zip",
-                "useZip": "Drag and drop ${emulator}'s zip into this window and Pokélink will set it up for you ${Emulator.Setup.installDependencies}",
-                "manuallySelect": "Manually select",
-                "useExe": "Drag and drop ${emulator}'s exe into this window and Pokélink will set it up for you ${Emulator.Setup.installDependencies}"
+                "download": "Download ${emulator}",
+                "dropFile": "Drag and drop ${emulator}'s archive or exe into the window",
+                "invalidFile": "Invalid file selected"
             }
         }
     }
