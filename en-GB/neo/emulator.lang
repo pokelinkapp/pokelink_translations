@@ -23,7 +23,8 @@
             "Setup": {
                 "existing": "Use existing emulator",
                 "setupNew": "Select different emulator",
-                "download": "Download ${emulator}",
+                "downloadEmulator": "Download ${emulator}",
+                "downloadPreReq": "Download ${emulator}'s dependencies",
                 "dropFile": "Drag and drop ${emulator}'s archive or exe into the window",
                 "invalidFile": "Invalid file selected"
             }
