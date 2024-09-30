@@ -10,12 +10,12 @@
                 "connectionSetup": "Connection Setup"
             },
             "ServerConfig": {
-                "startServerUPNP": [
+                "startServerPortForward": [
                     "You need to start the server! If you are going to connect to another",
                     "Pokélink instance for multiplayer purposes, make sure you have the port",
                     "open!"
                 ],
-                "startServer": [
+                "startServerUPNP": [
                     "You need to start the server! If you are going to connect to another",
                     "Pokélink instance for multiplayer purposes"
                 ],
@@ -41,7 +41,9 @@
                     "stopServer": "Stop Server",
                     "connect": "Connect",
                     "disconnect": "Disconnect"
-                }
+                },
+                "enableWebSources": "Enable Websources",
+                "enableUPNP": "Allow Pokelink to open the port on your router(UPNP)"
             },
             "RomType": {
                 "Selection": {
