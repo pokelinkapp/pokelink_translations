@@ -43,6 +43,15 @@
                         "text": "Please select the vuex.json file from your old pokelink instance with the file selection window"
                     }
                 },
+                "Launch": {
+                    "LOAD_POKEDEX": "Loading Pokédex",
+                    "LOAD_TYPECHART": "Loading Type Chart",
+                    "UPDATE_POKEMON_EDITOR": "Updating Pokémon Editor",
+                    "VALIDATE_BADGES": "Validating Badges",
+                    "START_EMULATOR": "Starting Emulator",
+                    "CONNECT_TO_HOST": "Connecting to ${host}",
+                    "START_SESSION": "Starting ${name}"
+                },
                 "active": "Active",
                 "archived": "Archived",
                 "badges": "Badges",
@@ -67,7 +76,7 @@
                     "CALCULATED_STATS": "Calculated Stats",
                     "GENDER": "Gender",
                     "FRIENDSHIP": "Friendship",
-                    "POKERUS": "Pokerus",
+                    "POKERUS": "Pokérus",
                     "LOCATION_MET": "Location Met",
                     "EVS": "EVs",
                     "IVS": "IVs"
