@@ -1,0 +1,65 @@
+{
+    "code": "de",
+    "translations": {
+        "Import": {
+            "Vuex": {
+                "Steps": {
+                    "selectFile": "Select vuex file",
+                    "selectSessions": "Select sessions",
+                    "processSessions": "Import sessions",
+                    "finalizeAuto": "Finalize auto sessions"
+                },
+                "VuexSelection": {
+                    "title": "Select a file",
+                    "text": "Use the file dialog to pick your old vuex file"
+                },
+                "Process": {
+                    "processingWithCount": "(${current}/${max}) ${Import.Vuex.Process.processing}",
+                    "processing": "Processing ${sessionName} Errors: ${errors}",
+                    "importedSuccessfully": "${sessionName} was imported successfully"
+                },
+                "Error": {
+                    "invalidFile": "The file provided is not a valid vuex json file",
+                    "noSessions": "The file provided did not have any sessions to import",
+                    "invalidSession": "${sessionId} did not belong to a valid session. Please read the logs for more info",
+                    "importIssues": "We detected that some of your sessions were not able to be imported. Click here to contact us in our Discord for assistance.",
+                    "romDoesNotMatchSession": "The rom provided does not match the one in the imported session",
+                    "ImportError": {
+                        "NO_AUTO": "Auto support for this game is not available",
+                        "GAME_NOT_RECOGNISED": "Game is not recognised",
+                        "SESSION_EXISTS": "This session exists. Please delete the session in this version of Pokélink and try again"
+                    },
+                    "SessionParseError": {
+                        "UNKNOWN_ERROR": "Unable to parse session \"${sessionName}\" (${sessionId}). Please read the logs for more information"
+                    },
+                    "SaveFileError": {
+                        "fileNotFound": "${file} does not exist",
+                        "invalidFile": "${file} is not a recognisable save file",
+                        "unknownError": "${file} caused an unknown error to occur: ${message}",
+                        "possibleCorruption": "${file} is possibly corrupted. Please contact us in the Pokélink Discord"
+                    },
+                    "unknownGameId": "Unable to validate save file. Session does not have a valid game definition",
+                    "invalidSave": "Save file is not valid. The save file does not work with your selected rom"
+                },
+                "SaveFileExists": {
+                    "title": "Save file exists",
+                    "description": "${fileName} exists in the save directory. Would you like to overwrite the save file?",
+                    "confirm": "Replace",
+                    "backup": "Backup + Replace",
+                    "cancel": "Cancel"
+                },
+                "SaveSelection": {
+                    "title": "Select a file",
+                    "text": "Use the file dialog to pick your old save file"
+                },
+                "ImportingSessions" : {
+                    "title": "Importing Sessions",
+                    "description": "Please wait whilst we import your sessions"
+                },
+                "cancel": "Cancel import",
+                "dragFile": "Drag your old vuex.json file onto this window",
+                "dragSave": "Drag your save file onto this window or click ${Common.continue} to skip copying your save"
+            }
+        }
+    }
+}

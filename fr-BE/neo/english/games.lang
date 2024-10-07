@@ -4,7 +4,8 @@
         "Game": {
             "Subtitle": {
                 "english": "English",
-                "europe": "Europe"
+                "europe": "Europe",
+                "japan": "Japan"
             },
             "Category": {
                 "gen1": "Gen 1",

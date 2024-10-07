@@ -14,9 +14,9 @@
                     "Max HP": "Max HP",
                     "Speed": "Speed",
                     "Attack": "Attack",
-                    "Defence": "Defence",
-                    "Special Attack": "Special Attack",
-                    "Special Defence": "Special Defence"
+                    "Defense": "Defense",
+                    "SpecialAttack": "Special Attack",
+                    "SpecialDefense": "Special Defense"
                 }
             }
         }

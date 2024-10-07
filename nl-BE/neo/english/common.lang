@@ -12,7 +12,11 @@
             "yes": "Yes",
             "no": "No",
             "errorOccured": "An error occured",
-            "back": "Back"
+            "back": "Back",
+            "next": "Next",
+            "previous": "Previous",
+            "agree": "Agree",
+            "cancel": "Cancel"
         },
         "Gender": {
             "male": "Male",

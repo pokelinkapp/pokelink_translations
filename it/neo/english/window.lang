@@ -42,7 +42,22 @@
                         "title": "Importing Sessions",
                         "text": "Please select the vuex.json file from your old pokelink instance with the file selection window"
                     }
-                }
+                },
+                "Launch": {
+                    "LOAD_POKEDEX": "Loading Pokédex",
+                    "LOAD_TYPECHART": "Loading Type Chart",
+                    "UPDATE_POKEMON_EDITOR": "Updating Pokémon Editor",
+                    "VALIDATE_BADGES": "Validating Badges",
+                    "START_EMULATOR": "Starting Emulator",
+                    "CONNECT_TO_HOST": "Connecting to ${host}",
+                    "START_SESSION": "Starting ${name}"
+                },
+                "active": "Active",
+                "archived": "Archived",
+                "badges": "Badges",
+                "managed": "Managed",
+                "identity": "Ident",
+                "lastPlayed": "Last Played"
             },
             "Party": {
                 "edit": "Edit Pokémon",
@@ -61,11 +76,12 @@
                     "CALCULATED_STATS": "Calculated Stats",
                     "GENDER": "Gender",
                     "FRIENDSHIP": "Friendship",
-                    "POKERUS": "Pokerus",
+                    "POKERUS": "Pokérus",
                     "LOCATION_MET": "Location Met",
                     "EVS": "EVs",
                     "IVS": "IVs"
-                }
+                },
+                "you": "you"
             },
             "PokemonEditor": {
                 "title": "Pokémon Editor - Slot ${slotId}",
@@ -86,8 +102,11 @@
                 "connected": "Connected to ${host}:${port}",
                 "WebSource": {
                     "team": "Team browser source copied to clipboard",
-                    "badges": "Badges browser source copied to clipboard"
-                }
+                    "badges": "Badges browser source copied to clipboard",
+                    "death": "Death counter browser source copied to clipboard"
+                },
+                "emulatorReconnected": "Communication with the emulator has been restored",
+                "emulatorDisconnected": "Communication with the emulator was interrupted. You may need to save your game, close the emulator and restart the session"
             }
         },
         "Network": {
