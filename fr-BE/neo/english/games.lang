@@ -4,8 +4,12 @@
         "Game": {
             "Subtitle": {
                 "english": "English",
-                "europe": "Europe",
-                "japan": "Japan"
+                "europe": "European",
+                "japan": "Japan",
+                "german": "German",
+                "french": "French",
+                "italian": "Italian",
+                "spanish": "Spanish"
             },
             "Category": {
                 "gen1": "Gen 1",
