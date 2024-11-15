@@ -9,7 +9,10 @@
                 "german": "German",
                 "french": "French",
                 "italian": "Italian",
-                "spanish": "Spanish"
+                "spanish": "Spanish" ,
+                "korean": "Korean",
+                "chineseT": "Chinese Traditional",
+                "chineseS": "Chinese Simplified"
             },
             "Category": {
                 "gen1": "Gen 1",
