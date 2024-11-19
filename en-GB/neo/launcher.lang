@@ -36,9 +36,13 @@
                     "btn2Text": "Launch"
                 },
                 "UPDATE_CONSENT": {
-                    "text": "Update ${update} is now available\nWould you like to update?",
+                    "text": "Update ${update} is now available.\nWould you like to update?",
                     "btn1Text": "Yes",
                     "btn2Text": "No"
+                },
+                "ALREADY_RUNNING": {
+                    "text": "Pokelink is already running in this folder.\nPlease close the app before trying again",
+                    "btn1Text": "Close"
                 }
             }
         }
