@@ -3,7 +3,7 @@
     "translations": {
         "Emulator": {
             "bizhawk": "Bizhawk",
-            "emulator": "Emulator: ${emulator}",
+            "emulatorText": "Emulator: ${emulator}",
             "Error": {
                 "Bizhawk": {
                     "missingMono": "Please install the mono package for your distro",
