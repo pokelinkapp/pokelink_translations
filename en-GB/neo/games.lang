@@ -12,7 +12,8 @@
                 "spanish": "Spanish" ,
                 "korean": "Korean",
                 "chineseT": "Chinese Traditional",
-                "chineseS": "Chinese Simplified"
+                "chineseS": "Chinese Simplified",
+                "V1_0": "V1.0"
             },
             "Category": {
                 "gen1": "Gen 1",
