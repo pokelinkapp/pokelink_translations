@@ -14,7 +14,8 @@
                 "invalidEmulator": "The selected emulator exe is not valid",
                 "invalidEmulatorTitle": "Invalid Emulator",
                 "unsupportedEmulatorVersion": "Unsupported version of ${emulator}. Pokélink supports: ${supportedVersions}",
-                "unknownEmulatorVersion": "Unknown version of ${emulator}"
+                "unknownEmulatorVersion": "Unknown version of ${emulator}",
+                "noEmulatorSpecified": "The selected game does not specify an emulator it works with. Please report this to the plugin creator"
             },
             "Starting": {
                 "title": "Starting emulator",
