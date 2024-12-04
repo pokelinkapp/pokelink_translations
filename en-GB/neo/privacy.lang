@@ -10,7 +10,7 @@
             "AnonymousCollection": {
                 "title": "Anonymous data that Pokélink collects",
                 "pre-alpha": "${Privacy.AnonymousCollection.alpha}",
-                "alpha": "Pokélink will only collect data should an error occur during your usage of the app. You can see what gets sent to us inside of the log files stored in the logs folder. Note that to save disk space older logs are compressed using gzip. Programs like Winrar and 7-zip are able to decompress these files for you to read if you so wish. By default debug messages are not stored in the log files but can be logged by running the Pokélink launcher in a command line and passing the \"--debug\" flag as an argument.\n\nPokélink has the ability to track what buttons you click to help us understand the user experience and what needs to be made easier or more detailed. All this information is anonymous and cannot be used to identify you."
+                "alpha": "Pokélink will only collect data should an error occur during your usage of the app. You can see what gets sent to us inside of the log files stored in the logs folder. Note that to save disk space older logs are compressed using gzip. Programs like Winrar and 7-zip are able to decompress these files for you to read if you so wish.\n\nPokélink has the ability to track what buttons you click to help us understand the user experience and what needs to be made easier or more detailed. All this information is anonymous and cannot be used to identify you."
             },
             "Collection": {
                 "title": "Data collection that may contain user information",
