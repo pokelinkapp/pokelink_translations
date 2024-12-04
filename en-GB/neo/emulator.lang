@@ -2,7 +2,6 @@
     "code": "en-GB",
     "translations": {
         "Emulator": {
-            "bizhawk": "Bizhawk",
             "emulatorText": "Emulator: ${emulator}",
             "Error": {
                 "Bizhawk": {
@@ -29,6 +28,15 @@
                 "downloadPreReq": "Download ${emulator}'s dependencies",
                 "dropFile": "Drag and drop ${emulator}'s archive or exe into the window",
                 "invalidFile": "Invalid file selected"
+            },
+            "Bizhawk": {
+                "name": "Bizhawk",
+                "ConfigItems": {
+                    "EnableRealTimeClock": {
+                        "name": "Enable Real Time Clock",
+                        "description": "Allows Bizhawk to use your computer's clock for time based events in games"
+                    }
+                }
             }
         }
     }
