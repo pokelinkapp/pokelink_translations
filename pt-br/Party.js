@@ -26,7 +26,7 @@ export default {
       'HP': 'HP',
       'Current HP': 'HP atual',
       'Max HP': 'HP Máximo',
-      'Location Met': 'Local de encontro',
+      'Location Met': 'Local Encontrado',
       'EVs': 'EVs',
       'Speed': 'Speed',
       'Attack': 'Attack',

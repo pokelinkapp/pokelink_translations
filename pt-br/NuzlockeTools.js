@@ -21,12 +21,12 @@ export default {
       'Title': 'Exportação para Showdown',
       'ContentTitle': 'Exporte seu time para Showdown',
       'ProcessDescription': 'Pode ser usado para importar seu time para o Showdown e até mesmo diversas calculadoras de dano online.',
-      'NoShowdownData': 'Houve um erro ao exportar seu time. Reporte isso no Discord do Pokélink.'
+      'NoShowdownData': 'Houve um erro ao exportar seu time. Reporte no Discord do Pokélink.'
     },
     'RouteTracking': {
-      'Title': 'Rastrador de Rotas',
+      'Title': 'Rastreador de Rotas',
       'SupportInfo': 'Rotas agora são rastreadas automaticamente nas Gerações 3,4,5,6 e 7 e também em sessões manuais utilizando o campo "Local de encontro".',
-      'OnlyPokemonInYourPartyAreTracked': 'Nota: O Pokémon deve estar na sua party para ser registrado.',
+      'OnlyPokemonInYourPartyAreTracked': 'Nota: O Pokémon deve estar em seu time para ser registrado.',
       'YouCanManuallyTrackThemToo': 'Você também pode manualmente rastrear as rotas clicando no botão abaixo do nome da rota.',
       'States': {
         'Caught': 'Pego',

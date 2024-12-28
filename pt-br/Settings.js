@@ -3,7 +3,7 @@ export default {
     'Session': 'Configurações da Sessão',
     'System': 'Configurações do Sistema',
     'Window': 'Configurações da Janela',
-    'ViewLogs': 'Ver Logs',
+    'ViewLogs': 'Visualizar Logs',
     'Connections': 'Conexões',
     'Accessibility': 'Configurações de Acessibilidade',
     'Shortcuts': 'Atalhos Globais',
@@ -24,7 +24,7 @@ export default {
     },
     'RevealEggs': {
       'Title': 'Revelar Ovos',
-      'Description': 'Mostrar o Pokémon que está dentro do ovo na aba da Party'
+      'Description': 'Mostrar o Pokémon que está dentro do ovo na aba do Time'
     },
     'SendToTray': {
       'Title': 'Ir para ícones do sistema ao invés de fechar o app',
@@ -43,7 +43,7 @@ export default {
       'Description': 'Habilita a fonte que facilita a legibilidade para pessoas com dislexia (Apenas no app)'
     },
     'EnableDarkMode': {
-      'Title': 'Habilitar modo escuro',
+      'Title': 'Habilitar Modo Escuro',
       'Description': 'Agrade os olhos com um esquema de cores mais escuro'
     },
     'Language': {
@@ -92,13 +92,13 @@ export default {
       'Commands': {
         'listCommands': 'O comando utilizado para listar comandos disponíveis',
         'team': 'O comando utilizado para listar seu time',
-        'stats': 'O comando utilizado para mostrar os stats de um Pokémon específico da sua Party',
-        'evs': 'O comando utilizado para mostrar os EVs de um Pokémon específico da sua Party',
-        'ivs': 'O comando utilizado para mostrar os IVs de um Pokémon específico da sua Party',
-        'ability': 'O comando utilizado para mostrar a Ability de um Pokémon específico da sua Party',
-        'nature': 'O comando utilizado para mostrar a Nature de um Pokémon específico da sua Party',
+        'stats': 'O comando utilizado para mostrar os stats de um Pokémon específico do seu Time',
+        'evs': 'O comando utilizado para mostrar os EVs de um Pokémon específico do seu Time',
+        'ivs': 'O comando utilizado para mostrar os IVs de um Pokémon específico do seu Time',
+        'ability': 'O comando utilizado para mostrar a Ability de um Pokémon específico do seu Time',
+        'nature': 'O comando utilizado para mostrar a Nature de um Pokémon específico do seu Time',
         'faster': 'O comando utilizado para mostrar qual Pokémon é mais rápido entre o seu Pokémon e um Pokémon especificado',
-        'moves': 'O comando utilizado para mostrar o Moveset de um Pokémon específico da sua Party',
+        'moves': 'O comando utilizado para mostrar o Moveset de um Pokémon específico do seu Time',
         'deaths': 'O comando utilizado para mostrar as mortes que o Pokélink rastreou nessa sessão'
       }
     }

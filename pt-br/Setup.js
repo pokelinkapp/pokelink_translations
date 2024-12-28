@@ -16,15 +16,15 @@ export default {
         'title': 'Run individual'
       },
       'multi': {
-        'description': 'Você está jogando uma run com 1 pessoa ou mais',
+        'description': 'Você está jogando com 1 pessoa ou mais',
         'title': 'Multiplayer'
       },
       'multi_soullink': {
-        'description': 'Você está jogando uma run soul link com 1 pessoa ou mais',
+        'description': 'Você está jogando soul link com 1 pessoa ou mais',
         'title': 'Soul Link Multiplayer'
       },
       'multi_vs': {
-        'description': 'Você está jogando uma run VS com 1 pessoa ou mais',
+        'description': 'Você está jogando VS com 1 pessoa ou mais',
         'title': 'VS Multiplayer'
       }
     }
@@ -41,11 +41,11 @@ export default {
     'DetectionTypes': {
       'automatic': {
         'description': 'Se seu jogo for compatível, o Pokélink irá ler os dados direto do seu emulador em tempo real',
-        'title': 'Gerenciamento automático de Party'
+        'title': 'Gerenciamento automático de Time'
       },
       'manual': {
         'description': 'Você pode editar seu time manualmente usando uma interface simples dentro do app',
-        'title': 'Gerenciamento manual de Party'
+        'title': 'Gerenciamento manual de Time'
       }
     }
   },
@@ -78,7 +78,7 @@ export default {
           'Message': 'Pokelink detectou que o Bizhawk foi fechado inesperadamente. Se não foi sua intenção fechar o Bizhawk, por favor finalize esta sessão, feche o Pokélink, abra novamente o Pokélink e retome esta sessão para continuar.'
         },
         'RomRequired': {
-          'Message': 'Uma ROM precisa ser carregada n o passo anterior para usar o Bizhawk'
+          'Message': 'Uma ROM precisa ser carregada no passo anterior para usar o Bizhawk'
         },
         'BadBizhawkVersion': {
           'Message': 'O Bizhawk precisa estar na versão {version}'

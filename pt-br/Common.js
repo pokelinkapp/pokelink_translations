@@ -6,7 +6,7 @@ export default {
     'Badges': 'Insígnias',
     'Pokédex': 'Pokédex',
     'Web': 'Fontes Web',
-    'Nuzlocke': 'Ferramentas de Nuzlocke',
+    'Nuzlocke': 'Ferramentas Nuzlocke',
     'Settings': 'Configurações',
     'About': 'Sobre'
   },
