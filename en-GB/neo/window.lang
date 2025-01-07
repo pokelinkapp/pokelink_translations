@@ -29,7 +29,8 @@
                     "lastPlayed": "on ${date} at ${time}",
                     "archiveSession": "Archive Session",
                     "deleteSession": "Delete Session",
-                    "activateSession": "Activate Session"
+                    "activateSession": "Activate Session",
+                    "openSessionFolder": "Open Session Folder"
                 },
                 "Prompts": {
                     "DeleteSession": {
