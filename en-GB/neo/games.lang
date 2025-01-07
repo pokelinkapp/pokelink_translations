@@ -43,6 +43,8 @@
                 "EMERALD": "Pokémon Emerald",
                 "FIRE_RED": "Pokémon FireRed",
                 "LEAF_GREEN": "Pokémon LeafGreen",
+                "COLOSSEUM": "Pokémon Colosseum",
+                "XD": "Pokémon XD: Gale of Darkness",
                 "DIAMOND": "Pokémon Diamond",
                 "PEARL": "Pokémon Pearl",
                 "PLATINUM": "Pokémon Platinum",
@@ -79,6 +81,9 @@
                     "gyms": "Gym Badges",
                     "stars": "Operation Starfall",
                     "titans": "Path of Legends (Titans)"
+                },
+                "Orre": {
+                    "shadowPokemon": "Shadow Pokemon"
                 }
             }
         }

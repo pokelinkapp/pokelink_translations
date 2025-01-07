@@ -5,6 +5,9 @@
         "nature": {
             "25": "N/A",
             "none": "${pkhex.nature.25}"
+        },
+        "type": {
+            "shadow": "Shadow"
         }
     }
 }
