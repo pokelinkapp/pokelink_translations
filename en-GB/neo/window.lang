@@ -108,6 +108,16 @@
                 },
                 "emulatorReconnected": "Communication with the emulator has been restored",
                 "emulatorDisconnected": "Communication with the emulator was interrupted. You may need to save your game, close the emulator and restart the session"
+            },
+            "Loading": {
+                "translations": "Loading Translations",
+                "memoryComponents": "Registering Memory Components",
+                "games": "Registering Games",
+                "emulators": "Registering Emulators",
+                "webSources": "Registering Web Sources and Sprites",
+                "messages": "Registering Communication Channels",
+                "sessions": "Loading Session Cache",
+                "keybinds": "Registering Keybind Events"
             }
         },
         "Network": {
