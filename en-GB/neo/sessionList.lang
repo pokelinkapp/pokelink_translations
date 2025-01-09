@@ -14,6 +14,9 @@
             "MISSING_GAME_DEFINITION": "Unable to start session due to the game definition file being missing. Are you missing a plugin?",
             "TYPECHART_FAILED_TO_LOAD": "The Type Chart failed to load. ${SessionError.readLog}",
             "EMULATOR_ALREADY_RUNNING": "Emulator is already running. Please save your game and close the emulator before starting this session"
+        },
+        "SessionList": {
+            "missingGame": "Missing game and/or plugin"
         }
     }
 }

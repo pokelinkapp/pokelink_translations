@@ -110,6 +110,7 @@
                 "emulatorDisconnected": "Communication with the emulator was interrupted. You may need to save your game, close the emulator and restart the session"
             },
             "Loading": {
+                "plugins": "Loading Plugins",
                 "translations": "Loading Translations",
                 "memoryComponents": "Registering Memory Components",
                 "games": "Registering Games",
