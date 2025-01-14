@@ -22,7 +22,8 @@
                 "cancel": "Cancel"
             },
             "Titles": {
-                "Shortcuts": "Global Shortcuts"
+                "Shortcuts": "Global Shortcuts",
+                "licenses": "Licenses"
             }
         }
     }
