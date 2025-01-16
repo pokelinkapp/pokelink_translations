@@ -1,13 +1,16 @@
 ﻿{
     "code": "en-GB",
     "pkhex": {
-        "language": "en",
+        "language": "en"
+    },
+    "pokemon": {
         "nature": {
             "25": "N/A",
-            "none": "${pkhex.nature.25}"
+            "none": "${pokemon.nature.25}"
         },
         "type": {
-            "shadow": "Shadow"
+            "shadow": "Shadow",
+            "???": "???"
         }
     }
 }
