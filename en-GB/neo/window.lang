@@ -24,7 +24,7 @@
                     "manual": "Manual",
                     "multi": "Multi",
                     "solo": "Solo",
-                    "emptyPokeball": "Empty ${pkhex.ball.4}",
+                    "emptyPokeball": "Empty ${pokemon.ball.4}",
                     "ident": "Playing ${sessionType} as ${username}",
                     "lastPlayed": "on ${date} at ${time}",
                     "archiveSession": "Archive Session",
@@ -46,6 +46,7 @@
                 },
                 "Launch": {
                     "LOAD_POKEDEX": "Loading Pokédex",
+                    "LOAD_MOVES": "Loading moves",
                     "LOAD_TYPECHART": "Loading Type Chart",
                     "UPDATE_POKEMON_EDITOR": "Updating Pokémon Editor",
                     "VALIDATE_BADGES": "Validating Badges",

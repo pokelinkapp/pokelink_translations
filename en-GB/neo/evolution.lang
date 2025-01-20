@@ -37,7 +37,7 @@
                 "spinWithSweet": "Spin whilst holding a sweet",
                 "walkXStepsInLetsGoMode": "Walk ${value} steps whilst in Let's go mode",
                 "multiplayer": "Evolves during multiplayer session",
-                "gimmighoulCoins": "Whilst carrying ${value}x ${pkhex.item.gen9.gimmighoul_coin}s"
+                "gimmighoulCoins": "Whilst carrying ${value}x ${pokemon.item.gen9.gimmighoul_coin}s"
             },
             "go": "Pokemon Go"
         },
