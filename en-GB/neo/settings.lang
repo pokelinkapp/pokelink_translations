@@ -12,6 +12,10 @@
                 "Shortcuts": {
                     "title": "Keyboard shortcuts",
                     "description": "Enable system wide keyboard shortcuts "
+                },
+                "RevealEggDelay": {
+                    "title": "Egg reveal delay",
+                    "description": "The time in seconds that the app will wait before revealing the contents of the Pokemon egg"
                 }
             },
             "Uninstall": {

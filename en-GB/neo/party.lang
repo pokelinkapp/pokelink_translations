@@ -17,7 +17,8 @@
                     "Defense": "Defense",
                     "SpecialAttack": "Special Attack",
                     "SpecialDefense": "Special Defense"
-                }
+                },
+                "hatching": "Hatching..."
             }
         }
     }
