@@ -10,6 +10,9 @@
                     "unsupportedOS": "Bizhawk does not run on this OS",
                     "missingLaunchScript": "Emulator is missing it's launch script EmuHawkMono.sh"
                 },
+                "DeSmuME": {
+                    "unknownScriptError": "An unknown script error occured. Please contact us in the Pokélink discord"
+                },
                 "invalidEmulator": "The selected emulator exe is not valid",
                 "invalidEmulatorTitle": "Invalid Emulator",
                 "unsupportedEmulatorVersion": "Unsupported version of ${emulator}. Pokélink supports: ${supportedVersions}",
@@ -37,6 +40,9 @@
                         "description": "Allows Bizhawk to use your computer's clock for time based events in games"
                     }
                 }
+            },
+            "Desmume": {
+                "name": "DeSmuME"
             }
         }
     }
