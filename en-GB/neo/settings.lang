@@ -16,6 +16,12 @@
                 "RevealEggDelay": {
                     "title": "Egg reveal delay",
                     "description": "The time in seconds that the app will wait before revealing the contents of the Pokemon egg"
+                },
+                "TraceLog": {
+                    "title": "Porygon Trace",
+                    "description": "Helps with debugging what Porygon is doing in the background. Do not turn this on unless asked by a Pokelink Dev or you notice strange behavior within the app",
+                    "start": "Start Tracing",
+                    "stop": "Stop Tracing"
                 }
             },
             "Uninstall": {
