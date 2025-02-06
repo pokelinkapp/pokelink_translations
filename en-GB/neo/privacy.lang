@@ -2,6 +2,7 @@
     "code": "en-GB",
     "translations": {
         "Privacy": {
+            "moreInfo": "More info",
             "Policy": {
                 "title": "Pokélink Privacy Policy (${currentPrivacyDate})",
                 "pre-alpha": "${Privacy.Policy.alpha}",
@@ -23,9 +24,9 @@
                 "alpha": "Pokélink does monitor keyboard inputs for keyboard shortcut systems like badge toggling even when the window is not focused. Whilst the app monitors keyboard inputs it does not store nor collect the inputs. This feature can be turned on and off and is off by default for each session."
             },
             "Consent": {
-                "title": "Pokélink Privacy Agreement (${currentPrivacyDate})",
+                "title": "Pokélink Privacy Policy (${currentPrivacyDate})",
                 "pre-alpha": "${Privacy.Consent.alpha}",
-                "alpha": "By clicking ${Common.agree} you agree:\n\nTo have read the previous sections and understand that Pokélink upon an app error or fatal crash will collect data regarding the cause of the issue.\n\nTo Pokélink monitoring what you click within the app.\n\nPokélink will not collect but will listen to keyboard inputs for keyboard shortcuts, example being toggling badges. This feature can be turned on and off and is off by default for each session."
+                "alpha": "By clicking ${Common.agree} you agree:\n\nThat you understand that Pokélink upon an app error or fatal crash will collect data regarding the cause of the issue.\n\nTo Pokélink monitoring what you click within the app.\n\nPokélink will not collect but will listen to keyboard inputs for keyboard shortcuts, example being toggling badges. This feature can be turned on and off and is off by default for each session."
             }
         }
     }
