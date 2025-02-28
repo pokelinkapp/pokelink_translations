@@ -19,7 +19,8 @@
             "shiniesSupported": "Are Shinies Supported",
             "gensSupported": "What gens are supported?",
             "applyChanges": "Apply changes to theme",
-            "webSourceInfo": "The web source URL should be copied into your streaming app of choice as a Browser source. Be sure to play with the original source width and height before resizing in the preview window."
+            "webSourceInfo": "The web source URL should be copied into your streaming app of choice as a Browser source. Be sure to play with the original source width and height before resizing in the preview window.",
+            "externalIP": "Externap IP"
         }
     }
 }
