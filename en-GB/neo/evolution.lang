@@ -37,9 +37,13 @@
                 "spinWithSweet": "Spin whilst holding a sweet",
                 "walkXStepsInLetsGoMode": "Walk ${value} steps whilst in Let's go mode",
                 "multiplayer": "Evolves during multiplayer session",
-                "gimmighoulCoins": "Whilst carrying ${value}x ${pokemon.item.gen9.gimmighoul_coin}s"
+                "gimmighoulCoins": "Whilst carrying ${value}x ${pokemon.item.gen9.gimmighoul_coin}s",
+                "galarianYamask": "Pass under the large rock arch in Dusty Bowl after ${pokemon.species.yamask} takes at least 49 HP in damage from attacks without fainting. Healing does not reset the counter, and damage can be taken across multiple battles. Taking damage from certain sources, such as self-inflicted Curse damage or weather effects, does not contribute to the 49 HP damage requirement"
             },
-            "go": "Pokemon Go"
+            "go": "Pokemon Go",
+            "note": {
+                "vivillonPattern": "Pattern depends on save"
+            }
         },
         "timeOfDay": {
             "night": "Night time",
