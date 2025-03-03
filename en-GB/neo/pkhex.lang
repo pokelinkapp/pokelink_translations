@@ -29,6 +29,9 @@
             "shadow_mist": "Shadow Mist",
             "shadow_panic": "Shadow Panic",
             "shadow_down": "Shadow Down"
+        },
+        "form": {
+            "large_busted": "Large Busted"
         }
     }
 }
