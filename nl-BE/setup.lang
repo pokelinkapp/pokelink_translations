@@ -76,7 +76,7 @@
                     "Bizhawk": {
                         "EmulatorClosedUnexpectedly": {
                             "Title": "Sluiting van Bizhawk gedetecteerd",
-                            "Message": "Pokelink detecteerd dat Bizhawk onverwacht gesloten is. Als u niet bedoeld had om Bizhawk te sluiten, gelieve deze sessie te beëindigen, sluit Pokélink, heropen Pokélink en hervat deze sessie om door te gaan."
+                            "Message": "Pokélink detecteerd dat Bizhawk onverwacht gesloten is. Als u niet bedoeld had om Bizhawk te sluiten, gelieve deze sessie te beëindigen, sluit Pokélink, heropen Pokélink en hervat deze sessie om door te gaan."
                         },
                         "RomRequired": {
                             "Message": "ROM moet gesleept worden tijdens de vorige stap om Bizhawk te gebruiken"

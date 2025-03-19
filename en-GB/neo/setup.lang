@@ -43,7 +43,7 @@
                     "disconnect": "Disconnect"
                 },
                 "enableWebSources": "Enable Websources",
-                "enableUPNP": "Allow Pokelink to open the port on your router(UPNP)"
+                "enableUPNP": "Allow Pokélink to open the port on your router(UPNP)"
             },
             "RomType": {
                 "Selection": {

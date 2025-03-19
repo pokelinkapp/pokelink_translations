@@ -19,10 +19,11 @@
                 },
                 "TraceLog": {
                     "title": "Porygon Trace",
-                    "description": "Helps with debugging what Porygon is doing in the background. Do not turn this on unless asked by a Pokelink Dev or you notice strange behavior within the app",
+                    "description": "Helps with debugging what Porygon is doing in the background. Do not turn this on unless asked by a Pokélink Dev or you notice strange behavior within the app",
                     "start": "Start Tracing",
                     "stop": "Stop Tracing"
-                }
+                },
+                "allowTelemetry": "Allowing telemetry sends us anonymous information upon an error or a fatal crash. Requires a restart of the app to take effect"
             },
             "Uninstall": {
                 "title": "Uninstall Pokélink?",

@@ -41,7 +41,7 @@
                     },
                     "ImportSessions": {
                         "title": "Importing Sessions",
-                        "text": "Please select the vuex.json file from your old pokelink instance with the file selection window"
+                        "text": "Please select the vuex.json file from your old pokélink instance with the file selection window"
                     }
                 },
                 "Launch": {

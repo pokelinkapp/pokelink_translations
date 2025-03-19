@@ -76,7 +76,7 @@
                     "Bizhawk": {
                         "EmulatorClosedUnexpectedly": {
                             "Title": "Bizhawk fermée détectée",
-                            "Message": "PPokelink a détecté que Bizhawk a été fermé de façon inattendue. Si vous n'avez pas eu l'intention de fermer Bizhawk, veuillez terminer cette session svp, fermez Pokélink, rouvrez Pokélink et reprenez la session pour continuer."
+                            "Message": "Pokélink a détecté que Bizhawk a été fermé de façon inattendue. Si vous n'avez pas eu l'intention de fermer Bizhawk, veuillez terminer cette session svp, fermez Pokélink, rouvrez Pokélink et reprenez la session pour continuer."
                         },
                         "RomRequired": {
                             "Message": "Le ROM doit être déposée à l'étape précédente pour utiliser Bizhawk"
