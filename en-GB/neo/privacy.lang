@@ -4,6 +4,7 @@
         "Privacy": {
             "moreInfo": "More info",
             "allowTelemetry": "Enable telemetry",
+            "lastUpdated": "Last updated: ${lastUpdated}",
             "Policy": {
                 "title": "Pokélink Privacy Policy",
                 "pre-alpha": "${Privacy.Policy.alpha}",
