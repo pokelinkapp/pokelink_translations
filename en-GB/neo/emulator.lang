@@ -47,6 +47,9 @@
                 "name": "DeSmuME",
                 "copyLua": "Copy the below filepath into the lua scripting window",
                 "copyLua2": "This can be done by going to Tools > Lua Scripting > New Lua Script Window inside DeSmuME (Be sure not to close this window, you can minimize it though)"
+            },
+            "Azahar": {
+                "name": "Citra / Lime3DS / Azahar"
             }
         }
     }
