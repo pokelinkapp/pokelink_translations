@@ -16,6 +16,8 @@
             "validatingAppVersion": "Validating App ${version}...",
             "validatingPlugin": "Validating Core Plugin...",
             "downloadingPlugin": "Downloading Core Plugin",
+            "validatingAssets": "Validating Assets Plugin...",
+            "downloadingAssets": "Downloading Assets Plugin",
             "Uninstall": {
                 "uninstalling": "Uninstalling Pokélink...",
                 "finished": "Pokélink has been uninstalled",
