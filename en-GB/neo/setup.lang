@@ -55,6 +55,10 @@
                 "Selection": {
                     "title": "Select your emulator",
                     "text": "Use the file dialog to pick your emulator"
+                },
+                "AssignEmu": {
+                    "title": "Assign Emulator",
+                    "description": "Would you like to also assign ${emulator} to these consoles?"
                 }
             }
         }
