@@ -45,6 +45,11 @@
                 "ALREADY_RUNNING": {
                     "text": "Pokélink is already running in this folder.\nPlease close the app before trying again",
                     "btn1Text": "Close"
+                },
+                "LOW_STORAGE": {
+                    "text": "Your PC is currently low on storage.\nPlease free up some space before updating.",
+                    "btn1Text": "Retry",
+                    "btn2Text": "Launch"
                 }
             }
         }
