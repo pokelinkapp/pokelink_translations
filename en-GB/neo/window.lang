@@ -119,6 +119,7 @@
                 "games": "Registering Games",
                 "emulators": "Registering Emulators",
                 "webSources": "Registering Web Sources and Sprites",
+                "webRequests": "Registering API requests",
                 "messages": "Registering Communication Channels",
                 "sessions": "Loading Session Cache",
                 "keybinds": "Registering Keybind Events"
