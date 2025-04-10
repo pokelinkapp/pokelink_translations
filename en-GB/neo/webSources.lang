@@ -20,7 +20,20 @@
             "gensSupported": "What gens are supported?",
             "applyChanges": "Apply changes to theme",
             "webSourceInfo": "The web source URL should be copied into your streaming app of choice as a Browser source. Be sure to play with the original source width and height before resizing in the preview window.",
-            "externalIP": "External IP"
+            "externalIP": "External IP",
+            "V1EOS": "The web source system will soon be replaced with the new V2 system. Legacy themes are going to be considered deprecated but will continue to work for the foreseeable future. If you have a custom theme please get in touch with us in the Pokélink discord for help migrating the theme to V2",
+            "themeSettings": "Theme Settings",
+            "themeInfo": "Theme Information",
+            "theme": "Theme",
+            "Info": {
+                "name": "Name",
+                "developer": "Developed By",
+                "animated": "Animated",
+                "changeableSprites": "Changeable Sprites",
+                "shinySprites": "Shiny Sprites",
+                "forms": "Forms",
+                "gameGenerations": "Game Generations"
+            }
         }
     }
 }

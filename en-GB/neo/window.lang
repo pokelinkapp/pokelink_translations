@@ -118,6 +118,7 @@
                 "memoryComponents": "Registering Memory Components",
                 "games": "Registering Games",
                 "emulators": "Registering Emulators",
+                "repos": "Loading Remote Data",
                 "webSources": "Registering Web Sources and Sprites",
                 "webRequests": "Registering API requests",
                 "messages": "Registering Communication Channels",

@@ -20,7 +20,10 @@
             "test": "Test",
             "download": "Download",
             "downloadDependencies": "Download dependencies",
-            "close": "Close"
+            "close": "Close",
+            "Navigation": {
+                "webLegacy": "Web Sources (Legacy)"
+            }
         },
         "Gender": {
             "male": "Male",

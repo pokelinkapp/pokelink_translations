@@ -1,0 +1,29 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Pokelink": {
+            "Themes": {
+                "BasicCard": {
+                    "name": "Basic Card",
+                    "verticalPokemon": "Vertical Pokemon",
+                    "hp": "Show HP"
+                },
+                "BDSPBattleStyleHud": {
+                    "name": "BDSP Battle Style HUD"
+                },
+                "BigNumbers": {
+                    "name": "Big Numbers",
+                    "useCardArt": "Use Card art for background",
+                    "typesGradient": "Types as background color gradient"
+                },
+                "Default": {
+                    "name": "Default",
+                    "Route": "Met Location",
+                    "Pokemon": "Pokemon Color",
+                    "typeBackground": "Use Types for background",
+                    "color": "Use for border color"
+                }
+            }
+        }
+    }
+}
