@@ -25,6 +25,7 @@
             "themeSettings": "Theme Settings",
             "themeInfo": "Theme Information",
             "theme": "Theme",
+            "spriteSet": "Sprite Set",
             "Info": {
                 "name": "Name",
                 "developer": "Developed By",

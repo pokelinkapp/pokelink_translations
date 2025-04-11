@@ -57,6 +57,14 @@
                 "SpriteOnly": {
                     "name": "Sprite Only"
                 }
+            },
+            "SpriteSets": {
+                "Home": {
+                    "name": "Home"
+                },
+                "Artwork": {
+                    "name": "Artwork"
+                }
             }
         }
     }
