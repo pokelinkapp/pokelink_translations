@@ -19,9 +19,43 @@
                 "Default": {
                     "name": "Default",
                     "Route": "Met Location",
-                    "Pokemon": "Pokemon Color",
+                    "Pokemon": "Pokemon Colour",
                     "typeBackground": "Use Types for background",
                     "color": "Use for border color"
+                },
+                "DigitalHex": {
+                    "name": "Digital Hex",
+                    "staggered": "Staggered",
+                    "hideHPBar": "Hide HP"
+                },
+                "FadingCardArt": {
+                    "name": "Fading Card Art",
+                    "flat": "One line"
+                },
+                "Friday": {
+                    "name": "Friday",
+                    "darkMode": "Dark Mode"
+                },
+                "Gameboy": {
+                    "name": "GameBoy"
+                },
+                "JezzabelPersonal": {
+                    "name": "Jezzabel's personal theme",
+                    "flipped": "Flip"
+                },
+                "LetsGo": {
+                    "name": "Let's Go",
+                    "verticalPokemon": "Vertical Pokemon",
+                    "colorPokeball": "Coloured Pokeball",
+                    "colorBorder": "Coloured border",
+                    "colorBg": "Coloured background",
+                    "color": "Use for background colour",
+                    "pokemon": "Pokemon Colour",
+                    "type": "Types",
+                    "route": "Met Location"
+                },
+                "SpriteOnly": {
+                    "name": "Sprite Only"
                 }
             }
         }
