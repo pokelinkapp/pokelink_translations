@@ -59,11 +59,43 @@
                 }
             },
             "SpriteSets": {
+                "Artwork": {
+                    "name": "Artwork"
+                },
+                "BlackWhite": {
+                    "name": "Black & White "
+                },
+                "Crystal": {
+                    "name": "Crystal",
+                    "animated": "${Pokelink.SpriteSets.Crystal.name} (Animated)"
+                },
+                "DiamondPearl": {
+                    "name": "Diamond & Pearl"
+                },
+                "FireRedLeafGreen": {
+                    "name": "Fire Red & Leaf Green"
+                },
+                "Generation": {
+                    "five": "Generation 5",
+                    "fiveAnimated": "${Pokelink.SpriteSets.Generation.five} (Animated)",
+                    "six": "Generation 6",
+                    "sixAnimated": "${Pokelink.SpriteSets.Generation.six} (Animated)",
+                    "seven": "Generation 7",
+                    "sevenAnimated": "${Pokelink.SpriteSets.Generation.seven} (Animated)",
+                    "eight": "Generation 8",
+                    "eightParty": "${Pokelink.SpriteSets.Generation.eight} (Party)"
+                },
+                "Green": {
+                    "name": "Green"
+                },
+                "HeartGoldSoulSilver": {
+                    "name": "Heart Gold & Soul Silver"
+                },
                 "Home": {
                     "name": "Home"
                 },
-                "Artwork": {
-                    "name": "Artwork"
+                "Moemon": {
+                    "name": "Moemon"
                 }
             }
         }
