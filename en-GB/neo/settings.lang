@@ -15,7 +15,7 @@
                 },
                 "RevealEggDelay": {
                     "title": "Egg reveal delay",
-                    "description": "The time in seconds that the app will wait before revealing the contents of the Pokemon egg"
+                    "description": "The time in seconds that the app will wait before revealing the contents of the Pokémon egg"
                 },
                 "TraceLog": {
                     "title": "Porygon Trace",

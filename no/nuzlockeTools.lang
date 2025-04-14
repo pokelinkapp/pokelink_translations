@@ -27,7 +27,7 @@
                 },
                 "RouteTracking": {
                     "Title": "Route Loggføring",
-                    "SupportInfo": "Pokemon fanget på unike Route i spill fra Generasjon 3,4,5,6 & 7 blir nå automatisk loggført, også i Manuell Spill under \"Møtt Hvor\" feltet.",
+                    "SupportInfo": "Pokémon fanget på unike Route i spill fra Generasjon 3,4,5,6 & 7 blir nå automatisk loggført, også i Manuell Spill under \"Møtt Hvor\" feltet.",
                     "OnlyPokemonInYourPartyAreTracked": "PS: Pokémonen må være på laget ditt for å bli automatisk loggført.",
                     "YouCanManuallyTrackThemToo": "Du kan også manuelt loggføre unike Route ved å klikke på knappen under Route navnet.",
                     "States": {

@@ -5,7 +5,7 @@
             "Themes": {
                 "BasicCard": {
                     "name": "Basic Card",
-                    "verticalPokemon": "Vertical Pokemon",
+                    "verticalPokemon": "Vertical Pokémon",
                     "hp": "Show HP"
                 },
                 "BDSPBattleStyleHud": {
@@ -19,7 +19,7 @@
                 "Default": {
                     "name": "Default",
                     "Route": "Met Location",
-                    "Pokemon": "Pokemon Colour",
+                    "Pokemon": "Pokémon Colour",
                     "typeBackground": "Use Types for background",
                     "color": "Use for border color"
                 },
@@ -45,12 +45,12 @@
                 },
                 "LetsGo": {
                     "name": "Let's Go",
-                    "verticalPokemon": "Vertical Pokemon",
+                    "verticalPokemon": "Vertical Pokémon",
                     "colorPokeball": "Coloured Pokeball",
                     "colorBorder": "Coloured border",
                     "colorBg": "Coloured background",
                     "color": "Use for background colour",
-                    "pokemon": "Pokemon Colour",
+                    "pokemon": "Pokémon Colour",
                     "type": "Types",
                     "route": "Met Location"
                 },
@@ -96,6 +96,38 @@
                 },
                 "Moemon": {
                     "name": "Moemon"
+                },
+                "National": {
+                    "name": "National",
+                    "animated": "${Pokelink.SpriteSets.National.name} (Animated)",
+                    "party": "${Pokelink.SpriteSets.National.name} (Party)"
+                },
+                "PKHeX": {
+                    "party": "PKHeX"
+                },
+                "Platinum": {
+                    "name": "Platinum"
+                },
+                "RedBlue": {
+                    "name": "Red & Blue"
+                },
+                "RescueTeamDX": {
+                    "name": "Rescue Team DX"
+                },
+                "SunMoon": {
+                    "name": "Sun & Moon"
+                },
+                "Silver": {
+                    "name": "Silver"
+                },
+                "Trozei": {
+                    "name": "Trozei"
+                },
+                "XY": {
+                    "name": "X & Y"
+                },
+                "Yellow": {
+                    "name": "Yellow"
                 }
             }
         }
