@@ -5,50 +5,89 @@
             "Themes": {
                 "BasicCard": {
                     "name": "Basic Card",
-                    "verticalPokemon": "Vertical Pokémon",
-                    "hp": "Show HP"
+                    "verticalPokemon": {
+                        "name": "Vertical Pokémon",
+                        "description": "Places pokemon on either side of the window"
+                    },
+                    "hp": {
+                        "name": "Show HP"
+                    }
                 },
                 "BDSPBattleStyleHud": {
                     "name": "BDSP Battle Style HUD"
                 },
                 "BigNumbers": {
                     "name": "Big Numbers",
-                    "useCardArt": "Use Card art for background",
-                    "typesGradient": "Types as background color gradient"
+                    "useCardArt": {
+                        "name": "Use Card art",
+                        "description": "Fetches the Pokémon's card art and uses it for the background"
+                    },
+                    "typesGradient": {
+                        "name": "Type background colour gradient",
+                        "description": "Uses the Pokémon's Type colours instead of the default gradients"
+                    }
                 },
                 "Default": {
                     "name": "Default",
                     "Route": "Met Location",
                     "Pokemon": "Pokémon Colour",
-                    "typeBackground": "Use Types for background",
-                    "color": "Use for border color"
+                    "typeBackground": {
+                        "name": "Type colour background",
+                        "description": "Uses the Pokémon's Type colors instead of the Poké ball design"
+                    },
+                    "color": "Use for border colour"
                 },
                 "DigitalHex": {
                     "name": "Digital Hex",
-                    "staggered": "Staggered",
-                    "hideHPBar": "Hide HP"
+                    "staggered": {
+                        "name": "Staggered",
+                        "description": "Uses 2 rows instead of putting the Pokémon in a single line"
+                    },
+                    "hideHPBar": {
+                        "name": "Hide HP"
+                    }
                 },
                 "FadingCardArt": {
                     "name": "Fading Card Art",
-                    "flat": "One line"
+                    "flat": {
+                        "name": "One line",
+                        "description": "Lines all the Pokémon into one row"
+                    }
                 },
                 "Friday": {
                     "name": "Friday",
-                    "darkMode": "Dark Mode"
+                    "darkMode": {
+                        "name": "Dark Mode"
+                    }
                 },
                 "Gameboy": {
                     "name": "GameBoy"
                 },
                 "JezzabelPersonal": {
                     "name": "Jezzabel's personal theme",
-                    "flipped": "Flip"
+                    "flipped": {
+                        "name": "Flip",
+                        "description": "Flips the Pokémon sprites as well as moving it to the left instead of the right"
+                    }
                 },
                 "LetsGo": {
                     "name": "Let's Go",
-                    "verticalPokemon": "Vertical Pokémon",
-                    "colorPokeball": "Coloured Pokeball",
-                    "colorBorder": "Coloured border",
-                    "colorBg": "Coloured background",
+                    "verticalPokemon": {
+                        "name": "Vertical Pokémon",
+                        "description": "Places the Pokémon from top to bottom"
+                    },
+                    "colorPokeball": {
+                        "name": "Coloured Pokeball",
+                        "description": "Changes the Poké ball design so it uses the selected colour type instead of just white"
+                    },
+                    "colorBorder": {
+                        "name": "Coloured border",
+                        "description": "Uses the selected colour type instead of white for the border. For Types it will use the Pokémon's primary type"
+                    },
+                    "colorBg": {
+                        "name": "Coloured background",
+                        "description": "Uses the selected colour type for the background colour. For Types it will use a gradient of the Pokémon types"
+                    },
                     "color": "Use for background colour",
                     "pokemon": "Pokémon Colour",
                     "type": "Types",

@@ -31,6 +31,7 @@
             "doesNotSupport": "Has support for generation(s) ${gens} Pokémon",
             "Info": {
                 "name": "Name",
+                "description": "Description",
                 "developer": "Developed By",
                 "artists": "Artists",
                 "animated": "Animated",
