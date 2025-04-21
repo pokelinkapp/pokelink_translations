@@ -93,6 +93,29 @@
                     "type": "Types",
                     "route": "Met Location"
                 },
+                "Pokeball": {
+                    "name": "Pokéball"
+                },
+                "RescueTeamDX": {
+                    "name": "Rescue Team DX"
+                },
+                "SportsTicker": {
+                    "name": "Sports Ticker",
+                    "verticalPokemon": {
+                        "name": "Vertical Pokemon",
+                        "description": "Places the Pokémon from top to bottom"
+                    },
+                    "noGap": {
+                        "name": "No Gap",
+                        "description": "Removes the gaps between Pokemon"
+                    },
+                    "useCardArtBackground": {
+                        "name": "Use card art for backgrounds"
+                    },
+                    "hideLevels": {
+                        "name": "Hide Levels"
+                    }
+                },
                 "SpriteOnly": {
                     "name": "Sprite Only"
                 }
