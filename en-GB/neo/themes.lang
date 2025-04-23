@@ -7,7 +7,7 @@
                     "name": "Basic Card",
                     "verticalPokemon": {
                         "name": "Vertical Pokémon",
-                        "description": "Places pokemon on either side of the window"
+                        "description": "Places pokémon on either side of the window"
                     },
                     "hp": {
                         "name": "Show HP"
@@ -33,7 +33,7 @@
                     "Pokemon": "Pokémon Colour",
                     "typeBackground": {
                         "name": "Type colour background",
-                        "description": "Uses the Pokémon's Type colors instead of the Poké ball design"
+                        "description": "Uses the Pokémon's Type colours instead of the Poké ball design"
                     },
                     "color": "Use for border colour"
                 },
@@ -99,15 +99,18 @@
                 "RescueTeamDX": {
                     "name": "Rescue Team DX"
                 },
+                "SimpleCircles": {
+                    "name": "Simple Circles"
+                },
                 "SportsTicker": {
                     "name": "Sports Ticker",
                     "verticalPokemon": {
-                        "name": "Vertical Pokemon",
+                        "name": "Vertical Pokémon",
                         "description": "Places the Pokémon from top to bottom"
                     },
                     "noGap": {
                         "name": "No Gap",
-                        "description": "Removes the gaps between Pokemon"
+                        "description": "Removes the gaps between Pokémon"
                     },
                     "useCardArtBackground": {
                         "name": "Use card art for backgrounds"
@@ -118,6 +121,44 @@
                 },
                 "SpriteOnly": {
                     "name": "Sprite Only"
+                },
+                "StickItDown": {
+                    "name": "Stick it down"
+                },
+                "SwordShieldTeam": {
+                    "name": "Sword and Shield-style team",
+                    "colorPokeball": {
+                        "name": "Colour Pokéball",
+                        "description": "Colour the Pokéball with colours based on the colour selection"
+                    },
+                    "colorBothSides": {
+                        "name": "Colour both sides",
+                        "description": "If enabled will colour both sides Pokéball even if both colours match"
+                    },
+                    "color": {
+                        "name": "Colour",
+                        "pokemon": "Pokémon",
+                        "route": "Met Location",
+                        "type": "Types"
+                    }
+                },
+                "Trozei": {
+                    "name": "Trozei",
+                    "hideLevel": {
+                        "name": "Hide Levels"
+                    },
+                    "hideNickname": {
+                        "name": "Hide Nicknames/Species Names"
+                    },
+                    "hideHP": {
+                        "name": "Hide HP"
+                    },
+                    "hideTypes": {
+                        "name": "Hide Types"
+                    }
+                },
+                "TwitchPlays": {
+                    "name": "Twitch Plays Pokémon"
                 }
             },
             "SpriteSets": {
