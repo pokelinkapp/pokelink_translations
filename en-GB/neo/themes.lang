@@ -232,6 +232,19 @@
                 "Yellow": {
                     "name": "Yellow"
                 }
+            },
+            "Badges": {
+                "Default": {
+                    "name": "Default",
+                    "showCategories": {
+                        "name": "Show Categories",
+                        "description": "Displays the names of the badge categories above each group"
+                    },
+                    "numbersOnly": {
+                        "name": "Numbers Only",
+                        "description": "Only shows how many badges your have obtained our of the total"
+                    }
+                }
             }
         }
     }
