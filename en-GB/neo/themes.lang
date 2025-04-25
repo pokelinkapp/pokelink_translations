@@ -245,6 +245,20 @@
                         "description": "Only shows how many badges your have obtained our of the total"
                     }
                 }
+            },
+            "Graveyards": {
+                "Default": {
+                    "name": "Default",
+                    "counter": {
+                        "name": "Show number of Deaths",
+                        "description": "Show only the number of Pokémon that have fainted"
+                    },
+                    "showNames": "Show names of the fallen",
+                    "scroll": {
+                        "name": "Scrolling",
+                        "description": "Scroll members of the graveyard across the screen"
+                    }
+                }
             }
         }
     }
