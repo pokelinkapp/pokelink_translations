@@ -3,6 +3,7 @@
     "translations": {
         "Window": {
             "title": "Pokélink - Pokémon Streaming Utility",
+            "noticeTranslation": "The message above may have been translated using Google Translate. Apologies if it is not accurate",
             "FTS": {
                 "ticker": [
                     "Pokélink will never store any of your personal information outside of your own computer",
