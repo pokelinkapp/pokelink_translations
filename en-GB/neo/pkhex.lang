@@ -31,7 +31,8 @@
             "shadow_down": "Shadow Down"
         },
         "form": {
-            "large_busted": "Large Busted"
+            "large_busted": "Large Busted",
+            "unknown": "Unknown"
         },
         "status": {
             "healthy": "Healthy",
