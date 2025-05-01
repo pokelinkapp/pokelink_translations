@@ -125,6 +125,10 @@
                 "messages": "Registering Communication Channels",
                 "sessions": "Loading Session Cache",
                 "keybinds": "Registering Keybind Events"
+            },
+            "UnexpectedError": {
+                "title": "Pokélink recovered from an unexpected error",
+                "text": "If you had a session open this has been saved and closed to stop more errors from occuring"
             }
         },
         "Network": {
