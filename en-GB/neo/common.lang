@@ -21,6 +21,7 @@
             "download": "Download",
             "downloadDependencies": "Download dependencies",
             "close": "Close",
+            "submit": "Submit",
             "Navigation": {
                 "webLegacy": "Web Sources (Legacy)"
             }
