@@ -11,7 +11,12 @@
             "reportDescription": "Please input a brief description of what is going wrong",
             "noTraces": "No porygon traces found. Please report directly in Discord",
             "reportBug": "Report Bug",
-            "reportBugCooldown": "Report Bug (Cooldown ${countDownAmount}s)"
+            "reportBugCooldown": "Report Bug (Cooldown ${countDownAmount}s)",
+            "failedToSubmit": "Failed to upload the bug report. The Porygon trace was saved into your session's folder. Please contact us for a manual report",
+            "submitted": {
+                "title": "Bug Report Submitted",
+                "text": "Your bug report has been submitted and can be seen in the discord"
+            }
         }
     }
 }
