@@ -1,0 +1,63 @@
+{
+  "code": "de",
+  "translations": {
+    "Emulator": {
+      "connecting": "Connecting ${emulator}...",
+      "waitingForConnection": "Waiting for connection to ${emulator}...",
+      "emulatorText": "Emulator: ${emulator}",
+      "Error": {
+        "Bizhawk": {
+          "missingMono": "Please install the mono package for your distro",
+          "missingDotFx": "Please install dotnet v4.8 or run Bizhawk's prerequisite installer",
+          "unsupportedOS": "Bizhawk does not run on this OS",
+          "missingLaunchScript": "Emulator is missing it's launch script EmuHawkMono.sh"
+        },
+        "DeSmuME": {
+          "unknownScriptError": "An unknown script error occured. Please contact us in the Pokélink discord"
+        },
+        "invalidEmulator": "The selected emulator exe is not valid",
+        "invalidEmulatorTitle": "Invalid Emulator",
+        "unsupportedEmulatorVersion": "Unsupported version of ${emulator}. Pokélink supports: ${supportedVersions}",
+        "unknownEmulatorVersion": "Unknown version of ${emulator}",
+        "noEmulatorSpecified": "The selected game does not specify an emulator it works with. Please report this to the plugin creator"
+      },
+      "Starting": {
+        "title": "Starting emulator",
+        "description": "Please wait whilst we launch and connect to the emulator",
+        "bizhawk": "Should Bizhawk ask if you want to load an external tool. Click Yes so that Pokélink can talk with Bizhawk",
+        "InitializeConfig": {
+          "title": "Creating initial config",
+          "description": "Please close the emulator once it starts to allow for it to create the default configs"
+        }
+      },
+      "Setup": {
+        "existing": "Use existing emulator",
+        "setupNew": "Select different emulator",
+        "downloadEmulator": "Download ${emulator}",
+        "dropFile": "Drag and drop ${emulator}'s archive or exe into the window",
+        "invalidFile": "Invalid file selected"
+      },
+      "Bizhawk": {
+        "name": "Bizhawk",
+        "ConfigItems": {
+          "EnableRealTimeClock": {
+            "name": "Enable Real Time Clock",
+            "description": "Allows Bizhawk to use your computer's clock for time based events in games"
+          }
+        },
+        "downloadDependenciesInstructions": "Click the button below which will open up the download page. Then click on the bizhawk_prereqs_vxxxx.zip file. Once that has downloaded. Open up the zip by double clicking on it. Inside should be a bizhawk_prereqs.exe. Double click on this and follow it's instructions. Once complete you can move onto the next step",
+        "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink"
+      },
+      "Desmume": {
+        "name": "DeSmuME",
+        "copyLua": "Copy the below filepath into the lua scripting window",
+        "copyLua2": "This can be done by going to Tools > Lua Scripting > New Lua Script Window inside DeSmuME (Be sure not to close this window, you can minimize it though)",
+        "downloadInstructions": "Click the button below which will open your browser and begin downloading the Desmume zip. Once downloaded. Close this dialog and drag the zip file onto Pokélink"
+      },
+      "Azahar": {
+        "name": "Citra / Lime3DS / Azahar",
+        "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink"
+      }
+    }
+  }
+}

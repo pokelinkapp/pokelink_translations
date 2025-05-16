@@ -1,0 +1,22 @@
+{
+  "code": "nl-BE",
+  "translations": {
+    "Discord": {
+      "authorize": "Before you are able to use Pokélink you must first authorize through Discord",
+      "login": "Login with Discord",
+      "waiting": "Waiting on auth response...",
+      "notAuthorized": "You are not permitted to use this version of Pokélink",
+      "reauthenticate": "Please reauthenticate before reporting a bug",
+      "report": "Report a bug",
+      "reportDescription": "Please input a brief description of what is going wrong",
+      "noTraces": "No porygon traces found. Please report directly in Discord",
+      "reportBug": "Report Bug",
+      "reportBugCooldown": "Report Bug (Cooldown ${countDownAmount}s)",
+      "failedToSubmit": "Failed to upload the bug report. The Porygon trace was saved into your session's folder. Please contact us for a manual report",
+      "submitted": {
+        "title": "Bug Report Submitted",
+        "text": "Your bug report has been submitted and can be seen in the discord"
+      }
+    }
+  }
+}
