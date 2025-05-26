@@ -59,6 +59,10 @@
         "AssignEmu": {
           "title": "Assign Emulator",
           "description": "Would you like to also assign ${emulator} to these consoles?"
+        },
+        "ExtractingEmulator": {
+          "title": "Extracting ${emulator}",
+          "description": "Exporting ${emulator} please wait"
         }
       }
     }
