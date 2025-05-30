@@ -259,6 +259,10 @@
             "description": "Scroll members of the graveyard across the screen"
           }
         }
+      },
+      "useLocalSprites": {
+        "name": "Use Local Sprites",
+        "description": "Use the sprites that Pokelink is using instead of a sprite set"
       }
     }
   }
