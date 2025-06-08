@@ -16,7 +16,9 @@
       "submitted": {
         "title": "Bug Report Submitted",
         "text": "Your bug report has been submitted and can be seen in the discord"
-      }
+      },
+      "retryLogin": "Retry",
+      "retryLoginCountdown": "Retry in ${countDown} seconds..."
     }
   }
 }
