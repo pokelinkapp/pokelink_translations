@@ -19,7 +19,7 @@
         "usernameHint": "A username used to uniquely access your web sources"
       },
       "Sessions": {
-        "import": "Import",
+        "import": "Import from 0.6",
         "SessionCard": {
           "auto": "Auto",
           "manual": "Manual",
