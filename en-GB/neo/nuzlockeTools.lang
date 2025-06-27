@@ -27,11 +27,6 @@
                 "year": "${amount} year",
                 "years": "${amount} years",
                 "ago": "ago"
-            },
-            "Sections": {
-                "ShowdownExport": {
-                    "NoShowdownData": "There was an error with exporting your team. If report this in the Pokélink discord."
-                }
             }
         }
     }
