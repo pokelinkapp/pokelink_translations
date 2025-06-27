@@ -27,7 +27,7 @@
                 },
                 "RouteTracking": {
                     "Title": "Route Tracker",
-                    "SupportInfo": "Routes now track automatically in Gens 3, 4, 5, 6, and 7. In manual sessions, tracking utilizes the \"Location Met\" field.",
+                    "SupportInfo": "Routes now track automatically in Gens 3, 4, 5, 6, and 7. In both automatic and manual sessions, tracking utilizes the \"Location Met\" field.",
                     "OnlyPokemonInYourPartyAreTracked": "Note: The Pokémon must be in your party for it to automatically register.",
                     "YouCanManuallyTrackThemToo": "You can also manually track the routes by clicking a button below the route name.",
                     "States": {
