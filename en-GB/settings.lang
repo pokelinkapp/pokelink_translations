@@ -22,7 +22,7 @@
                 },
                 "RomLocation": {
                     "Title": "Rom Location",
-                    "Description": "Change the path of this file"
+                    "Description": "Change the path of your rom file"
                 },
                 "RevealEggs": {
                     "Title": "Reveal Eggs",
@@ -34,7 +34,7 @@
                 },
                 "AllowErrorReporting": {
                     "Title": "Allow Pokélink to automatically submit error reports",
-                    "Description": "Turning this off stops the app sending anonymous data when bugs happen in the app"
+                    "Description": "Turning this off stops the app from sending anonymous data when bugs happen in the app"
                 },
                 "AutomaticallyBootEmulator": {
                     "Title": "Automatically launch emulator when resuming a session",
