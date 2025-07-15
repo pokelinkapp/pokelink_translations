@@ -1,0 +1,10 @@
+{
+    "code": "nl-BE",
+    "translations": {
+        "Badges": {
+            "badgesTitle": "Badges",
+            "badgesAreNotAutomaticInfo": "Badges worden niet automatisch getraceert alhoewel, erop klikken, het 'activeerd' in de webbron",
+            "noBadgesAvailable": "Er zijn geen badges beschikbaar voor dit spel."
+        }
+    }
+}

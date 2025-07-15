@@ -1,0 +1,91 @@
+{
+  "code": "it",
+  "translations": {
+    "Game": {
+      "Subtitle": {
+        "english": "English",
+        "europe": "European",
+        "japan": "Japan",
+        "german": "German",
+        "french": "French",
+        "italian": "Italian",
+        "spanish": "Spanish",
+        "korean": "Korean",
+        "chineseT": "Chinese Traditional",
+        "chineseS": "Chinese Simplified",
+        "V1.0": "V1.0",
+        "V1.2": "V1.2",
+        "V1.4": "V1.4",
+        "V1.5": "V1.5"
+      },
+      "Category": {
+        "gen1": "Gen 1",
+        "gen2": "Gen 2",
+        "gen3": "Gen 3",
+        "gen4": "Gen 4",
+        "gen5": "Gen 5",
+        "gen6": "Gen 6",
+        "gen7": "Gen 7",
+        "gen8": "Gen 8",
+        "gen9": "Gen 9"
+      },
+      "Name": {
+        "UNKNOWN": "Unknown version",
+        "RED": "Pokémon Red",
+        "BLUE": "Pokémon Blue",
+        "GREEN": "Pokémon Green",
+        "YELLOW": "Pokémon Yellow",
+        "GOLD": "Pokémon Gold",
+        "SILVER": "Pokémon Silver",
+        "CRYSTAL": "Pokémon Crystal",
+        "RUBY": "Pokémon Ruby",
+        "SAPPHIRE": "Pokémon Sapphire",
+        "EMERALD": "Pokémon Emerald",
+        "FIRE_RED": "Pokémon FireRed",
+        "LEAF_GREEN": "Pokémon LeafGreen",
+        "COLOSSEUM": "Pokémon Colosseum",
+        "XD": "Pokémon XD: Gale of Darkness",
+        "DIAMOND": "Pokémon Diamond",
+        "PEARL": "Pokémon Pearl",
+        "PLATINUM": "Pokémon Platinum",
+        "HEART_GOLD": "Pokémon HeartGold",
+        "SOUL_SILVER": "Pokémon SoulSilver",
+        "BLACK": "Pokémon Black",
+        "WHITE": "Pokémon White",
+        "BLACK_2": "Pokémon Black 2",
+        "WHITE_2": "Pokémon White 2",
+        "X": "Pokémon X",
+        "Y": "Pokémon Y",
+        "OMEGA_RUBY": "Pokémon Omega Ruby",
+        "ALPHA_SAPPHIRE": "Pokémon Alpha Sapphire",
+        "SUN": "Pokémon Sun",
+        "MOON": "Pokémon Moon",
+        "ULTRA_SUN": "Pokémon Ultra Sun",
+        "ULTRA_MOON": "Pokémon Ultra Moon",
+        "LETS_GO_EEVEE": "Pokémon Let's Go, Eevee",
+        "LETS_GO_PIKACHU": "Pokémon Let's Go, Pikachu",
+        "SWORD": "Pokémon Sword",
+        "SHIELD": "Pokémon Shield",
+        "LEGENDS_ARCEUS": "Pokémon Legends: Arceus",
+        "BRILLIANT_DIAMOND": "Pokémon Brilliant Diamond",
+        "SHINING_PEARL": "Pokémon Shining Pearl",
+        "SCARLET": "Pokémon Scarlet",
+        "VIOLET": "Pokémon Violet"
+      },
+      "BadgeTitles": {
+        "LA": {
+          "plates": "Arceus Plates",
+          "star": "Rank Star"
+        },
+        "SV": {
+          "gyms": "Gym Badges",
+          "stars": "Operation Starfall",
+          "titans": "Path of Legends (Titans)"
+        },
+        "Orre": {
+          "shadowPokemon": "Shadow Pokémon"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "code": "fr-BE",
+    "translations": {
+        "Alert": {
+            "Title": {
+                "info": "Information",
+                "success": "Succès!",
+                "warning": "Attention",
+                "danger": "Erreur"
+            }
+        }
+    }
+}

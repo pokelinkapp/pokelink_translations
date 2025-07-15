@@ -1,0 +1,154 @@
+{
+  "code": "it",
+  "translations": {
+    "Badges": {
+      "Kanto": {
+        "boulder": "Boulder Badge",
+        "cascade": "Cascade Badge",
+        "thunder": "Thunder Badge",
+        "rainbow": "Rainbow Badge",
+        "soul": "Soul Badge",
+        "marsh": "Marsh Badge",
+        "volcano": "Volcano Badge",
+        "earth": "Earth Badge"
+      },
+      "Jhoto": {
+        "zephyr": "Zephyr Badge",
+        "hive": "Hive Badge",
+        "plain": "Plain Badge",
+        "fog": "Fog Badge",
+        "storm": "Storm Badge",
+        "mineral": "Mineral Badge",
+        "glacier": "Glacier Badge",
+        "rising": "Rising Badge",
+        "boulder": "${Badges.Kanto.boulder}",
+        "cascade": "${Badges.Kanto.cascade}",
+        "thunder": "${Badges.Kanto.thunder}",
+        "rainbow": "${Badges.Kanto.rainbow}",
+        "soul": "${Badges.Kanto.soul}",
+        "marsh": "${Badges.Kanto.marsh}",
+        "volcano": "${Badges.Kanto.volcano}",
+        "earth": "${Badges.Kanto.earth}"
+      },
+      "Hoenn": {
+        "stone": "Stone Badge",
+        "knuckle": "Knuckle Badge",
+        "dynamo": "Dynamo Badge",
+        "heat": "Heat Badge",
+        "balance": "Balance Badge",
+        "feather": "Feather Badge",
+        "mind": "Mind Badge",
+        "rain": "Rain Badge"
+      },
+      "Sinnoh": {
+        "coal": "Coal Badge",
+        "forest": "Forest Badge",
+        "cobble": "Cobble Badge",
+        "fen": "Fen Badge",
+        "relic": "Relic Badge",
+        "mine": "Mine Badge",
+        "icicle": "Icicle Badge",
+        "beacon": "Beacon Badge"
+      },
+      "Unova": {
+        "trio": "Trio Badge",
+        "basic": "Basic Badge",
+        "insect": "Insect Badge",
+        "bolt": "Bolt Badge",
+        "quake": "Quake Badge",
+        "jet": "Jet Badge",
+        "freeze": "Freeze Badge",
+        "legend": "Legend Badge",
+        "toxic": "Toxic Badge",
+        "wave": "Wave Badge"
+      },
+      "Kalos": {
+        "bug": "Bug Badge",
+        "cliff": "Cliff Badge",
+        "rumble": "Rumble Badge",
+        "plant": "Plant Badge",
+        "voltage": "Voltage Badge",
+        "fairy": "Fairy Badge",
+        "psychic": "Psychic Badge",
+        "iceberg": "Iceberg Badge"
+      },
+      "Galar": {
+        "grass": "Grass Badge",
+        "water": "Water Badge",
+        "fire": "Fire Badge",
+        "ghost": "Ghost Badge",
+        "fighting": "Fighting Badge",
+        "fairy": "Fairy Badge",
+        "ice": "Ice Badge",
+        "rock": "Rock Badge",
+        "dark": "Dark Badge",
+        "dragon": "Dragon Badge"
+      },
+      "Paldea": {
+        "gym_bug": "Bug Gym Badge",
+        "gym_grass": "Grass Gym Badge",
+        "gym_electric": "Electric Gym Badge",
+        "gym_water": "Water Gym Badge",
+        "gym_normal": "Normal Gym Badge",
+        "gym_ghost": "Ghost Gym Badge",
+        "gym_psychic": "Psychic Gym Badge",
+        "gym_ice": "Ice Gym Badge",
+        "star_dark": "Dark Star Badge",
+        "star_fire": "Fire Star Badge",
+        "star_poison": "Poison Star Badge",
+        "star_fairy": "Fairy Star Badge",
+        "star_fighting": "Fighting Star Badge",
+        "titan_rock": "Rock Titan Badge",
+        "titan_flying": "Flying Titan Badge",
+        "titan_steel": "Steel Titan Badge",
+        "titan_ground": "Ground Titan Badge",
+        "titan_dragon": "Dragon Titan Badge"
+      }
+    },
+    "Trials": {
+      "Alola": {
+        "trial-normal": "Normal Trial",
+        "trial-water": "Water Trial",
+        "trial-fire": "Fire Trial",
+        "trial-grass": "Grass Trial",
+        "trial-electric": "Electric Trial",
+        "trial-ghost": "Ghost Trial",
+        "trial-dragon": "Dragon Trial",
+        "trial-fairy": "Fairy Trial"
+      }
+    },
+    "Objectives": {
+      "Hisui": {
+        "plate_mind": "Mind Plate",
+        "plate_insect": "Insect Plate",
+        "plate_earth": "Earth Plate",
+        "plate_meadow": "Meadow Plate",
+        "plate_splash": "Splash Plate",
+        "plate_flame": "Flame Plate",
+        "plate_toxic": "Toxic Plate",
+        "plate_zap": "Zap Plate",
+        "plate_sky": "Sky Plate",
+        "plate_icicle": "Icicle Plate",
+        "plate_stone": "Stone Plate",
+        "plate_draco": "Draco Plate",
+        "plate_iron": "Iron Plate",
+        "plate_blank": "Blank Plate",
+        "plate_fist": "Fist Plate",
+        "plate_pixie": "Pixie Plate",
+        "plate_spooky": "Spooky Plate",
+        "plate_dread": "Dread Plate",
+        "plate_legend": "Legend Plate",
+        "star_rank_1": "Star Rank 1",
+        "star_rank_2": "Star Rank 2",
+        "star_rank_3": "Star Rank 3",
+        "star_rank_4": "Star Rank 4",
+        "star_rank_5": "Star Rank 5",
+        "star_rank_6": "Star Rank 6",
+        "star_rank_7": "Star Rank 7",
+        "star_rank_8": "Star Rank 8",
+        "star_rank_9": "Star Rank 9",
+        "star_rank_10": "Star Rank 10"
+      }
+    }
+  }
+}

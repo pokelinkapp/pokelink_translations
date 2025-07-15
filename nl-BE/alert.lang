@@ -1,0 +1,13 @@
+{
+    "code": "nl-BE",
+    "translations": {
+        "Alert": {
+            "Title": {
+                "info": "Informatie",
+                "success": "Geslaagd!",
+                "warning": "Waarschuwing",
+                "danger": "Foutmelding"
+            }
+        }
+    }
+}

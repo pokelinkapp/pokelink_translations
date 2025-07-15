@@ -1,0 +1,12 @@
+{
+  "name": "pokelink-translations",
+  "version": "1.0.0",
+  "description": "Translation files for PokeLink",
+  "scripts": {
+    "check-translations": "yarn && yarn prepare && node build/missing-keys.js",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}

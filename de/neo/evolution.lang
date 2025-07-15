@@ -1,0 +1,88 @@
+{
+  "code": "de",
+  "translations": {
+    "pokemon": {
+      "evolve": {
+        "level": "Lvl. ${value}",
+        "time": "${value}",
+        "location": "${value}",
+        "friendship": "${value}",
+        "useItem": "Use ${value}",
+        "holdItem": "Hold ${value}",
+        "useMoveHisui": "Use ${move} using ${style} ${count} times",
+        "useMove": "Use ${move} ${count} times",
+        "trade": "Trade",
+        "levelUp": "Level up",
+        "or": "or",
+        "critsInOneBattle": "${value} crits in one battle",
+        "knowMove": "Know the move ${value}",
+        "knowMoveType": "Know a ${value} type move",
+        "rarity": "${value}",
+        "stat": "Stats: ${value}",
+        "gender": "${value}",
+        "emptySlot": "Have empty slot",
+        "hasItem": "Have ${value}",
+        "maxTrait": "Max ${value} trait",
+        "typedPokemonPresentInParty": "${value} typed pokemon is present in party",
+        "presentInParty": "${value} is present in party",
+        "recoilDamage": "Take ${value} in recoil damage",
+        "tradeWith": "Trade with ${value}",
+        "defeatPokemon": "Defeat ${count} ${species} holding ${item}",
+        "holdConsoleUpsideDown": "Hold console upside down",
+        "weather": "${value}",
+        "ability": "Has ${value} ability",
+        "game": "Whilst playing ${value}",
+        "candy": "${count} ${species} candy",
+        "nature": "Have following nature(s): ${value}",
+        "spinWithSweet": "Spin whilst holding a sweet",
+        "walkXStepsInLetsGoMode": "Walk ${value} steps whilst in Let's go mode",
+        "multiplayer": "Evolves during multiplayer session",
+        "gimmighoulCoins": "Whilst carrying ${value}x ${pokemon.item.gen9.gimmighoul_coin}s",
+        "galarianYamask": "Pass under the large rock arch in Dusty Bowl after ${pokemon.species.yamask} takes at least 49 HP in damage from attacks without fainting. Healing does not reset the counter, and damage can be taken across multiple battles. Taking damage from certain sources, such as self-inflicted Curse damage or weather effects, does not contribute to the 49 HP damage requirement"
+      },
+      "go": "Pokémon Go",
+      "note": {
+        "vivillonPattern": "Pattern depends on save"
+      }
+    },
+    "timeOfDay": {
+      "night": "Night time",
+      "day": "Day time",
+      "fullMoon": "During full moon",
+      "dusk": "At Dusk"
+    },
+    "friendship": {
+      "high": "High friendship",
+      "twoHearts": "Two Hearts of affection"
+    },
+    "area": {
+      "nearMossyRock": "Near Mossy Rock",
+      "nearIcyRock": "Near Icy Rock",
+      "magneticField": "In Magnetic Field",
+      "inGrass": "In Grassy area",
+      "inCaves": "In Caves",
+      "inBuildings": "In Buildings",
+      "nearDustyBowl": "Near Dusty Bowl",
+      "atMountLanakila": "At Mount Lanakila"
+    },
+    "rarity": {
+      "rare": "Rare chance",
+      "randomPersonality": "Random chance based on personality value"
+    },
+    "moveStyle": {
+      "strong": "Strong Style",
+      "agile": "Agile Style"
+    },
+    "stat": {
+      "attack>defense": "Attack > Defense",
+      "attack<defense": "Attack < Defense",
+      "attack=defense": "Attack = Defense"
+    },
+    "trait": {
+      "beauty": "Beauty"
+    },
+    "weather": {
+      "raining": "Whilst raining"
+    }
+  }
+}

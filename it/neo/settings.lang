@@ -1,0 +1,41 @@
+{
+  "code": "it",
+  "translations": {
+    "Settings": {
+      "logsCopied": "Log data copied to your clipboard",
+      "appLanguage": "App Language",
+      "Fields": {
+        "Uninstall": {
+          "Title": "Uninstall",
+          "Description": "Uninstall the app"
+        },
+        "Shortcuts": {
+          "title": "Keyboard shortcuts",
+          "description": "Enable system wide keyboard shortcuts "
+        },
+        "RevealEggDelay": {
+          "title": "Egg reveal delay",
+          "description": "The time in seconds that the app will wait before revealing the contents of the Pokémon egg"
+        },
+        "TraceLog": {
+          "title": "Porygon Trace",
+          "description": "Helps with debugging what Porygon is doing in the background. Do not turn this on unless asked by a Pokélink Dev or you notice strange behavior within the app",
+          "start": "Start Tracing",
+          "stop": "Stop Tracing"
+        },
+        "allowTelemetry": "Allowing telemetry sends us anonymous information upon an error or a fatal crash. Requires a restart of the app to take effect"
+      },
+      "Uninstall": {
+        "title": "Uninstall Pokélink?",
+        "description": "Are you sure you would like to uninstall Pokélink?\n(Local data includes: Logs, Sessions and Configs)",
+        "appOnly": "Uninstall app only",
+        "sessionsAlso": "Remove app + local data",
+        "cancel": "Cancel"
+      },
+      "Titles": {
+        "Shortcuts": "Global Shortcuts",
+        "licenses": "Licenses"
+      }
+    }
+  }
+}

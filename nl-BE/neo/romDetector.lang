@@ -1,0 +1,20 @@
+{
+  "code": "nl-BE",
+  "translations": {
+    "RomDetector": {
+      "gameDetected": "Game detected as ${gameName}",
+      "gameSelected": "Game selected ${gameName}",
+      "gameVersion": "Version: ${version}",
+      "gameGeneration": "Generation: ${gen}",
+      "filepath": "Filepath: ${path}",
+      "dragRom": "Drag the rom you want to play onto this window",
+      "unableToIdentify": "Unable to identify the rom",
+      "unsupportedButKnownRom": "${romType} is not a supported rom type",
+      "fileDoesNotExist": "${path} does not exist",
+      "couldNotReadFile": "Could not read rom file",
+      "unableToDecode": "Unable to read rom header",
+      "nonPokemonRom": "Rom is not a pokemon game",
+      "archiveFile": "Please extract your rom as archives are not supported"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Common": {
+            "Navigation": {
+                "Sessions": "Sessions",
+                "Server": "Server Settings",
+                "Players": "Players + Parties",
+                "Badges": "Badges",
+                "Pokédex": "Pokédex",
+                "Web": "Web Sources",
+                "Nuzlocke": "Nuzlocke Tools",
+                "Settings": "Settings",
+                "About": "About"
+            },
+            "Notification": {
+                "Actions": {
+                    "Close": "Close"
+                }
+            }
+        }
+    }
+}

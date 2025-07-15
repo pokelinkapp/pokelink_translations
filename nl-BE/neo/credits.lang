@@ -1,0 +1,25 @@
+{
+  "code": "nl-BE",
+  "translations": {
+    "Credits": {
+      "AwesomePeople": {
+        "title": "Awesome People",
+        "description": "This project had a lot of help, support, research and knowledge provided by the below people. Without whom, none of this project would be where it is today."
+      },
+      "CoreDevs": {
+        "title": "Core Developers",
+        "description": "We couldn't have all of this without the aforementioned people. So thank you! But we decided we had to put our info in here too, you know, for science..."
+      },
+      "supportPatreon": "Support us on Patreon!",
+      "Translators": {
+        "title": "${label} translators",
+        "description": "Awesome members of the community that helped translate Pokélink to ${label}",
+        "members": [
+          "Jezzabel",
+          "NimbusFox",
+          "xLinktv"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+    "code": "en-GB",
+    "translations": {
+        "Console": {
+            "supported": "Supported Console(s):",
+            "n64": "Nintendo 64",
+            "gb": "Nintendo GameBoy",
+            "gbc": "Nintendo GameBoy Colour",
+            "gba": "Nintendo GameBoy Advance",
+            "nds": "Nintendo DS",
+            "n3ds": "Nintendo 3DS",
+            "switch": "Nintendo Switch"
+        }
+    }
+}

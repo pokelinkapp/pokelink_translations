@@ -1,0 +1,33 @@
+{
+  "code": "it",
+  "translations": {
+    "NuzlockeTools": {
+      "showdownCopied": "Showdown data copied to your clipboard",
+      "showOnlyMissing": "Show only missing encounters",
+      "search": "Search",
+      "revive": "Revive",
+      "RouteTracking": {
+        "caught": "Caught",
+        "ranAway": "It ran away",
+        "killed": "I killed it"
+      },
+      "TimeOfDeathFormat": {
+        "second": "${amount} second",
+        "seconds": "${amount} seconds",
+        "minute": "${amount} minute",
+        "minutes": "${amount} minutes",
+        "hour": "${amount} hour",
+        "hours": "${amount} hours",
+        "day": "${amount} day",
+        "days": "${amount} days",
+        "week": "${amount} week",
+        "weeks": "${amount} weeks",
+        "month": "${amount} month",
+        "months": "${amount} months",
+        "year": "${amount} year",
+        "years": "${amount} years",
+        "ago": "ago"
+      }
+    }
+  }
+}
