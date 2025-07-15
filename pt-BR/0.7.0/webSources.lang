@@ -1,0 +1,48 @@
+{
+  "code": "pt-BR",
+  "translations": {
+    "WebSources": {
+      "partySources": "Party Sources",
+      "badgeSources": "Badge Sources",
+      "deathSources": "Death Sources",
+      "preview": "Above is a preview of the web source, some sources may resize with the browser, so use Pokélink in full-screen mode to get the best look look at each one.",
+      "selectTheme": "Select Theme",
+      "selectSprite": "Select sprites used on your web sources",
+      "selectSpriteSet": "Select Sprite Set",
+      "selectPlaceholder": "Select a theme...",
+      "yourSources": "Your Sources",
+      "playerSources": "${player}'s Sources",
+      "sourceUrl": "Source URL",
+      "useNetwork": "Use network host address (for 2-pc setup)",
+      "useLocal": "Use local host address",
+      "animated": "Animated",
+      "formsSupported": "Are Forms Supported",
+      "shiniesSupported": "Are Shinies Supported",
+      "gensSupported": "What gens are supported?",
+      "applyChanges": "Apply changes to theme",
+      "webSourceInfo": "The web source URL should be copied into your streaming app of choice as a Browser source. Be sure to play with the original source width and height before resizing in the preview window.",
+      "externalIP": "External IP",
+      "V1EOS": "The web source system will soon be replaced with the new V2 system. Legacy themes are going to be considered deprecated but will continue to work for the foreseeable future. If you have a custom theme please get in touch with us in the Pokélink discord for help migrating the theme to V2",
+      "themeSettings": "Theme Settings",
+      "themeInfo": "Theme Information",
+      "theme": "Theme",
+      "spriteSet": "Sprite Set",
+      "spriteSetInfo": "Sprite Set Information",
+      "doesNotSupport": "Has support for generation(s) ${gens} Pokémon",
+      "Info": {
+        "name": "Name",
+        "description": "Description",
+        "developer": "Developed By",
+        "artists": "Artists",
+        "animated": "Animated",
+        "changeableSprites": "Changeable Sprites",
+        "shinySprites": "Shiny Sprites",
+        "forms": "Forms",
+        "gameGenerations": "Game Generations"
+      },
+      "copyUrl": "Copy Url",
+      "apply": "Apply Sprite Set (${spriteSet})",
+      "reset": "Reset Sprite Set"
+    }
+  }
+}

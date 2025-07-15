@@ -36,6 +36,9 @@ const buildNestedArray = ( directory ) => {
 
 const addMissingKeysToDestinationObject = ( source, destination ) => {
   for ( const key in source ) {
+    if (destination.constructor === Array) {
+      continue
+    }
     if ( source.hasOwnProperty( key ) ) {
       if ( !destination.hasOwnProperty( key ) ) {
         destination[ key ] = source[ key ];
@@ -49,7 +52,7 @@ const addMissingKeysToDestinationObject = ( source, destination ) => {
 const getLanguageDirectoriesWithNeoDir = () => {
   const baseDir = path.join( __dirname, '../' );
   const languageFolders = fs.readdirSync( baseDir ).filter( dir => {
-    const langDir = path.join( baseDir, dir, 'neo' );
+    const langDir = path.join( baseDir, dir, '0.7.0' );
     return fs.existsSync( langDir ) && fs.lstatSync( langDir ).isDirectory();
   } );
   return languageFolders;
@@ -88,7 +91,7 @@ const formatKeyPaths = ( obj, prefix = '' ) => {
 };
 
 const processLanguageDirectory = ( fromOriginLanguage, language ) => {
-  const currentTranslationLanguage = buildNestedArray( path.join( __dirname, '../' + language + '/neo' ) );
+  const currentTranslationLanguage = buildNestedArray( path.join( __dirname, '../' + language + '/0.7.0' ) );
 
   // Calculate and log newly added keys before adding missing keys
   const newKeys = calculateNewlyAddedKeys( fromOriginLanguage, currentTranslationLanguage );
@@ -105,7 +108,7 @@ const processLanguageDirectory = ( fromOriginLanguage, language ) => {
 };
 
 const writeNeoTranslationsToLanguageDirectoryStructure = ( translations, language ) => {
-  const languageNeoDir = path.join( __dirname, '../', language, 'neo' );
+  const languageNeoDir = path.join( __dirname, '../', language, '0.7.0' );
 
   // Create the base directory if it doesn't exist
   if ( !fs.existsSync( languageNeoDir ) ) {
@@ -130,7 +133,7 @@ const writeNeoTranslationsToLanguageDirectoryStructure = ( translations, languag
   }
 }
 
-const enGBTranslations = buildNestedArray( path.join( __dirname, '../en-GB/neo' ) );
+const enGBTranslations = buildNestedArray( path.join( __dirname, '../en-GB/0.7.0' ) );
 const languageFolders = getLanguageDirectoriesWithNeoDir();
 
 languageFolders.forEach( language => {

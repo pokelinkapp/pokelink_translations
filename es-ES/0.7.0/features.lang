@@ -1,0 +1,21 @@
+{
+  "code": "es-ES",
+  "translations": {
+    "Features": {
+      "Pokelink": {
+        "KnownIssues": {
+          "doNotSaveInLumiose": "Do not save in Lumiose City due to a bug in the game that can corrupt your save. Update to 1.5 if you're able to",
+          "Gen2": {
+            "eggs": "Pokémon eggs will reveal their contents in Pokélink due to the egg flag being in a unknown part of memory"
+          },
+          "Gen4": {
+            "nonPCHealingUpdates": "Pokémon HP will not update when healed outside of Pokémon Centers by NPCs"
+          }
+        },
+        "badgeTracking": "Automatic badge tracking",
+        "partyTracking": "Automatic tracking of Pokémon in your party",
+        "battleUpdates": "Automatic updates during battle"
+      }
+    }
+  }
+}

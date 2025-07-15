@@ -1,5 +1,5 @@
 {
-  "code": "nl-BE",
+  "code": "es-ES",
   "translations": {
     "Credits": {
       "AwesomePeople": {
@@ -15,9 +15,7 @@
         "title": "${label} translators",
         "description": "Awesome members of the community that helped translate Pokélink to ${label}",
         "members": [
-          "Jezzabel",
-          "NimbusFox",
-          "xLinktv"
+          "successpls"
         ]
       }
     }
