@@ -14,7 +14,7 @@ The file structure looks like this:
 │   ├── badges.lang - A translation file for badges - specific to this version
 ```
 
-Checkout this [CONTRIBUTE.md](CONTRIBUTE.md) file for more detailed instructions on how to contribute translations.
+Checkout this [CONTRIBUTING.md](CONTRIBUTING.md) file for more detailed instructions on how to contribute translations.
 
 ## Adding a new langauge
 
