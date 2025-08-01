@@ -62,7 +62,7 @@
                 },
                 "ExtractingEmulator": {
                     "title": "Extracting ${emulator}",
-                    "description": "Exporting ${emulator} please wait"
+                    "description": "Extracting ${emulator} please wait"
                 }
             }
         }
