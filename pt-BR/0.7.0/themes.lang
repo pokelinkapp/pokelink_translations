@@ -246,7 +246,7 @@
           },
           "numbersOnly": {
             "name": "Numbers Only",
-            "description": "Only shows how many badges your have obtained our of the total"
+            "description": "Only shows how many badges your have obtained out of the total"
           }
         }
       },
