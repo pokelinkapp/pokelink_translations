@@ -1,0 +1,73 @@
+{
+  "code": "nl-BE",
+  "translations": {
+    "NewUser": {
+      "title": "Pokélink Tour",
+      "content": "Welcome to Pokélink version ${version}\n\nThis tour will guide you through the features and uses of this app\n\nIf you do not wish to go through the tour. You can use either skip buttons below\n\nClicking \"${NewUser.Buttons.skipAll}\" will skip all tours currently in ${version}. But should we add more in the future the new ones will still appear",
+      "Buttons": {
+        "startTour": "Start tour",
+        "skipCategory": "Skip ${category} tours",
+        "skipAll": "Skip all ${version} tours"
+      }
+    },
+    "Tour": {
+      "Main": {
+        "name": "First Run",
+        "Steps": {
+          "MAIN_IMPORT": {
+            "title": "Have you used Pokélink version 0.6.1?",
+            "content": "You can import your previous sessions from the old Pokélink\nso you don't have to wait to complete runs to start using new features"
+          },
+          "MAIN_CREATE": {
+            "title": "Getting started",
+            "content": "Click here to create a new session which can be single or multi player\nwith Pokélink either talking to an emulator for Auto sessions\nor you entering Pokémon information with a Manual session"
+          },
+          "MAIN_SIDEBAR_SESSIONS": {
+            "title": "Your sessions",
+            "content": "This shows your current active and archived sessions\nso you can get back to running a session quickly"
+          },
+          "MAIN_SIDEBAR_SETTINGS": {
+            "title": "Pokélink settings",
+            "content": "This contains settings and utilities that control Pokélink.\n\nIt is recommended to visit here when you have a session running"
+          },
+          "MAIN_SIDEBAR_ABOUT": {
+            "title": "About Pokélink",
+            "content": "Here you will see the people that have helped Pokélink to become the app it is today\nas well as the locations where we collect our data"
+          },
+          "MAIN_SESSION_ACTIVE": {
+            "title": "Active sessions",
+            "content": "This tab displays your currently active sessions"
+          },
+          "MAIN_SESSION_ARCHIVED": {
+            "title": "Archived sessions",
+            "content": "This tab displays your currently archived sessions.\nFor sessions your want to look back on but don't want cluttering up your active sessions"
+          },
+          "MAIN_SESSION_CARD": {
+            "title": "Session cards",
+            "content": "This is a session card.\nThis lets your take a look at a session before you load it.\nIt displays your party and what the session is called along with what game and version it plays"
+          },
+          "MAIN_SESSION_PARTY": {
+            "title": "Session party",
+            "content": "This displays your last recorded party for this session.\nHovering over the pokemon will show their nicknames/species"
+          },
+          "MAIN_SESSION_BADGES": {
+            "title": "Session badges",
+            "content": "This displays the number of badges/goals your have completed for this session"
+          },
+          "MAIN_SESSION_TYPE": {
+            "title": "Session type",
+            "content": "This displays if this session uses automatic tracking or requires manual input"
+          },
+          "MAIN_SESSION_CONTINUE": {
+            "title": "Continuing a session",
+            "content": "Clicking this play button will load your session.\nIf the session is connected to a emulator. Pokélink will launch that as well"
+          },
+          "MAIN_SESSION_OPTIONS": {
+            "title": "Session options",
+            "content": "Click this button will show what options your have for each session\nYou can delete or archive sessions or open the sessions folder so you can find session files easier"
+          }
+        }
+      }
+    }
+  }
+}
