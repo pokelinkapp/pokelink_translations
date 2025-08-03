@@ -24,7 +24,8 @@
             "submit": "Submit",
             "Navigation": {
                 "webLegacy": "Web Sources (Legacy)"
-            }
+            },
+            "ok": "OK"
         },
         "Gender": {
             "male": "Male",

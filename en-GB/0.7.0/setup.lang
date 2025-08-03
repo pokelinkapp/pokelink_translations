@@ -51,6 +51,10 @@
                     "text": "Use the file dialog to pick your rom"
                 }
             },
+            "VersionSelection": {
+                "title": "Select a version",
+                "text": "Please select the region/version for your rom"
+            },
             "Emulator": {
                 "Selection": {
                     "title": "Select your emulator",
