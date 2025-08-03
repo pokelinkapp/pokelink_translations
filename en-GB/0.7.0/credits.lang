@@ -11,6 +11,7 @@
                 "description": "We couldn't have all of this without the aforementioned people. So thank you! But we decided we had to put our info in here too, you know, for science..."
             },
             "supportPatreon": "Support us on Patreon!",
+            "supportDiscord": "Need support or want to join the community?\nJoin us on Discord!",
             "Translators": {
                 "title": "${label} translators",
                 "description": "Awesome members of the community that helped translate Pokélink to ${label}",
