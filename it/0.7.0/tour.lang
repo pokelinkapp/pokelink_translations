@@ -1,17 +1,21 @@
 {
-  "code": "fr-BE",
+  "code": "it",
   "translations": {
-    "NewUser": {
-      "title": "Pokélink Tour",
-      "content": "Welcome to Pokélink version ${version}\n\nThis tour will guide you through the features and uses of this app\n\nIf you do not wish to go through the tour. You can use either skip buttons below\n\nClicking \"${NewUser.Buttons.skipAll}\" will skip all tours currently in ${version}. But should we add more in the future the new ones will still appear",
+    "Tour": {
       "Buttons": {
         "startTour": "Start tour",
         "skipCategory": "Skip ${category} tours",
-        "skipAll": "Skip all ${version} tours"
-      }
-    },
-    "Tour": {
-      "Main": {
+        "skipAll": "Skip all ${version} tours",
+        "endTour": "End tour",
+        "previous": "Previous",
+        "next": "Next",
+        "finish": "Finish"
+      },
+      "MAIN": {
+        "Initial": {
+          "title": "Pokélink Tour",
+          "content": "Welcome to Pokélink version ${version}\n\nThis tour will guide you through the features and uses of this app\n\nIf you do not wish to go through the tour. You can use either skip buttons below\n\nClicking \"${Tour.Buttons.skipAll}\" will skip all tours currently in ${version}. But should we add more in the future the new ones will still appear"
+        },
         "name": "First Run",
         "Steps": {
           "MAIN_IMPORT": {
@@ -67,6 +71,14 @@
             "content": "Click this button will show what options your have for each session\nYou can delete or archive sessions or open the sessions folder so you can find session files easier"
           }
         }
+      },
+      "NEW_SESSION": {
+        "Initial": {
+          "title": "Session Creation",
+          "content": ""
+        },
+        "name": "First Run",
+        "Steps": {}
       }
     }
   }
