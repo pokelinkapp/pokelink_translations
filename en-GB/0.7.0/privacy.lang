@@ -17,28 +17,28 @@
                 "pre-alpha": "${Privacy.AnonymousCollection.alpha}",
                 "alpha": "Pokélink will only collect data should an error occur during your usage of the app. You can see what gets sent to us inside of the log files stored in the logs folder. Note that to save disk space older logs are compressed using gzip. Programs like Winrar and 7-zip are able to decompress these files for you to read if you so wish.\n\nPokélink has the ability to track what buttons you click to help us understand the user experience and what needs to be made easier or more detailed. All this information is anonymous and cannot be used to identify you.",
                 "beta": "If telemetry is enabled. Pokélink will only collect data should an error occur during your usage of the app. You can see what gets sent to us inside of the log files stored in the logs folder. Note that to save disk space older logs are compressed using gzip. Programs like Winrar and 7-zip are able to decompress these files for you to read if you so wish.\n\nIf telemetry is enabled. Pokélink has the ability to track what buttons you click to help us understand the user experience and what needs to be made easier or more detailed. All this information is anonymous and cannot be used to identify you.",
-                "public": "${Privacy.Policy.beta}"
+                "public": "${Privacy.AnonymousCollection.beta}"
             },
             "Collection": {
                 "title": "Data collection that may contain user information",
                 "pre-alpha": "${Privacy.Collection.alpha}",
                 "alpha": "Note that should the app face a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where the App stores configs and data.",
-                "beta": "If telemetry is enabled and the app faces a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where teh app stores configs and data.",
-                "public": "${Privacy.Policy.beta}"
+                "beta": "If telemetry is enabled and the app faces a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where the app stores configs and data.",
+                "public": "${Privacy.Collection.beta}"
             },
             "DoesNotCollect": {
                 "title": "Data Pokélink does not collect",
                 "pre-alpha": "${Privacy.DoesNotCollect.alpha}",
                 "alpha": "Pokélink does monitor keyboard inputs for keyboard shortcut systems like badge toggling even when the window is not focused. Whilst the app monitors keyboard inputs it does not store nor collect the inputs. This feature can be turned on and off and is off by default for each session.",
                 "beta": "${Privacy.DoesNotCollect.alpha}",
-                "public": "${Privacy.Policy.beta}"
+                "public": "${Privacy.DoesNotCollect.beta}"
             },
             "Consent": {
                 "title": "Pokélink Privacy Policy",
                 "pre-alpha": "${Privacy.Consent.alpha}",
                 "alpha": "By clicking ${Common.agree}, you confirm that you understand and agree that:\n\nPokélink (upon an app error or fatal crash) will collect data regarding the cause of the issue (limited in scope to the execution flow & current state of the app as it crashed).\n\nPokélink is able to track anonymous general user actions (for use in improving the app).\n\nPokélink will not collect, but will listen to: keyboard inputs for keyboard shortcuts, eg: toggling badges. This feature can be turned on and off (and is off by default) for each session.",
                 "beta": "By clicking ${Common.agree}, you confirm that you understand and agree that:\n\nif telemetry is enabled, Pokélink will (upon an app error or fatal crash) collect data regarding the cause of the issue.\n\nif telemetry is enabled, Pokélink is able to track anonymous general user actions (for use in improving the app)\n\nPokélink will not collect, but will listen to: keyboard inputs for keyboard shortcuts, eg: toggling badges. This feature can be turned on and off (and is off by default) for each session.",
-                "public": "${Privacy.Policy.beta}"
+                "public": "${Privacy.Consent.beta}"
             }
         }
     }

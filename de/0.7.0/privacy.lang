@@ -23,7 +23,7 @@
         "title": "Data collection that may contain user information",
         "pre-alpha": "${Privacy.Collection.alpha}",
         "alpha": "Note that should the app face a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where the App stores configs and data.",
-        "beta": "If telemetry is enabled and the app faces a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where teh app stores configs and data.",
+        "beta": "If telemetry is enabled and the app faces a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where the app stores configs and data.",
         "public": "${Privacy.Policy.beta}"
       },
       "DoesNotCollect": {
