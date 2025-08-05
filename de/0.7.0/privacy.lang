@@ -32,7 +32,7 @@
       "Consent": {
         "title": "Pokélink Privacy Policy",
         "pre-alpha": "${Privacy.Consent.alpha}",
-        "alpha": "By clicking ${Common.agree} you agree:\n\nThat you understand that Pokélink upon an app error or fatal crash will collect data regarding the cause of the issue.\n\nTo Pokélink monitoring what you click within the app.\n\nPokélink will not collect but will listen to keyboard inputs for keyboard shortcuts, example being toggling badges. This feature can be turned on and off and is off by default for each session.",
+        "alpha": "By clicking ${Common.agree}, you confirm that you understand and agree that:\n\nPokélink (upon an app error or fatal crash) will collect data regarding the cause of the issue (limited in scope to the execution flow & current state of the app as it crashed).\n\nPokélink is able to track anonymous general user actions (for use in improving the app).\n\nPokélink will not collect, but will listen to: keyboard inputs for keyboard shortcuts, eg: toggling badges. This feature can be turned on and off (and is off by default) for each session.",
         "beta": "By clicking ${Common.agree}, you confirm that you understand and agree that:\n\nif telemetry is enabled, Pokélink will (upon an app error or fatal crash) collect data regarding the cause of the issue.\n\nif telemetry is enabled, Pokélink is able to track anonymous general user actions (for use in improving the app)\n\nPokélink will not collect, but will listen to: keyboard inputs for keyboard shortcuts, eg: toggling badges. This feature can be turned on and off (and is off by default) for each session."
       }
     }
