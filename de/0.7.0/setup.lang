@@ -64,6 +64,10 @@
           "title": "Extracting ${emulator}",
           "description": "Extracting ${emulator} please wait"
         }
+      },
+      "VersionSelection": {
+        "title": "Select a version",
+        "text": "Please select the region/version for your rom"
       }
     }
   }

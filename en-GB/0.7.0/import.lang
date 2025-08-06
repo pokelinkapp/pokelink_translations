@@ -9,6 +9,10 @@
                     "processSessions": "Import sessions",
                     "finalizeAuto": "Finalize auto sessions"
                 },
+                "EmulatorSelection": {
+                    "title": "Emulator Selection",
+                    "text": "Please select a supported emulator for use with this session. If you were using VBA-RR/Citra previously, you should select Bizhawk and follow the instructions to continue where you left off"
+                },
                 "VuexSelection": {
                     "title": "Select a file",
                     "text": "Use the file dialog to pick your old vuex file"
@@ -55,6 +59,14 @@
                 "ImportingSessions" : {
                     "title": "Importing Sessions",
                     "description": "Please wait whilst we import your sessions"
+                },
+                "SelectSessions": {
+                    "title": "Select sessions",
+                    "text": "Please select the sessions you would like to import by clicking on their toggle switches"
+                },
+                "ProcessSessions": {
+                    "title": "Processing complete",
+                    "text": "Session processing is now complete. Please verify that your sessions were processed correctly"
                 },
                 "cancel": "Cancel import",
                 "dragFile": "Drag your old vuex.json file onto this window",

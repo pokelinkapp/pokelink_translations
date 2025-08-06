@@ -58,7 +58,19 @@
         },
         "cancel": "Cancel import",
         "dragFile": "Drag your old vuex.json file onto this window",
-        "dragSave": "Drag your save file onto this window or click ${Common.continue} to skip copying your save"
+        "dragSave": "Drag your save file onto this window or click ${Common.continue} to skip copying your save",
+        "EmulatorSelection": {
+          "title": "Emulator Selection",
+          "text": "Please select a supported emulator for use with this session. If you were using VBA-RR/Citra previously, you should select Bizhawk and follow the instructions to continue where you left off"
+        },
+        "SelectSessions": {
+          "title": "Select sessions",
+          "text": "Please select the sessions you would like to import by clicking on their toggle switches"
+        },
+        "ProcessSessions": {
+          "title": "Processing complete",
+          "text": "Session processing is now complete. Please verify that your sessions were processed correctly"
+        }
       }
     }
   }
