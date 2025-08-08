@@ -15,7 +15,8 @@
       "TYPECHART_FAILED_TO_LOAD": "The Type Chart failed to load. ${SessionError.readLog}",
       "MOVE_DATA_FAILED_TO_LOAD": "Move data failed to load. ${SessionError.readLog}",
       "EMULATOR_ALREADY_RUNNING": "Emulator is already running. Please save your game and close the emulator before starting this session",
-      "POKEDEX_FAILED_TO_LOAD": "The Pokedex failed to load. ${SessionError.readLog} "
+      "POKEDEX_FAILED_TO_LOAD": "The Pokedex failed to load. ${SessionError.readLog} ",
+      "UNABLE_TO_EXTRACT": "Unable to extract required resources due to another process using them. Do you already have the emulator open?"
     },
     "SessionList": {
       "missingGame": "Missing game and/or plugin"
