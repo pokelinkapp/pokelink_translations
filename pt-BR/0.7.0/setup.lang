@@ -67,7 +67,7 @@
       },
       "VersionSelection": {
         "title": "Select a version",
-        "text": "Please select the region/version for your rom"
+        "text": "Please select the region/version for your rom. 3DS games you should use v1.0 unless you have updated the game"
       }
     }
   }
