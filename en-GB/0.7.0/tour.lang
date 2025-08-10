@@ -52,7 +52,7 @@
                     },
                     "MAIN_SESSION_PARTY": {
                         "title": "Session party",
-                        "content": "This displays your last recorded party for this session.\nHovering over the pokemon will show their nicknames/species"
+                        "content": "This displays your last recorded party for this session.\nHovering over the pokémon will show their nicknames/species"
                     },
                     "MAIN_SESSION_BADGES": {
                         "title": "Session badges",
@@ -79,9 +79,25 @@
                 },
                 "name": "Session Creation",
                 "Steps": {
-                    "NEW_SESSION_SN_NAME": {
-                        "title": "",
-                        "content": ""
+                    "NEW_SESSION_INITIAL_NAME": {
+                        "title": "Session name",
+                        "content": "A session name can be anything you want and does not need to be the same if you are doing a multiplayer session"
+                    },
+                    "NEW_SESSION_INITIAL_PLAYER_TYPE": {
+                        "title": "Session type",
+                        "content": "Pokélink supports multiplayer or you can do it alone with singleplayer"
+                    },
+                    "NEW_SESSION_INITIAL_MULTIPLAYER": {
+                        "title": "Multiplayer sessions",
+                        "content": "Selecting Multiplayer lets you also pick if you'll be hosting the session or if you will be joining someone else"
+                    },
+                    "NEW_SESSION_ROM_TYPE_AUTOMATIC": {
+                        "title": "Automatic sessions",
+                        "content": "Games with configs can be used in an automatic session. You may need to supply a rom/program for these types of sessions to work"
+                    },
+                    "NEW_SESSION_ROM_TYPE_MANUAL": {
+                        "title": "Manual sessions",
+                        "content": "For fan games, romhacks/mods that don't have configs or games that we have not yet got support for.\n\nThis type of session will require you to input the pokemon data yourself. How much info you supply is up to you"
                     }
                 }
             }
