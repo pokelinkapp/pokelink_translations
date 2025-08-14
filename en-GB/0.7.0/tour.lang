@@ -98,6 +98,106 @@
                     "NEW_SESSION_ROM_TYPE_MANUAL": {
                         "title": "Manual sessions",
                         "content": "For fan games, romhacks/mods that don't have configs or games that we have not yet got support for.\n\nThis type of session will require you to input the pokemon data yourself. How much info you supply is up to you"
+                    },
+                    "NEW_SESSION_ROM_DETECTION_DROP_FILE": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_ROM_DETECTED_CATEGORIES": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_ROM_DETECTED_VERSIONS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_MANUAL_SELECTION_CATEGORIES": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_MANUAL_SELECTION_SELECTION": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_FEATURES_SUMMARY": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_FEATURES_SUPPORTED": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_FEATURES_UNSUPPORTED": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_FEATURES_KNOWN_ISSUES": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_EMULATOR_PREV_EMU": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_EMULATOR_PREV_NEW": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_EMULATOR_NEW_LIST": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_EMULATOR_SETUP_SUMMARY": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_EMULATOR_SETUP_DOWNLOAD": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_EMULATOR_CONFIGURATION_SUMMARY": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_EMULATOR_DEFAULTS_SUMMARY": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_SINGLEPLAYER_USERNAME": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_SINGLEPLAYER_PORT": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_MULTIPLAYER_HOST_USERNAME": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_MULTIPLAYER_HOST_PORT": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_MULTIPLAYER_HOST_UPNP": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_USERNAME": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_ADDRESS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_PORT": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_WEBSOURCES": {
+                        "title": "",
+                        "content": ""
                     }
                 }
             }
