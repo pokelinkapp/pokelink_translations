@@ -199,7 +199,8 @@
           "name": "Heart Gold & Soul Silver"
         },
         "Home": {
-          "name": "Home"
+          "name": "Home",
+          "animated": "Home (Animated)"
         },
         "Moemon": {
           "name": "Moemon"
@@ -235,6 +236,9 @@
         },
         "Yellow": {
           "name": "Yellow"
+        },
+        "Rumble": {
+          "name": "Pokémon Rumble"
         }
       },
       "Badges": {
