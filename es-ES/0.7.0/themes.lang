@@ -98,7 +98,10 @@
           "route": "Met Location"
         },
         "Pokeball": {
-          "name": "Pokéball"
+          "name": "Pokéball",
+          "hideHP": "Hide HP",
+          "hideName": "Hide Names",
+          "hideLevel": "Hide Levels"
         },
         "RescueTeamDX": {
           "name": "Rescue Team DX"
