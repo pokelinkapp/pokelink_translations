@@ -31,7 +31,30 @@
                     "archiveSession": "Archive Session",
                     "deleteSession": "Delete Session",
                     "activateSession": "Activate Session",
-                    "openSessionFolder": "Open Session Folder"
+                    "openSessionFolder": "Open Session Folder",
+                    "openSaveFolder": "Open Save Folder",
+                    "Errors": {
+                        "InvalidGameId": {
+                            "title": "Unable to determine game id.",
+                            "text": "Game config did not supply a valid Game Id. Please contact the plugin developer for this game"
+                        },
+                        "InvalidEmulatorController": {
+                            "title": "Unable to load Emulator Controller",
+                            "text": "Could not find the Emulator Controller for this game. Please contact the plugin developer for this game"
+                        },
+                        "InvalidEmulatorLocation": {
+                            "title": "Unable to find Emulator",
+                            "text": "Could not find the assigned Emulator. Have you moved it's folder?"
+                        },
+                        "InvalidEmulator": {
+                            "title": "Invalid Emulator",
+                            "text": "The Emulator Controller did not consider the assigned Emulator as valid"
+                        },
+                        "MissingSaveFolder": {
+                            "title": "Missing folder",
+                            "text": "Unable to find the save folder for this game. Have you deleted or moved it's folder?"
+                        }
+                    }
                 },
                 "Prompts": {
                     "DeleteSession": {
