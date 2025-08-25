@@ -75,7 +75,7 @@
             "NEW_SESSION": {
                 "Initial": {
                     "title": "Creating a session",
-                    "content": "This tour will guide through the creation of a session and explain the different elements to setup the session to work for you"
+                    "content": "This tour will guide you through the creation of a session and explain the different elements to setup the session to work for you"
                 },
                 "name": "Session Creation",
                 "Steps": {
@@ -196,6 +196,163 @@
                         "content": ""
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_WEBSOURCES": {
+                        "title": "",
+                        "content": ""
+                    }
+                }
+            },
+            "AUTO": {
+                "Initial": {
+                    "title": "Automatic Session",
+                    "content": ""
+                },
+                "name": "Automatic Session",
+                "Steps": {
+                    "AUTO_PARTY_SUMMARY": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "AUTO_PARTY_USER_TABS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "AUTO_PARTY_CONFIG": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "AUTO_PARTY_SLOT": {
+                        "title": "",
+                        "content": ""
+                    }
+                }
+            },
+            "MANUAL": {
+                "Initial": {
+                    "title": "Manual Session",
+                    "content": ""
+                },
+                "name": "Manual Session",
+                "Steps": {
+                    "MANUAL_PARTY_SUMMARY": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "MANUAL_PARTY_USER_TABS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "MANUAL_PARTY_CONFIG": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "MANUAL_PARTY_SLOT": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "MANUAL_PARTY_EDITOR": {
+                        "title": "Pokémon Editor",
+                        "content": "Here you can edit the pokemon in the selected slot.\n\nNot all bits of information needs to be filled out.\nThe only required item is the species"
+                    }
+                }
+            },
+            "BADGES": {
+                "Steps": {
+                    "BADGES_SUMMARY": {
+                        "title": "",
+                        "content": ""
+                    }
+                }
+            },
+            "POKEDEX": {
+                "Initial": {
+                    "title": "Pokédex",
+                    "content": ""
+                },
+                "name": "Pokédex",
+                "Steps": {
+                    "POKEDEX_SEARCH": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "POKEDEX_EVOLINE": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "POKEDEX_INFO": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "POKEDEX_BASE_STATS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "POKEDEX_TYPECHART": {
+                        "title": "",
+                        "content": ""
+                    }
+                }
+            },
+            "WEBSOURCE": {
+                "Initial": {
+                    "title": "Web Sources",
+                    "content": ""
+                },
+                "name": "Web Sources",
+                "Steps": {
+                    "WEBSOURCE_PARTY_PREVIEW": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_PARTY_THEME_SETTINGS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_PARTY_THEME_URL": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_BADGES_PREVIEW": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_BADGES_THEME_SETTINGS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_BADGES_THEME_URL": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_DEATH_PREVIEW": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_DEATH_THEME_SETTINGS": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "WEBSOURCE_DEATH_THEME_URL": {
+                        "title": "",
+                        "content": ""
+                    }
+                }
+            },
+            "TOOLS": {
+                "Initial": {
+                    "title": "Nuzlocke Tools",
+                    "content": ""
+                },
+                "name": "Nuzlocke Tools",
+                "Steps": {
+                    "TOOLS_DEATH": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "TOOLS_SHOWDOWN": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "TOOLS_ROUTE_TRACKER": {
                         "title": "",
                         "content": ""
                     }
