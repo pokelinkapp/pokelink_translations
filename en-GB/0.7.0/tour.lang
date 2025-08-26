@@ -13,348 +13,324 @@
             },
             "MAIN": {
                 "Initial": {
-                    "title": "Pokélink Tour",
-                    "content": "Welcome to Pokélink version ${version}\n\nThis tour will guide you through the features and uses of this app\n\nIf you do not wish to go through the tour. You can use either skip buttons below\n\nWhen going through a tour the app will no longer be allowed to change size as it can break the layout of the tour. Once a tour is over you may resize the window as you wish.\n\nClicking \"${Tour.Buttons.skipAll}\" will skip all tours currently in ${version}. But should we add more in the future the new ones will still appear"
+                    "title": "Pokélink tour",
+                    "content": "Welcome to Pokélink version ${version}\n\nThis tour will guide you through the features and uses of this app\n\nIf you do not wish to go through the tour. You can use either skip buttons below\n\nWhen going through a tour the app will no longer be allowed to change size as it can break the layout of the tour. Once a tour is over you may resize the window as you wish.\n\nClicking \"${Tour.Buttons.skipAll}\" will skip all tours currently in ${version}. But should we add more in the future the new ones will still appear."
                 },
                 "name": "First Run",
                 "Steps": {
                     "MAIN_IMPORT": {
                         "title": "Have you used Pokélink version 0.6.1?",
-                        "content": "You can import your previous sessions from the old Pokélink\nso you don't have to wait to complete runs to start using new features"
+                        "content": "You can import your previous sessions from the old Pokélink\nso you don't have to wait to complete runs to start using new features."
                     },
                     "MAIN_CREATE": {
                         "title": "Getting started",
-                        "content": "Click here to create a new session which can be single or multi player\nwith Pokélink either talking to an emulator for Auto sessions\nor you entering Pokémon information with a Manual session"
+                        "content": "Click here to create a new session which can be single or multi player\nwith Pokélink either talking to an emulator for Auto sessions\nor you entering Pokémon information with a Manual session."
                     },
                     "MAIN_SIDEBAR_SESSIONS": {
                         "title": "Your sessions",
-                        "content": "This shows your current active and archived sessions\nso you can get back to running a session quickly"
+                        "content": "This shows your current active and archived sessions\nso you can get back to running a session quickly."
                     },
                     "MAIN_SIDEBAR_SETTINGS": {
                         "title": "Pokélink settings",
-                        "content": "This contains settings and utilities that control Pokélink.\n\nIt is recommended to visit here when you have a session running"
+                        "content": "This contains settings and utilities that control Pokélink.\n\nIt is recommended to visit here when you have a session running."
                     },
                     "MAIN_SIDEBAR_ABOUT": {
                         "title": "About Pokélink",
-                        "content": "Here you will see the people that have helped Pokélink to become the app it is today as well as the locations where we collect our data"
+                        "content": "Here you will see the people that have helped Pokélink to become the app it is today as well as the locations where we collect our data."
                     },
                     "MAIN_SESSION_ACTIVE": {
                         "title": "Active sessions",
-                        "content": "This tab displays your currently active sessions"
+                        "content": "This tab displays your currently active sessions."
                     },
                     "MAIN_SESSION_ARCHIVED": {
                         "title": "Archived sessions",
-                        "content": "This tab displays your currently archived sessions.\nFor sessions your want to look back on but don't want cluttering up your active sessions"
+                        "content": "This tab displays your currently archived sessions.\nFor sessions your want to look back on but don't want cluttering up your active sessions."
                     },
                     "MAIN_SESSION_CARD": {
                         "title": "Session cards",
-                        "content": "This is a session card.\nThis lets your take a look at a session before you load it.\nIt displays your party and what the session is called along with what game and version it plays"
+                        "content": "This is a session card.\nThis lets your take a look at a session before you load it.\nIt displays your party and what the session is called along with what game and version it plays."
                     },
                     "MAIN_SESSION_PARTY": {
                         "title": "Session party",
-                        "content": "This displays your last recorded party for this session.\nHovering over the pokémon will show their nicknames/species"
+                        "content": "This displays your last recorded party for this session.\nHovering over the Pokémon will show their nicknames/species."
                     },
                     "MAIN_SESSION_BADGES": {
                         "title": "Session badges",
-                        "content": "This displays the number of badges/goals your have completed for this session"
+                        "content": "This displays the number of badges/goals your have completed for this session."
                     },
                     "MAIN_SESSION_TYPE": {
                         "title": "Session type",
-                        "content": "This displays if this session uses automatic tracking or requires manual input"
+                        "content": "This displays if this session uses automatic tracking or requires manual input."
                     },
                     "MAIN_SESSION_CONTINUE": {
                         "title": "Continuing a session",
-                        "content": "Clicking this play button will load your session.\nIf the session is connected to a emulator. Pokélink will launch that as well"
+                        "content": "Clicking this play button will load your session.\nIf the session is connected to a emulator. Pokélink will launch that as well."
                     },
                     "MAIN_SESSION_OPTIONS": {
                         "title": "Session options",
-                        "content": "Clicking this button will show what options your have for each session\nYou can delete or archive sessions or open the sessions folder so you can find session files easier"
+                        "content": "Clicking this button will show what options your have for each session\nYou can delete or archive sessions or open the sessions folder so you can find session files easier.\n\nYou can also select \"${Window.Sessions.SessionCard.OpenSaveFolder}\" to open where Pokélink thinks your save folder is."
                     }
                 }
             },
             "NEW_SESSION": {
                 "Initial": {
                     "title": "Creating a session",
-                    "content": "This tour will guide you through the creation of a session and explain the different elements to setup the session to work for you"
+                    "content": "This tour will guide you through the creation of a session and explain the different elements to setup the session to work for you."
                 },
                 "name": "Session Creation",
                 "Steps": {
                     "NEW_SESSION_INITIAL_NAME": {
                         "title": "Session name",
-                        "content": "A session name can be anything you want and does not need to be the same if you are doing a multiplayer session"
+                        "content": "A session name can be anything you want and does not need to be the same if you are doing a multiplayer session."
                     },
                     "NEW_SESSION_INITIAL_PLAYER_TYPE": {
                         "title": "Session type",
-                        "content": "Pokélink supports multiplayer or you can do it alone with singleplayer"
+                        "content": "Pokélink supports multiplayer or you can do it alone with singleplayer."
                     },
                     "NEW_SESSION_INITIAL_MULTIPLAYER": {
                         "title": "Multiplayer sessions",
-                        "content": "Selecting Multiplayer lets you also pick if you'll be hosting the session or if you will be joining someone else"
+                        "content": "Selecting Multiplayer lets you also pick if you'll be hosting the session or if you will be joining someone else."
                     },
                     "NEW_SESSION_ROM_TYPE_AUTOMATIC": {
                         "title": "Automatic sessions",
-                        "content": "Games with configs can be used in an automatic session. You may need to supply a rom/program for these types of sessions to work"
+                        "content": "Games with configs can be used in an automatic session. You may need to supply a rom/program for these types of sessions to work."
                     },
                     "NEW_SESSION_ROM_TYPE_MANUAL": {
                         "title": "Manual sessions",
-                        "content": "For fan games, romhacks/mods that don't have configs or games that we have not yet got support for.\n\nThis type of session will require you to input the pokemon data yourself. How much info you supply is up to you"
+                        "content": "For fan games, romhacks/mods that don't have configs or games that we have not yet got support for.\n\nThis type of session will require you to input the Pokémon data yourself. How much info you supply is up to you."
                     },
                     "NEW_SESSION_ROM_DETECTION_DROP_FILE": {
-                        "title": "",
-                        "content": ""
+                        "title": "Rom detection",
+                        "content": "Before you are able to select a game and version, Pokélink will need to know what rom to load.\n\nDrag the rom file into the app and Pokélink will identify it."
                     },
                     "NEW_SESSION_ROM_DETECTED_CATEGORIES": {
-                        "title": "",
-                        "content": ""
+                        "title": "Rom categories",
+                        "content": "If Pokélink fails to or incorrectly identifies the rom/version you can manually select from the categories.\n\nHelpful for when a romhack shares the same identifying data as the base rom."
                     },
                     "NEW_SESSION_ROM_DETECTED_VERSIONS": {
-                        "title": "",
-                        "content": ""
+                        "title": "Rom version",
+                        "content": "Depending on the game. Different languages/versions can have different memory locations.\n\nBe sure that you select the correct game version for the rom you want to play."
                     },
                     "NEW_SESSION_MANUAL_SELECTION_CATEGORIES": {
-                        "title": "",
-                        "content": ""
+                        "title": "Game categories",
+                        "content": "With manual sessions. Most Pokélink configured games will use the national Pokédex so that romhack Pokémon can be selected when editing your party."
                     },
                     "NEW_SESSION_MANUAL_SELECTION_SELECTION": {
-                        "title": "",
-                        "content": ""
+                        "title": "Game selection",
+                        "content": "It is recommended to select the game that correlates with your rom so that the type chart, items and locations will be correct for this session."
                     },
                     "NEW_SESSION_FEATURES_SUMMARY": {
-                        "title": "",
-                        "content": ""
+                        "title": "Feature information",
+                        "content": "Here you will see what support there is for the selected game.\n\nThese lists are expected to expand the further we develop Pokélink."
                     },
                     "NEW_SESSION_FEATURES_SUPPORTED": {
-                        "title": "",
-                        "content": ""
+                        "title": "Supported features",
+                        "content": "This list will let you know what features currently are functional."
                     },
                     "NEW_SESSION_FEATURES_UNSUPPORTED": {
-                        "title": "",
-                        "content": ""
+                        "title": "Unsupported features",
+                        "content": "This list will let you know what features we are aware that do not work."
                     },
                     "NEW_SESSION_FEATURES_KNOWN_ISSUES": {
-                        "title": "",
-                        "content": ""
+                        "title": "Known issues",
+                        "content": "This list will show any bugs or behaviours that we are investigating or can't fix but want you to be aware of."
                     },
                     "NEW_SESSION_EMULATOR_PREV_EMU": {
-                        "title": "",
-                        "content": ""
+                        "title": "Previous used emulator",
+                        "content": "Pokélink will keep track of what emulators you use for each console type.\n\nThis helps keep things simpler when creating new sessions."
                     },
                     "NEW_SESSION_EMULATOR_PREV_NEW": {
-                        "title": "",
-                        "content": ""
+                        "title": "Different emulator",
+                        "content": "If you do not wish to use the previous emulator, you can select this option to select a different emulator."
                     },
                     "NEW_SESSION_EMULATOR_NEW_LIST": {
-                        "title": "",
-                        "content": ""
+                        "title": "Emulator options",
+                        "content": "If Pokélink has multiple emulators that support a console type you are given the choice to select which emulator you would like to use."
                     },
                     "NEW_SESSION_EMULATOR_SETUP_SUMMARY": {
-                        "title": "",
-                        "content": ""
+                        "title": "Emulator setup",
+                        "content": "If you already have downloaded the selected emulator you can either drag in it's exe file or the zip/archive file into the app. Pokélink will take archived items and extract them to it's local emulator folder."
                     },
                     "NEW_SESSION_EMULATOR_SETUP_DOWNLOAD": {
-                        "title": "",
-                        "content": ""
+                        "title": "Download emulator",
+                        "content": "If you have not yet downloaded the emulator or are unsure if you have the correct version.\n\nYou can click this button which will open instructions on what you need to do to get the supported emulator up and running."
                     },
                     "NEW_SESSION_EMULATOR_CONFIGURATION_SUMMARY": {
-                        "title": "",
-                        "content": ""
+                        "title": "Emulator configuration",
+                        "content": "Some emulators can be configured before you launch them. It is recommended to read the options available along with their descriptions."
                     },
                     "NEW_SESSION_EMULATOR_DEFAULTS_SUMMARY": {
-                        "title": "",
-                        "content": ""
+                        "title": "Console defaults",
+                        "content": "If an emulator supports multiple console types you will be given options whether you want to set the current emulator to be associated with any future sessions of the enabled console types."
                     },
                     "NEW_SESSION_SERVER_SINGLEPLAYER_USERNAME": {
-                        "title": "",
-                        "content": ""
+                        "title": "Session username",
+                        "content": "This is used to identify your data to web sources so they only show your team, badges etc."
                     },
                     "NEW_SESSION_SERVER_SINGLEPLAYER_PORT": {
-                        "title": "",
-                        "content": ""
+                        "title": "Session port",
+                        "content": "This port is used by web sources to talk to Pokélink to obtain the data that the app is collecting from emulators/manual party entry."
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_HOST_USERNAME": {
-                        "title": "",
-                        "content": ""
+                        "title": "${Tour.NEW_SESSION.Steps.NEW_SESSION_SERVER_SINGLEPLAYER_USERNAME.title}",
+                        "content": "${Tour.NEW_SESSION.Steps.NEW_SESSION_SERVER_SINGLEPLAYER_USERNAME.content}"
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_HOST_PORT": {
-                        "title": "",
-                        "content": ""
+                        "title": "Host session port",
+                        "content": "${Tour.NEW_SESSION.Steps.NEW_SESSION_SERVER_SINGLEPLAYER_PORT}\n\nThis port needs to be the destination port of your port forwarding in your router settings. This is also the port number you need to give to anyone joining your session.\n\nIf you do not know what address to give them. Google \"What is my ip\".\n\nIf the other players are in the same building you can open up \"${osCommandLine}\" and type \"${osIPCommand}\" and then look for your local IPv4 address. Which can look somewhat like this 192.168.x.x"
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_HOST_UPNP": {
-                        "title": "",
-                        "content": ""
+                        "title": "UPnP",
+                        "content": "Also known as Universal Plug and Play. This is a feature of most routers and your router was detected as being UPnP compatible. This means your do not need to dig into your router's settings to port forward as Pokélink can request for the port to be opened.\n\nDO NOTE: This is not guaranteed to work due to how some routers security can block such requests."
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_USERNAME": {
-                        "title": "",
-                        "content": ""
+                        "title": "${Tour.NEW_SESSION.Steps.NEW_SESSION_SERVER_SINGLEPLAYER_USERNAME.title}",
+                        "content": "${Tour.NEW_SESSION.Steps.NEW_SESSION_SERVER_SINGLEPLAYER_USERNAME.content}"
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_ADDRESS": {
-                        "title": "",
-                        "content": ""
+                        "title": "Host address",
+                        "content": "The address the host has provided must go here."
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_PORT": {
-                        "title": "",
-                        "content": ""
+                        "title": "Host port",
+                        "content": "The port the host has provided must go here."
                     },
                     "NEW_SESSION_SERVER_MULTIPLAYER_CLIENT_WEBSOURCES": {
-                        "title": "",
-                        "content": ""
+                        "title": "Local web sources",
+                        "content": "If you are also streaming along side the host you will want to enable this feature as it will enable the web source server on your local Pokélink app. The port it asks for below does not have to match the host's port number"
                     }
                 }
             },
             "AUTO": {
                 "Initial": {
-                    "title": "Automatic Session",
-                    "content": ""
+                    "title": "Automatic session",
+                    "content": "This tour will explain the basics of how automatic sessions function"
                 },
                 "name": "Automatic Session",
                 "Steps": {
                     "AUTO_PARTY_SUMMARY": {
-                        "title": "",
-                        "content": ""
+                        "title": "Automatic party tracking",
+                        "content": "With an automatic session Pokélink will handle updating your party for you."
                     },
                     "AUTO_PARTY_USER_TABS": {
-                        "title": "",
-                        "content": ""
+                        "title": "User tabs",
+                        "content": "When in a multiplayer session you will see your own tab along side the tabs of everyone else."
                     },
                     "AUTO_PARTY_CONFIG": {
-                        "title": "",
-                        "content": ""
+                        "title": "Party config",
+                        "content": "Here you can select what is visible in the party screen."
                     },
                     "AUTO_PARTY_SLOT": {
-                        "title": "",
-                        "content": ""
+                        "title": "Party slot",
+                        "content": "Here each member of your party will appear with all their information that you have toggled to be visible. Clicking on ${Party.Slot.ViewInPokedex} will open the in app Pokédex entry for that Pokémon.\n\nIf you click on another player's Pokémon to see their Pokédex entry it will open the dex entry from their Pokédex instead of your current Pokédex."
                     }
                 }
             },
             "MANUAL": {
                 "Initial": {
-                    "title": "Manual Session",
-                    "content": ""
+                    "title": "Manual session",
+                    "content": "This tour will explain the basics of how manual sessions function"
                 },
                 "name": "Manual Session",
                 "Steps": {
                     "MANUAL_PARTY_SUMMARY": {
-                        "title": "",
-                        "content": ""
+                        "title": "Manual party tracking",
+                        "content": "With a manual session you will need to provide the information for your Pokémon."
                     },
                     "MANUAL_PARTY_USER_TABS": {
-                        "title": "",
-                        "content": ""
+                        "title": "${Tour.AUTO.Steps.AUTO_PARTY_USER_TABS.title}",
+                        "content": "${Tour.AUTO.Steps.AUTO_PARTY_USER_TABS.content}"
                     },
                     "MANUAL_PARTY_CONFIG": {
-                        "title": "",
-                        "content": ""
+                        "title": "${Tour.AUTO.Steps.AUTO_PARTY_CONFIG.title}",
+                        "content": "${Tour.AUTO.Steps.AUTO_PARTY_CONFIG.content}"
                     },
                     "MANUAL_PARTY_SLOT": {
-                        "title": "",
-                        "content": ""
+                        "title": "${Tour.AUTO.Steps.AUTO_PARTY_SLOT.title}",
+                        "content": "${Tour.AUTO.Steps.AUTO_PARTY_SLOT.content}\n\nBy clicking on this slot it will open up the Pokémon editor."
                     },
                     "MANUAL_PARTY_EDITOR": {
-                        "title": "Pokémon Editor",
-                        "content": "Here you can edit the pokemon in the selected slot.\n\nNot all bits of information needs to be filled out.\nThe only required item is the species"
+                        "title": "Pokémon editor",
+                        "content": "Here you can edit the Pokémon in the selected slot.\n\nNot all bits of information needs to be filled out.\nThe only required item is the species."
                     }
                 }
             },
             "BADGES": {
                 "Steps": {
                     "BADGES_SUMMARY": {
-                        "title": "",
-                        "content": ""
+                        "title": "Badges",
+                        "content": "Badges can be toggled by clicking on them or by enabling keyboard shortcuts in the ${Common.Navigation.Settings} tab under the ${Settings.Titles.Session} section."
                     }
                 }
             },
             "POKEDEX": {
                 "Initial": {
                     "title": "Pokédex",
-                    "content": ""
+                    "content": "This tour through the basics of how the Pokédex works"
                 },
-                "name": "Pokédex",
+                "name": "${Common.Navigation.Pokédex}",
                 "Steps": {
                     "POKEDEX_SEARCH": {
-                        "title": "",
-                        "content": ""
+                        "title": "Searching the Pokédex",
+                        "content": "The search system for the Pokédex allows you to search for multiple parts of a name. For example blast mega will give you only the entry for Blastoise's mega entry."
                     },
                     "POKEDEX_EVOLINE": {
-                        "title": "",
-                        "content": ""
+                        "title": "Pokémon evolution line",
+                        "content": "This shows you how a Pokémon can evolve along with evolutions that can occur afterwards. You are able to click on any one of these items to jump to that Pokédex entry."
                     },
                     "POKEDEX_INFO": {
-                        "title": "",
-                        "content": ""
+                        "title": "Basic information",
+                        "content": "These items show some basic information about the current Pokémon. Like the range of steps needed to hatch from an egg, what friendship the Pokémon will start off with when caught and what color they are in the Pokédex."
                     },
                     "POKEDEX_BASE_STATS": {
-                        "title": "",
-                        "content": ""
+                        "title": "Base stats",
+                        "content": "The base stats of a Pokémon shows the potential that they have. The higher the numbers, the stronger they are in that stat."
                     },
                     "POKEDEX_TYPECHART": {
-                        "title": "",
-                        "content": ""
+                        "title": "Type chart",
+                        "content": "This shows what type is strong against another. If a 0 effectiveness is highlighted then that means no damage will be inflicted on the target Pokémon. This chart can change if you are looking at another player's dex entries."
                     }
                 }
             },
             "WEBSOURCE": {
                 "Initial": {
-                    "title": "Web Sources",
-                    "content": ""
+                    "title": "Web sources",
+                    "content": "This tour will explain the basics of how web sources work"
                 },
                 "name": "Web Sources",
                 "Steps": {
                     "WEBSOURCE_PARTY_PREVIEW": {
-                        "title": "",
-                        "content": ""
+                        "title": "Party theme preview",
+                        "content": "This will show the currently selected theme and settings with your party filling in.\n\nIf you are to change the sprite set this preview will update without effecting any web sources you currently are using letting you experiment until you are happy with your selection."
                     },
                     "WEBSOURCE_PARTY_THEME_SETTINGS": {
-                        "title": "",
-                        "content": ""
+                        "title": "Party theme settings",
+                        "content": "Web sources can have settings attached to them.\n\nIf a web source permits sprite sets to change then an option called \"${Pokelink.useLocalSprites.name}\" will be made available. If enabled, instead of using a sprite set the web source should use the sprites that Pokélink is currently using. This is useful for when you are playing a romhack with custom sprites and the sprite set in use does not have a sprite for a Pokémon leading to mismatched sprites.\n\nIf a sprite set does not have a sprite for a Pokémon or it's form then it should fetch the sprite from Pokélink."
                     },
                     "WEBSOURCE_PARTY_THEME_URL": {
-                        "title": "",
-                        "content": ""
-                    },
-                    "WEBSOURCE_BADGES_PREVIEW": {
-                        "title": "",
-                        "content": ""
-                    },
-                    "WEBSOURCE_BADGES_THEME_SETTINGS": {
-                        "title": "",
-                        "content": ""
-                    },
-                    "WEBSOURCE_BADGES_THEME_URL": {
-                        "title": "",
-                        "content": ""
-                    },
-                    "WEBSOURCE_DEATH_PREVIEW": {
-                        "title": "",
-                        "content": ""
-                    },
-                    "WEBSOURCE_DEATH_THEME_SETTINGS": {
-                        "title": "",
-                        "content": ""
-                    },
-                    "WEBSOURCE_DEATH_THEME_URL": {
-                        "title": "",
-                        "content": ""
+                        "title": "Party theme url",
+                        "content": "Once you have finished configuring how you want your party overlay to look you can apply the sprite set you want to use here or reset the sprite set to revert back to the sprite set the theme was using originally.\n\nWhen applying a sprite set it will only apply to the currently running session.\n\nThe only time you need to fetch a new url is if you select a different theme or change one of the theme settings.\n\nClicking \"${WebSources.copyUrl}\" will then copy the web source url into your clipboard for you to paste into your streaming software's browser source."
                     }
                 }
             },
             "TOOLS": {
                 "Initial": {
                     "title": "Nuzlocke Tools",
-                    "content": ""
+                    "content": "This tour will explain the basics of the tools that are useful when running a nuzlocke."
                 },
                 "name": "Nuzlocke Tools",
                 "Steps": {
                     "TOOLS_DEATH": {
-                        "title": "",
-                        "content": ""
+                        "title": "Death tracking",
+                        "content": "When a Pokémon is registered as dead they will show up here. You can \"revive\" a Pokémon by clicking the plus button in their graveyard entry."
                     },
                     "TOOLS_SHOWDOWN": {
-                        "title": "",
-                        "content": ""
+                        "title": "Showdown export",
+                        "content": "Here you will find your party in a Poképaste format that you can click to copy and then paste into showdown's damage calculator."
                     },
                     "TOOLS_ROUTE_TRACKER": {
-                        "title": "",
-                        "content": ""
+                        "title": "Route tracking",
+                        "content": "Here you can see what routes you have caught, killed or ran away from. At this time only caught routes are updated automatically as the Pokémon's encounter location is used when they are in your party."
                     }
                 }
             }
