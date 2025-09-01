@@ -11,7 +11,7 @@
                 },
                 "EmulatorSelection": {
                     "title": "Emulator Selection",
-                    "text": "Please select a supported emulator for use with this session. If you were using VBA-RR/Citra previously, you should select Bizhawk and follow the instructions to continue where you left off"
+                    "text": "Please select a supported emulator for use with this session. If you were using VBA-RR/Citra previously, you should select BizHawk and follow the instructions to continue where you left off"
                 },
                 "VuexSelection": {
                     "title": "Select a file",

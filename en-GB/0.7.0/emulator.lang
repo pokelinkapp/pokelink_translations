@@ -6,10 +6,10 @@
             "waitingForConnection": "Waiting for connection to ${emulator}...",
             "emulatorText": "Emulator: ${emulator}",
             "Error": {
-                "Bizhawk": {
+                "BizHawk": {
                     "missingMono": "Please install the mono package for your distro",
-                    "missingDotFx": "Please install dotnet v4.8 or run Bizhawk's prerequisite installer",
-                    "unsupportedOS": "Bizhawk does not run on this OS",
+                    "missingDotFx": "Please install dotnet v4.8 or run BizHawk's prerequisite installer",
+                    "unsupportedOS": "BizHawk does not run on this OS",
                     "missingLaunchScript": "Emulator is missing it's launch script EmuHawkMono.sh"
                 },
                 "DeSmuME": {
@@ -24,7 +24,7 @@
             "Starting": {
                 "title": "Starting emulator",
                 "description": "Please wait whilst we launch and connect to the emulator",
-                "bizhawk": "Should Bizhawk ask if you want to load an external tool. Click Yes so that Pokélink can talk with Bizhawk",
+                "bizhawk": "Should BizHawk ask if you want to load an external tool. Click Yes so that Pokélink can talk with BizHawk",
                 "InitializeConfig": {
                     "title": "Creating initial config",
                     "description": "Please close the emulator once it starts to allow for it to create the default configs"
@@ -37,16 +37,16 @@
                 "dropFile": "Drag and drop ${emulator}'s archive or exe into the window",
                 "invalidFile": "Invalid file selected"
             },
-            "Bizhawk": {
-                "name": "Bizhawk",
+            "BizHawk": {
+                "name": "BizHawk",
                 "ConfigItems": {
                     "EnableRealTimeClock": {
                         "name": "Enable Real Time Clock",
-                        "description": "Allows Bizhawk to use your computer's clock for time based events in games"
+                        "description": "Allows BizHawk to use your computer's clock for time based events in games"
                     }
                 },
-                "downloadDependenciesInstructions": "Click the button below which will open up the download page. Then click on the bizhawk_prereqs_vxxxx.zip file. Once that has downloaded. Open up the zip by double clicking on it. Inside should be a bizhawk_prereqs.exe. Double click on this and follow it's instructions. Once complete you can move onto the next step",
-                "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink"
+                "downloadDependenciesInstructions": "Clicking the button below will open up the download page. Then click on the bizhawk_prereqs_vxxxx.zip file. Once the download is complete, open the zip by double clicking. Inside should be a bizhawk_prereqs.exe. Double click on this and follow it's instructions. Once complete you can move onto the next step",
+                "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this ${fileName}. Once the download is complete, close this dialogue and drag the ${extension} file onto Pokélink."
             },
             "Desmume": {
                 "name": "DeSmuME",
@@ -56,7 +56,7 @@
             },
             "Azahar": {
                 "name": "Citra / Lime3DS / Azahar",
-                "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink"
+                "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this ${fileName}. Once the download is complete, close this dialogue and drag the ${extension} file onto Pokélink."
             }
         }
     }

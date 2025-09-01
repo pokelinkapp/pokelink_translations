@@ -55,7 +55,7 @@
                 "Subtitle": "Nu, laten we nakijken of het proces volledig is",
                 "AttemptingToConnect": "Poging tot verbinding met de emulator... ",
                 "RunEmulatorAndOpenGame": "Gelieve de emulator op te starten en start het spel",
-                "CurrentlySupportedEmulators": "(Enkel DeSmuME, VBA, Bizhawk & Citra zijn momenteel ondersteunt)",
+                "CurrentlySupportedEmulators": "(Enkel DeSmuME, VBA, BizHawk & Citra zijn momenteel ondersteunt)",
                 "CheckForX64": "Kijk na of de emulator \"x64\" en niet \"x86\" is of vraag in de discord",
                 "MultipleEmulatorsDetected": "Er zijn meerdere emulators gedetecteerd",
                 "NoEmulatorsFound": "Geen emulators gevonden. Kunt u klikken om opnieuw te proberen?",
@@ -70,19 +70,19 @@
                 "Instructions": {
                     "VBA-RR": "Dit kan gedaan worden door te gaan naar <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> in de VBA-ReRecording <em>(Wees zeker om niet het script venster te sluiten. U kan het wel minimaliseren)</em",
                     "DeSmuME": "Dit kan gedaan worden door te gaan naar <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> in <em>DeSmuME</strong> <em>(Wees zeker om niet het script venster te sluiten. U kan het wel minimaliseren)</em>",
-                    "Bizhawk": "Pokélink genereerde automatisch een lua script voor uw sessie. We sloten Bizhawk, en hebben het opnieuw opgestart met het draaiende lua script voor u!"
+                    "BizHawk": "Pokélink genereerde automatisch een lua script voor uw sessie. We sloten BizHawk, en hebben het opnieuw opgestart met het draaiende lua script voor u!"
                 },
                 "Errors": {
-                    "Bizhawk": {
+                    "BizHawk": {
                         "EmulatorClosedUnexpectedly": {
-                            "Title": "Sluiting van Bizhawk gedetecteerd",
-                            "Message": "Pokélink detecteerd dat Bizhawk onverwacht gesloten is. Als u niet bedoeld had om Bizhawk te sluiten, gelieve deze sessie te beëindigen, sluit Pokélink, heropen Pokélink en hervat deze sessie om door te gaan."
+                            "Title": "Sluiting van BizHawk gedetecteerd",
+                            "Message": "Pokélink detecteerd dat BizHawk onverwacht gesloten is. Als u niet bedoeld had om BizHawk te sluiten, gelieve deze sessie te beëindigen, sluit Pokélink, heropen Pokélink en hervat deze sessie om door te gaan."
                         },
                         "RomRequired": {
-                            "Message": "ROM moet gesleept worden tijdens de vorige stap om Bizhawk te gebruiken"
+                            "Message": "ROM moet gesleept worden tijdens de vorige stap om BizHawk te gebruiken"
                         },
-                        "BadBizhawkVersion": {
-                            "Message": "Bizhawk version must be ${version}"
+                        "BadBizHawkVersion": {
+                            "Message": "BizHawk version must be ${version}"
                         }
                     }
                 }

@@ -40,7 +40,7 @@
                 "forms": "Forms",
                 "gameGenerations": "Game Generations"
             },
-            "copyUrl": "Copy Url",
+            "copyUrl": "Copy URL",
             "apply": "Apply Sprite Set (${spriteSet})",
             "reset": "Reset Sprite Set"
         }
