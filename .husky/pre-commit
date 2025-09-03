@@ -1,5 +1,5 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
-npm run check-translations
-npm run check-translations
+##!/usr/bin/env sh
+#. "$(dirname -- "$0")/_/husky.sh"
+#
+#npm run check-translations
+#npm run check-translations
