@@ -46,7 +46,7 @@
                     }
                 },
                 "downloadDependenciesInstructions": "Clicking the button below will open up the download page. Then click on the bizhawk_prereqs_vxxxx.zip file. Once the download is complete, open the zip by double clicking. Inside should be a bizhawk_prereqs.exe. Double click on this and follow it's instructions. Once complete you can move onto the next step",
-                "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this ${fileName}. Once the download is complete, close this dialogue and drag the ${extension} file onto Pokélink."
+                "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this \"${fileName}\". Once the download is complete, close this dialogue and drag the ${extension} file onto Pokélink."
             },
             "Desmume": {
                 "name": "DeSmuME",
@@ -55,8 +55,10 @@
                 "downloadInstructions": "Click the button below which will open your browser and begin downloading the Desmume zip. Once downloaded. Close this dialog and drag the zip file onto Pokélink"
             },
             "Azahar": {
-                "name": "Citra / Lime3DS / Azahar",
-                "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this ${fileName}. Once the download is complete, close this dialogue and drag the ${extension} file onto Pokélink."
+                "name": "Azahar",
+                "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this \"${fileName}\". Once the download is complete, close this dialogue${OSInstructions}",
+                "windowsInstructions": " and drag the ${extension} file onto Pokélink.",
+                "linuxInstructions": " copy the ${extension} file into Pokélink's emulator folder and drag the copied file onto Pokélink."
             }
         }
     }
