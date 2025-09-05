@@ -59,6 +59,12 @@
                 "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this \"${fileName}\". Once the download is complete, close this dialogue${OSInstructions}",
                 "windowsInstructions": " and drag the ${extension} file onto Pokélink.",
                 "linuxInstructions": " copy the ${extension} file into Pokélink's emulator folder and drag the copied file onto Pokélink."
+            },
+            "Mgba": {
+                "name": "mGBA",
+                "downloadInstructions": "",
+                "copyLua": "${Emulator.Desmume.copyLua}",
+                "copyLua2": "This can be done by going to Tools > Scripting and in the scripting window click File Load Script and paste the file path into the Name text box then you can press enter."
             }
         }
     }
