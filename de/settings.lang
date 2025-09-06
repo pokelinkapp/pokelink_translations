@@ -50,7 +50,7 @@
                 },
                 "Language": {
                     "Title": "Language",
-                    "Description": "Change the language used within the Pokélink app"
+                    "Description": "Ändere die Sprache der Pokélink app"
                 },
                 "TwitchBot": {
                     "Title": "Twitch Bot"

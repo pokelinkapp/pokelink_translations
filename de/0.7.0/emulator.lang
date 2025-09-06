@@ -2,61 +2,61 @@
   "code": "de",
   "translations": {
     "Emulator": {
-      "connecting": "Connecting ${emulator}...",
-      "waitingForConnection": "Waiting for connection to ${emulator}...",
+      "connecting": "Verbinde mit ${emulator}...",
+      "waitingForConnection": "Warte auf Verbindung zu ${emulator}...",
       "emulatorText": "Emulator: ${emulator}",
       "Error": {
         "BizHawk": {
-          "missingMono": "Please install the mono package for your distro",
-          "missingDotFx": "Please install dotnet v4.8 or run BizHawk's prerequisite installer",
-          "unsupportedOS": "BizHawk does not run on this OS",
+          "missingMono": "Bitte installiere das \"mono\" Paket für deine Distribution",
+          "missingDotFx": "Bitte installiere dotnet v4.8 oder führe den \"BizHawk's prerequisite installer\" aus",
+          "unsupportedOS": "BizHawk kann auf diesem Betriebssystem nicht ausgeführt werden",
           "missingLaunchScript": "Emulator is missing it's launch script EmuHawkMono.sh"
         },
         "DeSmuME": {
-          "unknownScriptError": "An unknown script error occured. Please contact us in the Pokélink discord"
+          "unknownScriptError": "Ein unbekannter Skriptfehler ist aufgetreten. Bitte kontaktiere uns im Pokélink discord"
         },
-        "invalidEmulator": "The selected emulator exe is not valid",
-        "invalidEmulatorTitle": "Invalid Emulator",
-        "unsupportedEmulatorVersion": "Unsupported version of ${emulator}. Pokélink supports: ${supportedVersions}",
-        "unknownEmulatorVersion": "Unknown version of ${emulator}",
-        "noEmulatorSpecified": "The selected game does not specify an emulator it works with. Please report this to the plugin creator"
+        "invalidEmulator": "Die ausgewählte emulator exe ist inkompatibel",
+        "invalidEmulatorTitle": "Inkompatibler Emulator",
+        "unsupportedEmulatorVersion": "Nicht untersützte Version von ${emulator}. Pokélink unterstützt: ${supportedVersions}",
+        "unknownEmulatorVersion": "Unbekannte Version von ${emulator}",
+        "noEmulatorSpecified": "Das ausgefwählte Spiel gibt nicht an, mit welchem Emulator es läuft. Bitte melde dies dem Plugin-Ersteller"
       },
       "Starting": {
-        "title": "Starting emulator",
-        "description": "Please wait whilst we launch and connect to the emulator",
-        "bizhawk": "Should BizHawk ask if you want to load an external tool. Click Yes so that Pokélink can talk with BizHawk",
+        "title": "Starte Emulator",
+        "description": "Bitte warte, während wir den Emulator starten und uns damit verbinden",
+        "bizhawk": "Sollte BizHawk fragen, ob du external tools zulassen möchtest, klicke auf \"Yes\" damit Pokélink mit BizHawk kommunizieren darf",
         "InitializeConfig": {
-          "title": "Creating initial config",
-          "description": "Please close the emulator once it starts to allow for it to create the default configs"
+          "title": "Erstelle initiale Konfiguration",
+          "description": "Bitte schließe den Emulator sobald er startet, damit er seine Standardkonfiguration anlegen kann"
         }
       },
       "Setup": {
-        "existing": "Use existing emulator",
-        "setupNew": "Select different emulator",
-        "downloadEmulator": "Download ${emulator}",
-        "dropFile": "Drag and drop ${emulator}'s archive or exe into the window",
-        "invalidFile": "Invalid file selected"
+        "existing": "Bestehenden Emulator verwenden",
+        "setupNew": "Anderen Emulator auswählen",
+        "downloadEmulator": "${emulator} herunterladen",
+        "dropFile": "Drag und drop das Archiv oder die .exe von ${emulator} in das Fenster",
+        "invalidFile": "Inkompatible Datei ausgewählt"
       },
       "BizHawk": {
         "name": "BizHawk",
         "ConfigItems": {
           "EnableRealTimeClock": {
-            "name": "Enable Real Time Clock",
-            "description": "Allows BizHawk to use your computer's clock for time based events in games"
+            "name": "Real Time Clock aktivieren",
+            "description": "Erlaubt BizHawk die \"Real-Time-clock\" (Echtzeituhr) deines Rechners für zeitbasierte Events in Spielen zu verwenden"
           }
         },
-        "downloadDependenciesInstructions": "Click the button below which will open up the download page. Then click on the bizhawk_prereqs_vxxxx.zip file. Once that has downloaded. Open up the zip by double clicking on it. Inside should be a bizhawk_prereqs.exe. Double click on this and follow it's instructions. Once complete you can move onto the next step",
-        "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink"
+        "downloadDependenciesInstructions": "Klicke den unteren Button um die Download-Seite zu öffnen. klicke dann auf die bizhawk_prereqs_vxxxx.zip file. Sobald diese heruntergeladen wurde, öffne die Zip-Datei durch einen Doppelklick. Darin sollte eine bizhawk_prereqs.exe liegen. Doppelklicke diese und folge den Anweisungen. Sobald dies abgeschlossen ist, kannst du fortfahren",
+        "downloadInstructions": "Klicke den unteren Button um die Download-Seite zu öffnen. klicke dann auf die file similar to this ${fileName}. Sobbald heruntergeladen, schlieé diesen Dialog und ziehe die ${extension} Datei in Pokélink"
       },
       "Desmume": {
         "name": "DeSmuME",
-        "copyLua": "Copy the below filepath into the lua scripting window",
-        "copyLua2": "This can be done by going to Tools > Lua Scripting > New Lua Script Window inside DeSmuME (Be sure not to close this window, you can minimize it though)",
-        "downloadInstructions": "Click the button below which will open your browser and begin downloading the Desmume zip. Once downloaded. Close this dialog and drag the zip file onto Pokélink"
+        "copyLua": "Kopiere den folgenden Pfad in das lua scripting Fenster",
+        "copyLua2": "Du findest es in DeSmuME unter Tools > Lua Scripting > New Lua Script Window (Stelle sicher, das Fenster nicht zu schließen! Du kannst es aber minimieren.)",
+        "downloadInstructions": "Klicke den folgenden Button um einen Browser zu öffnen und eine Desmume zip herunterzuladen. Ziehe die heruntergeladene .zip nach dem Download per Drag-and-Drop in Pokélink"
       },
       "Azahar": {
         "name": "Citra / Lime3DS / Azahar",
-        "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink",
+        "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ziehe die ${extension} Datei per Drag-and-Drop in Pokélink"
         "windowsInstructions": " and drag the ${extension} file onto Pokélink.",
         "linuxInstructions": " copy the ${extension} file into Pokélink's emulator folder and drag the copied file onto Pokélink."
       },

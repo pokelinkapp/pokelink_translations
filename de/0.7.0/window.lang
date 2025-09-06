@@ -3,167 +3,167 @@
   "translations": {
     "Window": {
       "title": "Pokélink - Pokémon Streaming Utility",
-      "noticeTranslation": "The message above may have been translated using Google Translate. Apologies if it is not accurate",
+      "noticeTranslation": "Die obige Nachricht wurde möglicherweise mit Google Translate übersetzt. Bitte entschuldige, falls sie nicht korrekt ist.",
       "FTS": {
         "ticker": [
-          "Pokélink will never store any of your personal information outside of your own computer",
-          "Get any questions answered, any issues - solved, download new versions of the app, and more by joining over 15000 other creators including the Home of Jez, Nimbus and Linky over on the <a href=\"http://discord.pokelink.xyz\">Pokélink Discord Server</a>",
-          "Consider help supporting Pokélink and help us improve things even further. You can support us on Patreon"
+          "Pokélink speichert niemals deine persönlichen Daten außerhalb deines eigenen Computers",
+          "Erhalte Antworten, Problemlösungen, lade neue Versionen der App herunter und vieles mehr, indem du dich über 15.000 anderen Entwicklern anschließt, darunter Jez, Nimbus und Linky auf dem <a href=\"http://discord.pokelink.xyz\">Pokélink Discord Server</a>",
+          "Unterstützze Pokélink und hilf uns, die Dinge noch weiter zu verbessern. Du kannst uns auf Patreon unterstützen"
         ],
-        "appLanguage": "App Language",
-        "toTheFuture": "Okay, Done! Take me to the future",
-        "justAFewThings": "Just a few things before you get going",
-        "toggleAdvancedOptions": "Toggle Advanced Options",
-        "defaultPort": "Default Port",
-        "defaultPortHint": "Don't change this field unless you know what you're doing. Must be between 1024 and 65535",
-        "usernameHint": "A username used to uniquely access your web sources"
+        "appLanguage": "App Sprache",
+        "toTheFuture": "Okay, erledigt! Bring mich in die Zukunft",
+        "justAFewThings": "Nur ein paar Dinge, bevor du loslegen kannst",
+        "toggleAdvancedOptions": "Erweiterte Optionen umschalten",
+        "defaultPort": "Standardport",
+        "defaultPortHint": "Ändere dieses Feld nur, wenn du weisst, was du tust. Muss zwischen 1024 and 65535 liegen",
+        "usernameHint": "Ein Username, der für den eindeutigen Zugriff auf deine Web Sources verwendet wird"
       },
       "Sessions": {
-        "import": "Import from 0.6",
+        "import": "Import aus 0.6",
         "SessionCard": {
           "auto": "Auto",
-          "manual": "Manual",
+          "manual": "Manuell",
           "multi": "Multi",
           "solo": "Solo",
-          "emptyPokeball": "Empty ${pokemon.ball.4}",
-          "ident": "Playing ${sessionType} as ${username}",
-          "lastPlayed": "on ${date} at ${time}",
-          "archiveSession": "Archive Session",
-          "deleteSession": "Delete Session",
-          "activateSession": "Activate Session",
-          "openSessionFolder": "Open Session Folder",
-          "openSaveFolder": "Open Save Folder",
+          "emptyPokeball": "Leer ${pokemon.ball.4}",
+          "ident": "Spielt ${sessionType} als ${username}",
+          "lastPlayed": "am ${date} um ${time}",
+          "archiveSession": "Session archivieren",
+          "deleteSession": "Session löschen",
+          "activateSession": "Session aktivieren",
+          "openSessionFolder": "Session-Ordner öffnen",
+          "openSaveFolder": "Speicher-Ordner öffnen",
           "Errors": {
             "InvalidGameId": {
-              "title": "Unable to determine game id.",
-              "text": "Game config did not supply a valid Game Id. Please contact the plugin developer for this game"
+              "title": "Spiel-ID konnte nicht ermittelt werden.",
+              "text": "Die Spielkonfiguration liefert keine gültige Spiel-ID. Bitte kontaktiere den Plugin-Entwickler für dieses Spiel"
             },
             "InvalidEmulatorController": {
-              "title": "Unable to load Emulator Controller",
-              "text": "Could not find the Emulator Controller for this game. Please contact the plugin developer for this game"
+              "title": "Emulator-Controller kann nicht geladen werden",
+              "text": "Der Emulator-Controller für dieses Spiel konnte nicht gefunden werden. Bitte kontaktiere den Plugin-Entwickler für dieses Spiel"
             },
             "InvalidEmulatorLocation": {
-              "title": "Unable to find Emulator",
-              "text": "Could not find the assigned Emulator. Have you moved it's folder?"
+              "title": "Emulator konnte nicht gefunden werden",
+              "text": "Der zugewiesene Emulator konnte nicht gefunden werden. Hast du den Ordner verschoben?"
             },
             "InvalidEmulator": {
-              "title": "Invalid Emulator",
-              "text": "The Emulator Controller did not consider the assigned Emulator as valid"
+              "title": "Ungültiger Emulator",
+              "text": "Der Emulator-Controller hat den zugewiesenen Emulator nicht als gültig angesehen"
             },
             "MissingSaveFolder": {
-              "title": "Missing folder",
-              "text": "Unable to find the save folder for this game. Have you deleted or moved it's folder?"
+              "title": "Fehlender Ordner",
+              "text": "Der Speicherordner für dieses Spiel konnte nicht gefunden werden. Hast du den Ordner gelöscht oder verschoben?"
             }
           }
         },
         "Prompts": {
           "DeleteSession": {
-            "title": "Are you sure?",
-            "text": "Deleting a session is not reversible. Are you sure you want to delete ${sessionName}?",
-            "cancel": "Cancel",
-            "confirm": "Yes, delete it!"
+            "title": "Bist du dir sicher?",
+            "text": "Das Löschen einer Sitzung kann nicht rückgängig gemacht werden. Möchtest du ${sessionName} wirklich löschen?",
+            "cancel": "Abbruch",
+            "confirm": "Ja, lösche es!"
           },
           "ImportSessions": {
-            "title": "Importing Sessions",
-            "text": "Please select the vuex.json file from your old pokélink instance with the file selection window"
+            "title": "Sitzungen importieren",
+            "text": "Bitte wähle die vuex.json Datei aus deiner alten Pokélink-Instanz mit dem Dateiauswahlfenster aus"
           }
         },
         "Launch": {
-          "LOAD_POKEDEX": "Loading Pokédex",
-          "LOAD_MOVES": "Loading moves",
-          "LOAD_TYPECHART": "Loading Type Chart",
-          "UPDATE_POKEMON_EDITOR": "Updating Pokémon Editor",
-          "VALIDATE_BADGES": "Validating Badges",
-          "START_EMULATOR": "Starting Emulator",
-          "CONNECT_EMULATOR": "Connecting Emulator",
-          "CONNECT_TO_HOST": "Connecting to ${host}",
-          "START_SESSION": "Starting ${name}"
+          "LOAD_POKEDEX": "Lade Pokédex",
+          "LOAD_MOVES": "Lade Attacken",
+          "LOAD_TYPECHART": "Lade Typen-Tabelle",
+          "UPDATE_POKEMON_EDITOR": "Aktualisiere Pokémon Editor",
+          "VALIDATE_BADGES": "Validiere Orden",
+          "START_EMULATOR": "Starte Emulator",
+          "CONNECT_EMULATOR": "Verbinde mit Emulator",
+          "CONNECT_TO_HOST": "Verbinde mit ${host}",
+          "START_SESSION": "Starte ${name}"
         },
-        "active": "Active",
-        "archived": "Archived",
-        "badges": "Badges",
-        "managed": "Managed",
+        "active": "Aktiv",
+        "archived": "Archiviert",
+        "badges": "Orden",
+        "managed": "Verwaltet",
         "identity": "Ident",
-        "lastPlayed": "Last Played"
+        "lastPlayed": "zuletzt gespielt"
       },
       "Party": {
-        "edit": "Edit Pokémon",
-        "moveLeft": "Move Pokémon Left",
-        "moveRight": "Move Pokémon Right",
+        "edit": "Pokémon bearbeiten",
+        "moveLeft": "Pokémon nach Links",
+        "moveRight": "Pokémon nach Rechts",
         "ViewSettings": {
           "SPRITE": "Sprite",
-          "HP_BAR": "HP Bar",
-          "EXP_BAR": "Experience Bar",
+          "HP_BAR": "KP-Leiste",
+          "EXP_BAR": "Erfahrungsleiste",
           "FORM": "Form",
-          "HELD_ITEM": "Held Item",
+          "HELD_ITEM": "Trägt Item",
           "LEVEL": "Level",
-          "ABILITY": "Ability",
-          "NATURE": "Nature",
-          "HIDDEN_POWER": "Hidden Power",
-          "CALCULATED_STATS": "Calculated Stats",
-          "GENDER": "Gender",
-          "FRIENDSHIP": "Friendship",
+          "ABILITY": "Fähigkeit",
+          "NATURE": "Wesen",
+          "HIDDEN_POWER": "Kraftreserve",
+          "CALCULATED_STATS": "Errechnete Werte",
+          "GENDER": "Geschlecht",
+          "FRIENDSHIP": "Freundschaft",
           "POKERUS": "Pokérus",
-          "LOCATION_MET": "Location Met",
+          "LOCATION_MET": "Getroffen",
           "EVS": "EVs",
           "IVS": "IVs"
         },
-        "you": "you"
+        "you": "du"
       },
       "PokemonEditor": {
         "title": "Pokémon Editor - Slot ${slotId}",
-        "save": "Save",
-        "cancel": "Cancel",
-        "remove": "Reset Party Slot to Empty",
-        "dead": "Mark Pokémon as dead",
+        "save": "speichern",
+        "cancel": "abbruch",
+        "remove": "Team Slot leeren",
+        "dead": "Pokémon als besiegt markieren",
         "Tabs": {
-          "general": "General"
+          "general": "Allgemein"
         },
-        "isEgg": "Is Egg?"
+        "isEgg": "Ist Ei?"
       },
       "Notification": {
-        "playerJoined": "${player} has connected",
-        "playerLeft": "${player} has disconnected",
-        "serverStarted": "Server started on port ${port}",
-        "serverStopped": "Server stopped",
-        "connected": "Connected to ${host}:${port}",
+        "playerJoined": "${player} verbunden",
+        "playerLeft": "${player} getrennt",
+        "serverStarted": "Server auf port ${port} gerstartet",
+        "serverStopped": "Server gestoppt",
+        "connected": "Verbunden mit ${host}:${port}",
         "WebSource": {
-          "team": "Team browser source copied to clipboard",
-          "badges": "Badges browser source copied to clipboard",
-          "death": "Death counter browser source copied to clipboard"
+          "team": "Team browser source in Zwischenablage kopiert",
+          "badges": "Orden browser source in Zwischenablage kopiert",
+          "death": "Death counter browser source in Zwischenablage kopiert"
         },
-        "copyScript": "Script path copied to clipboard",
-        "emulatorReconnected": "Communication with the emulator has been restored",
-        "emulatorDisconnected": "Communication with the emulator was interrupted. You may need to save your game, close the emulator and restart the session"
+        "copyScript": "Skriptpfad in Zwischenablage kopiert",
+        "emulatorReconnected": "Kommunikation mit dem Emulator wiederhergestellt",
+        "emulatorDisconnected": "Kommunikation mit dem Emulator wurde unterbrochen. Möglicherweise musst du dein Spiel speichern, den Emulator schließen und die Sitzung neu starten"
       },
       "Loading": {
-        "plugins": "Loading Plugins",
-        "translations": "Loading Translations",
-        "memoryComponents": "Registering Memory Components",
-        "games": "Registering Games",
-        "emulators": "Registering Emulators",
-        "repos": "Loading Remote Data",
-        "webSources": "Registering Web Sources and Sprites",
-        "webRequests": "Registering API requests",
-        "messages": "Registering Communication Channels",
-        "sessions": "Loading Session Cache",
-        "keybinds": "Registering Keybind Events"
+        "plugins": "Lade Plugins",
+        "translations": "Lade Übersetzungen",
+        "memoryComponents": "Registriere Speicherkomponenten",
+        "games": "Registriere Spiele",
+        "emulators": "Registriere Emulators",
+        "repos": "Lade Remote-Daten",
+        "webSources": "Registriere Webquellen und Sprites",
+        "webRequests": "Registriere API requests",
+        "messages": "Registriere Kommunikationskanäle",
+        "sessions": "Lade Session Cache",
+        "keybinds": "Registriere Keybind Events"
       },
       "UnexpectedError": {
-        "title": "Pokélink recovered from an unexpected error",
-        "text": "If you had a session open this has been saved and closed to stop more errors from occuring"
+        "title": "Pokélink wurde von einem unerwarteten Fehler wiederhergestellt",
+        "text": "Wenn du eine Sitzung geöffnet hattest, wurde diese gespeichert und geschlossen, um weitere Fehler zu vermeiden"
       }
     },
     "Network": {
       "Error": {
-        "ERROR_PORT_NOT_AVAILABLE": "Another program is using the port ${port}",
-        "ERROR_SESSION_NOT_LOADED": "No session is currently loaded",
-        "ERROR_UNABLE_TO_CONNECT": "Unable to connect to ${host}:${port}",
-        "ERROR_HANDSHAKE_FAILED": "Failed to connect to the server correctly. Please check the logs",
-        "ERROR_UNEXPECTED_DISCONNECTION": "Client was disconnected from the server unexpectedly",
-        "ERROR_USERNAME_TAKEN": "The username requested is already taken"
+        "ERROR_PORT_NOT_AVAILABLE": "Eine andere Anwendung verwendet den port ${port}",
+        "ERROR_SESSION_NOT_LOADED": "aktuell ist keine Session geladen",
+        "ERROR_UNABLE_TO_CONNECT": "Keine Verbindung mit ${host}:${port} möglich",
+        "ERROR_HANDSHAKE_FAILED": "Die Verbindung zum Server konnte nicht korrekt hergestellt werden. Bitte überprüfe die Protokolle",
+        "ERROR_UNEXPECTED_DISCONNECTION": "Der Client wurde unerwartet vom Server getrennt",
+        "ERROR_USERNAME_TAKEN": "Der angeforderte Benutzername ist bereits vergeben"
       },
-      "connectingToServer": "Connecting to ${host}:${port}"
+      "connectingToServer": "Verbinde mit ${host}:${port}"
     }
   }
 }

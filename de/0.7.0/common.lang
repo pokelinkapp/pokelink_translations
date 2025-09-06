@@ -3,77 +3,77 @@
   "translations": {
     "Common": {
       "noItems": "No items matched your criteria",
-      "endSession": "End Session",
-      "none": "None",
-      "unknown": "Unknown",
-      "continue": "Continue",
-      "reset": "Reset",
-      "openInBrowser": "Open in browser",
-      "yes": "Yes",
-      "no": "No",
-      "errorOccured": "An error occured",
-      "back": "Back",
-      "next": "Next",
-      "previous": "Previous",
-      "agree": "Agree",
-      "cancel": "Cancel",
+      "endSession": "Session beenden",
+      "none": "keine",
+      "unknown": "unbekannt",
+      "continue": "weiter",
+      "reset": "zurücksetzen",
+      "openInBrowser": "Im Browser öffnen",
+      "yes": "Ja",
+      "no": "Nein",
+      "errorOccured": "Ein Fehler ist aufgetreten",
+      "back": "Zurück",
+      "next": "Weiter",
+      "previous": "Zurück",
+      "agree": "Akzeptiere",
+      "cancel": "Abbruch",
       "test": "Test",
       "download": "Download",
       "downloadDependencies": "Download Dependencies",
-      "close": "Close",
-      "submit": "Submit",
+      "close": "Schließen",
+      "submit": "Absenden",
       "Navigation": {
-        "webLegacy": "Web Sources (Legacy)"
+        "webLegacy": "Web Quellen (Legacy)"
       },
       "ok": "OK"
     },
     "Gender": {
-      "male": "Male",
-      "female": "Female",
-      "genderless": "Genderless"
+      "male": "männlich",
+      "female": "weiblich",
+      "genderless": "neutral"
     },
     "Pokerus": {
-      "infected": "Infected with Pokerus",
-      "no": "No"
+      "infected": "Mit Pokerus infiziert",
+      "no": "nein"
     },
     "Effectiveness": {
       "prefix": "${type} → ${against} =",
-      "no": "${Effectiveness.prefix} No effect",
-      "notVery": "${Effectiveness.prefix} Not very effective",
-      "normal": "${Effectiveness.prefix} Normal effectiveness",
-      "super": "${Effectiveness.prefix} Super effective"
+      "no": "${Effectiveness.prefix} hat keinen Effekt",
+      "notVery": "${Effectiveness.prefix} ist nicht sehr effektiv",
+      "normal": "${Effectiveness.prefix} ist Normal effektiv",
+      "super": "${Effectiveness.prefix} ist Sehr effektiv"
     },
     "ExtraData": {
-      "catchRate": "Catch Rate",
-      "levelRate": "Exp Growth",
-      "baseFriendship": "Base Friendship",
-      "color": "Colour",
-      "hatchTime": "Hatch Time",
-      "steps": "steps"
+      "catchRate": "Fang-Rate",
+      "levelRate": "Exp-Wachstum",
+      "baseFriendship": "Basis-Freundschaft",
+      "color": "Farbe",
+      "hatchTime": "Brutzeit",
+      "steps": "Schritte"
     },
     "color": {
-      "red": "Red",
-      "blue": "Blue",
-      "yellow": "Yellow",
-      "green": "Green",
-      "black": "Black",
-      "brown": "Brown",
-      "purple": "Purple",
-      "gray": "Gray",
-      "white": "White",
+      "red": "Rot",
+      "blue": "Blau",
+      "yellow": "Gelb",
+      "green": "Grün",
+      "black": "Schwarz",
+      "brown": "Braun",
+      "purple": "Violett/Lila",
+      "gray": "Grau",
+      "white": "Weiß",
       "pink": "Pink"
     },
     "ExpGrowth": [
-      "Medium Fast",
-      "Erratic",
-      "Fluctuating",
-      "Medium Slow",
-      "Fast",
-      "Slow"
+      "Mittelschnell",
+      "Unberechenbar",
+      "Schwankend",
+      "Mittel Langsam",
+      "Schnell",
+      "Langsam"
     ],
     "BaseStatsTable": {
       "name": "Name",
-      "value": "Value"
+      "value": "Wert"
     }
   }
 }

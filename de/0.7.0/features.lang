@@ -4,17 +4,17 @@
     "Features": {
       "Pokelink": {
         "KnownIssues": {
-          "doNotSaveInLumiose": "Do not save in Lumiose City due to a bug in the game that can corrupt your save. Update to 1.5 if you're able to",
+          "doNotSaveInLumiose": "Speichere das Spiel nicht in Illumina City, aufgrund eines Bugs kann dies dein Savegame beschädigen. Update auf 1.5 wenn du kannst",
           "Gen2": {
-            "eggs": "Pokémon eggs will reveal their contents in Pokélink due to the egg flag being in a unknown part of memory"
+            "eggs": "Pokémon Eier verraten ihren Inhalt in Pokélink, da das Eier-Flag in einem unbekannten Speicherbereich liegt"
           },
           "Gen4": {
-            "nonPCHealingUpdates": "Pokémon HP will not update when healed outside of Pokémon Centers by NPCs"
+            "nonPCHealingUpdates": "Pokémon KP werden nicht aktualisiert, wenn Sie ausserhalb von Pokémon Centern durch NPCs geheilt werden"
           }
         },
-        "badgeTracking": "Automatic badge tracking",
-        "partyTracking": "Automatic tracking of Pokémon in your party",
-        "battleUpdates": "Automatic updates during battle"
+        "badgeTracking": "Automatisiertes Ordentracking",
+        "partyTracking": "Automatisiertes Tracking von Pokémon in deinem Team",
+        "battleUpdates": "Automatische Updates während Kämpfen"
       },
       "supported": "Supported Features",
       "unsupported": "Unsupported Features",

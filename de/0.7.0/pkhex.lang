@@ -9,38 +9,38 @@
       "none": "${pokemon.nature.25}"
     },
     "type": {
-      "shadow": "Shadow",
+      "shadow": "Crypto",
       "???": "???"
     },
     "move": {
-      "shadow_blitz": "Shadow Blitz",
-      "shadow_rush": "Shadow Rush",
-      "shadow_break": "Shadow Break",
-      "shadow_end": "Shadow End",
-      "shadow_wave": "Shadow Wave",
-      "shadow_rave": "Shadow Rave",
-      "shadow_storm": "Shadow Storm",
-      "shadow_fire": "Shadow Fire",
-      "shadow_bolt": "Shadow Bolt",
-      "shadow_chill": "Shadow Chill",
-      "shadow_blast": "Shadow Blast",
-      "shadow_sky": "Shadow Sky",
-      "shadow_hold": "Shadow Hold",
-      "shadow_mist": "Shadow Mist",
-      "shadow_panic": "Shadow Panic",
-      "shadow_down": "Shadow Down"
+      "shadow_blitz": "Cryptoknall",
+      "shadow_rush": "Cryptoschlag",
+      "shadow_break": "Cryptohieb",
+      "shadow_end": "Cryptoretour",
+      "shadow_wave": "Cryptowelle",
+      "shadow_rave": "Cryptobeben",
+      "shadow_storm": "Cryptosturm",
+      "shadow_fire": "Cryptofeuer",
+      "shadow_bolt": "Cryptoblitz",
+      "shadow_chill": "Cryptofrost",
+      "shadow_blast": "Cryptostrahl",
+      "shadow_sky": "Cryptowetter",
+      "shadow_hold": "Cryptofessel",
+      "shadow_mist": "Cryptodunst",
+      "shadow_panic": "Cryptochaos",
+      "shadow_down": "Cryptobann"
     },
     "form": {
       "large_busted": "Large Busted",
-      "unknown": "Unknown"
+      "unknown": "unbekannt"
     },
     "status": {
-      "healthy": "Healthy",
-      "poisoned": "Poisoned",
-      "asleep": "Asleep",
-      "paralyzed": "Paralyzed",
-      "frozen": "Frozen",
-      "burned": "Burned"
+      "healthy": "Gesund",
+      "poisoned": "Vergiftet",
+      "asleep": "Schläft",
+      "paralyzed": "Paralysiert",
+      "frozen": "Gefroren",
+      "burned": "Brennt"
     },
     "location": {
       "fatefulEncounter": "Fateful Encounter"

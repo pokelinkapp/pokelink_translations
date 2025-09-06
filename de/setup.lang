@@ -54,34 +54,34 @@
             "Emulator": {
                 "Subtitle": "Prüfen ob der Vorgang abgeschlossen ist",
                 "AttemptingToConnect": "Versuch, den Emulator zu erkennen... ",
-                "RunEmulatorAndOpenGame": "Bitte starten Sie Ihren Emulator und öffnen Sie das Spiel",
+                "RunEmulatorAndOpenGame": "Bitte starte deinen Emulator und öffne das Spiel",
                 "CurrentlySupportedEmulators": "(Derzeit werden nur DeSmuME, VBA, BizHawk & Citra unterstützt)",
-                "CheckForX64": "Prüfen Sie, ob Ihr Emulator \"x64\" und nicht \"x86\" ist, oder fragen Sie in Discord",
+                "CheckForX64": "Prüfe, ob dein Emulator \"x64\" und nicht \"x86\" ist, oder frage im Discord nach Hilfe",
                 "MultipleEmulatorsDetected": "Mehrere Emulatoren erkannt",
-                "NoEmulatorsFound": "Keine Emulatoren gefunden, klicken Sie, um es erneut zu versuchen",
+                "NoEmulatorsFound": "Keine Emulatoren gefunden, klicke, um es erneut zu versuchen",
                 "EmulatorFound": "Emulator erkannt! (Verwendet wird ${emulator})",
-                "SelectADetectedEmulatorLong": "Bitte wählen Sie einen der Emulatoren aus, die grade laufen:",
-                "SelectADetectedEmulatorShort": "Wählen Sie einen Emulator aus",
+                "SelectADetectedEmulatorLong": "Bitte wähle einen der Emulatoren aus, die grade laufen:",
+                "SelectADetectedEmulatorShort": "Wähle einen Emulator aus",
                 "DoesNotSupportGeneration": "${emulator} (Unterstützt nicht die Generation ${generation})",
                 "DetectionIsPaused": "Emulator-Erkennung pausiert",
                 "WaitingForGameData": "Warten auf Spieldaten...",
                 "ConnectingToEmulator": "Versucht, automatisch eine Verbindung mit ${emulator} herzustellen",
-                "LoadLuaScriptIntoEmulator": "Laden Sie das Lua-Skript in Ihren Emulator",
+                "LoadLuaScriptIntoEmulator": "Bitte lade das Lua-Skript in deinem Emulator",
                 "Instructions": {
-                    "VBA-RR": "Dazu gehen Sie auf <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> innerhalb von VBA-ReRecording <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>",
-                    "DeSmuME": "Dies kann über <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> innerhalb von <em>DeSmuME</strong> <em>(Achten Sie darauf, das Skript-Fenster nicht zu schließen, Sie können es aber minimieren)</em>"
+                    "VBA-RR": "Gehe dazu auf <em>Tools</em> » <em>Lua Script Window</em> » <em>New Lua Script Window</em> innerhalb von VBA-ReRecording <em>(Achte darauf, das Skript-Fenster nicht zu schließen, du kannst es aber minimieren)</em>",
+                    "DeSmuME": "Dies kann über <em>Tools</em> » <em>Lua Scripting</em> » <em>New Lua Script Window</em> innerhalb von <em>DeSmuME</strong> <em>(Achte darauf, das Skript-Fenster nicht zu schließen, du kannst es aber minimieren)</em>"
                 },
                 "Errors": {
                     "BizHawk": {
                         "EmulatorClosedUnexpectedly": {
-                            "Title": "BizHawk Close Detected",
-                            "Message": "Pokélink detected that BizHawk was unexpectedly closed. If you did not intend to close BizHawk, please end this session, close Pokélink, re-open Pokélink and resume this session to continue."
+                            "Title": "Beendetes BizHawk erkannt",
+                            "Message": "Pokélink hat erkannt, dass BizHawk unerwartet geschlossen wurde. Wenn du nicht vorhattest, BizHawk zu schließen, beende bitte die Session, schließe Pokélink, öffne Pokélink erneut und wähle diese Session um fortzufahren."
                         },
                         "RomRequired": {
-                            "Message": "ROM needs to be dropped in the previous step to use BizHawk"
+                            "Message": "Im vorherigen Schritt muss ROM gewählt werden, um BizHawk zu verwenden"
                         },
                         "BadBizHawkVersion": {
-                            "Message": "BizHawk version must be ${version}"
+                            "Message": "BizHawk Version muss ${version} sein"
                         }
                     }
                 }
