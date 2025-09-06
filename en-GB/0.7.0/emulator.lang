@@ -50,21 +50,23 @@
             },
             "Desmume": {
                 "name": "DeSmuME",
-                "copyLua": "Copy the below filepath into the lua scripting window",
+                "copyLua": "Copy the below filepath into the lua scripting window.",
                 "copyLua2": "This can be done by going to Tools > Lua Scripting > New Lua Script Window inside DeSmuME (Be sure not to close this window, you can minimize it though)",
                 "downloadInstructions": "Click the button below which will open your browser and begin downloading the Desmume zip. Once downloaded. Close this dialog and drag the zip file onto Pokélink"
             },
             "Azahar": {
                 "name": "Azahar",
-                "downloadInstructions": "Clicking the button below will open up the download page. Then click on the file similar to this \"${fileName}\". Once the download is complete, close this dialogue${OSInstructions}",
+                "downloadInstructions": "Clicking the button below will open up Azahar's download page. Then click on the file similar to this \"${fileName}\". Once the download is complete, close this dialogue${OSInstructions}",
                 "windowsInstructions": " and drag the ${extension} file onto Pokélink.",
                 "linuxInstructions": " copy the ${extension} file into Pokélink's emulator folder and drag the copied file onto Pokélink."
             },
             "Mgba": {
                 "name": "mGBA",
-                "downloadInstructions": "",
-                "copyLua": "${Emulator.Desmume.copyLua}",
-                "copyLua2": "This can be done by going to Tools > Scripting and in the scripting window click File Load Script and paste the file path into the Name text box then you can press enter."
+                "downloadInstructions": "Clicking the button below will open up mGBA's donload page.${OSInstructions} Once the download is complete, close this dialogue and drag the downloaded file onto Pokélink",
+                "windowsInstructions": " Download the 64-bit .7z archive version.",
+                "linuxInstructions": " Download the 64-bit AppImage version.",
+                "copyLua": "Copy the below script command into the lua scripting window.",
+                "copyLua2": "This can be done by going to Tools > Scripting and in the scripting window click the text box at the bottom and paste. Once pasted click run."
             }
         }
     }
