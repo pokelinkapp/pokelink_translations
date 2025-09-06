@@ -4,72 +4,72 @@
     "Import": {
       "Vuex": {
         "Steps": {
-          "selectFile": "Select vuex file",
-          "selectSessions": "Select sessions",
-          "processSessions": "Import sessions",
-          "finalizeAuto": "Finalize auto sessions"
+          "selectFile": "Wähle vuex Datei",
+          "selectSessions": "Session auswählen",
+          "processSessions": "Sessions importieren",
+          "finalizeAuto": "automatische Session beenden"
         },
         "VuexSelection": {
-          "title": "Select a file",
-          "text": "Use the file dialog to pick your old vuex file"
+          "title": "Wähle eine Datei",
+          "text": "Benutze den Dateidialog um deine alte vuex Datei auszuwählen"
         },
         "Process": {
           "processingWithCount": "(${current}/${max}) ${Import.Vuex.Process.processing}",
-          "processing": "Processing ${sessionName} Errors: ${errors}",
-          "importedSuccessfully": "${sessionName} was imported successfully"
+          "processing": "Verarbeite ${sessionName} Fehler: ${errors}",
+          "importedSuccessfully": "${sessionName} erfolgreich importiert"
         },
         "Error": {
-          "invalidFile": "The file provided is not a valid vuex json file",
-          "noSessions": "The file provided did not have any sessions to import",
-          "invalidSession": "${sessionId} did not belong to a valid session. Please read the logs for more info",
-          "importIssues": "We detected that some of your sessions were not able to be imported. Click here to contact us in our Discord for assistance.",
-          "romDoesNotMatchSession": "The rom provided does not match the one in the imported session",
+          "invalidFile": "Die bereitgestellte Datei ist keine gültige Vuex JSON Datei",
+          "noSessions": "Die bereitgestellte Datei enthielt keine zu importierenden Sessions",
+          "invalidSession": "${sessionId} gehörte nicht zu einer gültigen Sitzung. Weitere Informationen findest du in den Protokollen.",
+          "importIssues": "Wir haben festgestellt, dass einige deiner Sitzungen nicht importiert werden konnten. Klicke hier, um uns in unserem Discord zu kontaktieren und Hilfe zu erhalten.",
+          "romDoesNotMatchSession": "Das bereitgestellte ROM stimmt nicht mit dem in der importierten Sitzung überein",
           "ImportError": {
-            "NO_AUTO": "Auto support for this game is not available",
-            "GAME_NOT_RECOGNISED": "Game is not recognised",
-            "SESSION_EXISTS": "This session exists. Please delete the session in this version of Pokélink and try again"
+            "NO_AUTO": "Auto support ist für dieses Spiel nicht verfügbar",
+            "GAME_NOT_RECOGNISED": "Spiel nicht erkannt",
+            "SESSION_EXISTS": "Diese Sitzung existiert bereits. Bitte lösche die Sitzung in dieser Version von Pokélink und versuche es erneut"
           },
           "SessionParseError": {
-            "UNKNOWN_ERROR": "Unable to parse session \"${sessionName}\" (${sessionId}). Please read the logs for more information"
+            "UNKNOWN_ERROR": "Die Sitzung \"${sessionName}\" (${sessionId}) konnte nicht eingelesen werden. Weitere Informationen findest du in den Protokollen."
           },
           "SaveFileError": {
-            "fileNotFound": "${file} does not exist",
-            "invalidFile": "${file} is not a recognisable save file",
-            "unknownError": "${file} caused an unknown error to occur: ${message}",
-            "possibleCorruption": "${file} is possibly corrupted. Please contact us in the Pokélink Discord"
+            "fileNotFound": "${file} existiert nicht",
+            "invalidFile": "${file} ist keine erkennbare Sicherungsdatei",
+            "unknownError": "${file} hat einen unbekannten Fehler verursacht: ${message}",
+            "possibleCorruption": "${file} ist möglicherweise beschädigt. Bitte kontaktiere uns im Pokélink Discord"
           },
-          "unknownGameId": "Unable to validate save file. Session does not have a valid game definition",
-          "invalidSave": "Save file is not valid. The save file does not work with your selected rom"
+          "unknownGameId": "Die Sicherungsdatei konnte nicht validiert werden. Die Sitzung verfügt nicht über eine gültige Spieldefinition.",
+          "invalidSave": "Die Sicherungsdatei ist ungültig. Die Sicherungsdatei funktioniert nicht mit Ihrem ausgewählten ROM"
         },
         "SaveFileExists": {
-          "title": "Save file exists",
-          "description": "${fileName} exists in the save directory. Would you like to overwrite the save file?",
-          "confirm": "Replace",
-          "backup": "Backup + Replace",
-          "cancel": "Cancel"
+          "title": "Speicherdatei vorhanden",
+          "description": "${fileName} ist im Sicherungsverzeichnis vorhanden. Möchten Sie die Sicherungsdatei überschreiben?",
+          "confirm": "Überschreiben",
+          "backup": "Sichern + Überschreiben",
+          "cancel": "Abbrechen"
         },
         "SaveSelection": {
-          "title": "Select a file",
-          "text": "Use the file dialog to pick your old save file"
+          "title": "Wähle eine Datei",
+          "text": "Benutze den Dateidialog um deine alte Sicherungsdatei auszuwählen"
         },
         "ImportingSessions": {
-          "title": "Importing Sessions",
-          "description": "Please wait whilst we import your sessions"
+          "title": "Sessions importieren",
+          "description": "Bitte warte, während wir deine Sitzungen importieren"
         },
-        "cancel": "Cancel import",
-        "dragFile": "Drag your old vuex.json file onto this window",
-        "dragSave": "Drag your save file onto this window or click ${Common.continue} to skip copying your save",
+        "cancel": "Import abbrechen",
+        "dragFile": "Ziehe deine alte vuex.json-Datei in dieses Fenster",
+        "dragSave": "Ziehe deine Sicherungsdatei in dieses Fenster oder klicke auf ${Common.continue}, um das Kopieren der Sicherungsdatei zu überspringen",
         "EmulatorSelection": {
-          "title": "Emulator Selection",
-          "text": "Please select a supported emulator for use with this session. If you were using VBA-RR/Citra previously, you should select BizHawk and follow the instructions to continue where you left off"
+          "title": "Emulatorauswahl",
+          "text": "Bitte wähle einen unterstützten Emulator für diese Sitzung aus. Wenn du zuvor VBA-RR/Citra verwendet hast, wähle BizHawk und folge den Anweisungen, um dort fortzufahren, wo du aufgehört hast."
         },
         "SelectSessions": {
-          "title": "Select sessions",
-          "text": "Please select the sessions you would like to import by clicking on their toggle switches"
+          "title": "Sessionauswahl",
+          "text": "Bitte wähle die Sitzungen aus, die du importieren möchtest."
         },
         "ProcessSessions": {
-          "title": "Processing complete",
-          "text": "Session processing is now complete. Please verify that your sessions were processed correctly"
+          "title": "Verarbeitung abgeschlossen",
+          "text": "Die Sitzungsverarbeitung ist nun abgeschlossen. Bitte überprüfe, ob deine Sitzungen korrekt verarbeitet wurden"
         }
       }
     }
