@@ -62,11 +62,11 @@
             },
             "Mgba": {
                 "name": "mGBA",
-                "downloadInstructions": "Clicking the button below will open up mGBA's donload page.${OSInstructions} Once the download is complete, close this dialogue and drag the downloaded file onto Pokélink",
+                "downloadInstructions": "Clicking the button below will open up mGBA's download page.${OSInstructions} Once the download is complete, close this dialogue and drag the downloaded file onto Pokélink.",
                 "windowsInstructions": " Download the 64-bit .7z archive version.",
                 "linuxInstructions": " Download the 64-bit AppImage version.",
-                "copyLua": "Copy the below script command into the lua scripting window.",
-                "copyLua2": "This can be done by going to Tools > Scripting and in the scripting window click the text box at the bottom and paste. Once pasted click run."
+                "copyLua": "Copy the script command below into the LUA scripting window.",
+                "copyLua2": "This can be done by going to Tools > Scripting. In the scripting window click the text box at the bottom and paste. Once pasted, click run."
             }
         }
     }
