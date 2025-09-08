@@ -41,6 +41,9 @@
             "paralyzed": "Paralyzed",
             "frozen": "Frozen",
             "burned": "Burned"
+        },
+        "location": {
+            "fatefulEncounter": "Fateful Encounter"
         }
     }
 }
