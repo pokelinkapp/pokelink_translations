@@ -2,6 +2,12 @@
     "code": "en-GB",
     "translations": {
         "Tour": {
+            "Reset": {
+                "confirm": {
+                    "title": "Are you sure you would like to reset all app tours?",
+                    "text": "Resetting the tours will redirect you back to the sessions screen."
+                }
+            },
             "Buttons": {
                 "startTour": "Start Tour",
                 "skipCategory": "Skip \"${category}\" Tours",
