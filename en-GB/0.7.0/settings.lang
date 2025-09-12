@@ -23,7 +23,12 @@
                     "start": "Start Tracing",
                     "stop": "Stop Tracing"
                 },
-                "allowTelemetry": "Allowing telemetry sends us anonymous information upon an error or a fatal crash. Requires a restart of the app to take effect"
+                "allowTelemetry": "Allowing telemetry sends us anonymous information upon an error or a fatal crash. Requires a restart of the app to take effect",
+                "ResetTours": {
+                    "title": "Reset Tours",
+                    "description": "Reset all the app's Tours for you to go through again",
+                    "buttonText": "Reset Tours"
+                }
             },
             "Uninstall": {
                 "title": "Uninstall Pokélink?",
