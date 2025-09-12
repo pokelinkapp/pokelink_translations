@@ -3,20 +3,20 @@
   "translations": {
     "Credits": {
       "AwesomePeople": {
-        "title": "Awesome People",
-        "description": "This project had a lot of help, support, research and knowledge provided by the below people. Without whom, none of this project would be where it is today."
+        "title": "Großartige Leute",
+        "description": "Dieses Projekt wurde durch eine Menge Hilfe, Unterstützung, Nachforschung und Wissen der folgenden Leute unterstützt, ohne welche nichts von all dem hier heute dort wäre, wo es ist."
       },
       "CoreDevs": {
         "title": "Core Developers",
-        "description": "We couldn't have all of this without the aforementioned people. So thank you! But we decided we had to put our info in here too, you know, for science..."
+        "description": "Ohne die oben genannten Personen wäre das alles nicht möglich gewesen. Vielen Dank! Aber wir haben entschieden, dass wir auch unsere Informationen hier veröffentlichen müssen, also, für die Wissenschaft ..."
       },
-      "supportPatreon": "Support us on Patreon!",
+      "supportPatreon": "Unterstütze uns auf Patreon!",
       "Translators": {
-        "title": "${label} translators",
-        "description": "Awesome members of the community that helped translate Pokélink to ${label}",
+        "title": "${label} Übersetzer",
+        "description": "Großartige Mitglieder der Community, welche dabei geholfen haben Pokélink in ${label} zu übersetzen",
         "members": []
       },
-      "supportDiscord": "Need support or want to join the community?\nJoin us on Discord!"
+      "supportDiscord": "Du brauchst hilfe oder möchtest der Community beitrenten?\nTritt unserem Discord bei!"
     }
   }
 }

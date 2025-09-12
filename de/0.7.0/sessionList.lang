@@ -2,24 +2,24 @@
   "code": "de",
   "translations": {
     "SessionError": {
-      "title": "An error occured loading your session",
-      "readLog": "Please check the logs for more information",
-      "SESSION_DOESNT_EXIST": "The session with the id: ${guid} was not found",
-      "FILE_DOESNT_EXIST": "Could not find the file for the session ${sessionName}",
-      "INVALID_SESSION_FILE": "The session file for ${sessionName} may be corrupt or damaged. It is recommended to delete this session",
-      "UNKNOWN_ERROR": "An unknown error occured. ${SessionError.readLog}",
-      "INVALID_AUTO_SESSION": "Unable to load the memory configs for this session. ${SessionError.readLog}",
-      "INVALID_EMULATOR_CONTROLLER": "Unable to load the emulator controller. ${SessionError.readLog}",
-      "INVALID_EMULATOR_PATH": "Unable to access the emulator. Has it been moved?",
-      "MISSING_GAME_DEFINITION": "Unable to start session due to the game definition file being missing. Are you missing a plugin?",
-      "TYPECHART_FAILED_TO_LOAD": "The Type Chart failed to load. ${SessionError.readLog}",
-      "MOVE_DATA_FAILED_TO_LOAD": "Move data failed to load. ${SessionError.readLog}",
-      "EMULATOR_ALREADY_RUNNING": "Emulator is already running. Please save your game and close the emulator before starting this session",
-      "POKEDEX_FAILED_TO_LOAD": "The Pokedex failed to load. ${SessionError.readLog} ",
-      "UNABLE_TO_EXTRACT": "Unable to extract required resources due to another process using them. Do you already have the emulator open?"
+      "title": "Beim Laden deiner Sitzung ist ein Fehler aufgetreten",
+      "readLog": "Bitte prüfe die logs für weitere Informationen",
+      "SESSION_DOESNT_EXIST": "Die Sitzung mit der ID: ${guid} wurde nicht gefunden",
+      "FILE_DOESNT_EXIST": "Die Datei für die Sitzung ${sessionName} konnte nicht gefunden werden",
+      "INVALID_SESSION_FILE": "Die Sitzungsdatei für ${sessionName} ist möglicherweise beschädigt. Es wird empfohlen, diese Sitzung zu löschen.",
+      "UNKNOWN_ERROR": "Ein unbekannter Fehler ist aufgetreten. ${SessionError.readLog}",
+      "INVALID_AUTO_SESSION": "Die Speicherkonfigurationen für diese Sitzung konnten nicht geladen werden. ${SessionError.readLog}",
+      "INVALID_EMULATOR_CONTROLLER": "Der Emulator-Controller kann nicht geladen werden. ${SessionError.readLog}",
+      "INVALID_EMULATOR_PATH": "Der Zugriff auf den Emulator ist nicht möglich. Wurde er verschoben??",
+      "MISSING_GAME_DEFINITION": "Die Sitzung konnte nicht gestartet werden, da die Spieldefinitionsdatei fehlt. Fehlt dir ein Plugin?",
+      "TYPECHART_FAILED_TO_LOAD": "Das Laden der Typentabelle ist fehlgeschlagen. ${SessionError.readLog}",
+      "MOVE_DATA_FAILED_TO_LOAD": "Laden der Attackendaten fehlgeschlagen. ${SessionError.readLog}",
+      "EMULATOR_ALREADY_RUNNING": "Der Emulator läuft bereits. Bitte speichere dein Spiel und schließe den Emulator, bevor du diese Sitzung startest.",
+      "POKEDEX_FAILED_TO_LOAD": "Der Pokédex konnte nicht geladen werden. ${SessionError.readLog} ",
+      "UNABLE_TO_EXTRACT": "Benötigte Ressourcen können nicht entrpackt werden, da ein anderer Prozess sie verwendet. Ist der Emulator bereits geöffnet?"
     },
     "SessionList": {
-      "missingGame": "Missing game and/or plugin"
+      "missingGame": "Fehlendes Spiel und/oder Plugin"
     }
   }
 }

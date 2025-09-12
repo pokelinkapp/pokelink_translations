@@ -3,71 +3,71 @@
   "translations": {
     "Setup": {
       "Steps": {
-        "romSupport": "Rom Support"
+        "romSupport": "Rom-Unterstützung"
       },
       "Initial": {
-        "typeOfRun": "Type of Run",
-        "connectionSetup": "Connection Setup"
+        "typeOfRun": "Art des Runs",
+        "connectionSetup": "Verbindungsaufbau"
       },
       "ServerConfig": {
         "startServerPortForward": [
-          "You need to start the server! If you are going to connect to another",
-          "Pokélink instance for multiplayer purposes, make sure you have the port",
-          "open!"
+          "Du musst den Server starten! Wenn du dich für den Mehrspielermodus mit ",
+          "einer anderen Pokélink-Instanz verbinden möchtest, stelle sicher, dass ",
+          "der Port geöffnet ist!"
         ],
         "startServerUPNP": [
-          "You need to start the server! If you are going to connect to another",
-          "Pokélink instance for multiplayer purposes"
+          "Du musst den Server starten! Wenn du dich für Multiplayer-Zwecke mit ",
+          "einer anderen Pokélink-Instanz verbinden möchtest"
         ],
-        "currentlyConnectedTo": "You're currently connected to",
+        "currentlyConnectedTo": "Derzeit verbunden mit",
         "Username": {
-          "hint": "A username you'll use for your web sources",
-          "disabledText": "You can't change username while you're connected"
+          "hint": "Benutzername den du für web sources verwendest",
+          "disabledText": "Du kannst den Benutzernamen nicht ändern, während du verbunden bist"
         },
         "ServerIP": {
-          "disabledText": "You can't change server address while you're connected"
+          "disabledText": "Du kannst die Serveradresse nicht ändern, während du verbunden bist"
         },
         "ServerPort": {
-          "disabledText": "You can't change port while you're connected",
-          "disabledTextServer": "You can't change port while server is running",
-          "hint": "Don't change this field unless you know what you're doing"
+          "disabledText": "Du kannst den Port nicht ändern, während du verbunden bist",
+          "disabledTextServer": "Du kannst den Port nicht ändern, während der Server läuft",
+          "hint": "Ändere dieses Feld nur, wenn du weisst was du tust"
         },
         "CreateSession": {
-          "startServer": "Create session and start server",
-          "connect": "Create session and connect"
+          "startServer": "Sitzung erstellen und Server starten",
+          "connect": "Sitzung erstellen und verbinden"
         },
         "Button": {
-          "startServer": "Start Local Server",
-          "stopServer": "Stop Server",
-          "connect": "Connect",
-          "disconnect": "Disconnect"
+          "startServer": "Lokalen Server starten",
+          "stopServer": "Server stoppen",
+          "connect": "Verbinden",
+          "disconnect": "Trennen"
         },
-        "enableWebSources": "Enable Websources",
-        "enableUPNP": "Allow Pokélink to open the port on your router(UPNP)"
+        "enableWebSources": "Websources aktivieren",
+        "enableUPNP": "Pokélink erlauben, den Port auf deinem Router zu öffnen (UPNP)."
       },
       "RomType": {
         "Selection": {
-          "title": "Select a rom",
-          "text": "Use the file dialog to pick your rom"
+          "title": "Wähle ein ROM",
+          "text": "Verwende den Dateidialog, um dein ROM auszuwählen"
         }
       },
       "Emulator": {
         "Selection": {
-          "title": "Select your emulator",
-          "text": "Use the file dialog to pick your emulator"
+          "title": "Wähle deinen Emulator",
+          "text": "Benutze den Dateidialog um deinen Emulator auszuwählen"
         },
         "AssignEmu": {
-          "title": "Assign Emulator",
-          "description": "Would you like to also assign ${emulator} to these consoles?"
+          "title": "Emulator zuweisen",
+          "description": "Möchtest du ${emulator} auch diesen Konsolen zuweisen?"
         },
         "ExtractingEmulator": {
-          "title": "Extracting ${emulator}",
-          "description": "Extracting ${emulator} please wait"
+          "title": "Extrahiere ${emulator}",
+          "description": "Extrahiere ${emulator}, bitte warte"
         }
       },
       "VersionSelection": {
-        "title": "Select a version",
-        "text": "Please select the region/version for your rom. 3DS games you should use v1.0 unless you have updated the game"
+        "title": "Wähle eine Version",
+        "text": "Bitte wähle die Region/Version für dein ROM. Für 3DS-Spiele solltest du v1.0 verwenden, sofern du das Spiel nicht aktualisiert hast."
       }
     }
   }

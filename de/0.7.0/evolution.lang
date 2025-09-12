@@ -7,82 +7,82 @@
         "time": "${value}",
         "location": "${value}",
         "friendship": "${value}",
-        "useItem": "Use ${value}",
-        "holdItem": "Hold ${value}",
+        "useItem": "Benutze ${value}",
+        "holdItem": "Halte ${value}",
         "useMoveHisui": "Use ${move} using ${style} ${count} times",
-        "useMove": "Use ${move} ${count} times",
-        "trade": "Trade",
+        "useMove": "Benutze ${move} ${count} mal",
+        "trade": "Tauschen",
         "levelUp": "Level up",
-        "or": "or",
-        "critsInOneBattle": "${value} crits in one battle",
-        "knowMove": "Know the move ${value}",
-        "knowMoveType": "Know a ${value} type move",
+        "or": "oder",
+        "critsInOneBattle": "${value} kritische Treffer in einem Kampf",
+        "knowMove": "Kenn den Angriff ${value}",
+        "knowMoveType": "Kennt einen ${value} Angriff",
         "rarity": "${value}",
         "stat": "Stats: ${value}",
         "gender": "${value}",
-        "emptySlot": "Have empty slot",
-        "hasItem": "Have ${value}",
+        "emptySlot": "Hat leeren Platz",
+        "hasItem": "Trägt ${value}",
         "maxTrait": "Max ${value} trait",
-        "typedPokemonPresentInParty": "${value} typed pokemon is present in party",
-        "presentInParty": "${value} is present in party",
-        "recoilDamage": "Take ${value} in recoil damage",
-        "tradeWith": "Trade with ${value}",
-        "defeatPokemon": "Defeat ${count} ${species} holding ${item}",
-        "holdConsoleUpsideDown": "Hold console upside down",
+        "typedPokemonPresentInParty": "Pokemon vom Typ ${value} ist bereits im Team",
+        "presentInParty": "${value} ist bereits im Team",
+        "recoilDamage": "Erleidet ${value} Rückstoß",
+        "tradeWith": "Tauschen mit ${value}",
+        "defeatPokemon": "Besiegte ${count} ${species} während es ${item} hält",
+        "holdConsoleUpsideDown": "Halte die Konsole verkehrtherum / auf dem Kopf",
         "weather": "${value}",
-        "ability": "Has ${value} ability",
-        "game": "Whilst playing ${value}",
-        "candy": "${count} ${species} candy",
-        "nature": "Have following nature(s): ${value}",
-        "spinWithSweet": "Spin whilst holding a sweet",
-        "walkXStepsInLetsGoMode": "Walk ${value} steps whilst in Let's go mode",
-        "multiplayer": "Evolves during multiplayer session",
+        "ability": "Hat die Fäghigkeit ${value}",
+        "game": "Beim spielen von ${value}",
+        "candy": "${count} ${species} Bonbon",
+        "nature": "Hat folgende Wesen: ${value}",
+        "spinWithSweet": "Eine Süßigkeit haltend drehen",
+        "walkXStepsInLetsGoMode": "Gehe ${value} Schritte im \"Let's go\" Modus",
+        "multiplayer": "Entwickelt sich in einer Multiplayer-Session",
         "gimmighoulCoins": "Whilst carrying ${value}x ${pokemon.item.gen9.gimmighoul_coin}s",
         "galarianYamask": "Pass under the large rock arch in Dusty Bowl after ${pokemon.species.yamask} takes at least 49 HP in damage from attacks without fainting. Healing does not reset the counter, and damage can be taken across multiple battles. Taking damage from certain sources, such as self-inflicted Curse damage or weather effects, does not contribute to the 49 HP damage requirement"
       },
       "go": "Pokémon Go",
       "note": {
-        "vivillonPattern": "Pattern depends on save"
+        "vivillonPattern": "Muster hängt vom Speichern ab"
       }
     },
     "timeOfDay": {
-      "night": "Night time",
-      "day": "Day time",
-      "fullMoon": "During full moon",
-      "dusk": "At Dusk"
+      "night": "Nachts",
+      "day": "Tagsüber",
+      "fullMoon": "bei Vollmond",
+      "dusk": "am Abend"
     },
     "friendship": {
-      "high": "High friendship",
-      "twoHearts": "Two Hearts of affection"
+      "high": "Starke Freundschaft",
+      "twoHearts": "Zwei Herzen Zuneigung"
     },
     "area": {
-      "nearMossyRock": "Near Mossy Rock",
-      "nearIcyRock": "Near Icy Rock",
-      "magneticField": "In Magnetic Field",
-      "inGrass": "In Grassy area",
-      "inCaves": "In Caves",
-      "inBuildings": "In Buildings",
-      "nearDustyBowl": "Near Dusty Bowl",
-      "atMountLanakila": "At Mount Lanakila"
+      "nearMossyRock": "Nahe Moosfelsen",
+      "nearIcyRock": "Nahe Eisfelsen",
+      "magneticField": "Im Magnetfeld",
+      "inGrass": "In Grasfeldern",
+      "inCaves": "In Höhlen",
+      "inBuildings": "In Gebäuden",
+      "nearDustyBowl": "Nahe Sandsturmkessel",
+      "atMountLanakila": "Bei Mount Lanakila"
     },
     "rarity": {
-      "rare": "Rare chance",
-      "randomPersonality": "Random chance based on personality value"
+      "rare": "selten",
+      "randomPersonality": "Zufällige Chance basierend auf Wesen"
     },
     "moveStyle": {
-      "strong": "Strong Style",
-      "agile": "Agile Style"
+      "strong": "Starker Stil",
+      "agile": "Agiler Stil"
     },
     "stat": {
-      "attack>defense": "Attack > Defense",
-      "attack<defense": "Attack < Defense",
-      "attack=defense": "Attack = Defense"
+      "attack>defense": "Angriff > Verteidigung",
+      "attack<defense": "Angriff < Verteidigung",
+      "attack=defense": "Angriff = Verteidigung"
     },
     "trait": {
-      "beauty": "Beauty"
+      "beauty": "Schönheit"
     },
     "weather": {
-      "raining": "Whilst raining"
+      "raining": "bei Regen"
     }
   }
 }
