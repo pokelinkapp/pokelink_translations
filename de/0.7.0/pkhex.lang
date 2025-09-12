@@ -41,6 +41,9 @@
       "paralyzed": "Paralysiert",
       "frozen": "Gefroren",
       "burned": "Brennt"
+    },
+    "location": {
+        "fatefulEncounter": "Schicksalhafte Begegnung"
     }
   }
 }
