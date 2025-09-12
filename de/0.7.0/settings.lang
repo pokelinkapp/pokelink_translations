@@ -23,7 +23,12 @@
           "start": "Tracing starten",
           "stop": "Tracing stoppen"
         },
-        "allowTelemetry": "Durch das Zulassen der Telemetrie werden uns bei einem Fehler oder einem schwerwiegenden Absturz anonyme Informationen gesendet. Erfordert einen Neustart der App, um wirksam zu werden"
+        "allowTelemetry": "Durch das Zulassen der Telemetrie werden uns bei einem Fehler oder einem schwerwiegenden Absturz anonyme Informationen gesendet. Erfordert einen Neustart der App, um wirksam zu werden",
+        "ResetTours": {
+            "title": "Touren zurücksetzen",
+            "description": "Setze alle Touren der App zurück, damit du sie erneut durchlaufen kannst.",
+            "buttonText": "Touren zurücksetzen"
+        }
       },
       "Uninstall": {
         "title": "Pokélink deinstallieren?",

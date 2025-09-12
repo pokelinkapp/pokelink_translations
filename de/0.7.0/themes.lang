@@ -22,7 +22,7 @@
             "name": "Karten-Artwork verwenden",
             "description": "Holt die Kartenbilder des Pokémon und verwendet sie für den Hintergrund"
           },
-          "Verlauf": {
+          "typesGradient": {
             "name": "Typenbasierter Hintergrund-Farbverlauf",
             "description": "Verwendet die Typfarben des Pokémon anstelle der Standardverläufe"
           }
