@@ -50,15 +50,15 @@
       },
       "Desmume": {
         "name": "DeSmuME",
-        "copyLua": "Kopiere den folgenden Pfad in das lua scripting Fenster",
+        "copyLua": "Kopiere den folgenden Pfad in das lua scripting Fenster.",
         "copyLua2": "Du findest es in DeSmuME unter Tools > Lua Scripting > New Lua Script Window (Stelle sicher, das Fenster nicht zu schließen! Du kannst es aber minimieren.)",
         "downloadInstructions": "Klicke den folgenden Button um einen Browser zu öffnen und eine Desmume zip herunterzuladen. Ziehe die heruntergeladene .zip nach dem Download per Drag-and-Drop in Pokélink"
       },
       "Azahar": {
         "name": "Citra / Lime3DS / Azahar",
-        "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ziehe die ${extension} Datei per Drag-and-Drop in Pokélink"
-        "windowsInstructions": " and drag the ${extension} file onto Pokélink.",
-        "linuxInstructions": " copy the ${extension} file into Pokélink's emulator folder and drag the copied file onto Pokélink."
+        "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite von Azahar zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ${OSInstructions}",
+        "windowsInstructions": " ziehe die ${extension} Datei per Drag-and-Drop in Pokélink.",
+        "linuxInstructions": " kopiere die ${extension} Datei in Pokélink's Emulator-Ordner und ziehe die kopierte Datei per Drag-and-Drop in Pokélink."
       },
       "Mgba": {
         "name": "mGBA",
@@ -66,7 +66,10 @@
         "windowsInstructions": " Download the 64-bit .7z archive version.",
         "linuxInstructions": " Download the 64-bit AppImage version.",
         "copyLua": "Copy the script command below into the LUA scripting window.",
-        "copyLua2": "This can be done by going to Tools > Scripting. In the scripting window click the text box at the bottom and paste. Once pasted, click run."
+        "copyLua2": "Gehe dazu zu „Tools“ > „Scripting“, klicke im Scripting-Fenster auf „File Load Script“ und füge den Dateipfad in das Textfeld „Name“ ein. Drücke anschließend die Eingabetaste."
+        "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite von Azahar zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ${OSInstructions}",
+        "windowsInstructions": " ziehe die ${extension} Datei per Drag-and-Drop in Pokélink.",
+        "linuxInstructions": " kopiere die ${extension} Datei in Pokélink's Emulator-Ordner und ziehe die kopierte Datei per Drag-and-Drop in Pokélink."
       }
     }
   }
