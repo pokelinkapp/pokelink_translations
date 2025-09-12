@@ -62,14 +62,11 @@
       },
       "Mgba": {
         "name": "mGBA",
-        "downloadInstructions": "Clicking the button below will open up mGBA's download page.${OSInstructions} Once the download is complete, close this dialogue and drag the downloaded file onto Pokélink.",
-        "windowsInstructions": " Download the 64-bit .7z archive version.",
-        "linuxInstructions": " Download the 64-bit AppImage version.",
-        "copyLua": "Copy the script command below into the LUA scripting window.",
+        "downloadInstructions": "Durch Klicken auf die Schaltfläche unten wird die Downloadseite von mGBA geöffnet.${OSInstructions} Sobald der Download abgeschlossen ist, schließe diesen Dialog und ziehe die heruntergeladene Datei auf Pokélink.",
+        "windowsInstructions": " Lade die 64-Bit-.7z-Archivversion herunter.",
+        "linuxInstructions": " Lade die 64-bit AppImage Version herunter.",
+        "copyLua": "Kopiere den folgenden Skriptbefehl in das LUA Scripting-Fenster.",
         "copyLua2": "Gehe dazu zu „Tools“ > „Scripting“, klicke im Scripting-Fenster auf „File Load Script“ und füge den Dateipfad in das Textfeld „Name“ ein. Drücke anschließend die Eingabetaste."
-        "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite von Azahar zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ${OSInstructions}",
-        "windowsInstructions": " ziehe die ${extension} Datei per Drag-and-Drop in Pokélink.",
-        "linuxInstructions": " kopiere die ${extension} Datei in Pokélink's Emulator-Ordner und ziehe die kopierte Datei per Drag-and-Drop in Pokélink."
       }
     }
   }
