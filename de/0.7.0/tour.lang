@@ -257,7 +257,7 @@
                     },
                     "MANUAL_PARTY_EDITOR": {
                         "title": "Pokémon Editor",
-                        "content": "Hier kannst du das Pokémon im ausgewählten Slot bearbeiten.\b\Es müssen nicht alle Informationen ausgefüllt werden.\Das einzige erforderliche Element ist die Spezies."
+                        "content": "Hier kannst du das Pokémon im ausgewählten Slot bearbeiten.\n\nEs müssen nicht alle Informationen ausgefüllt werden.\nDas einzige erforderliche Element ist die Spezies."
                     }
                 }
             },
