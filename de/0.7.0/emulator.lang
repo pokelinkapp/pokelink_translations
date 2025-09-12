@@ -62,7 +62,9 @@
       },
       "Mgba": {
           "name": "mGBA",
-          "downloadInstructions": "",
+          "downloadInstructions": "Durch Klicken auf die Schaltfläche unten wird die Downloadseite von mGBA geöffnet.${OSInstructions} Sobald der Download abgeschlossen ist, schließe diesen Dialog und ziehe die heruntergeladene Datei auf Pokélink.",
+          "windowsInstructions": " Lade die 64-Bit-.7z-Archivversion herunter.",
+          "linuxInstructions": " Lade die 64-bit AppImage Version herunter.",
           "copyLua": "${Emulator.Desmume.copyLua}",
           "copyLua2": "Gehe dazu zu „Tools“ > „Scripting“, klicke im Scripting-Fenster auf „File Load Script“ und füge den Dateipfad in das Textfeld „Name“ ein. Drücke anschließend die Eingabetaste."
       }
