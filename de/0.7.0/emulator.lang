@@ -50,13 +50,21 @@
       },
       "Desmume": {
         "name": "DeSmuME",
-        "copyLua": "Kopiere den folgenden Pfad in das lua scripting Fenster",
+        "copyLua": "Kopiere den folgenden Pfad in das lua scripting Fenster.",
         "copyLua2": "Du findest es in DeSmuME unter Tools > Lua Scripting > New Lua Script Window (Stelle sicher, das Fenster nicht zu schließen! Du kannst es aber minimieren.)",
         "downloadInstructions": "Klicke den folgenden Button um einen Browser zu öffnen und eine Desmume zip herunterzuladen. Ziehe die heruntergeladene .zip nach dem Download per Drag-and-Drop in Pokélink"
       },
       "Azahar": {
         "name": "Citra / Lime3DS / Azahar",
-        "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ziehe die ${extension} Datei per Drag-and-Drop in Pokélink"
+        "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite von Azahar zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ${OSInstructions}",
+        "windowsInstructions": " ziehe die ${extension} Datei per Drag-and-Drop in Pokélink.",
+        "linuxInstructions": " kopiere die ${extension} Datei in Pokélink's Emulator-Ordner und ziehe die kopierte Datei per Drag-and-Drop in Pokélink."
+      },
+      "Mgba": {
+          "name": "mGBA",
+          "downloadInstructions": "",
+          "copyLua": "${Emulator.Desmume.copyLua}",
+          "copyLua2": "Gehe dazu zu „Tools“ > „Scripting“, klicke im Scripting-Fenster auf „File Load Script“ und füge den Dateipfad in das Textfeld „Name“ ein. Drücke anschließend die Eingabetaste."
       }
     }
   }
