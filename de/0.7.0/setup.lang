@@ -16,7 +16,7 @@
           "der Port geöffnet ist!"
         ],
         "startServerUPNP": [
-          "Du musst den Server starten! Wenn du dich für Multiplayer-Zwecke mit "
+          "Du musst den Server starten! Wenn du dich für Multiplayer-Zwecke mit ",
           "einer anderen Pokélink-Instanz verbinden möchtest"
         ],
         "currentlyConnectedTo": "Derzeit verbunden mit",
