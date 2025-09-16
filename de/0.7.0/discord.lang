@@ -4,7 +4,7 @@
     "Discord": {
       "authorize": "Bevor du Pokélink verwenden kannst, musst du dich erst durch Discord authentifizieren",
       "login": "Login mit Discord",
-      "waiting": "Waiting on auth response...",
+      "waiting": "Warte auf Authentifizierung...",
       "notAuthorized": "Du bist nicht berechtigt, diese Version von Pokélink zu verwenden",
       "reauthenticate": "Bitte authentifiziere dich erneute, bevor du einen Bug meldest",
       "report": "Einen Bug melden",

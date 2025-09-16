@@ -18,9 +18,9 @@
         "partyTracking": "Automatisiertes Tracking von Pokémon in deinem Team",
         "battleUpdates": "Automatische Updates während Kämpfen"
       },
-      "supported": "Supported Features",
-      "unsupported": "Unsupported Features",
-      "knownIssues": "Known Issues"
+      "supported": "Unterstützte Features",
+      "unsupported": "nicht unterstützte Features",
+      "knownIssues": "Bekannte Probleme"
     }
   }
 }

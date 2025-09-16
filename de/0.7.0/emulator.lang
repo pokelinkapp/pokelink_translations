@@ -10,7 +10,7 @@
           "missingMono": "Bitte installiere das \"mono\" Paket für deine Distribution",
           "missingDotFx": "Bitte installiere dotnet v4.8 oder führe den \"BizHawk's prerequisite installer\" aus",
           "unsupportedOS": "BizHawk kann auf diesem Betriebssystem nicht ausgeführt werden",
-          "missingLaunchScript": "Emulator is missing it's launch script EmuHawkMono.sh"
+          "missingLaunchScript": "Dem Emulator fehlt das EmuHawkMono.sh Startskript"
         },
         "DeSmuME": {
           "unknownScriptError": "Ein unbekannter Skriptfehler ist aufgetreten. Bitte kontaktiere uns im Pokélink discord"
@@ -34,7 +34,7 @@
         "existing": "Bestehenden Emulator verwenden",
         "setupNew": "Anderen Emulator auswählen",
         "downloadEmulator": "${emulator} herunterladen",
-        "dropFile": "Drag und drop das Archiv oder die .exe von ${emulator} in das Fenster",
+        "dropFile": "Ziehe das Archiv oder die .exe von ${emulator} per Drag-and-Drop in das Fenster",
         "invalidFile": "Inkompatible Datei ausgewählt"
       },
       "BizHawk": {
@@ -46,7 +46,7 @@
           }
         },
         "downloadDependenciesInstructions": "Klicke den unteren Button um die Download-Seite zu öffnen. klicke dann auf die bizhawk_prereqs_vxxxx.zip file. Sobald diese heruntergeladen wurde, öffne die Zip-Datei durch einen Doppelklick. Darin sollte eine bizhawk_prereqs.exe liegen. Doppelklicke diese und folge den Anweisungen. Sobald dies abgeschlossen ist, kannst du fortfahren",
-        "downloadInstructions": "Klicke den unteren Button um die Download-Seite zu öffnen. klicke dann auf die file similar to this ${fileName}. Sobbald heruntergeladen, schlieé diesen Dialog und ziehe die ${extension} Datei in Pokélink"
+        "downloadInstructions": "Klicke den unteren Button um die Download-Seite zu öffnen. klicke dann auf die Datei mit in Etwa ${fileName} heisst. Sobbald heruntergeladen, schließe diesen Dialog und ziehe die ${extension} Datei in Pokélink"
       },
       "Desmume": {
         "name": "DeSmuME",
