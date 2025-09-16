@@ -9,7 +9,7 @@
         "friendship": "${value}",
         "useItem": "Benutze ${value}",
         "holdItem": "Halte ${value}",
-        "useMoveHisui": "Use ${move} using ${style} ${count} times",
+        "useMoveHisui": "Benutze ${move} ${count} mal im ${style}",
         "useMove": "Benutze ${move} ${count} mal",
         "trade": "Tauschen",
         "levelUp": "Level up",
@@ -70,8 +70,8 @@
       "randomPersonality": "Zufällige Chance basierend auf Wesen"
     },
     "moveStyle": {
-      "strong": "Starker Stil",
-      "agile": "Agiler Stil"
+      "strong": "Kraft Stil",
+      "agile": "Tempo Stil"
     },
     "stat": {
       "attack>defense": "Angriff > Verteidigung",
