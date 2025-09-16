@@ -15,7 +15,10 @@
         "badgeTracking": "Automatic badge tracking",
         "partyTracking": "Automatic tracking of Pokémon in your party",
         "battleUpdates": "Automatic updates during battle"
-      }
+      },
+      "supported": "Supported Features",
+      "unsupported": "Unsupported Features",
+      "knownIssues": "Known Issues"
     }
   }
 }

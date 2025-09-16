@@ -56,7 +56,17 @@
       },
       "Azahar": {
         "name": "Citra / Lime3DS / Azahar",
-        "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink"
+        "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink",
+        "windowsInstructions": " and drag the ${extension} file onto Pokélink.",
+        "linuxInstructions": " copy the ${extension} file into Pokélink's emulator folder and drag the copied file onto Pokélink."
+      },
+      "Mgba": {
+        "name": "mGBA",
+        "downloadInstructions": "Clicking the button below will open up mGBA's download page.${OSInstructions} Once the download is complete, close this dialogue and drag the downloaded file onto Pokélink.",
+        "windowsInstructions": " Download the 64-bit .7z archive version.",
+        "linuxInstructions": " Download the 64-bit AppImage version.",
+        "copyLua": "Copy the script command below into the LUA scripting window.",
+        "copyLua2": "This can be done by going to Tools > Scripting. In the scripting window click the text box at the bottom and paste. Once pasted, click run."
       }
     }
   }
