@@ -278,15 +278,15 @@
         "Steps": {
           "POKEDEX_SEARCH": {
             "title": "Suche im Pokédex",
-            "content": "The search system for the Pokédex allows you to search for multiple parts of a name. For example blast mega will give you only the entry for Blastoise's mega entry."
+            "content": "Das Suchsystem des Pokédex ermöglicht die Suche nach mehreren Namensbestandteilen. Beispielsweise liefert „Turto Mega“ den Turtok Mega-Eintrag."
           },
           "POKEDEX_EVOLINE": {
             "title": "Pokémon-Evolutionslinie",
-            "content": "This shows you how a Pokémon can evolve along with evolutions that can occur afterwards. You are able to click on any one of these items to jump to that Pokédex entry."
+            "content": "Hier wird gezeigt, wie sich ein Pokémon entwickeln kann und welche Entwicklungen danach stattfinden können. Du kannst auf jedes dieser Elemente klicken, um zum entsprechenden Pokédex-Eintrag zu springen."
           },
           "POKEDEX_INFO": {
             "title": "Grundlegende Informationen",
-            "content": "These items show some basic information about the current Pokémon. Like the range of steps needed to hatch from an egg, what friendship the Pokémon will start off with when caught and what color they are in the Pokédex."
+            "content": "Diese Elemente zeigen einige grundlegende Informationen zum aktuellen Pokémon an. Beispielsweise die Anzahl der Schritte, die zum Schlüpfen aus einem Ei erforderlich sind, welche Freundschaft das Pokémon nach dem Fang hat und welche Farbe es im Pokédex hat."
           },
           "POKEDEX_BASE_STATS": {
             "title": "Basiswerte",
