@@ -38,10 +38,10 @@
     },
     "Effectiveness": {
       "prefix": "${type} → ${against} =",
-      "no": "${Effectiveness.prefix} hat keinen Effekt",
-      "notVery": "${Effectiveness.prefix} ist nicht sehr effektiv",
-      "normal": "${Effectiveness.prefix} ist Normal effektiv",
-      "super": "${Effectiveness.prefix} ist Sehr effektiv"
+      "no": "${Effectiveness.prefix} kein Effekt",
+      "notVery": "${Effectiveness.prefix} nicht sehr effektiv",
+      "normal": "${Effectiveness.prefix} Normal effektiv",
+      "super": "${Effectiveness.prefix} Sehr effektiv"
     },
     "ExtraData": {
       "catchRate": "Fang-Rate",

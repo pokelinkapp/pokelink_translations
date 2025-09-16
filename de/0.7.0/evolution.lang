@@ -37,8 +37,8 @@
         "spinWithSweet": "Eine Süßigkeit haltend drehen",
         "walkXStepsInLetsGoMode": "Gehe ${value} Schritte im \"Let's go\" Modus",
         "multiplayer": "Entwickelt sich in einer Multiplayer-Session",
-        "gimmighoulCoins": "Whilst carrying ${value}x ${pokemon.item.gen9.gimmighoul_coin}s",
-        "galarianYamask": "Pass under the large rock arch in Dusty Bowl after ${pokemon.species.yamask} takes at least 49 HP in damage from attacks without fainting. Healing does not reset the counter, and damage can be taken across multiple battles. Taking damage from certain sources, such as self-inflicted Curse damage or weather effects, does not contribute to the 49 HP damage requirement"
+        "gimmighoulCoins": "Während du ${value}x ${pokemon.item.gen9.gimmighoul_coin} trägst",
+        "galarianYamask": "Gehe unter dem großen Felsbogen im Sandsturmkessel hindurch, nachdem ${pokemon.species.yamask} mindestens 49 KP Schaden durch Angriffe erlitten hat, ohne ohnmächtig zu werden. Heilung setzt den Zähler nicht zurück, und Schaden kann über mehrere Kämpfe hinweg erlitten werden. Schaden aus bestimmten Quellen, wie z. B. selbst zugefügter Fluchschaden oder Wettereinflüsse, trägt nicht zur Schadensanforderung von 49 KP bei."
       },
       "go": "Pokémon Go",
       "note": {

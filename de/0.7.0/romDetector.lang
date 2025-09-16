@@ -13,7 +13,7 @@
       "fileDoesNotExist": "${path} existiert nicht",
       "couldNotReadFile": "ROM-Datei konnte nicht gelesen werden",
       "unableToDecode": "ROM-Header kann nicht gelesen werden",
-      "nonPokemonRom": "Rom is not a pokemon game",
+      "nonPokemonRom": "Rom ist kein Pokemon Spiel",
       "archiveFile": "Bitte extrahiere dein ROM, da Archive nicht unterstützt werden"
     }
   }
