@@ -55,7 +55,7 @@
         "downloadInstructions": "Click the button below which will open your browser and begin downloading the Desmume zip. Once downloaded. Close this dialog and drag the zip file onto Pokélink"
       },
       "Azahar": {
-        "name": "Citra / Lime3DS / Azahar",
+        "name": "Azahar",
         "downloadInstructions": "Click the button below which will open up the download page. Then click on the file similar to this ${fileName}. Once downloaded. Close this dialog and drag the ${extension} file onto Pokélink",
         "windowsInstructions": " and drag the ${extension} file onto Pokélink.",
         "linuxInstructions": " copy the ${extension} file into Pokélink's emulator folder and drag the copied file onto Pokélink."
