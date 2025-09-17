@@ -2,7 +2,7 @@
   "code": "de",
   "translations": {
     "Common": {
-      "noItems": "No items matched your criteria",
+      "noItems": "Kein Item entsprach den Kriterien",
       "endSession": "Session beenden",
       "none": "keine",
       "unknown": "unbekannt",
@@ -19,7 +19,7 @@
       "cancel": "Abbruch",
       "test": "Test",
       "download": "Download",
-      "downloadDependencies": "Abhängigkeiten Herunterladen",
+      "downloadDependencies": "Abhängigkeiten herunterladen",
       "close": "Schließen",
       "submit": "Absenden",
       "Navigation": {
@@ -40,8 +40,8 @@
       "prefix": "${type} → ${against} =",
       "no": "${Effectiveness.prefix} kein Effekt",
       "notVery": "${Effectiveness.prefix} nicht sehr effektiv",
-      "normal": "${Effectiveness.prefix} Normal effektiv",
-      "super": "${Effectiveness.prefix} Sehr effektiv"
+      "normal": "${Effectiveness.prefix} normal effektiv",
+      "super": "${Effectiveness.prefix} sehr effektiv"
     },
     "ExtraData": {
       "catchRate": "Fang-Rate",
@@ -58,16 +58,16 @@
       "green": "Grün",
       "black": "Schwarz",
       "brown": "Braun",
-      "purple": "Violett/Lila",
+      "purple": "Lila",
       "gray": "Grau",
       "white": "Weiß",
       "pink": "Pink"
     },
     "ExpGrowth": [
-      "Mittelschnell",
+      "Mittel schnell",
       "Unberechenbar",
       "Schwankend",
-      "Mittel Langsam",
+      "Mittel langsam",
       "Schnell",
       "Langsam"
     ],
