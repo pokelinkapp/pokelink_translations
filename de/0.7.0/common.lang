@@ -30,7 +30,7 @@
     "Gender": {
       "male": "männlich",
       "female": "weiblich",
-      "genderless": "neutral"
+      "genderless": "ohne Geschlecht"
     },
     "Pokerus": {
       "infected": "Mit Pokerus infiziert",
