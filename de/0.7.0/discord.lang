@@ -17,7 +17,7 @@
         "title": "Bug-Report gesendet",
         "text": "Dein Bug-Report wurde gesendet und ist nun in Discord einsehbar"
       },
-      "retryLogin": "erneut versuchen",
+      "retryLogin": "Erneut versuchen",
       "retryLoginCountdown": "Versuche es in ${countDown} Sekunden erneut..."
     }
   }

@@ -4,17 +4,17 @@
     "Common": {
       "noItems": "Kein Item entsprach den Kriterien",
       "endSession": "Session beenden",
-      "none": "keine",
-      "unknown": "unbekannt",
-      "continue": "weiter",
-      "reset": "zurücksetzen",
+      "none": "Keine",
+      "unknown": "Unbekannt",
+      "continue": "Weiter",
+      "reset": "Zurücksetzen",
       "openInBrowser": "Im Browser öffnen",
       "yes": "Ja",
       "no": "Nein",
       "errorOccured": "Ein Fehler ist aufgetreten",
       "back": "Zurück",
       "next": "Weiter",
-      "previous": "Zurück",
+      "previous": "Vorherige",
       "agree": "Akzeptiere",
       "cancel": "Abbruch",
       "test": "Test",
@@ -34,7 +34,7 @@
     },
     "Pokerus": {
       "infected": "Mit Pokerus infiziert",
-      "no": "nein"
+      "no": "Nein"
     },
     "Effectiveness": {
       "prefix": "${type} → ${against} =",

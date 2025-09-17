@@ -7,9 +7,9 @@
       "search": "Suche",
       "revive": "Wiederbeleben",
       "RouteTracking": {
-        "caught": "gefangen",
-        "ranAway": "es ist geflohen",
-        "killed": "ich habe es besiegt"
+        "caught": "Gefangen",
+        "ranAway": "Es ist geflohen",
+        "killed": "Ich habe es besiegt"
       },
       "TimeOfDeathFormat": {
         "second": "${amount} Sekunde",

@@ -7,7 +7,7 @@
           "selectFile": "Wähle vuex Datei",
           "selectSessions": "Session auswählen",
           "processSessions": "Sessions importieren",
-          "finalizeAuto": "automatische Session beenden"
+          "finalizeAuto": "Automatische Session beenden"
         },
         "VuexSelection": {
           "title": "Wähle eine Datei",

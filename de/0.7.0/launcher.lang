@@ -21,21 +21,21 @@
       "Uninstall": {
         "uninstalling": "Deinstalliere Pokélink...",
         "finished": "Pokélink wurde erfolgreich deinstalliert",
-        "btn1Text": "schliessen"
+        "btn1Text": "Schliessen"
       },
       "Error": {
         "UNABLE_TO_CONNECT": {
           "text": "Update-Informationen konnten nicht abgerufen werden",
-          "btn1Text": "erneut versuchen"
+          "btn1Text": "Erneut versuchen"
         },
         "UNABLE_TO_VALIDATE": {
           "text": "App kann nicht mit dem Server validiert werden",
-          "btn1Text": "erneut versuchen"
+          "btn1Text": "Erneut versuchen"
         },
         "UNABLE_TO_CONNECT_HAS_LOCAL": {
           "text": "Update-Informationen konnten nicht abgerufen werden.\nMöchtest du die lokale app version starten?",
-          "btn1Text": "erneut versuchen",
-          "btn2Text": "starten"
+          "btn1Text": "Erneut versuchen",
+          "btn2Text": "Starten"
         },
         "UPDATE_CONSENT": {
           "text": "Update ${update} ist jetzt verfügbar.\nMöchtest du aktualisieren?",
@@ -44,12 +44,12 @@
         },
         "ALREADY_RUNNING": {
           "text": "Pokélink wird bereits in diesem Ordner ausgeführt.\nBitte schließe die App, bevor du es erneut versuchst.",
-          "btn1Text": "schliessen"
+          "btn1Text": "Schliessen"
         },
         "LOW_STORAGE": {
           "text": "Auf deinem PC ist derzeit nicht genügend Speicherplatz verfügbar.\nBitte gib vor der Aktualisierung etwas Speicherplatz frei.",
-          "btn1Text": "erneut versuchen",
-          "btn2Text": "starten"
+          "btn1Text": "Erneut versuchen",
+          "btn2Text": "Starten"
         }
       }
     }

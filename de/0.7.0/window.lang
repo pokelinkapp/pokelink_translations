@@ -84,7 +84,7 @@
         "badges": "Orden",
         "managed": "Verwaltet",
         "identity": "Ident",
-        "lastPlayed": "zuletzt gespielt"
+        "lastPlayed": "Zuletzt gespielt"
       },
       "Party": {
         "edit": "Pokémon bearbeiten",
@@ -112,8 +112,8 @@
       },
       "PokemonEditor": {
         "title": "Pokémon Editor - Slot ${slotId}",
-        "save": "speichern",
-        "cancel": "abbruch",
+        "save": "Speichern",
+        "cancel": "Abbruch",
         "remove": "Team Slot leeren",
         "dead": "Pokémon als besiegt markieren",
         "Tabs": {

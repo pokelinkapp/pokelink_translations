@@ -32,7 +32,7 @@
     },
     "form": {
       "large_busted": "Large Busted",
-      "unknown": "unbekannt"
+      "unknown": "Unbekannt"
     },
     "status": {
       "healthy": "Gesund",
@@ -40,7 +40,7 @@
       "asleep": "Schläft",
       "paralyzed": "Paralysiert",
       "frozen": "Gefroren",
-      "burned": "Brennt"
+      "burned": "Verbrennung"
     },
     "location": {
       "fatefulEncounter": "Schicksalhafte Begegnung"

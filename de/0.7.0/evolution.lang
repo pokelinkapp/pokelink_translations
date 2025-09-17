@@ -15,7 +15,7 @@
         "levelUp": "Level up",
         "or": "oder",
         "critsInOneBattle": "${value} kritische Treffer in einem Kampf",
-        "knowMove": "Kenn den Angriff ${value}",
+        "knowMove": "Kennt den Angriff ${value}",
         "knowMoveType": "Kennt einen ${value} Angriff",
         "rarity": "${value}",
         "stat": "Stats: ${value}",
@@ -28,7 +28,7 @@
         "recoilDamage": "Erleidet ${value} Rückstoß",
         "tradeWith": "Tauschen mit ${value}",
         "defeatPokemon": "Besiegte ${count} ${species} während es ${item} hält",
-        "holdConsoleUpsideDown": "Halte die Konsole verkehrtherum / auf dem Kopf",
+        "holdConsoleUpsideDown": "Halte die Konsole Spiegelverkehrt",
         "weather": "${value}",
         "ability": "Hat die Fäghigkeit ${value}",
         "game": "Beim spielen von ${value}",
@@ -48,8 +48,8 @@
     "timeOfDay": {
       "night": "Nachts",
       "day": "Tagsüber",
-      "fullMoon": "bei Vollmond",
-      "dusk": "am Abend"
+      "fullMoon": "Bei Vollmond",
+      "dusk": "Abends"
     },
     "friendship": {
       "high": "Starke Freundschaft",
@@ -66,7 +66,7 @@
       "atMountLanakila": "Bei Mount Lanakila"
     },
     "rarity": {
-      "rare": "selten",
+      "rare": "Selten",
       "randomPersonality": "Zufällige Chance basierend auf Wesen"
     },
     "moveStyle": {
@@ -82,7 +82,7 @@
       "beauty": "Schönheit"
     },
     "weather": {
-      "raining": "bei Regen"
+      "raining": "Bei Regen"
     }
   }
 }
