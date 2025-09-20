@@ -15,6 +15,9 @@
                 "DeSmuME": {
                     "unknownScriptError": "An unknown script error occured. Please contact us in the Pokélink discord"
                 },
+                "Mgba": {
+                    "notPortable": "The version of mGBA you have provided is not a portable version. Please use the download button below to get the portable version"
+                },
                 "invalidEmulator": "The selected emulator exe is not valid",
                 "invalidEmulatorTitle": "Invalid Emulator",
                 "unsupportedEmulatorVersion": "Unsupported version of ${emulator}. Pokélink supports: ${supportedVersions}",
