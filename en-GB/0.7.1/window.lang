@@ -1,0 +1,13 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Window": {
+            "PokemonEditor": {
+                "Tabs": {
+                    "stats": "Stats",
+                    "misc": "Misc."
+                }
+            }
+        }
+    }
+}
