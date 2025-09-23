@@ -2,31 +2,31 @@
   "code": "de",
   "translations": {
     "NuzlockeTools": {
-      "showdownCopied": "Showdown data copied to your clipboard",
-      "showOnlyMissing": "Show only missing encounters",
-      "search": "Search",
-      "revive": "Revive",
+      "showdownCopied": "Showdown-Daten in Zwischenablage kopiert",
+      "showOnlyMissing": "Nur fehlende encounters anzeigen",
+      "search": "Suche",
+      "revive": "Wiederbeleben",
       "RouteTracking": {
-        "caught": "Caught",
-        "ranAway": "It ran away",
-        "killed": "I killed it"
+        "caught": "Gefangen",
+        "ranAway": "Es ist geflohen",
+        "killed": "Ich habe es besiegt"
       },
       "TimeOfDeathFormat": {
-        "second": "${amount} second",
-        "seconds": "${amount} seconds",
-        "minute": "${amount} minute",
-        "minutes": "${amount} minutes",
-        "hour": "${amount} hour",
-        "hours": "${amount} hours",
-        "day": "${amount} day",
-        "days": "${amount} days",
-        "week": "${amount} week",
-        "weeks": "${amount} weeks",
-        "month": "${amount} month",
-        "months": "${amount} months",
-        "year": "${amount} year",
-        "years": "${amount} years",
-        "ago": "ago"
+        "second": "${amount} Sekunde",
+        "seconds": "${amount} Sekunden",
+        "minute": "${amount} Minute",
+        "minutes": "${amount} Minuten",
+        "hour": "${amount} Stunde",
+        "hours": "${amount} Stunden",
+        "day": "${amount} Tag",
+        "days": "${amount} Tage",
+        "week": "${amount} Woche",
+        "weeks": "${amount} Wochen",
+        "month": "${amount} Monat",
+        "months": "${amount} Monate",
+        "year": "${amount} Jahr",
+        "years": "${amount} Jahre",
+        "ago": "zuvor"
       }
     }
   }

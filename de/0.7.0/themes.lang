@@ -6,11 +6,11 @@
         "BasicCard": {
           "name": "Basic Card",
           "verticalPokemon": {
-            "name": "Vertical Pokémon",
-            "description": "Places pokémon on either side of the window"
+            "name": "Vertikale Pokémon",
+            "description": "Platziertz Pokémon auf beiden Seiten des Fensters"
           },
           "hp": {
-            "name": "Show HP"
+            "name": "Zeige KP"
           }
         },
         "BDSPBattleStyleHud": {
@@ -19,39 +19,39 @@
         "BigNumbers": {
           "name": "Big Numbers",
           "useCardArt": {
-            "name": "Use Card art",
-            "description": "Fetches the Pokémon's card art and uses it for the background"
+            "name": "Karten-Artwork verwenden",
+            "description": "Holt die Kartenbilder des Pokémon und verwendet sie für den Hintergrund"
           },
           "typesGradient": {
-            "name": "Type background colour gradient",
-            "description": "Uses the Pokémon's Type colours instead of the default gradients"
+            "name": "Typenbasierter Hintergrund-Farbverlauf",
+            "description": "Verwendet die Typfarben des Pokémon anstelle der Standardverläufe"
           }
         },
         "Default": {
           "name": "Default",
-          "Route": "Met Location",
-          "Pokemon": "Pokémon Colour",
+          "Route": "Getroffen",
+          "Pokemon": "Pokémon Farbe",
           "typeBackground": {
-            "name": "Type colour background",
-            "description": "Uses the Pokémon's Type colours instead of the Poké ball design"
+            "name": "Typen-Hintergrundfarbe",
+            "description": "Verwendet die Typfarben des Pokémon anstelle des Pokéball-Designs"
           },
-          "color": "Use for border colour"
+          "color": "Für die Rahmenfarbe verwenden"
         },
         "DigitalHex": {
           "name": "Digital Hex",
           "staggered": {
-            "name": "Staggered",
-            "description": "Uses 2 rows instead of putting the Pokémon in a single line"
+            "name": "Gestaffelt",
+            "description": "Verwendet 2 Reihen, anstatt die Pokémon in einer einzigen Reihe zu platzieren"
           },
           "hideHPBar": {
-            "name": "Hide HP"
+            "name": "KP ausblenden"
           }
         },
         "FadingCardArt": {
           "name": "Fading Card Art",
           "flat": {
-            "name": "One line",
-            "description": "Lines all the Pokémon into one row"
+            "name": "Einreihig",
+            "description": "Ordnet alle Pokémon in einer Reihe an"
           }
         },
         "Friday": {
@@ -67,37 +67,37 @@
           "name": "Jezzabel's personal theme",
           "flipped": {
             "name": "Flip",
-            "description": "Flips the Pokémon sprites as well as moving it to the left instead of the right"
+            "description": "Dreht die Pokémon-Sprites um und verschiebt sie nach links statt nach rechts"
           }
         },
         "LetsGo": {
           "name": "Let's Go",
           "verticalPokemon": {
-            "name": "Vertical Pokémon",
-            "description": "Places the Pokémon from top to bottom"
+            "name": "Vertikale Pokémon",
+            "description": "Platziert die Pokémon von oben nach unten"
           },
           "colorPokeball": {
-            "name": "Coloured Pokeball",
-            "description": "Changes the Poké ball design so it uses the selected colour type instead of just white"
+            "name": "Farbiger Pokeball",
+            "description": "Ändert das Design des Pokéballs, sodass er den ausgewählten Farbtyp statt nur Weiß verwendet"
           },
           "colorBorder": {
-            "name": "Coloured border",
-            "description": "Uses the selected colour type instead of white for the border. For Types it will use the Pokémon's primary type"
+            "name": "Farbiger Rand",
+            "description": "Verwendet den ausgewählten Farbtyp anstelle von Weiß für den Rand. Für Typen wird der primäre Typ des Pokémon verwendet"
           },
           "colorBg": {
-            "name": "Coloured background",
-            "description": "Uses the selected colour type for the background colour. For Types it will use a gradient of the Pokémon types"
+            "name": "Farbiger Hintergrund",
+            "description": "Verwendet den ausgewählten Farbtyp für die Hintergrundfarbe. Für Typen wird ein Farbverlauf der Pokémon-Typen verwendet"
           },
-          "color": "Use for background colour",
-          "pokemon": "Pokémon Colour",
-          "type": "Types",
-          "route": "Met Location"
+          "color": "Für Hintergrundfarbe verwenden",
+          "pokemon": "Pokémon Farbe",
+          "type": "Typen",
+          "route": "Getroffen"
         },
         "Pokeball": {
           "name": "Pokéball",
-          "hideHP": "Hide HP",
-          "hideName": "Hide Names",
-          "hideLevel": "Hide Levels"
+          "hideHP": "KP ausblenden",
+          "hideName": "Namen ausblenden",
+          "hideLevel": "Level ausblenden"
         },
         "RescueTeamDX": {
           "name": "Rescue Team DX"
@@ -108,22 +108,22 @@
         "SportsTicker": {
           "name": "Sports Ticker",
           "verticalPokemon": {
-            "name": "Vertical Pokémon",
-            "description": "Places the Pokémon from top to bottom"
+            "name": "Vertikale Pokémon",
+            "description": "Platziert die Pokémon von oben nach unten"
           },
           "noGap": {
-            "name": "No Gap",
-            "description": "Removes the gaps between Pokémon"
+            "name": "Ohne Lücken",
+            "description": "Entfernt die Lücken zwischen Pokémon"
           },
           "useCardArtBackground": {
-            "name": "Use card art for backgrounds"
+            "name": "Verwenden Sie Kartenbilder für Hintergründe"
           },
           "hideLevels": {
-            "name": "Hide Levels"
+            "name": "Level ausblenden"
           }
         },
         "SpriteOnly": {
-          "name": "Sprite Only"
+          "name": "Nur Sprites"
         },
         "StickItDown": {
           "name": "Stick it down"
@@ -131,33 +131,33 @@
         "SwordShieldTeam": {
           "name": "Sword and Shield-style team",
           "colorPokeball": {
-            "name": "Colour Pokéball",
-            "description": "Colour the Pokéball with colours based on the colour selection"
+            "name": "Farbiger Pokéball",
+            "description": "Färben Sie den Pokéball mit Farben basierend auf der Farbauswahl"
           },
           "colorBothSides": {
-            "name": "Colour both sides",
-            "description": "If enabled will colour both sides Pokéball even if both colours match"
+            "name": "Beide Seiten einfärben",
+            "description": "Wenn aktiviert, werden beide Seiten des Pokéballs eingefärbt, auch wenn beide Farben übereinstimmen"
           },
           "color": {
-            "name": "Colour",
+            "name": "Farbe",
             "pokemon": "Pokémon",
-            "route": "Met Location",
-            "type": "Types"
+            "route": "Getroffen",
+            "type": "Typen"
           }
         },
         "Trozei": {
           "name": "Trozei",
           "hideLevel": {
-            "name": "Hide Levels"
+            "name": "Level ausblenden"
           },
           "hideNickname": {
-            "name": "Hide Nicknames/Species Names"
+            "name": "Spitznamen/Spezies verbergen"
           },
           "hideHP": {
-            "name": "Hide HP"
+            "name": "KP ausblenden"
           },
           "hideTypes": {
-            "name": "Hide Types"
+            "name": "Typen ausblenden"
           }
         },
         "TwitchPlays": {
@@ -169,63 +169,63 @@
           "name": "Artwork"
         },
         "BlackWhite": {
-          "name": "Black & White "
+          "name": "Schwarz & Weiß "
         },
         "Crystal": {
-          "name": "Crystal",
-          "animated": "${Pokelink.SpriteSets.Crystal.name} (Animated)"
+          "name": "Kristall",
+          "animated": "${Pokelink.SpriteSets.Crystal.name} (animiert)"
         },
         "DiamondPearl": {
-          "name": "Diamond & Pearl"
+          "name": "Diamant & Perl"
         },
         "FireRedLeafGreen": {
-          "name": "Fire Red & Leaf Green"
+          "name": "Feuerrot & Blattgrün"
         },
         "Generation": {
           "five": "Generation 5",
-          "fiveAnimated": "${Pokelink.SpriteSets.Generation.five} (Animated)",
+          "fiveAnimated": "${Pokelink.SpriteSets.Generation.five} (animiert)",
           "six": "Generation 6",
-          "sixAnimated": "${Pokelink.SpriteSets.Generation.six} (Animated)",
+          "sixAnimated": "${Pokelink.SpriteSets.Generation.six} (animiert)",
           "seven": "Generation 7",
-          "sevenAnimated": "${Pokelink.SpriteSets.Generation.seven} (Animated)",
+          "sevenAnimated": "${Pokelink.SpriteSets.Generation.seven} (animiert)",
           "eight": "Generation 8",
-          "eightParty": "${Pokelink.SpriteSets.Generation.eight} (Party)"
+          "eightParty": "${Pokelink.SpriteSets.Generation.eight} (Team)"
         },
         "Green": {
-          "name": "Green"
+          "name": "Grün"
         },
         "HeartGoldSoulSilver": {
           "name": "Heart Gold & Soul Silver"
         },
         "Home": {
           "name": "Home",
-          "animated": "Home (Animated)"
+          "animated": "Home (animiert)"
         },
         "Moemon": {
           "name": "Moemon"
         },
         "National": {
           "name": "National",
-          "animated": "${Pokelink.SpriteSets.National.name} (Animated)",
-          "party": "${Pokelink.SpriteSets.National.name} (Party)"
+          "animated": "${Pokelink.SpriteSets.National.name} (animiert)",
+          "party": "${Pokelink.SpriteSets.National.name} (Team)"
         },
         "PKHeX": {
           "party": "PKHeX"
         },
         "Platinum": {
-          "name": "Platinum"
+          "name": "Platin"
         },
         "RedBlue": {
-          "name": "Red & Blue"
+          "name": "Rot & Blau"
         },
         "RescueTeamDX": {
           "name": "Rescue Team DX"
         },
         "SunMoon": {
-          "name": "Sun & Moon"
+          "name": "Sonne & Mond"
         },
         "Silver": {
-          "name": "Silver"
+          "name": "Silber"
         },
         "Trozei": {
           "name": "Trozei"
@@ -234,7 +234,7 @@
           "name": "X & Y"
         },
         "Yellow": {
-          "name": "Yellow"
+          "name": "Gelbe Edition"
         },
         "Rumble": {
           "name": "Pokémon Rumble"
@@ -244,12 +244,12 @@
         "Default": {
           "name": "Default",
           "showCategories": {
-            "name": "Show Categories",
-            "description": "Displays the names of the badge categories above each group"
+            "name": "Kategorien anzeigen",
+            "description": "Zeigt die Namen der Ordens-Kategorien über jeder Gruppe an"
           },
           "numbersOnly": {
-            "name": "Numbers Only",
-            "description": "Only shows how many badges your have obtained out of the total"
+            "name": "Nur Zahlen",
+            "description": "Zeigt nur an, wie viele Orden du insgesamt erhalten hast"
           }
         }
       },
@@ -257,19 +257,19 @@
         "Default": {
           "name": "Default",
           "counter": {
-            "name": "Show number of Deaths",
-            "description": "Show only the number of Pokémon that have fainted"
+            "name": "Anzahl der Tode anzeigen",
+            "description": "Nur die Anzahl der Pokémon anzeigen, die ohnmächtig geworden sind"
           },
-          "showNames": "Show names of the fallen",
+          "showNames": "Namen der Gefallenen anzeigen",
           "scroll": {
             "name": "Scrolling",
-            "description": "Scroll members of the graveyard across the screen"
+            "description": "Scrollt die Mitglieder des Friedhofs über den Bildschirm"
           }
         }
       },
       "useLocalSprites": {
-        "name": "Use Local Sprites",
-        "description": "Use the sprites that Pokelink is using instead of a sprite set"
+        "name": "Lokale Sprites verwenden",
+        "description": "Verwendet die Sprites, welche Pokelink verwendet, anstelle eines Sprite-Sets"
       }
     }
   }

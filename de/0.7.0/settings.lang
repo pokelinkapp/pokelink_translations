@@ -2,44 +2,44 @@
   "code": "de",
   "translations": {
     "Settings": {
-      "logsCopied": "Log data copied to your clipboard",
-      "appLanguage": "App Language",
+      "logsCopied": "Protokolldaten in die Zwischenablage kopiert",
+      "appLanguage": "App-Sprache",
       "Fields": {
         "Uninstall": {
-          "Title": "Uninstall",
-          "Description": "Uninstall the app"
+          "Title": "Deinstallieren",
+          "Description": "App deinstallieren"
         },
         "Shortcuts": {
-          "title": "Keyboard shortcuts",
-          "description": "Enable system wide keyboard shortcuts "
+          "title": "Tastenkombinationen",
+          "description": "Aktiviere systemweite Tastenkombinationen "
         },
         "RevealEggDelay": {
-          "title": "Egg reveal delay",
-          "description": "The time in seconds that the app will wait before revealing the contents of the Pokémon egg"
+          "title": "Verzögerung für Ei-Enthüllung",
+          "description": "Die Zeit in Sekunden, welche die App wartet, bevor sie den Inhalt des Pokémon-Eis preisgibt"
         },
         "TraceLog": {
           "title": "Porygon Trace",
-          "description": "Helps with debugging what Porygon is doing in the background. Do not turn this on unless asked by a Pokélink Dev or you notice strange behavior within the app",
-          "start": "Start Tracing",
-          "stop": "Stop Tracing"
+          "description": "Hilft beim Debuggen der Hintergrundaktivitäten von Porygon. Aktiviere diese Option nur, wenn du von einem Pokélink-Entwickler dazu aufgefordert wirst oder wenn du ein ungewöhnliches Verhalten in der App bemerkst.",
+          "start": "Tracing starten",
+          "stop": "Tracing stoppen"
         },
-        "allowTelemetry": "Allowing telemetry sends us anonymous information upon an error or a fatal crash. Requires a restart of the app to take effect",
+        "allowTelemetry": "Durch das Zulassen der Telemetrie werden uns bei einem Fehler oder einem schwerwiegenden Absturz anonyme Informationen gesendet. Erfordert einen Neustart der App, um wirksam zu werden",
         "ResetTours": {
-          "title": "Reset Tours",
-          "description": "Reset all the app's Tours for you to go through again",
-          "buttonText": "Reset Tours"
+          "title": "Touren zurücksetzen",
+          "description": "Setze alle Touren der App zurück, damit du sie erneut durchlaufen kannst.",
+          "buttonText": "Touren zurücksetzen"
         }
       },
       "Uninstall": {
-        "title": "Uninstall Pokélink?",
-        "description": "Are you sure you would like to uninstall Pokélink?\n(Local data includes: Logs, Sessions and Configs)",
-        "appOnly": "Uninstall app only",
-        "sessionsAlso": "Remove app + local data",
-        "cancel": "Cancel"
+        "title": "Pokélink deinstallieren?",
+        "description": "Möchtest du Pokélink wirklich deinstallieren?\n(Lokale Daten umfassen: Protokolle, Sitzungen und Konfigurationen)",
+        "appOnly": "Nur App deinstallieren",
+        "sessionsAlso": "App + lokale Daten entfernen",
+        "cancel": "Abbrechen"
       },
       "Titles": {
-        "Shortcuts": "Global Shortcuts",
-        "licenses": "Licenses"
+        "Shortcuts": "Globale Verknüpfungen",
+        "licenses": "Lizenzen"
       }
     }
   }

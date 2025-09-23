@@ -2,7 +2,7 @@
   "code": "de",
   "translations": {
     "Console": {
-      "supported": "Supported Console(s):",
+      "supported": "Unterstützte Konsole(n):",
       "n64": "Nintendo 64",
       "gb": "Nintendo GameBoy",
       "gbc": "Nintendo GameBoy Colour",
