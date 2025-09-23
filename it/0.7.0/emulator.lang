@@ -19,7 +19,10 @@
         "invalidEmulatorTitle": "Invalid Emulator",
         "unsupportedEmulatorVersion": "Unsupported version of ${emulator}. Pokélink supports: ${supportedVersions}",
         "unknownEmulatorVersion": "Unknown version of ${emulator}",
-        "noEmulatorSpecified": "The selected game does not specify an emulator it works with. Please report this to the plugin creator"
+        "noEmulatorSpecified": "The selected game does not specify an emulator it works with. Please report this to the plugin creator",
+        "Mgba": {
+          "notPortable": "The version of mGBA you have provided is not a portable version. Please use the download button below to get the portable version"
+        }
       },
       "Starting": {
         "title": "Starting emulator",
