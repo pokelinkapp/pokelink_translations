@@ -14,7 +14,9 @@
       "Translators": {
         "title": "${label} Übersetzer",
         "description": "Großartige Mitglieder der Community, welche dabei geholfen haben Pokélink in ${label} zu übersetzen",
-        "members": []
+        "members": [
+            "jaysn"
+        ]
       },
       "supportDiscord": "Du brauchst hilfe oder möchtest der Community beitrenten?\nTritt unserem Discord bei!"
     }
