@@ -7,6 +7,11 @@
                     "stats": "Stats",
                     "misc": "Misc."
                 }
+            },
+            "UrlConfirmation": {
+                "title": "Leaving Pokélink",
+                "description": "Are you sure you want to open this page in your browser?\n\n${url}",
+                "footer": "Pokélink is not responsible for any external websites"
             }
         }
     }
