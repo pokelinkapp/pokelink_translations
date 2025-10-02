@@ -1,0 +1,13 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Emulator": {
+            "Error": {
+                "FailedToLaunch": {
+                    "title": "Failed to launch emulator",
+                    "text": "Something stopped the emulator from launching. Please check your Anti-Virus"
+                }
+            }
+        }
+    }
+}
