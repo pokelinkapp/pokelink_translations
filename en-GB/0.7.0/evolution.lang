@@ -67,8 +67,7 @@
         },
         "rarity": {
             "rare": "Rare chance",
-            "randomPersonality": "Random chance based on personality value",
-            "p50Chance": "50% chance"
+            "randomPersonality": "Random chance based on personality value"
         },
         "moveStyle": {
             "strong": "Strong Style",
