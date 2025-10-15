@@ -2,23 +2,23 @@
   "code": "de",
   "translations": {
     "Discord": {
-      "authorize": "Before you are able to use Pokélink you must first authorize through Discord",
-      "login": "Login with Discord",
-      "waiting": "Waiting on auth response...",
-      "notAuthorized": "You are not permitted to use this version of Pokélink",
-      "reauthenticate": "Please reauthenticate before reporting a bug",
-      "report": "Report a bug",
-      "reportDescription": "Please input a brief description of what is going wrong",
-      "noTraces": "No porygon traces found. Please report directly in Discord",
-      "reportBug": "Report Bug",
-      "reportBugCooldown": "Report Bug (Cooldown ${countDownAmount}s)",
-      "failedToSubmit": "Failed to upload the bug report. The Porygon trace was saved into your session's folder. Please contact us for a manual report",
+      "authorize": "Bevor du Pokélink verwenden kannst, musst du dich erst durch Discord authentifizieren",
+      "login": "Login mit Discord",
+      "waiting": "Warte auf Authentifizierung...",
+      "notAuthorized": "Du bist nicht berechtigt, diese Version von Pokélink zu verwenden",
+      "reauthenticate": "Bitte authentifiziere dich erneute, bevor du einen Bug meldest",
+      "report": "Einen Bug melden",
+      "reportDescription": "Bitte gib eine grobe Beschreibung ab, was schiefgegangen ist",
+      "noTraces": "Keine Porygon-Spuren gefunden. Bitte melde dich direkt im Discord zu deinem Problem",
+      "reportBug": "Bug melden",
+      "reportBugCooldown": "Bug melden (Cooldown ${countDownAmount}s)",
+      "failedToSubmit": "Etwas ist beim Upload des Bug-Reports fehlgeschlagen. Die Porygon Spuren wurden in deinem Session-Ordner gespeichert. Bitte melde dich bei uns für einen manuellen Report",
       "submitted": {
-        "title": "Bug Report Submitted",
-        "text": "Your bug report has been submitted and can be seen in the discord"
+        "title": "Bug-Report gesendet",
+        "text": "Dein Bug-Report wurde gesendet und ist nun in Discord einsehbar"
       },
-      "retryLogin": "Retry",
-      "retryLoginCountdown": "Retry in ${countDown} seconds..."
+      "retryLogin": "Erneut versuchen",
+      "retryLoginCountdown": "Versuche es in ${countDown} Sekunden erneut..."
     }
   }
 }

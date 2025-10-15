@@ -2,19 +2,19 @@
   "code": "de",
   "translations": {
     "RomDetector": {
-      "gameDetected": "Game detected as ${gameName}",
-      "gameSelected": "Game selected ${gameName}",
+      "gameDetected": "Spiel erkannt als ${gameName}",
+      "gameSelected": "Ausgewähltes Spiel ${gameName}",
       "gameVersion": "Version: ${version}",
       "gameGeneration": "Generation: ${gen}",
-      "filepath": "Filepath: ${path}",
-      "dragRom": "Drag the rom you want to play onto this window",
-      "unableToIdentify": "Unable to identify the rom",
-      "unsupportedButKnownRom": "${romType} is not a supported rom type",
-      "fileDoesNotExist": "${path} does not exist",
-      "couldNotReadFile": "Could not read rom file",
-      "unableToDecode": "Unable to read rom header",
-      "nonPokemonRom": "Rom is not a pokemon game",
-      "archiveFile": "Please extract your rom as archives are not supported"
+      "filepath": "Dateipfad: ${path}",
+      "dragRom": "Ziehe das ROM, das du spielen möchten, in dieses Fenster",
+      "unableToIdentify": "Das ROM kann nicht identifiziert werden",
+      "unsupportedButKnownRom": "${romType} ist kein unterstützter ROM-Typ",
+      "fileDoesNotExist": "${path} existiert nicht",
+      "couldNotReadFile": "ROM-Datei konnte nicht gelesen werden",
+      "unableToDecode": "ROM-Header kann nicht gelesen werden",
+      "nonPokemonRom": "Rom ist kein Pokemon Spiel",
+      "archiveFile": "Bitte extrahiere dein ROM, da Archive nicht unterstützt werden"
     }
   }
 }

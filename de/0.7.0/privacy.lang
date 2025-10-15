@@ -2,42 +2,42 @@
   "code": "de",
   "translations": {
     "Privacy": {
-      "moreInfo": "More info",
-      "allowTelemetry": "Enable telemetry",
-      "lastUpdated": "Last updated: ${lastUpdated}",
+      "moreInfo": "Weitere Informationen",
+      "allowTelemetry": "Telemetrie aktivieren",
+      "lastUpdated": "Letzte Aktualisierung: ${lastUpdated}",
       "Policy": {
-        "title": "Pokélink Privacy Policy",
+        "title": "Pokélink Datenschutzrichtlinie",
         "pre-alpha": "${Privacy.Policy.alpha}",
-        "alpha": "Pokélink uses tools to monitor the app for any issues. This is so should a crash occur we can resolve it quickly and without the end user needing to share any information. As an alpha tester these telemetry systems are on by default and cannot be turned off. The Pre-Alpha and Alpha versions of the app are in unstable states and some systems have not been fully tested yet. As such we need these telemetry systems on. Any data sent to us using such tools will not enable us to identify you.",
-        "beta": "Pokélink uses tools to monitor the app for any issues. This is so should a crash occur we can resolve it quickly and without the end user needing to share any information. This is optional and you can opt-in and opt-out at any time. Any data sent to us using such tools will not enable us to identify you.",
+        "alpha": "Pokélink verwendet Tools, um die App auf Probleme zu überwachen. So können wir im Falle eines Absturzes das Problem schnell beheben, ohne dass der Endbenutzer Informationen weitergeben muss. Für Alpha-Tester sind diese Telemetriesysteme standardmäßig aktiviert und können nicht deaktiviert werden. Die Pre-Alpha- und Alpha-Versionen der App befinden sich in einem instabilen Zustand, und einige Systeme wurden noch nicht vollständig getestet. Daher benötigen wir diese Telemetriedaten. Daten, die uns mithilfe solcher Tools übermittelt werden, ermöglichen uns keine Identifizierung Ihrer Person.",
+        "beta": "Pokélink verwendet Tools, um die App auf Probleme zu überwachen. So können wir im Falle eines Absturzes das Problem schnell beheben, ohne dass der Endbenutzer Informationen weitergeben muss. Dies ist optional und Sie können die Nutzung jederzeit aktivieren oder deaktivieren. Die Daten, die uns mithilfe solcher Tools übermittelt werden, ermöglichen uns keine Identifizierung Ihrer Person.",
         "public": "${Privacy.Policy.beta}"
       },
       "AnonymousCollection": {
-        "title": "Anonymous data that Pokélink collects",
+        "title": "Anonyme Daten, die Pokélink sammelt",
         "pre-alpha": "${Privacy.AnonymousCollection.alpha}",
-        "alpha": "Pokélink will only collect data should an error occur during your usage of the app. You can see what gets sent to us inside of the log files stored in the logs folder. Note that to save disk space older logs are compressed using gzip. Programs like Winrar and 7-zip are able to decompress these files for you to read if you so wish.\n\nPokélink has the ability to track what buttons you click to help us understand the user experience and what needs to be made easier or more detailed. All this information is anonymous and cannot be used to identify you.",
-        "beta": "If telemetry is enabled. Pokélink will only collect data should an error occur during your usage of the app. You can see what gets sent to us inside of the log files stored in the logs folder. Note that to save disk space older logs are compressed using gzip. Programs like Winrar and 7-zip are able to decompress these files for you to read if you so wish.\n\nIf telemetry is enabled. Pokélink has the ability to track what buttons you click to help us understand the user experience and what needs to be made easier or more detailed. All this information is anonymous and cannot be used to identify you.",
+        "alpha": "Pokélink sammelt nur dann Daten, wenn während der Nutzung der App ein Fehler auftritt. Sie können die an uns gesendeten Daten in den Protokolldateien im Ordner „logs“ einsehen. Beachten Sie, dass ältere Protokolle zur Speicherplatzersparnis mit gzip komprimiert werden. Programme wie Winrar und 7-zip können diese Dateien entpacken und für Sie lesen.\n\nPokélink kann verfolgen, welche Schaltflächen Sie anklicken, um uns zu helfen, die Benutzererfahrung zu verstehen und zu sehen, was einfacher oder detaillierter gestaltet werden kann. Alle diese Informationen sind anonym und können nicht dazu verwendet werden, Sie zu identifizieren.",
+        "beta": "Sofern Telemtrie aktiviert ist sammelt Pokélink nur dann Daten, wenn während der Nutzung der App ein Fehler auftritt. Sie können die an uns gesendeten Daten in den Protokolldateien im Ordner „logs“ einsehen. Beachten Sie, dass ältere Protokolle zur Speicherplatzersparnis mit gzip komprimiert werden. Programme wie Winrar und 7-zip können diese Dateien entpacken und für Sie lesen.\n\nSofern Telemetrie aktiviert ist kann Pokélink zudem verfolgen, welche Schaltflächen Sie anklicken, um uns zu helfen, die Benutzererfahrung zu verstehen und zu sehen, was einfacher oder detaillierter gestaltet werden kann. Alle diese Informationen sind anonym und können nicht dazu verwendet werden, Sie zu identifizieren.",
         "public": "${Privacy.Policy.beta}"
       },
       "Collection": {
-        "title": "Data collection that may contain user information",
+        "title": "Datensammlung, die Benutzerinformationen enthalten kann",
         "pre-alpha": "${Privacy.Collection.alpha}",
-        "alpha": "Note that should the app face a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where the App stores configs and data.",
-        "beta": "If telemetry is enabled and the app faces a fatal crash. The app will send us a complete memory profile of the app to help us understand the crash. Be aware, should this happen, some information about your local user account may be part of the memory profile. For instance. Username, User folder location, Where Pokélink was launched from and where the app stores configs and data.",
+        "alpha": "Beachten Sie, dass die App uns im Falle eines schwerwiegenden Absturzes ein vollständiges Speicherprofil sendet, um uns bei der Analyse des Absturzes zu helfen. Beachten Sie, dass in diesem Fall möglicherweise Informationen zu Ihrem lokalen Benutzerkonto Teil des Speicherprofils sind. Zum Beispiel Benutzername, Speicherort des Benutzerordners, wo Pokélink gestartet wurde und wo die App Konfigurationen und Daten speichert.",
+        "beta": "Wenn die Telemetrie aktiviert ist und die App einen schwerwiegenden Absturz erleidet, sendet uns die App ein vollständiges Speicherprofil, um uns zu helfen, den Absturz zu verstehen. Beachten Sie, dass in diesem Fall möglicherweise Informationen zu Ihrem lokalen Benutzerkonto Teil des Speicherprofils sind. Zum Beispiel Benutzername, Speicherort des Benutzerordners, wo Pokélink gestartet wurde und wo die App Konfigurationen und Daten speichert.",
         "public": "${Privacy.Policy.beta}"
       },
       "DoesNotCollect": {
-        "title": "Data Pokélink does not collect",
+        "title": "Daten, die Pokélink nicht sammelt",
         "pre-alpha": "${Privacy.DoesNotCollect.alpha}",
-        "alpha": "Pokélink does monitor keyboard inputs for keyboard shortcut systems like badge toggling even when the window is not focused. Whilst the app monitors keyboard inputs it does not store nor collect the inputs. This feature can be turned on and off and is off by default for each session.",
+        "alpha": "Pokélink überwacht Tastatureingaben für das Tastaturkürzelsystem wie das Umschalten von Orden, auch wenn das Fenster nicht fokussiert ist. Die App überwacht zwar Tastatureingaben, speichert oder sammelt diese jedoch nicht. Diese Funktion kann ein- und ausgeschaltet werden und ist standardmäßig für jede Sitzung deaktiviert.",
         "beta": "${Privacy.DoesNotCollect.alpha}",
         "public": "${Privacy.Policy.beta}"
       },
       "Consent": {
-        "title": "Pokélink Privacy Policy",
+        "title": "Pokélink Datenschutzrichtlinie",
         "pre-alpha": "${Privacy.Consent.alpha}",
-        "alpha": "By clicking ${Common.agree}, you confirm that you understand and agree that:\n\nPokélink (upon an app error or fatal crash) will collect data regarding the cause of the issue (limited in scope to the execution flow & current state of the app as it crashed).\n\nPokélink is able to track anonymous general user actions (for use in improving the app).\n\nPokélink will not collect, but will listen to: keyboard inputs for keyboard shortcuts, eg: toggling badges. This feature can be turned on and off (and is off by default) for each session.",
-        "beta": "By clicking ${Common.agree}, you confirm that you understand and agree that:\n\nif telemetry is enabled, Pokélink will (upon an app error or fatal crash) collect data regarding the cause of the issue.\n\nif telemetry is enabled, Pokélink is able to track anonymous general user actions (for use in improving the app)\n\nPokélink will not collect, but will listen to: keyboard inputs for keyboard shortcuts, eg: toggling badges. This feature can be turned on and off (and is off by default) for each session.",
+        "alpha": "Indem Sie auf ${Common.agree} klicken, bestätigen Sie, dass Sie Folgendes verstanden haben und damit einverstanden sind:\n\nPokélink wird (bei einem App-Fehler oder schwerwiegenden Absturz) Daten zur Problemursache sammeln (beschränkt auf den Ausführungsfluss und den aktuellen Status der App zum Zeitpunkt des Absturzes).\n\nPokélink kann anonyme allgemeine Benutzeraktionen verfolgen (zur Verbesserung der App).\n\nPokélink sammelt keine Daten, überwacht aber: Tastatureingaben für Tastaturkürzel, z. B. das Umschalten von Badges. Diese Funktion kann für jede Sitzung ein- und ausgeschaltet werden (und ist standardmäßig deaktiviert).",
+        "beta": "Indem Sie auf ${Common.agree} klicken, bestätigen Sie, dass Sie Folgendes verstanden haben und damit einverstanden sind:\n\nWenn die Telemetrie aktiviert ist, sammelt Pokélink (bei einem App-Fehler oder schwerwiegenden Absturz) Daten zur Problemursache.\n\nWenn die Telemetrie aktiviert ist, kann Pokélink anonyme allgemeine Benutzeraktionen verfolgen (zur Verbesserung der App).\n\nPokélink sammelt keine Daten, überwacht aber: Tastatureingaben für Tastaturkürzel, z. B. das Umschalten von Badges. Diese Funktion kann für jede Sitzung ein- und ausgeschaltet werden (und ist standardmäßig deaktiviert).",
         "public": "${Privacy.Policy.beta}"
       }
     }
