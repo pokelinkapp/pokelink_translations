@@ -205,6 +205,9 @@
                     "name": "Home",
                     "animated": "Home (Animated)"
                 },
+                "LegendsZA": {
+                    "name": "Legends: Z-A"
+                },
                 "Moemon": {
                     "name": "Moemon"
                 },
