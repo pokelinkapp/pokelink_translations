@@ -1,0 +1,12 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Pokedex": {
+            "title": "Pokédex",
+            "species": "Species",
+            "forms": "Forms",
+            "evolutions": "Evolutions",
+            "random": "Random Pokémon"
+        }
+    }
+}

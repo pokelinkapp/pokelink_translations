@@ -1,0 +1,9 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "WebSources": {
+            "browserSources": "Browser Sources",
+            "playerSource": "${player}'s source"
+        }
+    }
+}
