@@ -12,7 +12,10 @@
                 }
             },
             "Dolphin": {
-                "name": "Dolphin"
+                "name": "Dolphin",
+                "downloadInstructions": "Click the button below which will open your browser and begin downloading the Dolphin ${archiveExt} file. Once downloaded. Close this dialog and drag the file onto Pokélink",
+                "download": "${Common.download} Dolphin v${version}",
+                "missingPython": "You do not have the correct version of python installed. Please make sure you have installed one of the following versions: ${pythonVersions} and restart Pokélink"
             }
         }
     }
