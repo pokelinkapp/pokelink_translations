@@ -1,0 +1,14 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Features": {
+            "Pokelink": {
+                "KnownIssues": {
+                    "GC": {
+                        "saving": "When saving the previous save will appear until you either exit the save screen or you confirm you want to save"
+                    }
+                }
+            }
+        }
+    }
+}
