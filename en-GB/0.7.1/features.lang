@@ -6,6 +6,9 @@
                 "KnownIssues": {
                     "GC": {
                         "saving": "When saving the previous save will appear until you either exit the save screen or you confirm you want to save"
+                    },
+                    "Stadium": {
+                        "japan": "When booting up the game. You may see pokemon appearing in slot 1"
                     }
                 }
             }
