@@ -61,7 +61,13 @@
         "name": "Azahar",
         "downloadInstructions": "Klicke den foglenden Button um zur Downloadseite von Azahar zu gelangen. Klicke dort auf ${fileName}. Sobald heruntergeladen, ${OSInstructions}",
         "windowsInstructions": " ziehe die ${extension} Datei per Drag-and-Drop in Pokélink.",
-        "linuxInstructions": " kopiere die ${extension} Datei in Pokélink's Emulator-Ordner und ziehe die kopierte Datei per Drag-and-Drop in Pokélink."
+        "linuxInstructions": " kopiere die ${extension} Datei in Pokélink's Emulator-Ordner und ziehe die kopierte Datei per Drag-and-Drop in Pokélink.",
+        "ConfigItems": {
+          "PortableMode": {
+            "name": "Enable Portable Mode",
+            "description": "Allows Azahar to not use your global instance. Useful for randomized runs"
+          }
+        }
       },
       "Mgba": {
         "name": "mGBA",
