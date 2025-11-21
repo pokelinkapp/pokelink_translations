@@ -64,8 +64,8 @@
         "linuxInstructions": " kopiere die ${extension} Datei in Pokélink's Emulator-Ordner und ziehe die kopierte Datei per Drag-and-Drop in Pokélink.",
         "ConfigItems": {
           "PortableMode": {
-            "name": "Enable Portable Mode",
-            "description": "Allows Azahar to not use your global instance. Useful for randomized runs"
+            "name": "Portable Mode aktivieren",
+            "description": "Zwingt Azahar im Portable Mode zu starten. Nützlich für randomized Runs."
           }
         }
       },
