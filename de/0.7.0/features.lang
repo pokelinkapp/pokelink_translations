@@ -3,8 +3,6 @@
   "translations": {
     "Features": {
       "Pokelink": {
-        "supported": "Unterstützte Features",
-        "unsupported": "Nicht unterstützte Features",
         "KnownIssues": {
           "doNotSaveInLumiose": "Speichere das Spiel nicht in Illumina City, aufgrund eines Bugs kann dies dein Savegame beschädigen. Update auf 1.5 wenn du kannst",
           "Gen2": {
