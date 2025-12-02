@@ -1,0 +1,15 @@
+﻿{
+    "code": "en-GB",
+    "translations": {
+        "Launcher": {
+            "repairing": "Attempting repair...",
+            "Error": {
+                "FAILED_TO_LAUNCH": {
+                    "text": "Pokélink failed to launch correctly!\nWould you like to attempt an auto repair?\n\nIf you see other repair tools open,\nplease follow their instructions.\n\nIf this is the second time you're seeing this message,\nplease contact us in the discord",
+                    "btn1Text": "Repair",
+                    "btn2Text": "Close"
+                }
+            }
+        }
+    }
+}
