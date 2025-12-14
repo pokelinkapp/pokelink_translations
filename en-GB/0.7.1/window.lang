@@ -17,6 +17,9 @@
                 "ViewSettings": {
                     "SHADOW_BAR": "Heart Gauge Bar"
                 }
+            },
+            "Loading": {
+                "overlayMessages": "Loading Overlay Messages"
             }
         }
     }
