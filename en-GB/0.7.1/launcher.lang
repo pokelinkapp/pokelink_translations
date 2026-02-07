@@ -9,6 +9,12 @@
                     "btn1Text": "Repair",
                     "btn2Text": "Close"
                 }
+            },
+            "runningAsPrivilege": {
+                "title": "Unable to start Pokélink (Elevated Privilege)",
+                "text": "Pokélink has been started with higher access to your computer than what is permitted.\n\nPlease refrain from launching Pokélink as ${privilege}!",
+                "linuxAdmin": "root",
+                "windowsAdmin": "Administrator"
             }
         }
     }
