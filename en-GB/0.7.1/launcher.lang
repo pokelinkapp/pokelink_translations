@@ -15,6 +15,10 @@
                 "text": "Pokélink has been started with higher access to your computer than what is permitted.\n\nPlease refrain from launching Pokélink as ${privilege}!",
                 "linuxAdmin": "root",
                 "windowsAdmin": "Administrator"
+            },
+            "missingDependencies": {
+                "title": "Missing Dependencies",
+                "text": "Pokélink has detected you are missing the following dependencies:\n\n${dependencies}\n\nPlease check your distro's package manager to install these dependencies\nbefore trying to launch Pokélink again"
             }
         }
     }
