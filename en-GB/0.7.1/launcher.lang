@@ -1,0 +1,29 @@
+﻿{
+    "code": "en-GB",
+    "translations": {
+        "Launcher": {
+            "repairing": "Attempting repair...",
+            "Error": {
+                "FAILED_TO_LAUNCH": {
+                    "text": "Pokélink failed to launch correctly!\nWould you like to attempt an auto repair?\n\nIf you see other repair tools open,\nplease follow their instructions.\n\nIf this is the second time you're seeing this message,\nplease contact us in the discord",
+                    "btn1Text": "Repair",
+                    "btn2Text": "Close"
+                }
+            },
+            "runningAsPrivilege": {
+                "title": "Unable to start Pokélink (Elevated Privilege)",
+                "text": "Pokélink has been started with higher access to your computer than what is permitted.\n\nPlease refrain from launching Pokélink as ${privilege}!",
+                "linuxAdmin": "root",
+                "windowsAdmin": "Administrator"
+            },
+            "missingDependencies": {
+                "title": "Missing Dependencies",
+                "text": "Pokélink has detected you are missing the following dependencies:\n\n${dependencies}\n\nPlease check your distro's package manager to install these dependencies\nbefore trying to launch Pokélink again."
+            },
+            "openedInTempFolder": {
+                "title": "Unable to start Pokélink (Not Extracted)",
+                "text": "Pokélink has been started by opening it inside of an archive file.\n\nPlease create a folder and extract Pokélink into it before launching again."
+            }
+        }
+    }
+}

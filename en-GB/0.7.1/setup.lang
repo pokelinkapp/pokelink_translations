@@ -1,0 +1,11 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Setup": {
+            "inaccessibleRom": {
+                "title": "Unable to read rom",
+                "text": "The rom provided was unable to be read. Please check that nothing is blocking access and try again.\n\nIf you are still experiencing issues. Please get in touch in our discord"
+            }
+        }
+    }
+}

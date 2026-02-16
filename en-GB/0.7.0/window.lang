@@ -134,7 +134,7 @@
                 },
                 "copyScript": "Script path copied to clipboard",
                 "emulatorReconnected": "Communication with the emulator has been restored",
-                "emulatorDisconnected": "Communication with the emulator was interrupted. You may need to save your game, close the emulator and restart the session"
+                "emulatorDisconnected": "Communication with the emulator was interrupted. You may need to restart the script (if the emulator uses one) or save your game, close the emulator and restart the session"
             },
             "Loading": {
                 "plugins": "Loading Plugins",

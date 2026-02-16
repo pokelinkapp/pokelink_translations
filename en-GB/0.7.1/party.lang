@@ -1,0 +1,14 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Party": {
+            "Pokemon": {
+                "Attribute": {
+                    "Status": {
+                        "title": "Status Condition"
+                    }
+                }
+            }
+        }
+    }
+}

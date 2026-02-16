@@ -1,0 +1,12 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "WebSources": {
+            "browserSources": "Browser Sources",
+            "playerSource": "${player}'s Source",
+            "enableMultiPC": "Enable Multi PC",
+            "mustBeSameNetwork": "(Must be on the same network)",
+            "multiCopyUrl": "Copy Multi PC Url"
+        }
+    }
+}

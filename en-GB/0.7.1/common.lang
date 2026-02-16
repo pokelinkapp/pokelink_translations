@@ -1,0 +1,9 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Common": {
+            "import": "Import",
+            "power": "Power"
+        }
+    }
+}

@@ -56,7 +56,7 @@
                     "title": "Select a file",
                     "text": "Use the file dialog to pick your old save file"
                 },
-                "ImportingSessions" : {
+                "ImportingSessions": {
                     "title": "Importing Sessions",
                     "description": "Please wait whilst we import your sessions"
                 },
