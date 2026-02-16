@@ -18,6 +18,8 @@
       "downloadingPlugin": "Lade Core Plugin",
       "validatingAssets": "Validiere Assets Plugin...",
       "downloadingAssets": "Lade Assets Plugin",
+       "validatingCommunity": "Validierung des Community-Plugins...",
+      "downloadingCommunity": "Community-Plugin wird heruntergeladen",
       "Uninstall": {
         "uninstalling": "Deinstalliere Pokélink...",
         "finished": "Pokélink wurde erfolgreich deinstalliert",
