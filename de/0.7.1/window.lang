@@ -9,7 +9,7 @@
                 }
             },
             "UrlConfirmation": {
-                "title": "Pokélink verlasen",
+                "title": "Pokélink verlassen",
                 "description": "Möchtest du diese Seite wirklich in deinem Browser öffnen?\n\n${url}",
                 "footer": "Pokélink ist nicht verantwortlich für externe Websites"
             },
