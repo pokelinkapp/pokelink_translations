@@ -134,7 +134,7 @@
         },
         "copyScript": "Skriptpfad in Zwischenablage kopiert",
         "emulatorReconnected": "Kommunikation mit dem Emulator wiederhergestellt",
-        "emulatorDisconnected": "Kommunikation mit dem Emulator wurde unterbrochen. Möglicherweise musst du dein Spiel speichern, den Emulator schließen und die Sitzung neu starten"
+        "emulatorDisconnected": "Kommunikation mit dem Emulator wurde unterbrochen. Möglicherweise musst du das Skript neu staten (wenn der Emulator eines nutzt) oder dein Spiel speichern, den Emulator schließen und die Sitzung neu starten"
       },
       "Loading": {
         "plugins": "Lade Plugins",

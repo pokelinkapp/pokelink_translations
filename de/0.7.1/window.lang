@@ -1,0 +1,26 @@
+{
+    "code": "de",
+    "translations": {
+        "Window": {
+            "PokemonEditor": {
+                "Tabs": {
+                    "stats": "Stats",
+                    "conditions": "Bedingungen"
+                }
+            },
+            "UrlConfirmation": {
+                "title": "Pokélink verlassen",
+                "description": "Möchtest du diese Seite wirklich in deinem Browser öffnen?\n\n${url}",
+                "footer": "Pokélink ist nicht verantwortlich für externe Websites"
+            },
+            "Party": {
+                "ViewSettings": {
+                    "SHADOW_BAR": "Crypto-Meter-Leiste"
+                }
+            },
+            "Loading": {
+                "overlayMessages": "Overlay-Meldungen werden geladen"
+            }
+        }
+    }
+}

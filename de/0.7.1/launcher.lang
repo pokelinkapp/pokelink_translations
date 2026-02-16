@@ -1,0 +1,29 @@
+﻿{
+    "code": "de",
+    "translations": {
+        "Launcher": {
+            "repairing": "Reparaturversuch...",
+            "Error": {
+                "FAILED_TO_LAUNCH": {
+                    "text": "Pokélink konnte nicht korrekt gestartet werden!\nMöchtest du eine automatische Reparatur versuchen?\n\nFalls andere Reparaturtools geöffnet sind,\nfolge bitte deren Anweisungen.\n\nFalls diese Meldung zum zweiten Mal angezeigt wird,\nkontaktiere uns bitte im Discord.",
+                    "btn1Text": "Reparieren",
+                    "btn2Text": "Schliessen"
+                }
+            },
+            "runningAsPrivilege": {
+                "title": "Pokélink konnte nicht gestartet werden (Erhöhte Berechtigungen)",
+                "text": "Pokélink wurde mit höheren Zugriffsrechten als Erlaubt gestartet.\in\Bitte starte Pokélink nicht als ${privilege}!",
+                "linuxAdmin": "root",
+                "windowsAdmin": "Administrator"
+            },
+            "missingDependencies": {
+                "title": "Fehlende Abhängigkeiten",
+                "text": "Pokélink hat festgestellt, dass dir die folgenden Abhängigkeiten fehlen:\n\n${dependencies}\n\nBitte überprüfe den Paketmanager deiner Distribution, um diese Abhängigkeiten zu installieren\nbevor du versuchst, Pokélink erneut zu starten."
+            },
+            "openedInTempFolder": {
+                "title": "Pokélink konnte nicht gestartet werden (Nicht extrahiert)",
+                "text": "Pokélink wurde gestartet, indem es aus einer Archivdatei geöffnet wurde.\n\nBitte erstelle einen Ordner und extrahiere Pokélink hinein, bevor du es erneut startest."
+            }
+        }
+    }
+}

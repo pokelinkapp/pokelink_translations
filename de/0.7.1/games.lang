@@ -1,0 +1,19 @@
+{
+    "code": "de",
+    "translations": {
+        "Game": {
+            "Subtitle": {
+                "america": "USA",
+                "americaV1": "${Game.Subtitle.america} V1.0",
+                "americaV1.1": "${Game.Subtitle.america} V1.1",
+                "americaV1.2": "${Game.Subtitle.america} V1.2",
+                "europeV1": "${Game.Subtitle.europe} V1.0",
+                "europeV1.1": "${Game.Subtitle.europe} V1.1"
+            },
+            "Name": {
+                "STADIUM": "Pokémon Stadium",
+                "STADIUM2": "Pokémon Stadium 2"
+            }
+        }
+    }
+}
