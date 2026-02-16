@@ -18,7 +18,11 @@
             },
             "missingDependencies": {
                 "title": "Missing Dependencies",
-                "text": "Pokélink has detected you are missing the following dependencies:\n\n${dependencies}\n\nPlease check your distro's package manager to install these dependencies\nbefore trying to launch Pokélink again"
+                "text": "Pokélink has detected you are missing the following dependencies:\n\n${dependencies}\n\nPlease check your distro's package manager to install these dependencies\nbefore trying to launch Pokélink again."
+            },
+            "openedInTempFolder": {
+                "title": "Unable to start Pokélink (Not Extracted)",
+                "text": "Pokélink has been started by opening it inside of an archive file.\n\nPlease create a folder and extract Pokélink into it before launching again."
             }
         }
     }
