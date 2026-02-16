@@ -1,0 +1,9 @@
+{
+    "code": "de",
+    "translations": {
+        "Common": {
+            "import": "Import",
+            "movePower": "Stärke"
+        }
+    }
+}

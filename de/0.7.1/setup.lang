@@ -1,0 +1,11 @@
+{
+    "code": "de",
+    "translations": {
+        "Setup": {
+            "inaccessibleRom": {
+                "title": "ROM konnte nicht gelesen werden",
+                "text": "Die bereitgestellte ROM-Datei konnte nicht gelesen werden. Bitte überprüfe, ob der Zugriff blockiert ist, und versuche es erneut.\n\nSollten weiterhin Probleme auftreten, kontaktiere uns bitte über unseren Discord-Server."
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "code": "de",
+    "translations": {
+        "Emulator": {
+            "Error": {
+                "FailedToLaunch": {
+                    "title": "Fehler beim Start des Emulators",
+                    "text": "Etwas hinderte den Emulator am Start. Bitte prüfe deine Anti-Virus-Software"
+                },
+                "Dolphin": {
+                    "notPortable": "Die von Dir bereitgestellte Version von Dolphin ist keine portable Version. ${Emulator.Error.Dolphin.portableVersion}",
+                    "missingPython": "Die von Dir bereitgestellte Version von Dolphin unterstützt keine Scripts. ${Emulator.Error.Dolphin.portableVersion}",
+                    "missingSystemPython": "Du hast nicht die richtige Version von python installiert. Bitte stelle sicher, dass du eine der folgenden Versionen installiert hast: ${pythonVersions} und starte Pokélink neu",
+                    "portableVersion": "Bitte nutze den Download-Button unten, um die richtige Version zu erhalten"
+                }
+            },
+            "Setup": {
+                "inaccessibleEmulator": {
+                    "title": "Zugriff auf Emulator nicht möglich",
+                    "text": "Der bereitgestellte Emulator ist an einem unzugänglichen Ort gespeichert. Bitte stelle sicher, dass du eine portable Version verwendest"
+                }
+            },
+            "Dolphin": {
+                "name": "Dolphin",
+                "downloadInstructions": "Klicke auf die untere Schaltfläche, um deinen Browser zu öffnen und beginne, die Dolphin ${archiveExt}-Datei herunterzuladen. Einmal heruntergeladen. Schließe diesen Dialog und ziehe die heruntergeladene Datei auf Pokélink",
+                "download": "${Common.download} Dolphin v${version}"
+            }
+        }
+    }
+}

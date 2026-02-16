@@ -1,0 +1,23 @@
+{
+    "code": "de",
+    "translations": {
+        "Features": {
+            "Pokelink": {
+                "KnownIssues": {
+                    "GC": {
+                        "saving": "Beim Speichern wird der vorherige Spielstand so lange angezeigt, bis Sie entweder den Speicherbildschirm verlassen oder das Speichern bestätigen."
+                    },
+                    "Stadium": {
+                        "japan": "Beim Spielstart könnte ein Pokémon in Slot 1 erscheinen"
+                    },
+                    "Stadium2": {
+                        "battleUpdates": "Es treten Updates in jeder Runde während eines Kampfes auf"
+                    },
+                    "StadiumGS": {
+                        "japan": "Spitznamen werden nicht angezeigt"
+                    }
+                }
+            }
+        }
+    }
+}
