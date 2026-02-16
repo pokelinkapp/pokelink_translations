@@ -5,7 +5,7 @@
             "Pokemon": {
                 "Attribute": {
                     "Status": {
-                        "title": "Statuszustand"
+                        "title": "Zustand"
                     }
                 }
             }
