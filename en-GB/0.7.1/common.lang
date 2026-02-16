@@ -3,7 +3,7 @@
     "translations": {
         "Common": {
             "import": "Import",
-            "power": "Power"
+            "movePower": "Power"
         }
     }
 }
