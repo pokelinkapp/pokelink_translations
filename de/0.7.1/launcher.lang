@@ -10,7 +10,7 @@
                     "btn2Text": "Schliessen"
                 }
             },
-            "runningAsPrivileged": {
+            "runningAsPrivilege": {
                 "title": "Pokélink konnte nicht gestartet werden (Erhöhte Berechtigungen)",
                 "text": "Pokélink wurde mit höheren Zugriffsrechten als Erlaubt gestartet.\in\Bitte starte Pokélink nicht als ${privilege}!",
                 "linuxAdmin": "root",
