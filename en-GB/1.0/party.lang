@@ -1,0 +1,10 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Party": {
+            "Slot": {
+                "addPokemon": "Add Pokémon"
+            }
+        }
+    }
+}
