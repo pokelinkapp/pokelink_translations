@@ -1,0 +1,15 @@
+﻿{
+    "code": "en-GB",
+    "translations": {
+        "NuzlockeTools": {
+            "Sections": {
+                "TrainerTracking": {
+                    "title": "Trainer Tracker",
+                    "bossesOnly": "Bosses Only",
+                    "gymLeadersOnly": "Gym Leaders Only",
+                    "hideDefeated": "Hide Defeated"
+                }
+            }
+        }
+    }
+}

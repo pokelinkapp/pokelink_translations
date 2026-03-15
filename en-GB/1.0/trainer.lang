@@ -1,0 +1,63 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Notes": {
+            "Gen1": {
+                "SSAnne": {
+                    "rivalFight": "Once you have rubbed the Captain's back this fight will be marked as defeated"
+                },
+                "GameCorner": {
+                    "rocketGrunt": "Once you have opened the entrance to Team Rocket's Hideout this fight will be marked as defeated"
+                }
+            },
+            "repeatable": "Repeatable fight"
+        },
+        "pokemon": {
+            "trainer": {
+                "class": {
+                    "bugCatcher": "Bug Catcher",
+                    "jrTrainerM": "Jr. Trainer ♂",
+                    "lass": "Lass",
+                    "youngster": "Youngster",
+                    "hiker": "Hiker",
+                    "superNerd": "Super Nerd",
+                    "rocketGrunt": "Team Rocket Grunt",
+                    "jrTrainerF": "Jr. Trainer ♀",
+                    "swimmer": "Swimmer",
+                    "gentleman": "Gentleman",
+                    "sailor": "Sailor",
+                    "fisherman": "Fisherman",
+                    "rocker": "Rocker",
+                    "gambler": "Gambler",
+                    "engineer": "Engineer",
+                    "pokeManiac": "Poké Maniac",
+                    "beauty": "Beauty",
+                    "coolTrainer": "Cool Trainer",
+                    "channeler": "Channeler",
+                    "scientist": "Scientist",
+                    "juggler": "Juggler",
+                    "blackBelt": "Black Belt",
+                    "psychic": "Psychic",
+                    "biker": "Biker",
+                    "cueBall": "Cue Ball",
+                    "birdKeeper": "Bird Keeper",
+                    "tamer": "Tamer",
+                    "burglar": "Burglar"
+                },
+                "rival": "Rival",
+                "brock": "Brock",
+                "misty": "Misty",
+                "ltSurge": "Lt. Surge",
+                "erika": "Erika",
+                "giovanni": "Giovanni",
+                "sabrina": "Sabrina",
+                "koga": "Koga",
+                "blaine": "Blaine",
+                "lorelei": "Lorelei",
+                "bruno": "Bruno",
+                "agatha": "Agatha",
+                "lance": "Lance"
+            }
+        }
+    }
+}
