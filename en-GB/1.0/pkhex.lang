@@ -1,0 +1,23 @@
+{
+    "code": "en-GB",
+    "pokemon": {
+        "location": {
+            "gen1": {
+                "pewter_city_gym": "${pokemon.location.gen1.pewter_city} Gym",
+                "cerulean_city_gym": "${pokemon.location.gen1.cerulean_city} Gym",
+                "vermillion_city_gym": "${pokemon.location.gen1.vermillion_city} Gym",
+                "celadon_city_gym": "${pokemon.location.gen1.celadon_city} Gym",
+                "fushia_city_gym": "${pokemon.location.gen1.fushia_city} Gym",
+                "saffron_city_gym": "${pokemon.location.gen1.saffron_city} Gym",
+                "cinnabar_city_gym": "${pokemon.location.gen1.cinnabar_city} Gym",
+                "viridian_city_gym": "${pokemon.location.gen1.viridian_city} Gym"
+            },
+            "gen2": {
+                "sprout_tower_1f": "${pokemon.location.gen2.sprout_tower} 1F",
+                "sprout_tower_2f": "${pokemon.location.gen2.sprout_tower} 2F",
+                "sprout_tower_3f": "${pokemon.location.gen2.sprout_tower} 3F",
+                "violet_city_gym": "${pokemon.location.gen2.violet_city} Gym"
+            }
+        }
+    }
+}

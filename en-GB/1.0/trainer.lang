@@ -10,6 +10,9 @@
                     "rocketGrunt": "Once you have opened the entrance to Team Rocket's Hideout this fight will be marked as defeated"
                 }
             },
+            "Gen2": {
+                "register": "PokéGear rematch"
+            },
             "repeatable": "Repeatable fight"
         },
         "pokemon": {
@@ -42,7 +45,24 @@
                     "cueBall": "Cue Ball",
                     "birdKeeper": "Bird Keeper",
                     "tamer": "Tamer",
-                    "burglar": "Burglar"
+                    "burglar": "Burglar",
+                    "sage": "Sage",
+                    "leader": "Leader"
+                },
+                "gs": {
+                    "joey": "Joey",
+                    "mikey": "Mikey",
+                    "don": "Don",
+                    "wade": "Wade",
+                    "nico": "Nico",
+                    "chow": "Chow",
+                    "edmond": "Edmond",
+                    "jin": "Jin",
+                    "neal": "Neal",
+                    "troy": "Troy",
+                    "li": "Li",
+                    "abe": "Abe",
+                    "rod": "Rod"
                 },
                 "rival": "Rival",
                 "brock": "Brock",
@@ -57,7 +77,8 @@
                 "bruno": "Bruno",
                 "agatha": "Agatha",
                 "lance": "Lance",
-                "jessieJames": "Jessie & James"
+                "jessieJames": "Jessie & James",
+                "falkner": "Falkner"
             }
         }
     }
