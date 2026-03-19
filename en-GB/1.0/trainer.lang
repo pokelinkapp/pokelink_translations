@@ -11,7 +11,8 @@
                 }
             },
             "Gen2": {
-                "register": "PokéGear rematch"
+                "register": "PokéGear rematch",
+                "nightTimeFight": "Only fights at night"
             },
             "repeatable": "Repeatable fight"
         },
@@ -47,7 +48,14 @@
                     "tamer": "Tamer",
                     "burglar": "Burglar",
                     "sage": "Sage",
-                    "leader": "Leader"
+                    "leader": "Leader",
+                    "picnicker": "Picnicker",
+                    "camper": "Camper",
+                    "fisher": "Fisher",
+                    "fireBreather": "Fire Breather",
+                    "twins": "Twins",
+                    "pokefan": "Pokéfan",
+                    "officer": "Officer"
                 },
                 "gs": {
                     "joey": "Joey",
@@ -62,7 +70,39 @@
                     "troy": "Troy",
                     "li": "Li",
                     "abe": "Abe",
-                    "rod": "Rod"
+                    "rod": "Rod",
+                    "albert": "Albert",
+                    "liz": "Liz",
+                    "roland": "Roland",
+                    "henry": "Henry",
+                    "justin": "Justin",
+                    "ralph": "Ralph",
+                    "gordon": "Gordon",
+                    "peter": "Peter",
+                    "daniel": "Daniel",
+                    "russell": "Russell",
+                    "bill": "Bill",
+                    "larry": "Larry",
+                    "ray": "Ray",
+                    "anthony": "Anthony",
+                    "amyMay": "Amy & May",
+                    "al": "Al",
+                    "benny": "Benny",
+                    "josh": "Josh",
+                    "samuel": "Samuel",
+                    "brandon": "Brandon",
+                    "gina": "Gina",
+                    "ian": "Ian",
+                    "keith": "Keith",
+                    "todd": "Todd",
+                    "donald": "Donald",
+                    "teru": "Teru",
+                    "isaac": "Isaac",
+                    "eric": "Eric",
+                    "victoria": "Victoria",
+                    "samantha": "Samantha",
+                    "carrie": "Carrie",
+                    "bridget": "Bridget"
                 },
                 "rival": "Rival",
                 "brock": "Brock",
@@ -78,7 +118,9 @@
                 "agatha": "Agatha",
                 "lance": "Lance",
                 "jessieJames": "Jessie & James",
-                "falkner": "Falkner"
+                "falkner": "Falkner",
+                "bugsy": "Bugsy",
+                "whitney": "Whitney"
             }
         }
     }

@@ -16,7 +16,13 @@
                 "sprout_tower_1f": "${pokemon.location.gen2.sprout_tower} 1F",
                 "sprout_tower_2f": "${pokemon.location.gen2.sprout_tower} 2F",
                 "sprout_tower_3f": "${pokemon.location.gen2.sprout_tower} 3F",
-                "violet_city_gym": "${pokemon.location.gen2.violet_city} Gym"
+                "violet_city_gym": "${pokemon.location.gen2.violet_city} Gym",
+                "union_cave_1f": "${pokemon.location.gen2.union_cave} 1F",
+                "union_cave_b1f": "${pokemon.location.gen2.union_cave} B1F",
+                "union_cave_b2f": "${pokemon.location.gen2.union_cave} B2F",
+                "azalea_town_gym": "${pokemon.location.gen2.azalea_town} Gym",
+                "goldenrod_tunnel": "Goldenrod Tunnel",
+                "goldenrod_city_gym": "${pokemon.location.gen2.goldenrod_city} Gym"
             }
         }
     }
