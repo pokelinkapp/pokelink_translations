@@ -22,7 +22,16 @@
                 "union_cave_b2f": "${pokemon.location.gen2.union_cave} B2F",
                 "azalea_town_gym": "${pokemon.location.gen2.azalea_town} Gym",
                 "goldenrod_tunnel": "Goldenrod Tunnel",
-                "goldenrod_city_gym": "${pokemon.location.gen2.goldenrod_city} Gym"
+                "goldenrod_city_gym": "${pokemon.location.gen2.goldenrod_city} Gym",
+                "ecruteak_dance_theater": "Ecruteak Dance Theater",
+                "ecruteak_city_gym": "${pokemon.location.gen2.ecruteak_city} Gym",
+                "olivine_lighthouse_2f": "Olivine Lighthouse 2F",
+                "olivine_lighthouse_3f": "Olivine Lighthouse 3F",
+                "olivine_lighthouse_4f": "Olivine Lighthouse 4F",
+                "olivine_lighthouse_5f": "Olivine Lighthouse 5F",
+                "cianwood_city_gym": "${pokemon.location.gen2.cianwood_city} Gym",
+                "olivine_city_gym": "${pokemon.location.gen2.olivine_city} Gym"
+                
             }
         }
     }
