@@ -12,7 +12,8 @@
             },
             "Gen2": {
                 "register": "PokéGear rematch",
-                "nightTimeFight": "Only fights at night"
+                "nightTimeFight": "Only fights at night",
+                "rocketHQ": "Will keep challenging when stepping in front of a statue until the security switch is pressed"
             },
             "repeatable": "Repeatable fight"
         },
@@ -62,9 +63,12 @@
                     "coolTrainerM": "Cool Trainer ♂",
                     "coolTrainerF": "Cool Trainer ♀",
                     "swimmerM": "Swimmer ♂",
-                    "swimmerF": "Swimmer ♀"
+                    "swimmerF": "Swimmer ♀",
+                    "rocketExecutive": "Team Rocket Executive",
+                    "skier": "Skier",
+                    "boarder": "Boarder"
                 },
-                "gs": {
+                "gsc": {
                     "joey": "Joey",
                     "mikey": "Mikey",
                     "don": "Don",
@@ -187,7 +191,28 @@
                     "yoshi": "Yoshi",
                     "lao": "Lao",
                     "nob": "Nob",
-                    "lung": "Lung"
+                    "lung": "Lung",
+                    "chris": "Chris",
+                    "shane": "Shane",
+                    "benjamin": "Benjamin",
+                    "spencer": "Spencer",
+                    "tiffany": "Tiffany",
+                    "marvin": "Marvin",
+                    "ron": "Ron",
+                    "brent": "Brent",
+                    "ben": "Ben",
+                    "jed": "Jed",
+                    "ross": "Ross",
+                    "mitch": "Mitch",
+                    "aaron": "Aaron",
+                    "raymond": "Raymond",
+                    "andre": "Andre",
+                    "lois": "Lois",
+                    "roxanne": "Roxanne",
+                    "ronald": "Ronald",
+                    "clarissa": "Clarissa",
+                    "brad": "Brad",
+                    "douglas": "Douglas"
                 },
                 "rival": "Rival",
                 "brock": "Brock",
@@ -208,7 +233,8 @@
                 "whitney": "Whitney",
                 "morty": "Morty",
                 "chuck": "Chuck",
-                "jasmine": "Jasmine"
+                "jasmine": "Jasmine",
+                "pryce": "Pryce"
             }
         }
     }

@@ -30,8 +30,11 @@
                 "olivine_lighthouse_4f": "Olivine Lighthouse 4F",
                 "olivine_lighthouse_5f": "Olivine Lighthouse 5F",
                 "cianwood_city_gym": "${pokemon.location.gen2.cianwood_city} Gym",
-                "olivine_city_gym": "${pokemon.location.gen2.olivine_city} Gym"
-                
+                "olivine_city_gym": "${pokemon.location.gen2.olivine_city} Gym",
+                "team_rocket_hq_b1f": "Team Rocket HQ B1F",
+                "team_rocket_hq_b2f": "Team Rocket HQ B2F",
+                "team_rocket_hq_b3f": "Team Rocket HQ B3F",
+                "mahogany_town_gym": "${pokemon.location.gen2.mahogany_town} Gym"
             }
         }
     }
