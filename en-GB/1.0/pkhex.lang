@@ -21,7 +21,7 @@
                 "union_cave_b1f": "${pokemon.location.gen2.union_cave} B1F",
                 "union_cave_b2f": "${pokemon.location.gen2.union_cave} B2F",
                 "azalea_town_gym": "${pokemon.location.gen2.azalea_town} Gym",
-                "goldenrod_tunnel": "Goldenrod Tunnel",
+                "goldenrod_underground": "Goldenrod Underground",
                 "goldenrod_city_gym": "${pokemon.location.gen2.goldenrod_city} Gym",
                 "ecruteak_dance_theater": "Ecruteak Dance Theater",
                 "ecruteak_city_gym": "${pokemon.location.gen2.ecruteak_city} Gym",
@@ -34,7 +34,15 @@
                 "team_rocket_hq_b1f": "Team Rocket HQ B1F",
                 "team_rocket_hq_b2f": "Team Rocket HQ B2F",
                 "team_rocket_hq_b3f": "Team Rocket HQ B3F",
-                "mahogany_town_gym": "${pokemon.location.gen2.mahogany_town} Gym"
+                "mahogany_town_gym": "${pokemon.location.gen2.mahogany_town} Gym",
+                "goldenrod_radio_tower_1f": "Goldenrod Radio Tower 1F",
+                "goldenrod_radio_tower_2f": "Goldenrod Radio Tower 2F",
+                "goldenrod_radio_tower_3f": "Goldenrod Radio Tower 3F",
+                "goldenrod_radio_tower_4f": "Goldenrod Radio Tower 4F",
+                "goldenrod_radio_tower_5f": "Goldenrod Radio Tower 5F",
+                "goldenrod_underground_b2f": "Goldenrod Underground B2F",
+                "goldenrod_underground_warehouse": "Goldenrod Underground Warehouse",
+                "blackthorn_city_gym": "${pokemon.location.gen2.blackthorn_city} Gym"
             }
         }
     }

@@ -66,7 +66,9 @@
                     "swimmerF": "Swimmer ♀",
                     "rocketExecutive": "Team Rocket Executive",
                     "skier": "Skier",
-                    "boarder": "Boarder"
+                    "boarder": "Boarder",
+                    "eliteFour": "Elite Four",
+                    "champion": "Champion"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -212,7 +214,35 @@
                     "ronald": "Ronald",
                     "clarissa": "Clarissa",
                     "brad": "Brad",
-                    "douglas": "Douglas"
+                    "douglas": "Douglas",
+                    "marc": "Marc",
+                    "rich": "Rich",
+                    "eddie": "Eddie",
+                    "duncan": "Duncan",
+                    "phil": "Phil",
+                    "edgar": "Edgar",
+                    "cybil": "Cybil",
+                    "allen": "Allen",
+                    "zach": "Zach",
+                    "wilton": "Wilton",
+                    "vance": "Vance",
+                    "paul": "Paul",
+                    "fran": "Fran",
+                    "cody": "Cody",
+                    "mike": "Mike",
+                    "lola": "Lola",
+                    "megan": "Megan",
+                    "blake": "Blake",
+                    "jose": "Jose",
+                    "brian": "Brian",
+                    "gilbert": "Gilbert",
+                    "reena": "Reena",
+                    "scott": "Scott",
+                    "richard": "Richard",
+                    "joyce": "Joyce",
+                    "gaven": "Gaven",
+                    "jake": "Jake",
+                    "beth": "Beth"
                 },
                 "rival": "Rival",
                 "brock": "Brock",
@@ -234,7 +264,10 @@
                 "morty": "Morty",
                 "chuck": "Chuck",
                 "jasmine": "Jasmine",
-                "pryce": "Pryce"
+                "pryce": "Pryce",
+                "clair": "Clair",
+                "will": "Will",
+                "karen": "Karen"
             }
         }
     }
