@@ -5,7 +5,7 @@
             "gen1": {
                 "pewter_city_gym": "${pokemon.location.gen1.pewter_city} Gym",
                 "cerulean_city_gym": "${pokemon.location.gen1.cerulean_city} Gym",
-                "vermillion_city_gym": "${pokemon.location.gen1.vermillion_city} Gym",
+                "vermilion_city_gym": "${pokemon.location.gen1.vermilion_city} Gym",
                 "celadon_city_gym": "${pokemon.location.gen1.celadon_city} Gym",
                 "fushia_city_gym": "${pokemon.location.gen1.fushia_city} Gym",
                 "saffron_city_gym": "${pokemon.location.gen1.saffron_city} Gym",
@@ -42,7 +42,10 @@
                 "goldenrod_radio_tower_5f": "Goldenrod Radio Tower 5F",
                 "goldenrod_underground_b2f": "Goldenrod Underground B2F",
                 "goldenrod_underground_warehouse": "Goldenrod Underground Warehouse",
-                "blackthorn_city_gym": "${pokemon.location.gen2.blackthorn_city} Gym"
+                "blackthorn_city_gym": "${pokemon.location.gen2.blackthorn_city} Gym",
+                "ss_aqua_(first_trip)": "S.S. Aqua (First Trip)",
+                "ss_aqua_(olivine_to_vermillion)": "S.S. Aqua (${pokemon.location.gen2.olivine_city} to ${pokemon.location.gen1.vermilion_city})",
+                "ss_aqua_(vermillion_to_olivine)": "S.S. Aqua (${pokemon.location.gen1.vermilion_city} to ${pokemon.location.gen2.olivine_city})"
             }
         }
     }
