@@ -307,7 +307,17 @@
                     "joZoe": "Jo & Zoe",
                     "tanya": "Tanya",
                     "michelle": "Michelle",
-                    "julia": "Julia"
+                    "julia": "Julia",
+                    "riley": "Riley",
+                    "glenn": "Glenn",
+                    "joel": "Joel",
+                    "charles": "Charles",
+                    "bob": "Bob",
+                    "boris": "Boris",
+                    "linda": "Linda",
+                    "cindy": "Cindy",
+                    "barry": "Barry",
+                    "alice": "Alice"
                 },
                 "rival": "Rival",
                 "brock": "Brock",
@@ -332,7 +342,8 @@
                 "pryce": "Pryce",
                 "clair": "Clair",
                 "will": "Will",
-                "karen": "Karen"
+                "karen": "Karen",
+                "janine": "Janine"
             }
         }
     }

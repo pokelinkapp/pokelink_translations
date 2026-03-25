@@ -7,7 +7,7 @@
                 "cerulean_city_gym": "${pokemon.location.gen1.cerulean_city} Gym",
                 "vermilion_city_gym": "${pokemon.location.gen1.vermilion_city} Gym",
                 "celadon_city_gym": "${pokemon.location.gen1.celadon_city} Gym",
-                "fushia_city_gym": "${pokemon.location.gen1.fushia_city} Gym",
+                "fuchsia_city_gym": "${pokemon.location.gen1.fuchsia_city} Gym",
                 "saffron_city_gym": "${pokemon.location.gen1.saffron_city} Gym",
                 "cinnabar_city_gym": "${pokemon.location.gen1.cinnabar_city} Gym",
                 "viridian_city_gym": "${pokemon.location.gen1.viridian_city} Gym"
