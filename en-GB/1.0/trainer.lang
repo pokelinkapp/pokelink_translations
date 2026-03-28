@@ -14,7 +14,8 @@
                 "register": "PokéGear rematch",
                 "nightTimeFight": "Only fights at night",
                 "rocketHQ": "Will keep challenging when stepping in front of a statue until the security switch is pressed",
-                "sailorLowerDeck": "Can fight after talking to the ${pokemon.trainer.class.sailor} on the lower deck"
+                "sailorLowerDeck": "Can fight after talking to the ${pokemon.trainer.class.sailor} on the lower deck",
+                "rocketThief": "Will mark as defeated once you have collected the stolen ${pokemon.item.machine_part}"
             },
             "repeatable": "Repeatable fight"
         },
@@ -72,7 +73,8 @@
                     "champion": "Champion",
                     "guitarist": "Guitarist",
                     "teacher": "Teacher",
-                    "pkmnTrainer": "PKMN Trainer"
+                    "pkmnTrainer": "PKMN Trainer",
+                    "mysticalMan": "Mystical Man"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -363,7 +365,20 @@
                     "harold": "Harold",
                     "tucker": "Tucker",
                     "dawn": "Dawn",
-                    "jerome": "Jerome"
+                    "jerome": "Jerome",
+                    "wayne": "Wayne",
+                    "olivia": "Olivia",
+                    "jaime": "Jaime",
+                    "miller": "Miller",
+                    "markus": "Markus",
+                    "gaku": "Gaku",
+                    "masa": "Masa",
+                    "koji": "Koji",
+                    "darin": "Darin",
+                    "cara": "Cara",
+                    "leaPea": "Lea & Pea",
+                    "rex": "Rex",
+                    "allan": "Allan"
                 },
                 "rival": "Rival",
                 "brock": "Brock",
@@ -391,7 +406,8 @@
                 "karen": "Karen",
                 "janine": "Janine",
                 "blue": "Blue",
-                "red": "Red"
+                "red": "Red",
+                "eusine": "Eusine"
             }
         }
     }

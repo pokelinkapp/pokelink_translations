@@ -46,7 +46,8 @@
                 "ss_aqua_(first_trip)": "S.S. Aqua (First Trip)",
                 "ss_aqua_(olivine_to_vermillion)": "S.S. Aqua (${pokemon.location.gen2.olivine_city} to ${pokemon.location.gen1.vermilion_city})",
                 "ss_aqua_(vermillion_to_olivine)": "S.S. Aqua (${pokemon.location.gen1.vermilion_city} to ${pokemon.location.gen2.olivine_city})",
-                "cinnabar_island_gym": "${pokemon.location.gen2.cinnabar_island} Gym"
+                "cinnabar_island_gym": "${pokemon.location.gen2.cinnabar_island} Gym",
+                "barrier_station": "Barrier Station"
             }
         }
     }
