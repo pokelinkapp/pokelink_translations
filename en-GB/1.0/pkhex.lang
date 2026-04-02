@@ -10,7 +10,7 @@
                     "celadon_city_gym": "${pokemon.location.gen1.celadon_city} Gym",
                     "fuchsia_city_gym": "${pokemon.location.gen1.fuchsia_city} Gym",
                     "saffron_city_gym": "${pokemon.location.gen1.saffron_city} Gym",
-                    "cinnabar_city_gym": "${pokemon.location.gen1.cinnabar_city} Gym",
+                    "cinnabar_island_gym": "${pokemon.location.gen1.cinnabar_island} Gym",
                     "viridian_city_gym": "${pokemon.location.gen1.viridian_city} Gym"
                 },
                 "gen2": {
@@ -49,9 +49,6 @@
                     "ss_aqua_(vermillion_to_olivine)": "S.S. Aqua (${pokemon.location.gen1.vermilion_city} to ${pokemon.location.gen2.olivine_city})",
                     "cinnabar_island_gym": "${pokemon.location.gen2.cinnabar_island} Gym",
                     "barrier_station": "Barrier Station"
-                },
-                "gen3": {
-                    
                 }
             }
         }
