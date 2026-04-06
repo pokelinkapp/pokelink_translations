@@ -18,7 +18,10 @@
                 "rocketThief": "Will mark as defeated once you have collected the stolen ${pokemon.item.machine_part}"
             },
             "Gen3": {
-                "vsSeeker": "Vs. Seeker rematch"
+                "vsSeeker": "Vs. Seeker rematch",
+                "pokeNavRS": "PokéNav Trainer Eyes rematch",
+                "pokeNavE": "PokéNav Match Call rematch",
+                "avoidableDouble": "Can be avoided if you only have 1 Pokémon in your party"
             },
             "repeatable": "Repeatable fight"
         },
@@ -92,7 +95,13 @@
                     "ruinManiac": "Ruin Maniac",
                     "rocketAdmin": "Rocket Admin",
                     "painter": "Painter",
-                    "lady": "Lady"
+                    "lady": "Lady",
+                    "richBoy": "Rich Boy",
+                    "magmaGrunt": "Team Magma Grunt",
+                    "aquaGrunt": "Team Aqua Grunt",
+                    "schoolKid": "School Kid",
+                    "battleGirl": "Battle Girl",
+                    "collector": "Collector"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -801,7 +810,55 @@
                 "janine": "Janine",
                 "blue": "Blue",
                 "red": "Red",
-                "eusine": "Eusine"
+                "eusine": "Eusine",
+                "rse": {
+                    "brendan": "Brendan",
+                    "may": "May",
+                    "brendan_may": "${pokemon.trainer.rse.brendan} / ${pokemon.trainer.rse.may}",
+                    "calvin": "Calvin",
+                    "rick": "Rick",
+                    "allen": "Allen",
+                    "tiana": "Tiana",
+                    "billy": "Billy",
+                    "winston": "Winston",
+                    "lyle": "Lyle",
+                    "james": "James",
+                    "cindy": "Cindy",
+                    "haley": "Haley",
+                    "ginaMia": "Gina & Mia",
+                    "ivan": "Ivan",
+                    "josh": "Josh",
+                    "tommy": "Tommy",
+                    "joey": "Joey",
+                    "jose": "Jose",
+                    "janice": "Janice",
+                    "clark": "Clark",
+                    "jerry": "Jerry",
+                    "karen": "Karen",
+                    "laura": "Laura",
+                    "hideki": "Hideki",
+                    "tessa": "Tessa",
+                    "ned": "Ned",
+                    "elliot": "Elliot",
+                    "huey": "Huey",
+                    "edmond": "Edmond",
+                    "ricky": "Ricky",
+                    "lola": "Lola",
+                    "simon": "Simon",
+                    "johanna": "Johanna",
+                    "dwayne": "Dwayne",
+                    "isabel": "Isabel",
+                    "timmy": "Timmy",
+                    "edwin": "Edwin",
+                    "edward": "Edward",
+                    "dale": "Dale",
+                    "daisy": "Daisy",
+                    "amyLiv": "Amy & Liv",
+                    "miguel": "Miguel",
+                    "andrew": "Andrew"
+                },
+                "roxanne": "Roxanne",
+                "brawly": "Brawly"
             }
         }
     }

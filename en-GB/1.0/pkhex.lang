@@ -49,6 +49,12 @@
                     "ss_aqua_(vermillion_to_olivine)": "S.S. Aqua (${pokemon.location.gen1.vermilion_city} to ${pokemon.location.gen2.olivine_city})",
                     "cinnabar_island_gym": "${pokemon.location.gen2.cinnabar_island} Gym",
                     "barrier_station": "Barrier Station"
+                },
+                "gen3": {
+                    "rustboro_city_gym": "${pokemon.location.gen3.rustboro_city} Gym",
+                    "dewford_town_gym": "${pokemon.location.gen3.dewford_town} Gym",
+                    "oceanic_museum": "Oceanic Museum",
+                    "seashore_house": "Seashore House"
                 }
             }
         }
