@@ -54,7 +54,9 @@
                     "rustboro_city_gym": "${pokemon.location.gen3.rustboro_city} Gym",
                     "dewford_town_gym": "${pokemon.location.gen3.dewford_town} Gym",
                     "oceanic_museum": "Oceanic Museum",
-                    "seashore_house": "Seashore House"
+                    "seashore_house": "Seashore House",
+                    "mauville_city_gym": "${pokemon.location.gen3.mauville_city} Gym",
+                    "lavaridge_town_gym": "${pokemon.location.gen3.lavaridge_town} Gym"
                 }
             }
         }
