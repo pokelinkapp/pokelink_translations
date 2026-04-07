@@ -55,8 +55,11 @@
                     "dewford_town_gym": "${pokemon.location.gen3.dewford_town} Gym",
                     "oceanic_museum": "Oceanic Museum",
                     "seashore_house": "Seashore House",
+                    "cycling_road": "Cycling Road",
                     "mauville_city_gym": "${pokemon.location.gen3.mauville_city} Gym",
-                    "lavaridge_town_gym": "${pokemon.location.gen3.lavaridge_town} Gym"
+                    "lavaridge_town_gym": "${pokemon.location.gen3.lavaridge_town} Gym",
+                    "route_111_(desert)": "${pokemon.location.gen3.route_111} (Desert)",
+                    "petalburg_city_gym": "${pokemon.location.gen3.petalburg_city} Gym"
                 }
             }
         }
