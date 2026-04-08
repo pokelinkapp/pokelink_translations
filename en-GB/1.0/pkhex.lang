@@ -59,7 +59,13 @@
                     "mauville_city_gym": "${pokemon.location.gen3.mauville_city} Gym",
                     "lavaridge_town_gym": "${pokemon.location.gen3.lavaridge_town} Gym",
                     "route_111_(desert)": "${pokemon.location.gen3.route_111} (Desert)",
-                    "petalburg_city_gym": "${pokemon.location.gen3.petalburg_city} Gym"
+                    "petalburg_city_gym": "${pokemon.location.gen3.petalburg_city} Gym",
+                    "weather_institute": "Weather Institute",
+                    "fortree_city_gym": "${pokemon.location.gen3.fortree_city} Gym",
+                    "mt_pyre_summit": "${pokemon.location.gen3.mt_pyre} Summit",
+                    "mossdeep_city_gym": "${pokemon.location.gen3.mossdeep_city} Gym",
+                    "team_aqua_hideout": "Team Aqua Hideout",
+                    "team_magma_hideout": "Team Magma Hideout"
                 }
             }
         }
