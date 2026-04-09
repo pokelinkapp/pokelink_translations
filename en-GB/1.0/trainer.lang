@@ -21,7 +21,8 @@
                 "vsSeeker": "Vs. Seeker rematch",
                 "pokeNavRS": "PokéNav Trainer Eyes rematch",
                 "pokeNavE": "PokéNav Match Call rematch",
-                "avoidableDouble": "Can be avoided if you only have 1 Pokémon in your party"
+                "avoidableDouble": "Can be avoided if you only have 1 Pokémon in your party",
+                "rivalRoute104": "If you skip this fight you will encounter ${pokemon.trainer.brendan_may} in ${pokemon.location.gen3.route104}"
             },
             "repeatable": "Repeatable fight"
         },
@@ -1102,7 +1103,9 @@
                     "anette": "Anette",
                     "thomas": "Thomas",
                     "phillip": "Phillip",
-                    "leonard": "Leonard"
+                    "leonard": "Leonard",
+                    "darian": "Darian",
+                    "marc": "Marc"
                 },
                 "brendan": "Brendan",
                 "may": "May",
