@@ -65,7 +65,10 @@
                     "mt_pyre_summit": "${pokemon.location.gen3.mt_pyre} Summit",
                     "mossdeep_city_gym": "${pokemon.location.gen3.mossdeep_city} Gym",
                     "team_aqua_hideout": "Team Aqua Hideout",
-                    "team_magma_hideout": "Team Magma Hideout"
+                    "team_magma_hideout": "Team Magma Hideout",
+                    "sootopolis_city_gym": "${pokemon.location.gen3.sootopolis_city} Gym",
+                    "victory_road": "Victory Road",
+                    "ss_tidal": "S.S. Tidal"
                 }
             }
         }
