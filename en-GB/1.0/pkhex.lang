@@ -68,7 +68,8 @@
                     "team_magma_hideout": "Team Magma Hideout",
                     "sootopolis_city_gym": "${pokemon.location.gen3.sootopolis_city} Gym",
                     "victory_road": "Victory Road",
-                    "ss_tidal": "S.S. Tidal"
+                    "ss_tidal": "S.S. Tidal",
+                    "rustboro_city_route_114": "${pokemon.location.gen3.rustboro_city} / ${pokemon.location.gen3.route_104}"
                 }
             }
         }
