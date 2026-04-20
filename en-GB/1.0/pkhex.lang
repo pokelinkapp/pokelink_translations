@@ -69,7 +69,8 @@
                     "sootopolis_city_gym": "${pokemon.location.gen3.sootopolis_city} Gym",
                     "victory_road": "Victory Road",
                     "ss_tidal": "S.S. Tidal",
-                    "rustboro_city_route_114": "${pokemon.location.gen3.rustboro_city} / ${pokemon.location.gen3.route_104}"
+                    "rustboro_city_route_114": "${pokemon.location.gen3.rustboro_city} / ${pokemon.location.gen3.route_104}",
+                    "space_center": "${pokemon.location.gen3.mossdeep_city} Space Center"
                 }
             }
         }
