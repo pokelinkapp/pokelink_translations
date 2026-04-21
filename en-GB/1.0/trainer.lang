@@ -1282,7 +1282,12 @@
                 "glacia": "Glacia",
                 "drake": "Drake",
                 "steven": "Steven",
-                "juan": "Juan"
+                "juan": "Juan",
+                "hgss": {
+                    "joey": "Joey",
+                    "mikey": "Mikey",
+                    "don": "Don"
+                }
             }
         }
     }
