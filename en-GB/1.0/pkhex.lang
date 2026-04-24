@@ -73,7 +73,8 @@
                     "space_center": "${pokemon.location.gen3.mossdeep_city} Space Center"
                 },
                 "gen4": {
-                    "olivine_city_pokemon_center": "Olivine City Pokémon Center"
+                    "olivine_city_pokemon_center": "Olivine City Pokémon Center",
+                    "goldenrod_radio_tower_observation_deck": "Goldenrod Radio Tower Observation Deck"
                 }
             }
         }
