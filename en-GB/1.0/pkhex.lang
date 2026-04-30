@@ -75,7 +75,8 @@
                 "gen4": {
                     "olivine_city_pokemon_center": "Olivine City Pokémon Center",
                     "goldenrod_radio_tower_observation_deck": "Goldenrod Radio Tower Observation Deck",
-                    "victory_road": "Victory Road"
+                    "victory_road": "Victory Road",
+                    "oreburgh_city_gym": "${pokemon.location.gen4.oreburgh_city} Gym"
                 }
             }
         }

@@ -18,7 +18,6 @@
                 "rocketThief": "Will mark as defeated once you have collected the stolen ${pokemon.item.machine_part}"
             },
             "Gen3": {
-                "vsSeeker": "Vs. Seeker rematch",
                 "pokeNavRS": "PokéNav Trainer Eyes rematch",
                 "pokeNavE": "PokéNav Match Call rematch",
                 "avoidableDouble": "Can be avoided if you only have 1 Pokémon in your party"
@@ -28,7 +27,8 @@
                 "We": "Available to fight on: Wednesdays"
             },
             "repeatable": "Repeatable fight",
-            "optionalFight": "Optional Fight"
+            "optionalFight": "Optional Fight",
+            "vsSeeker": "Vs. Seeker rematch"
         },
         "pokemon": {
             "trainer": {
@@ -125,7 +125,8 @@
                     "mysteryMan": "Mystery Man",
                     "aceTrainer": "Ace Trainer",
                     "kimonoGirls": "Kimono Girls",
-                    "doubleTeam": "Double Team"
+                    "doubleTeam": "Double Team",
+                    "worker": "Worker"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -1640,7 +1641,26 @@
                 "proton": "Proton",
                 "petrel": "Petrel",
                 "ariana": "Ariana",
-                "archer": "Archer"
+                "archer": "Archer",
+                "dppt": {
+                    "tristan": "Tristan",
+                    "natalie": "Natalie",
+                    "logan": "Logan",
+                    "harrison": "Harrison",
+                    "christine": "Christine",
+                    "michael": "Michael",
+                    "dallas": "Dallas",
+                    "kaitlin": "Kaitlin",
+                    "sebastian": "Sebastian",
+                    "madeline": "Madeline",
+                    "curtis": "Curtis",
+                    "diana": "Diana",
+                    "mason": "Mason",
+                    "colin": "Colin",
+                    "jonathon": "Jonathon",
+                    "darius": "Darius"
+                },
+                "roark": "Roark"
             }
         }
     }
