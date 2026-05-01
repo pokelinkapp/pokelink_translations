@@ -24,7 +24,8 @@
             },
             "Gen4": {
                 "MoTuThFrSaSu": "Available on: Mondays, Tuesdays, Thursdays, Fridays, Saturdays and Sundays",
-                "We": "Available to fight on: Wednesdays"
+                "We": "Available to fight on: Wednesdays",
+                "eternaGymTrainers": "Will mark as defeated once you have collected the ${Badges.Sinnoh.forest}"
             },
             "repeatable": "Repeatable fight",
             "optionalFight": "Optional Fight",
