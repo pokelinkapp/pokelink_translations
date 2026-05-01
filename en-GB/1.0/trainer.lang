@@ -126,7 +126,9 @@
                     "aceTrainer": "Ace Trainer",
                     "kimonoGirls": "Kimono Girls",
                     "doubleTeam": "Double Team",
-                    "worker": "Worker"
+                    "worker": "Worker",
+                    "galacticGrunt": "Team Galactic Grunt",
+                    "galacticCommander": "Team Galactic Commander"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -1658,9 +1660,42 @@
                     "mason": "Mason",
                     "colin": "Colin",
                     "jonathon": "Jonathon",
-                    "darius": "Darius"
+                    "darius": "Darius",
+                    "sarah": "Sarah",
+                    "tyler": "Tyler",
+                    "samantha": "Samantha",
+                    "taylor": "Taylor",
+                    "brandon": "Brandon",
+                    "livLiz": "Liv & Liz",
+                    "jacob": "Jacob",
+                    "daniel": "Daniel",
+                    "elizabeth": "Elizabeth",
+                    "zackary": "Zackary",
+                    "siena": "Siena",
+                    "nicholas": "Nicholas",
+                    "kelsey": "Kelsey",
+                    "karina": "Karina",
+                    "jack": "Jack",
+                    "briana": "Briana",
+                    "lindsey": "Lindsey",
+                    "elijah": "Elijah",
+                    "phillip": "Phillip",
+                    "donald": "Donald",
+                    "kody": "Kody",
+                    "rachael": "Rachael",
+                    "joseph": "Joseph",
+                    "andrew": "Andrew",
+                    "zachary": "Zachary",
+                    "caroline": "Caroline",
+                    "jenna": "Jenna",
+                    "angela": "Angela",
+                    "lindsay": "Lindsay",
+                    "travon": "Travon"
                 },
-                "roark": "Roark"
+                "roark": "Roark",
+                "mars": "Mars",
+                "gardenia": "Gardenia",
+                "jupiter": "Jupiter"
             }
         }
     }

@@ -76,7 +76,9 @@
                     "olivine_city_pokemon_center": "Olivine City Pokémon Center",
                     "goldenrod_radio_tower_observation_deck": "Goldenrod Radio Tower Observation Deck",
                     "victory_road": "Victory Road",
-                    "oreburgh_city_gym": "${pokemon.location.gen4.oreburgh_city} Gym"
+                    "oreburgh_city_gym": "${pokemon.location.gen4.oreburgh_city} Gym",
+                    "eterna_city_gym": "${pokemon.location.gen4.eterna_city} Gym",
+                    "team_galactic_eterna_building": "Team Galactic Eterna Building"
                 }
             }
         }
