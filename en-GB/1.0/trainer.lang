@@ -25,7 +25,8 @@
             "Gen4": {
                 "MoTuThFrSaSu": "Available on: Mondays, Tuesdays, Thursdays, Fridays, Saturdays and Sundays",
                 "We": "Available to fight on: Wednesdays",
-                "eternaGymTrainers": "Will mark as defeated once you have collected the ${Badges.Sinnoh.forest}"
+                "eternaGymTrainers": "Will mark as defeated once you have collected the ${Badges.Sinnoh.forest}",
+                "morningFight": "Only fights in the morning"
             },
             "repeatable": "Repeatable fight",
             "optionalFight": "Optional Fight",
@@ -131,7 +132,14 @@
                     "galacticGrunt": "Team Galactic Grunt",
                     "galacticCommander": "Team Galactic Commander",
                     "cyclist": "Cyclist",
-                    "artist": "Artistw's th"
+                    "artist": "Artist",
+                    "jogger": "Jogger",
+                    "pokeKid": "Poké Kid",
+                    "cowgirl": "Cowgirl",
+                    "roughneck": "Roughneck",
+                    "bellePa": "Belle & Pa",
+                    "rancher": "Rancher",
+                    "waitress": "Waitress"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -1722,12 +1730,49 @@
                     "kyle": "Kyle",
                     "hannah": "Hannah",
                     "william": "William",
-                    "theodore": "Theodore"
+                    "theodore": "Theodore",
+                    "albert": "Albert",
+                    "richard": "Richard",
+                    "emmaLil": "Emma & Lil",
+                    "danielle": "Danielle",
+                    "raul": "Raul",
+                    "jennifer": "Jennifer",
+                    "shelley": "Shelley",
+                    "tySue": "Ty & Sue",
+                    "oliver": "Oliver",
+                    "kirby": "Kirby",
+                    "leonard": "Leonard",
+                    "rebekah": "Rebekah",
+                    "bethBob": "Beth & Bob",
+                    "mikeNat": "Mike & Nat",
+                    "karl": "Karl",
+                    "wyatt": "Wyatt",
+                    "marco": "Marco",
+                    "avaMatt": "Ava & Matt",
+                    "teriTia": "Teri & Tia",
+                    "kahlil": "Kahlil",
+                    "amber": "Amber",
+                    "kati": "Kati",
+                    "fernando": "Fernando",
+                    "edwin": "Edwin",
+                    "calvin": "Calvin",
+                    "craig": "Craig",
+                    "derek": "Derek",
+                    "gregory": "Gregory",
+                    "nathaniel": "Nathaniel",
+                    "scott": "Scott",
+                    "dennis": "Dennis",
+                    "maya": "Maya",
+                    "darren": "Darren",
+                    "jeffery": "Jeffery",
+                    "rafael": "Rafael",
+                    "colby": "Colby"
                 },
                 "roark": "Roark",
                 "mars": "Mars",
                 "gardenia": "Gardenia",
-                "jupiter": "Jupiter"
+                "jupiter": "Jupiter",
+                "maylene": "Maylene"
             }
         }
     }

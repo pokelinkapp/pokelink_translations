@@ -78,7 +78,10 @@
                     "victory_road": "Victory Road",
                     "oreburgh_city_gym": "${pokemon.location.gen4.oreburgh_city} Gym",
                     "eterna_city_gym": "${pokemon.location.gen4.eterna_city} Gym",
-                    "team_galactic_eterna_building": "Team Galactic Eterna Building"
+                    "team_galactic_eterna_building": "Team Galactic Eterna Building",
+                    "veilstone_city_gym": "${pokemon.location.gen4.veilstone_city} Gym",
+                    "lost_tower": "Lost Tower",
+                    "cafe_cabin": "Café Cabin"
                 }
             }
         }
