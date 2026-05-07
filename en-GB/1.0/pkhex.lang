@@ -81,7 +81,9 @@
                     "team_galactic_eterna_building": "Team Galactic Eterna Building",
                     "veilstone_city_gym": "${pokemon.location.gen4.veilstone_city} Gym",
                     "lost_tower": "Lost Tower",
-                    "cafe_cabin": "Café Cabin"
+                    "cafe_cabin": "Café Cabin",
+                    "pastoria_city_gym": "${pokemon.location.gen4.pastoria_city} Gym",
+                    "hearthome_city_gym": "${pokemon.location.gen4.hearthome_city} Gym"
                 }
             }
         }

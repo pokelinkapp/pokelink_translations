@@ -12,7 +12,6 @@
             },
             "Gen2": {
                 "register": "PokéGear rematch",
-                "nightTimeFight": "Only fights at night",
                 "rocketHQ": "Will keep challenging when stepping in front of a statue until the security switch is pressed",
                 "sailorLowerDeck": "Can fight after talking to the ${pokemon.trainer.class.sailor} on the lower deck",
                 "rocketThief": "Will mark as defeated once you have collected the stolen ${pokemon.item.machine_part}"
@@ -25,12 +24,13 @@
             "Gen4": {
                 "MoTuThFrSaSu": "Available on: Mondays, Tuesdays, Thursdays, Fridays, Saturdays and Sundays",
                 "We": "Available to fight on: Wednesdays",
-                "eternaGymTrainers": "Will mark as defeated once you have collected the ${Badges.Sinnoh.forest}",
-                "morningFight": "Only fights in the morning"
+                "eternaGymTrainers": "Will mark as defeated once you have collected the ${Badges.Sinnoh.forest}"
             },
             "repeatable": "Repeatable fight",
             "optionalFight": "Optional Fight",
-            "vsSeeker": "Vs. Seeker rematch"
+            "vsSeeker": "Vs. Seeker rematch",
+            "nightFight": "Only fights at night",
+            "morningFight": "Only fights in the morning"
         },
         "pokemon": {
             "trainer": {
@@ -139,7 +139,10 @@
                     "roughneck": "Roughneck",
                     "bellePa": "Belle & Pa",
                     "rancher": "Rancher",
-                    "waitress": "Waitress"
+                    "waitress": "Waitress",
+                    "pi": "PI",
+                    "socialite": "Socialite",
+                    "veteran": "Veteran"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -1766,13 +1769,73 @@
                     "darren": "Darren",
                     "jeffery": "Jeffery",
                     "rafael": "Rafael",
-                    "colby": "Colby"
+                    "colby": "Colby",
+                    "douglas": "Douglas",
+                    "hunter": "Hunter",
+                    "jamal": "Jamal",
+                    "bryan": "Bryam",
+                    "mitchell": "Mitchell",
+                    "devon": "Devon",
+                    "brady": "Brady",
+                    "carlos": "Carlos",
+                    "abigail": "Abigail",
+                    "cyndy": "Cyndy",
+                    "kenneth": "Kenneth",
+                    "jared": "Jared",
+                    "chelsea": "Chelsea",
+                    "jacky": "Jacky",
+                    "walter": "Walter",
+                    "damian": "Damian",
+                    "caitlyn": "Caitlyn",
+                    "erick": "Erick",
+                    "samson": "Samson",
+                    "jeffrey": "Jeffrey",
+                    "allison": "Allison",
+                    "stefano": "Stefano",
+                    "danny": "Danny",
+                    "dominique": "Dominique",
+                    "travis": "Travis",
+                    "cameron": "Cameron",
+                    "juan": "Juan",
+                    "alexa": "Alexa",
+                    "shaun": "Shaun",
+                    "sabrina": "Sabrina",
+                    "bobby": "Bobby",
+                    "alex": "Alex",
+                    "dylan": "Dylan",
+                    "reina": "Reina",
+                    "jeremy": "Jeremy",
+                    "caleb": "Caleb",
+                    "jason": "Jason",
+                    "melissa": "Melissa",
+                    "fabian": "Fabian",
+                    "brennan": "Brennan",
+                    "bruce": "Bruce",
+                    "joel": "Joel",
+                    "alyssa": "Alyssa",
+                    "zacJen": "Zac & Jen",
+                    "ernest": "Ernest",
+                    "davido": "Davido",
+                    "adam": "Adam",
+                    "nathan": "Nathan",
+                    "brianna": "Brianna",
+                    "brian": "Brian",
+                    "donny": "Donny",
+                    "molly": "Molly",
+                    "drew": "Drew",
+                    "cheyenne": "Cheyenne",
+                    "chance": "Chance",
+                    "mackenzie": "Mackenzie",
+                    "allen": "Allen",
+                    "catherine": "Catherine"
                 },
                 "roark": "Roark",
                 "mars": "Mars",
                 "gardenia": "Gardenia",
                 "jupiter": "Jupiter",
-                "maylene": "Maylene"
+                "maylene": "Maylene",
+                "crasherWake": "Crasher Wake",
+                "fantina": "Fantina"
             }
         }
     }
