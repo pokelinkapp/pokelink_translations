@@ -88,7 +88,8 @@
                     "iron_island_b1f_west": "${pokemon.location.gen4.iron_island} B1F West",
                     "iron_island_b1f_east": "${pokemon.location.gen4.iron_island} B1F East",
                     "iron_island_b2f_west": "${pokemon.location.gen4.iron_island} B2F West",
-                    "iron_island_b2f_east": "${pokemon.location.gen4.iron_island} B2F East"
+                    "iron_island_b2f_east": "${pokemon.location.gen4.iron_island} B2F East",
+                    "snowpoint_city_gym": "${pokemon.location.gen4.snowpoint_city} Gym"
                 }
             }
         }
