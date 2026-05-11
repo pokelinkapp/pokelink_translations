@@ -1827,7 +1827,29 @@
                     "chance": "Chance",
                     "mackenzie": "Mackenzie",
                     "allen": "Allen",
-                    "catherine": "Catherine"
+                    "catherine": "Catherine",
+                    "miguel": "Miguel",
+                    "luc": "Luc",
+                    "skyler": "Skyler",
+                    "tony": "Tony",
+                    "lawrence": "Lawrence",
+                    "summer": "Summer",
+                    "willy": "Willy",
+                    "braden": "Braden",
+                    "damon": "Damon",
+                    "maurice": "Maurice",
+                    "kendal": "Kendal",
+                    "brendon": "Brendon",
+                    "quentin": "Quentin",
+                    "jonah": "Jonah",
+                    "brenda": "Brenda",
+                    "ricky": "Ricky",
+                    "gary": "Gary",
+                    "cesar": "Cesar",
+                    "jackson": "Jackson",
+                    "breanna": "Breanna",
+                    "gerardo": "Gerardo",
+                    "david": "David"
                 },
                 "roark": "Roark",
                 "mars": "Mars",
@@ -1835,7 +1857,8 @@
                 "jupiter": "Jupiter",
                 "maylene": "Maylene",
                 "crasherWake": "Crasher Wake",
-                "fantina": "Fantina"
+                "fantina": "Fantina",
+                "byron": "Byron"
             }
         }
     }
