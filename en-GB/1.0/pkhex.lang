@@ -89,7 +89,18 @@
                     "iron_island_b1f_east": "${pokemon.location.gen4.iron_island} B1F East",
                     "iron_island_b2f_west": "${pokemon.location.gen4.iron_island} B2F West",
                     "iron_island_b2f_east": "${pokemon.location.gen4.iron_island} B2F East",
-                    "snowpoint_city_gym": "${pokemon.location.gen4.snowpoint_city} Gym"
+                    "snowpoint_city_gym": "${pokemon.location.gen4.snowpoint_city} Gym",
+                    "galactic_warehouse": "Galactic Warehouse",
+                    "mt_coronet_3f": "${pokemon.location.gen4.mt_coronet} 3F",
+                    "mt_coronet_4f": "${pokemon.location.gen4.mt_coronet} 4F",
+                    "mt_coronet_5f": "${pokemon.location.gen4.mt_coronet} 5F",
+                    "mt_coronet_6f": "${pokemon.location.gen4.mt_coronet} 6F",
+                    "mt_coronet_tunnel": "${pokemon.location.gen4.mt_coronet} Tunnel",
+                    "sunyshore_city_gym": "${pokemon.location.gen4.sunyshore_city} Gym",
+                    "pikachu_fan_club": "${pokemon.species.pikachu} Fan Club",
+                    "victory_road_1f": "${pokemon.location.gen4.victory_road} 1F",
+                    "victory_road_2f": "${pokemon.location.gen4.victory_road} 2F",
+                    "victory_road_b1f": "${pokemon.location.gen4.victory_road} B1F"
                 }
             }
         }
