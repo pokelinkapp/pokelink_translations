@@ -26,7 +26,8 @@
                 "We": "Available to fight on: Wednesdays",
                 "eternaGymTrainers": "Will mark as defeated once you have collected the ${Badges.Sinnoh.forest}",
                 "afterFreeingLakePokemon": "Will mark as defeated once ${pokemon.species.uxie}, ${pokemon.species.mesprit} and ${pokemon.species.azelf} have been freed",
-                "afterCyrus": "Will mark as defeated after you have defeated ${pokemon.trainer.class.galacticBoss} ${pokemon.trainer.cyrus}"
+                "afterCyrus": "Will mark as defeated after you have defeated ${pokemon.trainer.class.galacticBoss} ${pokemon.trainer.cyrus}",
+                "maidChallenge": "Depending on how well you do in the 5-Maid Knockout Exact-Turn Attack Challenge. You will fight either ${pokemon.trainer.class.richBoy} ${pokemon.trainer.dppt.liam} or ${pokemon.trainer.class.lady} ${pokemon.trainer.dppt.celeste}"
             },
             "repeatable": "Repeatable fight",
             "optionalFight": "Optional Fight",
@@ -145,7 +146,8 @@
                     "pi": "PI",
                     "socialite": "Socialite",
                     "veteran": "Veteran",
-                    "galacticBoss": "Team Galactic Boss"
+                    "galacticBoss": "Team Galactic Boss",
+                    "maid": "Maid"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -1776,7 +1778,7 @@
                     "douglas": "Douglas",
                     "hunter": "Hunter",
                     "jamal": "Jamal",
-                    "bryan": "Bryam",
+                    "bryan": "Bryan",
                     "mitchell": "Mitchell",
                     "devon": "Devon",
                     "brady": "Brady",
@@ -2024,7 +2026,17 @@
                     "carl": "Carl",
                     "larry": "Larry",
                     "jamie": "Jamie",
-                    "hayden": "Hayden"
+                    "hayden": "Hayden",
+                    "ronald": "Ronald",
+                    "josh": "Josh",
+                    "dean": "Dean",
+                    "belinda": "Belinda",
+                    "sophie": "Sophie",
+                    "emily": "Emily",
+                    "elena": "Elena",
+                    "clare": "Clare",
+                    "liam": "Liam",
+                    "celeste": "Celeste"
                 },
                 "roark": "Roark",
                 "mars": "Mars",
