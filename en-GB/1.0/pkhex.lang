@@ -100,7 +100,8 @@
                     "pikachu_fan_club": "${pokemon.species.pikachu} Fan Club",
                     "victory_road_1f": "${pokemon.location.gen4.victory_road} 1F",
                     "victory_road_2f": "${pokemon.location.gen4.victory_road} 2F",
-                    "victory_road_b1f": "${pokemon.location.gen4.victory_road} B1F"
+                    "victory_road_b1f": "${pokemon.location.gen4.victory_road} B1F",
+                    "celestic_ruins": "Celestic Ruins"
                 }
             }
         }
