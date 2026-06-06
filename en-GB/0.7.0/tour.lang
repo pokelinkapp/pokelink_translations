@@ -255,6 +255,10 @@
                         "title": "${Tour.AUTO.Steps.AUTO_PARTY_SLOT.title}",
                         "content": "${Tour.AUTO.Steps.AUTO_PARTY_SLOT.content}\n\nBy clicking on this slot it will open up the Pokémon editor."
                     },
+                    "MANUAL_PARTY_SLOT_0_7_1": {
+                        "title": "${Tour.MANUAL.Steps.MANUAL_PARTY_SLOT.title}",
+                        "content": "${Tour.MANUAL.Steps.MANUAL_PARTY_SLOT.content}\n\nBy clicking and dragging slots with Pokémon you are able to move Pokémon via swapping or placing them before or after another slot."
+                    },
                     "MANUAL_PARTY_EDITOR": {
                         "title": "Pokémon Editor",
                         "content": "Here you can edit the Pokémon in the selected slot.\n\nNot all bits of information needs to be filled out.\nThe only required item is the species."
