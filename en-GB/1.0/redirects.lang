@@ -1,0 +1,17 @@
+{
+    "code": "en-GB",
+    "comments": [
+        "This does not need translating.",
+        "It is only meant for redirecting names that have been changed over the series"
+    ],
+    "translations": {
+        "pokemon": {
+            "move": {
+                "faint_attack": "${pokemon.move.feint_attack}",
+                "vice_grip": "${pokemon.move.vise_grip}",
+                "smelling_salt": "${pokemon.move.smelling_salts}",
+                "hi_jump_kick": "${pokemon.move.high_jump_kick}"
+            }
+        }
+    }
+}
