@@ -1,6 +1,15 @@
 {
     "code": "en-GB",
     "comment": "This file is generated so the values and keys may change",
+    "pokemon": {
+        "pmd": {
+            "evolve": {
+                "iq": "Requires ${value}+ IQ Stars",
+                "link_cable_with_item": "Have ${pokemon.pmd.item.link_cable} in the Treasure Bag\nHave ${value} in the Treasure Bag",
+                "have_item_in_treasure_bag": "Have ${value} in the Treasure Bag"
+            }
+        }
+    },
     "translations": {
         "pokemon": {
             "pmd": {
