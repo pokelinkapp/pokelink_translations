@@ -4,6 +4,9 @@
         "Game": {
             "Name": {
                 "PMD_RRT": "Pokémon Mystery Dungeon Red Rescue Team"
+            },
+            "Category": {
+                "pmd": "Pokémon Mystery Dungeon"
             }
         }
     }
