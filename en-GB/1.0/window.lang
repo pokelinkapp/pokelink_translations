@@ -4,6 +4,9 @@
         "Window": {
             "PokemonEditor": {
                 "removePokemon": "Remove Pokémon"
+            },
+            "Loading": {
+                "sessionComponents": "Loading Session Components"
             }
         }
     }
