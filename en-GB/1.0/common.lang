@@ -1,0 +1,10 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Common": {
+            "Navigation": {
+                "PcBox": "Pokémon Boxes"
+            }
+        }
+    }
+}
