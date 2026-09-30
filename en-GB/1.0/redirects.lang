@@ -2,7 +2,8 @@
     "code": "en-GB",
     "comments": [
         "This does not need translating.",
-        "It is only meant for redirecting names that have been changed over the series"
+        "It is only meant for redirecting names that have been changed over the series",
+        "or for things that do not need a retranslation"
     ],
     "translations": {
         "pokemon": {
@@ -11,6 +12,21 @@
                 "vice_grip": "${pokemon.move.vise_grip}",
                 "smelling_salt": "${pokemon.move.smelling_salts}",
                 "hi_jump_kick": "${pokemon.move.high_jump_kick}"
+            }
+        },
+        "Pokelink": {
+            "Goals": {
+                "Default": {
+                    "name": "${Pokelink.Badges.Default.name}",
+                    "showCategories": {
+                        "name": "${Pokelink.Badges.Default.showCategories.name}",
+                        "description": "${Pokelink.Badges.Default.showCategories.description}"
+                    },
+                    "numbersOnly": {
+                        "name": "${Pokelink.Badges.Default.numbersOnly.name}",
+                        "description": "${Pokelink.Badges.Default.numbersOnly.description}"
+                    }
+                }
             }
         }
     }
