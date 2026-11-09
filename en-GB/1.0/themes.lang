@@ -1,0 +1,25 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Pokelink": {
+            "Goals": {
+                "JezzabelPersonal": {
+                    "gyms": "Gym Leaders",
+                    "bosses": "Story Trainers",
+                    "list": {
+                        "name": "Trainer Group",
+                        "description": "Which trainer tracker list is shown"
+                    },
+                    "enlargeNext": {
+                        "name": "Expand next trainer",
+                        "description": "Makes the next trainer you need to fight appear wider than the others"
+                    },
+                    "showLevelCap": {
+                        "name": "Show level cap",
+                        "description": "Shows the ace's level for each trainer"
+                    }
+                }
+            }
+        }
+    }
+}
