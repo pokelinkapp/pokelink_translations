@@ -29,6 +29,10 @@
                 "afterCyrus": "Will mark as defeated after you have defeated ${pokemon.trainer.class.galacticBoss} ${pokemon.trainer.cyrus}",
                 "maidChallenge": "Depending on how well you do in the 5-Maid Knockout Exact-Turn Attack Challenge. You will fight either ${pokemon.trainer.class.richBoy} ${pokemon.trainer.dppt.liam} or ${pokemon.trainer.class.lady} ${pokemon.trainer.dppt.celeste}"
             },
+            "Gen5": {
+                "bwBedroom": "Once ${pokemon.trainer.bianca} and ${pokemon.trainer.cheren} leave your room this fight will be marked as defeated",
+                "accumulaN": "Once ${pokemon.trainer.N} leaves ${pokemon.location.gen5.accumula_town} this fight will be marked as defeated"
+            },
             "repeatable": "Repeatable fight",
             "optionalFight": "Optional Fight",
             "vsSeeker": "Vs. Seeker rematch",
@@ -2059,7 +2063,15 @@
                 "bertha": "Bertha",
                 "flint": "Flint",
                 "lucian": "Lucian",
-                "cynthia": "Cynthia"
+                "cynthia": "Cynthia",
+                "bw": {
+                    "jimmy": "Jimmy",
+                    "mali": "Mali",
+                    "roland": "Roland"
+                },
+                "bianca": "Bianca",
+                "cheren": "Cheren",
+                "N": "N"
             }
         }
     }
