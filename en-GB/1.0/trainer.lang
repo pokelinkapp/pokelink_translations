@@ -31,7 +31,9 @@
             },
             "Gen5": {
                 "bwBedroom": "Once ${pokemon.trainer.bianca} and ${pokemon.trainer.cheren} leave your room this fight will be marked as defeated",
-                "accumulaN": "Once ${pokemon.trainer.N} leaves ${pokemon.location.gen5.accumula_town} this fight will be marked as defeated"
+                "accumulaN": "Once ${pokemon.trainer.N} leaves ${pokemon.location.gen5.accumula_town} this fight will be marked as defeated",
+                "dreamyardFennel": "Once Fennel collects the dream mist and returns, this fight will be marked as defeated",
+                "wellspringCave": "Once all grunts have been defeated this fight will be marked as defeated"
             },
             "repeatable": "Repeatable fight",
             "optionalFight": "Optional Fight",
@@ -153,7 +155,9 @@
                     "galacticBoss": "Team Galactic Boss",
                     "maid": "Maid",
                     "plasmaGrunt": "Team Plasma Grunt",
-                    "waiter": "Waiter"
+                    "waiter": "Waiter",
+                    "nurseryAide": "Nursery Aide",
+                    "preschooler": "Preschooler"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -2074,14 +2078,28 @@
                     "joey": "Joey",
                     "maxwell": "Maxwell",
                     "tia": "Tia",
-                    "chili_cress_cilan": "${pokemon.trainer.chili} / ${pokemon.trainer.cress} / ${pokemon.trainer.cilan}"
+                    "chili_cress_cilan": "${pokemon.trainer.chili} / ${pokemon.trainer.cress} / ${pokemon.trainer.cilan}",
+                    "kumiAmy": "Kumi & Amy",
+                    "autumn": "Autumn",
+                    "doyle": "Doyle",
+                    "wendy": "Wendy",
+                    "tully": "Tully",
+                    "adelaide": "Adelaide",
+                    "al": "Al",
+                    "marsha": "Marsha",
+                    "gina": "Gina",
+                    "edgar": "Edgar",
+                    "carter": "Carter",
+                    "satomi": "Satomi",
+                    "lydia": "Lydia"
                 },
                 "bianca": "Bianca",
                 "cheren": "Cheren",
                 "N": "N",
                 "chili": "Chili",
                 "cress": "Cress",
-                "cilan": "Cilan"
+                "cilan": "Cilan",
+                "lenora": "Lenora"
             }
         }
     }

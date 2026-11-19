@@ -105,7 +105,8 @@
                 },
                 "gen5": {
                     "trainer_school": "Trainer School",
-                    "striaton_city_gym": "${pokemon.location.gen5.striaton_city}"
+                    "striaton_city_gym": "${pokemon.location.gen5.striaton_city} Gym",
+                    "nacrene_city_gym": "${pokemon.location.gen5.nacrene_city} Gym"
                 }
             }
         }
