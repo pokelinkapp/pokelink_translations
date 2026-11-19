@@ -102,6 +102,10 @@
                     "victory_road_2f": "${pokemon.location.gen4.victory_road} 2F",
                     "victory_road_b1f": "${pokemon.location.gen4.victory_road} B1F",
                     "celestic_ruins": "Celestic Ruins"
+                },
+                "gen5": {
+                    "trainer_school": "Trainer School",
+                    "striaton_city_gym": "${pokemon.location.gen5.striaton_city}"
                 }
             }
         }

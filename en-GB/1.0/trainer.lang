@@ -151,7 +151,9 @@
                     "socialite": "Socialite",
                     "veteran": "Veteran",
                     "galacticBoss": "Team Galactic Boss",
-                    "maid": "Maid"
+                    "maid": "Maid",
+                    "plasmaGrunt": "Team Plasma Grunt",
+                    "waiter": "Waiter"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -2067,11 +2069,19 @@
                 "bw": {
                     "jimmy": "Jimmy",
                     "mali": "Mali",
-                    "roland": "Roland"
+                    "roland": "Roland",
+                    "eri": "Eri",
+                    "joey": "Joey",
+                    "maxwell": "Maxwell",
+                    "tia": "Tia",
+                    "chili_cress_cilan": "${pokemon.trainer.chili} / ${pokemon.trainer.cress} / ${pokemon.trainer.cilan}"
                 },
                 "bianca": "Bianca",
                 "cheren": "Cheren",
-                "N": "N"
+                "N": "N",
+                "chili": "Chili",
+                "cress": "Cress",
+                "cilan": "Cilan"
             }
         }
     }
