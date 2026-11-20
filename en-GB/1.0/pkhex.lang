@@ -106,7 +106,13 @@
                 "gen5": {
                     "trainer_school": "Trainer School",
                     "striaton_city_gym": "${pokemon.location.gen5.striaton_city} Gym",
-                    "nacrene_city_gym": "${pokemon.location.gen5.nacrene_city} Gym"
+                    "nacrene_city_gym": "${pokemon.location.gen5.nacrene_city} Gym",
+                    "pinwheel_forest_(exterior)": "${pokemon.location.gen5.pinwheel_forest} (Exterior)",
+                    "pinwheel_forest_(interior)": "${pokemon.location.gen5.pinwheel_forest} (Interior)",
+                    "castelia_city_gym": "Castelia City Gym",
+                    "the_battle_company": "The Battle Company",
+                    "the_battle_company_47f": "${pokemon.location.gen5.the_battle_company} 47F",
+                    "the_battle_company_55f": "${pokemon.location.gen5.the_battle_company} 55F"
                 }
             }
         }
