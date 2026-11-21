@@ -32,13 +32,15 @@
             "Gen5": {
                 "wellspringCave": "Once all grunts have been defeated this fight will be marked as defeated",
                 "offerHeals": "Will offer to heal your Pokémon once defeated",
-                "castelia_dancers": "After defeating ${pokemon.trainer.class.dancer} ${pokemon.trainer.bw.mickey} they will appear around ${pokemon.location.gen5.castelia_city}"
+                "casteliaDancers": "After defeating ${pokemon.trainer.class.dancer} ${pokemon.trainer.bw.mickey} they will appear around ${pokemon.location.gen5.castelia_city}",
+                "route5Rival": "After defeating Preschoolers ${pokemon.trainer.bw.sarah} and ${pokemon.trainer.bw.billy} this fight will be marked as defeated"
             },
             "repeatable": "Repeatable Fight",
             "optionalFight": "Optional Fight",
             "vsSeeker": "Vs. Seeker rematch",
             "nightFight": "Only fights at night",
-            "morningFight": "Only fights in the morning"
+            "morningFight": "Only fights in the morning",
+            "rotationBattle": "Rotation Battle"
         },
         "pokemon": {
             "trainer": {
@@ -162,7 +164,11 @@
                     "janitor": "Janitor",
                     "harlequin": "Harlequin",
                     "dancer": "Dancer",
-                    "backpacker": "Backpacker"
+                    "backpacker": "Backpacker",
+                    "doctor": "Doctor",
+                    "baker": "Baker",
+                    "musician": "Musician",
+                    "motorcyclist": "Motorcyclist"
                 },
                 "gsc": {
                     "joey": "Joey",
@@ -2157,7 +2163,30 @@
                     "magnolia": "Magnolia",
                     "cody": "Cody",
                     "rolan": "Rolan",
-                    "colette": "Colette"
+                    "colette": "Colette",
+                    "sarah": "Sarah",
+                    "billy": "Billy",
+                    "lois": "Lois",
+                    "jenn": "Jenn",
+                    "paul": "Paul",
+                    "preston": "Preston",
+                    "brian": "Brian",
+                    "horton": "Horton",
+                    "michael": "Micheal",
+                    "charles": "Charles",
+                    "kenneth": "Kenneth",
+                    "albert": "Albert",
+                    "eddie": "Eddie",
+                    "victor": "Victor",
+                    "glenn": "Glenn",
+                    "filipe": "Filipe",
+                    "patton": "Patton",
+                    "ryan": "Ryan",
+                    "felix": "Felix",
+                    "sterling": "Sterling",
+                    "don": "Don",
+                    "isaac": "Isaac",
+                    "katie": "Katie"
                 },
                 "bianca": "Bianca",
                 "cheren": "Cheren",
@@ -2167,7 +2196,8 @@
                 "cilan": "Cilan",
                 "lenora": "Lenora",
                 "burgh": "Burgh",
-                "elesa": "Elesa"
+                "elesa": "Elesa",
+                "clay": "Clay"
             }
         }
     }

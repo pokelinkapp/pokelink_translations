@@ -109,10 +109,15 @@
                     "nacrene_city_gym": "${pokemon.location.gen5.nacrene_city} Gym",
                     "pinwheel_forest_(exterior)": "${pokemon.location.gen5.pinwheel_forest} (Exterior)",
                     "pinwheel_forest_(interior)": "${pokemon.location.gen5.pinwheel_forest} (Interior)",
-                    "castelia_city_gym": "Castelia City Gym",
+                    "castelia_city_gym": "${pokemon.location.gen5.castelia_city} Gym",
                     "the_battle_company": "The Battle Company",
                     "the_battle_company_47f": "${pokemon.location.gen5.the_battle_company} 47F",
-                    "the_battle_company_55f": "${pokemon.location.gen5.the_battle_company} 55F"
+                    "the_battle_company_55f": "${pokemon.location.gen5.the_battle_company} 55F",
+                    "nimbasa_city_gym": "${pokemon.location.gen5.nimbasa_city} Gym",
+                    "driftveil_city_gym": "${pokemon.location.gen5.driftveil_city} Gym",
+                    "cold_storage": "Cold Storage",
+                    "cold_storage_(outside)": "${pokemon.location.gen5.cold_storage} (Outside)",
+                    "cold_storage_(inside)": "${pokemon.location.gen5.cold_storage} (Inside)"
                 }
             }
         }
