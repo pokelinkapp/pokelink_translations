@@ -117,7 +117,14 @@
                     "driftveil_city_gym": "${pokemon.location.gen5.driftveil_city} Gym",
                     "cold_storage": "Cold Storage",
                     "cold_storage_(outside)": "${pokemon.location.gen5.cold_storage} (Outside)",
-                    "cold_storage_(inside)": "${pokemon.location.gen5.cold_storage} (Inside)"
+                    "cold_storage_(inside)": "${pokemon.location.gen5.cold_storage} (Inside)",
+                    "chargestone_cave_1f": "${pokemon.location.gen5.chargestone_cave} 1F",
+                    "chargestone_cave_b1f": "${pokemon.location.gen5.chargestone_cave} B1F",
+                    "chargestone_cave_b2f": "${pokemon.location.gen5.chargestone_cave} B2F",
+                    "celestial_tower_2f": "${pokemon.location.gen5.celestial_tower} 2F",
+                    "celestial_tower_3f": "${pokemon.location.gen5.celestial_tower} 3F",
+                    "celestial_tower_4f": "${pokemon.location.gen5.celestial_tower} 4F",
+                    "mistralton_city_gym": "${pokemon.location.gen5.mistralton_city} Gym"
                 }
             }
         }
