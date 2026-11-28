@@ -3,7 +3,8 @@
     "translations": {
         "Common": {
             "Navigation": {
-                "PcBox": "Pokémon Boxes"
+                "PcBox": "Pokémon Boxes",
+                "Goals": "Goals"
             }
         }
     }

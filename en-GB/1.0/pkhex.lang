@@ -124,7 +124,12 @@
                     "celestial_tower_2f": "${pokemon.location.gen5.celestial_tower} 2F",
                     "celestial_tower_3f": "${pokemon.location.gen5.celestial_tower} 3F",
                     "celestial_tower_4f": "${pokemon.location.gen5.celestial_tower} 4F",
-                    "mistralton_city_gym": "${pokemon.location.gen5.mistralton_city} Gym"
+                    "mistralton_city_gym": "${pokemon.location.gen5.mistralton_city} Gym",
+                    "icirrus_city_gym": "${pokemon.location.gen5.icirrus_city} Gym",
+                    "dragonsprial_tower": "Dragonspiral Tower",
+                    "dragonspiral_tower_(outside)": "${pokemon.location.gen5.dragonsprial_tower} (Outside)",
+                    "dragonspiral_tower_4f": "${pokemon.location.gen5.dragonsprial_tower} 4F",
+                    "dragonspiral_tower_6f": "${pokemon.location.gen5.dragonsprial_tower} 6F"
                 }
             }
         }
